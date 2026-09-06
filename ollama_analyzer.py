@@ -252,7 +252,7 @@ def _build_simple_prompt(job: dict) -> str:
 # ---------------------------------------------------------------------------
 
 
-async def _call_ollama(session: aiohttp.ClientSession, prompt: str, max_retries: int = 2) -> str | None:
+async def _call_ollama(session: aiohttp.ClientSession, prompt: str, max_retries: int = 2, json_format: bool = False) -> str | None:
     """Call Ollama API and return the response text, or None on failure."""
     for attempt in range(max_retries + 1):
         try:
@@ -260,12 +260,16 @@ async def _call_ollama(session: aiohttp.ClientSession, prompt: str, max_retries:
                 "model": MODEL,
                 "prompt": prompt,
                 "stream": False,
+                "keep_alive": "30m",  # keep the model resident across batch scoring
                 "options": {
                     "temperature": 0.3,
-                    "num_predict": 500,
+                    "num_predict": 700,
+                    "num_ctx": 8192,  # room for full CV profile + JD description
                 },
             }
-            timeout = aiohttp.ClientTimeout(total=60)
+            if json_format:
+                payload["format"] = "json"  # enforce strictly-valid JSON (qwen2.5 native)
+            timeout = aiohttp.ClientTimeout(total=120)
             async with session.post(
                 f"{OLLAMA_URL}/api/generate",
                 json=payload,
@@ -287,11 +291,19 @@ async def _call_ollama(session: aiohttp.ClientSession, prompt: str, max_retries:
 
 
 async def _check_ollama_available(session: aiohttp.ClientSession) -> bool:
-    """Quick health check — does Ollama respond at all?"""
+    """Health check — is Ollama up AND the configured model actually pulled?"""
     try:
         timeout = aiohttp.ClientTimeout(total=5)
         async with session.get(f"{OLLAMA_URL}/api/tags", timeout=timeout) as resp:
-            return resp.status == 200
+            if resp.status != 200:
+                return False
+            tags = await resp.json(content_type=None)
+            names = [m.get("name", "") for m in tags.get("models", [])]
+            if names:
+                print(f"  Ollama models available: {', '.join(names)}")
+            if MODEL not in names:
+                print(f"  WARNING: configured model '{MODEL}' is NOT pulled yet — run: ollama pull {MODEL}")
+            return True
     except Exception:
         return False
 
@@ -337,7 +349,7 @@ async def analyze_jobs_with_ollama(jobs: list[dict]) -> list[dict]:
         for i, job in enumerate(jobs):
             # Try 5-dimension scoring first
             prompt = _build_scoring_prompt(job)
-            ai_text = await _call_ollama(session, prompt)
+            ai_text = await _call_ollama(session, prompt, json_format=True)
 
             if ai_text:
                 scoring = _parse_scoring_response(ai_text)
@@ -359,8 +371,9 @@ async def analyze_jobs_with_ollama(jobs: list[dict]) -> list[dict]:
                     job["ai_career_alignment"] = scoring.get("career_alignment", {}).get("score", 0)
                     print(f"  [{i+1}/{len(jobs)}] 5D Scored: {job.get('title', '')[:50]} → {scoring.get('overall_score', 0)}/100 ({scoring.get('verdict', '')})")
                 else:
-                    # JSON parsing failed, use as simple insight
-                    job["ai_insight"] = ai_text[:300]
+                    # JSON parse failed — retry once as a plain insight prompt
+                    insight = await _call_ollama(session, _build_simple_prompt(job))
+                    job["ai_insight"] = (insight or ai_text or "")[:300]
                     print(f"  [{i+1}/{len(jobs)}] Simple insight: {job.get('title', '')[:50]}")
             else:
                 print(f"  [{i+1}/{len(jobs)}] Skipped (no response): {job.get('title', '')[:50]}")
