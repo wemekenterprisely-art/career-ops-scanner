@@ -325,6 +325,64 @@ def _parse_scoring_response(response: str) -> dict | None:
 
 
 # ---------------------------------------------------------------------------
+# Deterministic hard-rule enforcement (on top of the LLM verdict)
+# ---------------------------------------------------------------------------
+
+REJECT_TITLE_HINTS = (
+    "engineer", "developer", "programmer", "devops", "software",
+    "full-stack", "full stack", "backend", "frontend", "data scientist",
+)
+REJECT_TEXT_HINTS = (
+    "us citizenship", "u.s. citizenship", "citizenship required",
+    "visa sponsorship", "sponsorship required", "visa required",
+    "commission only", "quota", "sales target",
+)
+
+def _enforce_scoring_rules(job: dict, scoring: dict | None) -> dict | None:
+    """Cap/reject deterministically so small models cannot over-score deals.
+
+    Applies the same CRITICAL EVALUATION RULES the prompt asks for, but in
+    code: engineering roles cap at <40, citizenship/visa => loc FAIL (<50),
+    commission/quota/sales caps <50. Verdict vocabulary is normalized too.
+    """
+    if not scoring:
+        return scoring
+    text = " ".join(filter(None, [
+        str(job.get("title", "")), str(job.get("description", ""))])).lower()
+    s = int(float(scoring.get("overall_score") or 0))
+    loc = dict(scoring.get("location_logistics") or {"verdict": "PASS", "reason": ""})
+    touched = []
+
+    if any(h in text for h in REJECT_TITLE_HINTS):
+        s = min(s, 39)
+        touched.append("engineering cap (<40)")
+
+    if any(h in text for h in REJECT_TEXT_HINTS):
+        if any(h in text for h in ("citizenship", "visa", "sponsorship")):
+            loc["verdict"] = "FAIL"
+            s = min(s, 49)
+            touched.append("citizenship/visa => FAIL (<50)")
+        if any(h in text for h in ("commission", "quota", "sales target")):
+            s = min(s, 49)
+            touched.append("commission/quota cap (<50)")
+
+    if str(loc.get("verdict", "")).upper() == "FAIL":
+        s = min(s, 49)
+
+    s = max(0, min(100, s))
+    verdict = ("Poor Fit" if s < 40 else
+               "Weak Fit" if s < 50 else
+               "Moderate Fit" if s < 65 else
+               "Good Fit" if s < 80 else "Strong Fit")
+
+    scoring["overall_score"] = s
+    scoring["location_logistics"] = loc
+    scoring["verdict"] = verdict
+    if touched:
+        scoring["_rules_applied"] = touched
+    return scoring
+
+# ---------------------------------------------------------------------------
 # Main Analysis Functions
 # ---------------------------------------------------------------------------
 
@@ -354,6 +412,7 @@ async def analyze_jobs_with_ollama(jobs: list[dict]) -> list[dict]:
             if ai_text:
                 scoring = _parse_scoring_response(ai_text)
                 if scoring:
+                    scoring = _enforce_scoring_rules(job, scoring)
                     # Success — store structured scoring
                     job["ai_scoring"] = scoring
                     job["ai_insight"] = scoring.get("one_line_summary", ai_text[:200])
