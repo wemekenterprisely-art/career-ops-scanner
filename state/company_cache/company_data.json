@@ -262,5 +262,41 @@
     "red_flags": [],
     "positive_signals": [],
     "last_updated": "2026-09-06T20:57:30.578901+00:00"
+  },
+  "The Ritz-Carlton Hotel Company, L.L.C.": {
+    "name": "The Ritz-Carlton Hotel Company, L.L.C.",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-06T21:51:17.734803+00:00"
+  },
+  "Allocation Assist Middle East": {
+    "name": "Allocation Assist Middle East",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-06T21:51:17.735401+00:00"
+  },
+  "Clearlink": {
+    "name": "Clearlink",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-06T21:51:17.735934+00:00"
   }
 }
