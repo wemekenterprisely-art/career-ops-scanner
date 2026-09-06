@@ -6,9 +6,21 @@ MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5:1.5b")
 
 REJECT_TITLE_HINTS = ("engineer", "developer", "programmer", "devops", "software",
                       "full-stack", "full stack", "backend", "frontend", "data scientist")
-REJECT_TEXT_HINTS = ("us citizenship", "u.s. citizenship", "citizenship required",
-                     "visa sponsorship", "sponsorship required", "visa required",
-                     "commission only", "quota", "sales target")
+REJECT_TEXT_HINTS = ("commission only", "quota", "sales target")
+VISA_BLOCKER_HINTS = ("citizenship required", "us citizenship required", "u.s. citizenship required",
+                      "visa sponsorship required", "sponsorship required", "visa required",
+                      "must have citizenship", "must be a citizen")
+VISA_NEGATIONS = ("no visa", "without visa", "no sponsorship", "without sponsorship",
+                  "free visa", "visa assistance", "sponsorship available",
+                  "no visa sponsorship", "without visa sponsorship", "no sponsorship required",
+                  "does not require", "doesn't require", "not required")
+
+def visa_blocker(text):
+    if not any(k in text for k in ("citizenship", "visa", "sponsorship")):
+        return False
+    if any(n in text for n in VISA_NEGATIONS):
+        return False
+    return any(h in text for h in VISA_BLOCKER_HINTS) or ("visa" in text or "citizenship" in text)
 
 def enforce(job, scoring):
     if not scoring: return scoring
@@ -18,11 +30,10 @@ def enforce(job, scoring):
     touched = []
     if any(h in text for h in REJECT_TITLE_HINTS):
         s = min(s, 39); touched.append("engineering cap (<40)")
+    if visa_blocker(text):
+        loc["verdict"] = "FAIL"; s = min(s, 49); touched.append("citizenship/visa => FAIL (<50)")
     if any(h in text for h in REJECT_TEXT_HINTS):
-        if any(h in text for h in ("citizenship", "visa", "sponsorship")):
-            loc["verdict"] = "FAIL"; s = min(s, 49); touched.append("citizenship/visa => FAIL (<50)")
-        if any(h in text for h in ("commission", "quota", "sales target")):
-            s = min(s, 49); touched.append("commission/quota cap (<50)")
+        s = min(s, 49); touched.append("commission/quota cap (<50)")
     if str(loc.get("verdict", "")).upper() == "FAIL":
         s = min(s, 49)
     s = max(0, min(100, s))
@@ -78,7 +89,7 @@ GATES = [
 ]
 
 def main():
-    print("== OLLAMA STRENGTH TEST v2 (with rule gate) ==")
+    print("== OLLAMA STRENGTH TEST v3 (negation-aware rule gate) ==")
     tags, t = api("/api/tags", timeout=10)
     models = [m["name"] for m in tags.get("models", [])]
     print("Server OK in %.2fs | models: %s" % (t, ", ".join(models) or "NONE"))
@@ -86,9 +97,7 @@ def main():
         print("FATAL: model %s missing" % MODEL); sys.exit(1)
 
     ok, fail = 0, 0
-    idx = 0
-    for job in JOBS:
-        idx += 1
+    for idx, job in enumerate(JOBS, 1):
         prompt = SCORING_PROMPT.format(**job)
         payload = {"model": MODEL, "prompt": prompt, "stream": False, "format": "json",
                    "options": {"temperature": 0.3, "num_predict": 700, "num_ctx": 8192}}

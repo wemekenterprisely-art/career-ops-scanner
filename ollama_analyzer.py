@@ -333,10 +333,34 @@ REJECT_TITLE_HINTS = (
     "full-stack", "full stack", "backend", "frontend", "data scientist",
 )
 REJECT_TEXT_HINTS = (
-    "us citizenship", "u.s. citizenship", "citizenship required",
-    "visa sponsorship", "sponsorship required", "visa required",
     "commission only", "quota", "sales target",
 )
+# Postings that DEMAND citizenship/visa sponsorship (vs. neutral/negated mentions)
+VISA_BLOCKER_HINTS = (
+    "citizenship required", "us citizenship required", "u.s. citizenship required",
+    "visa sponsorship required", "sponsorship required", "visa required",
+    "must have citizenship", "must be a citizen",
+)
+VISA_NEGATIONS = (
+    "no visa", "without visa", "no sponsorship", "without sponsorship",
+    "free visa", "visa assistance", "sponsorship available",
+    "no visa sponsorship", "without visa sponsorship", "no sponsorship required",
+    "does not require", "doesn't require", "not required",
+)
+
+def _visa_blocker_present(text: str) -> bool:
+    """True if the posting demands citizenship/visa sponsorship.
+
+    Negation-aware: 'no visa sponsorship' or 'sponsorship available' must NOT
+    be treated as a blocker (small models over-trigger on the bare substring).
+    """
+    if not any(k in text for k in ("citizenship", "visa", "sponsorship")):
+        return False
+    if any(n in text for n in VISA_NEGATIONS):
+        return False
+    return any(h in text for h in VISA_BLOCKER_HINTS) or (
+        "visa" in text or "citizenship" in text
+    )
 
 def _enforce_scoring_rules(job: dict, scoring: dict | None) -> dict | None:
     """Cap/reject deterministically so small models cannot over-score deals.
@@ -357,14 +381,14 @@ def _enforce_scoring_rules(job: dict, scoring: dict | None) -> dict | None:
         s = min(s, 39)
         touched.append("engineering cap (<40)")
 
+    if _visa_blocker_present(text):
+        loc["verdict"] = "FAIL"
+        s = min(s, 49)
+        touched.append("citizenship/visa => FAIL (<50)")
+
     if any(h in text for h in REJECT_TEXT_HINTS):
-        if any(h in text for h in ("citizenship", "visa", "sponsorship")):
-            loc["verdict"] = "FAIL"
-            s = min(s, 49)
-            touched.append("citizenship/visa => FAIL (<50)")
-        if any(h in text for h in ("commission", "quota", "sales target")):
-            s = min(s, 49)
-            touched.append("commission/quota cap (<50)")
+        s = min(s, 49)
+        touched.append("commission/quota cap (<50)")
 
     if str(loc.get("verdict", "")).upper() == "FAIL":
         s = min(s, 49)
