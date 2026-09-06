@@ -1,0 +1,41 @@
+name: Ollama Test
+on:
+  workflow_dispatch:
+
+jobs:
+  ollama-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Cache Ollama model
+        uses: actions/cache@v4
+        with:
+          path: ~/.ollama
+          key: ollama-qwen2.5-1.5b
+
+      - name: Install Ollama
+        run: |
+          if ! command -v ollama >/dev/null 2>&1; then
+            curl -fsSL https://ollama.com/install.sh | sh
+          fi
+
+      - name: Start Ollama server
+        run: |
+          nohup ollama serve > /tmp/ollama.log 2>&1 &
+          for i in $(seq 1 30); do
+            if curl -s http://localhost:11434/api/tags >/dev/null 2>&1; then break; fi
+            sleep 2
+          done
+
+      - name: Pull model
+        run: ollama pull qwen2.5:1.5b
+
+      - name: Run Ollama scoring test
+        run: python ollama_test.py
