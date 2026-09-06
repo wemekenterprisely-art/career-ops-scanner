@@ -594,5 +594,44 @@
         "source": "impactpool"
       }
     ]
+  },
+  {
+    "date": "2026-09-06T21:52:42.260941+00:00",
+    "matched_count": 4,
+    "all_count": 4753,
+    "jobs": [
+      {
+        "title": "Daily Excel Sales Data Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/visual-basic/Daily-Excel-Sales-Data-Entry.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Duty Manager (Arabic Speaker)",
+        "company": "The Ritz-Carlton Hotel Company, L.L.C.",
+        "url": "https://ae.linkedin.com/jobs/view/duty-manager-arabic-speaker-at-the-ritz-carlton-hotel-company-l-l-c-4462362363",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Specialist Dermatologist (Arabic Speaker) - Abu Dhabi",
+        "company": "Allocation Assist Middle East",
+        "url": "https://ae.linkedin.com/jobs/view/specialist-dermatologist-arabic-speaker-abu-dhabi-at-allocation-assist-middle-east-4461824992",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Content Editor",
+        "company": "Clearlink",
+        "url": "https://www.linkedin.com/jobs/view/content-editor-at-clearlink-4461815328",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
