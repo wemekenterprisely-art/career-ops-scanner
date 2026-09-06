@@ -4460,6 +4460,113 @@
     "scan_date": "2026-09-06T21:52:18.164032+00:00"
   },
   {
+    "title": "ASAP DATA ENTRY WORK fast internet required",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/data-processing/ASAP-DATA-ENTRY-WORK-fast.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Sun, 06 Sep 2026 18:32:08 -0400",
+    "description": "LOOKING FOR A RELIABLE DATA ENTRY PERSON. FOR DATA ENTRY WORK. mus have fast internet over 500 reviews! (Budget: $10 - $30 USD, Jobs: Data Analysis, Data Annotation, Data Cleansing, Data Collection, Data Entry, Data Extraction, Data Management, Data Processing, Excel, Virtual Assistant)",
+    "salary": "$10",
+    "source": "freelancer",
+    "postedISO": "2026-09-06T18:32:08-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title+description)",
+      "virtual assistant administrative assistant admin assistant executive assistant (description)",
+      "data annotation data labeling data labeler data entry specialist clerk operator agent (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.13798449222222223,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, but not specific engineering or programming skills."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Supervised 15 graduate-level research studies"
+      ],
+      "gaps": [
+        "No experience in data entry or technical skills"
+      ],
+      "recommendation": "Waleed Ballag is well-suited for the ASAP DATA ENTRY WORK job due to his strong background in language instruction and academic supervision. His ability to work remotely and in a flexible environment aligns well with the job's requirements.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you describe a time when you translated legal documents for a client? 3. How do you approach data analysis using SPSS?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the ASAP DATA ENTRY WORK job due to his academic background and language skills."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the ASAP DATA ENTRY WORK job due to his academic background and language skills.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Supervised 15 graduate-level research studies"
+    ],
+    "ai_gaps": [
+      "No experience in data entry or technical skills"
+    ],
+    "ai_recommendation": "Waleed Ballag is well-suited for the ASAP DATA ENTRY WORK job due to his strong background in language instruction and academic supervision. His ability to work remotely and in a flexible environment aligns well with the job's requirements.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you describe a time when you translated legal documents for a client? 3. How do you approach data analysis using SPSS?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 30,
+    "desperation_index": 10,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 43,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_ASAP DATA ENTRY WORK fast internet required_20260907.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_ASAP DATA ENTRY WORK fast internet required_20260907.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-06T22:41:29.386779+00:00"
+  },
+  {
     "title": "Freelance Copywriter",
     "company": "Coalition Technologies",
     "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
