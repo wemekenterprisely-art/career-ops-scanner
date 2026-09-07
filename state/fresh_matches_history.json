@@ -2127,6 +2127,329 @@
     "scan_date": "2026-09-06T21:52:18.164032+00:00"
   },
   {
+    "title": "PTE Academic English Teacher",
+    "company": "PTE MAGIC",
+    "url": "https://id.linkedin.com/jobs/view/pte-academic-english-teacher-at-pte-magic-4462903395",
+    "location": "Remote \u2014 Jakarta, Indonesia",
+    "posted": "2026-09-07",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-07T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.213166771111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "PTE Academic English Teacher job requires language skills, writing, and academic work, which aligns with Waleed's experience as an ESL instructor and academic supervisor."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Waleed has direct experience in ESL teaching, academic supervision, and legal translation, which matches the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The remote and academic environment of the job aligns well with Waleed's preferences and experience."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with Waleed's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The job aligns with Waleed's career goals of securing stable remote work and contributing to graduate-level research supervision."
+      },
+      "overall_score": 87,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision experience",
+        "Legal translation experience"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed is well-suited for this role as it aligns with her career goals and skills. She can contribute to the PTE MAGIC team as a remote translator or academic supervisor.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share a specific project you supervised and its outcome? 3. How do you approach legal translation tasks?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the PTE Academic English Teacher role due to her extensive experience in ESL teaching, academic supervision, and legal translation."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the PTE Academic English Teacher role due to her extensive experience in ESL teaching, academic supervision, and legal translation.",
+    "ai_overall_score": 87,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision experience",
+      "Legal translation experience"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed is well-suited for this role as it aligns with her career goals and skills. She can contribute to the PTE MAGIC team as a remote translator or academic supervisor.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share a specific project you supervised and its outcome? 3. How do you approach legal translation tasks?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@id.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@id.linkedin.com",
+      "hr@id.linkedin.com",
+      "jobs@id.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "PTE MAGIC",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-07T05:15:54.991786+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/PTE MAGIC_PTE Academic English Teacher_20260907.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/PTE MAGIC_PTE Academic English Teacher_20260907.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-07T05:16:55.350281+00:00"
+  },
+  {
+    "title": "Hiring now! Entry-Level English Teacher (ESL) | No Experience Needed",
+    "company": "English 1",
+    "url": "https://nz.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4464077704",
+    "location": "Remote \u2014 Auckland, New Zealand",
+    "posted": "2026-09-07",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-07T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.2131671075,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Requires language skills, writing, and academic work, aligning with the job's need for ESL/EFL instruction and academic supervision."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and academic research, closely matching the job's requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, and academic environment, aligning well with the job's remote and worldwide nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide locations, compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, with potential for senior roles."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "Awarded English Language Trainer of the Year",
+        "Experience in academic supervision and research"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the job's requirements, making it a strong fit. He can contribute effectively to the ESL and academic supervision roles.",
+      "interview_prep": "1. What is your experience in academic supervision and research? 2. How do you approach translation and editing tasks? 3. Can you discuss a time when you had to manage a large-scale project?",
+      "one_line_summary": "Waleed Ballag's skills and experience make him a strong fit for the entry-level ESL position."
+    },
+    "ai_insight": "Waleed Ballag's skills and experience make him a strong fit for the entry-level ESL position.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "Awarded English Language Trainer of the Year",
+      "Experience in academic supervision and research"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the job's requirements, making it a strong fit. He can contribute effectively to the ESL and academic supervision roles.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research? 2. How do you approach translation and editing tasks? 3. Can you discuss a time when you had to manage a large-scale project?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 30,
+    "desperation_index": 10,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@nz.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@nz.linkedin.com",
+      "hr@nz.linkedin.com",
+      "jobs@nz.linkedin.com"
+    ],
+    "opportunity_score": 43,
+    "company_research": {
+      "name": "English 1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-07T05:15:54.992406+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/English 1_Hiring now! Entry-Level English Teacher (ESL) - No_20260907.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/English 1_Hiring now! Entry-Level English Teacher (ESL) - No_20260907.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-07T05:16:55.350281+00:00"
+  },
+  {
+    "title": "Consultant Pediatric Neurologist (Arabic Speaker) - Abu Dhabi",
+    "company": "Allocation Assist Middle East",
+    "url": "https://ae.linkedin.com/jobs/view/consultant-pediatric-neurologist-arabic-speaker-abu-dhabi-at-allocation-assist-middle-east-4461809800",
+    "location": "Remote \u2014 Dubai, Dubai, United Arab Emirates",
+    "posted": "2026-09-06",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic linguist",
+    "postedISO": "2026-09-06T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic speaker native fluent bilingual (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.213166359166667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 75,
+        "reason": "Requires language skills, writing, and academic work, but not engineering or unrelated technical skills."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in ESL teaching and academic supervision, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment and academic setting align well with the candidate's skills and experience."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide, with no specific country or visa requirement."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, with potential for senior roles."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's qualifications and experience align well with the Consultant Pediatric Neurologist position in Abu Dhabi. He can contribute to the translation and academic supervision aspects of the role, making him a strong fit for the job.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and bidirectional communication in your work? 3. Can you describe a time when you had to manage a large-scale research project?",
+      "one_line_summary": "Waleed Ballag's qualifications make him a strong fit for the Consultant Pediatric Neurologist position in Abu Dhabi."
+    },
+    "ai_insight": "Waleed Ballag's qualifications make him a strong fit for the Consultant Pediatric Neurologist position in Abu Dhabi.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's qualifications and experience align well with the Consultant Pediatric Neurologist position in Abu Dhabi. He can contribute to the translation and academic supervision aspects of the role, making him a strong fit for the job.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and bidirectional communication in your work? 3. Can you describe a time when you had to manage a large-scale research project?",
+    "ai_technical_skills": 75,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@ae.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ae.linkedin.com",
+      "hr@ae.linkedin.com",
+      "jobs@ae.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Allocation Assist Middle East",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-06T21:51:17.735401+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Allocation Assist Middle East_Consultant Pediatric Neurologist (Arabic Speaker) _20260907.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Allocation Assist Middle East_Consultant Pediatric Neurologist (Arabic Speaker) _20260907.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-07T05:16:55.350281+00:00"
+  },
+  {
     "title": "<![CDATA[Hindi content writing ]]>",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/article-rewriting/Hindi-content-writing.html",
@@ -4565,6 +4888,112 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-06T22:41:29.386779+00:00"
+  },
+  {
+    "title": "Multilingual Online Language Teachers Needed IV",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/language-tutoring/Multilingual-Online-Language-Teachers-40695277",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-07T01:53:13+00:00",
+    "description": "online language teachers needed, BUDGET SENSITIVE PROJECT, mainly looking for arabic, vietnamese, chinese, indonesian, but others also needed such as spanish, thai, bengali, hindi, russian, french and german, portuguese, urdu, farsi, turkish, korean, tamil, cambodian, burmese, polish, mongolian, nepali, dutch, swedish, greek, czech, will favour cheapest bids. growing start-up project, possibility for on-going work (hence multiple ads). indicate languages can teach, quals (optional, none essential, but desirable), rough available times (very approx \"evenings\" \"mornings\" \"weekends\" etc. write 'read it all' at the end.",
+    "salary": "3.0-7.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-07T01:53:13+00:00",
+    "score": 97,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.3262238277777776,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires Arabic-English translation and academic supervision, which aligns well with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and translation, which is directly relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and remote work aligns well with the job's remote and flexible nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's skills and preferences."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "The candidate's career goals align closely with the job's requirements, including translation, teaching, and academic supervision."
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Translation",
+        "Remote work"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is highly qualified for the job and would be a strong fit for the role.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and editing of academic documents? 3. Can you share an example of a successful thesis review and editing project you have worked on?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the job with a proven background in ESL teaching, academic supervision, and translation, making him a perfect candidate for the remote language teaching position."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the job with a proven background in ESL teaching, academic supervision, and translation, making him a perfect candidate for the remote language teaching position.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Translation",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is highly qualified for the job and would be a strong fit for the role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and editing of academic documents? 3. Can you share an example of a successful thesis review and editing project you have worked on?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Multilingual Online Language Teachers Needed IV_20260907.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Multilingual Online Language Teachers Needed IV_20260907.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-07T05:16:55.350281+00:00"
   },
   {
     "title": "Freelance Copywriter",
