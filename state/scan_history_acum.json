@@ -681,5 +681,44 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-09-07T05:17:18.208018+00:00",
+    "matched_count": 4,
+    "all_count": 4749,
+    "jobs": [
+      {
+        "title": "Multilingual Online Language Teachers Needed IV",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/language-tutoring/Multilingual-Online-Language-Teachers-40695277",
+        "score": 97,
+        "category": "ESL",
+        "source": "freelancer"
+      },
+      {
+        "title": "PTE Academic English Teacher",
+        "company": "PTE MAGIC",
+        "url": "https://id.linkedin.com/jobs/view/pte-academic-english-teacher-at-pte-magic-4462903395",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Hiring now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://nz.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4464077704",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Consultant Pediatric Neurologist (Arabic Speaker) - Abu Dhabi",
+        "company": "Allocation Assist Middle East",
+        "url": "https://ae.linkedin.com/jobs/view/consultant-pediatric-neurologist-arabic-speaker-abu-dhabi-at-allocation-assist-middle-east-4461809800",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
