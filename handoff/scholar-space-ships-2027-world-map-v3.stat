@@ -1,0 +1,35 @@
+7d1da42 scholar: add world university map
+ .env.example                        |     5 +
+ .github/workflows/scan.yml          |     5 +
+ .github/workflows/tests.yml         |     4 +
+ AGENTS.md                           |     9 +-
+ ARCHITECTURE.md                     |    21 +-
+ Makefile                            |    10 +-
+ NEXT_RUN_GUIDE.md                   |    14 +-
+ README.md                           |    17 +-
+ SOURCES.md                          |     9 +-
+ api_server.py                       |    47 +
+ dashboard/app.py                    |    23 +-
+ data/world_universities.json        | 82110 ++++++++++++++++++++++++++++++++++
+ data/world_universities_LICENSE.txt |    16 +
+ docs/SCHOLARSHIP_ENGINE_PLAN.md     |    43 +-
+ docs/THIRD_PARTY_DATA.md            |    14 +
+ excel_generator.py                  |    38 +-
+ fetchers/registry.py                |     2 +
+ fetchers/world_university_map.py    |    32 +
+ scanner.py                          |    35 +-
+ state/university_sources.json       | 11502 +++++
+ state/world_map_summary.json        |  1398 +
+ state_sync.py                       |     2 +
+ test_national_programs.py           |     4 +-
+ test_world_map.py                   |    48 +
+ world_map.py                        |   365 +
+ 25 files changed, 95736 insertions(+), 37 deletions(-)
+ create mode 100644 data/world_universities.json
+ create mode 100644 data/world_universities_LICENSE.txt
+ create mode 100644 docs/THIRD_PARTY_DATA.md
+ create mode 100644 fetchers/world_university_map.py
+ create mode 100644 state/university_sources.json
+ create mode 100644 state/world_map_summary.json
+ create mode 100644 test_world_map.py
+ create mode 100644 world_map.py
