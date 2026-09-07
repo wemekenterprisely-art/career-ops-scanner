@@ -322,5 +322,41 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-07T05:15:54.992406+00:00"
+  },
+  "Khidmah": {
+    "name": "Khidmah",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-07T13:19:28.708497+00:00"
+  },
+  "UNBOX Community": {
+    "name": "UNBOX Community",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-07T13:19:28.709029+00:00"
+  },
+  "WPWeb Infotech": {
+    "name": "WPWeb Infotech",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-07T13:19:28.709417+00:00"
   }
 }
