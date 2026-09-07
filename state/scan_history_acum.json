@@ -759,5 +759,68 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-07T20:23:18.326196+00:00",
+    "matched_count": 7,
+    "all_count": 4752,
+    "jobs": [
+      {
+        "title": "Transcribe 100+ Pages to Excel",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-management/Transcribe-Pages-Excel.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Executive Assistant to the SVP, Product Quality & Innovation",
+        "company": "X-Rite",
+        "url": "https://himalayas.app/companies/x-rite/jobs/executive-assistant-to-the-svp-product-quality-innovation",
+        "score": 100,
+        "category": "Admin",
+        "source": "himalayas"
+      },
+      {
+        "title": "Website Technology Content Writer Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/seo/Website-Technology-Content-Writer-Needed",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English \u2194\ufe0f Arabic Translator (On-site)",
+        "company": "ASK Solutions KSA",
+        "url": "https://sa.linkedin.com/jobs/view/english-%E2%86%94%EF%B8%8F-arabic-translator-on-site-at-ask-solutions-ksa-4462225550",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Teacher - Full remote",
+        "company": "Tusclasesparticulares",
+        "url": "https://es.linkedin.com/jobs/view/english-teacher-full-remote-at-tusclasesparticulares-4463194779",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
+        "company": "Kreyco",
+        "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4464364959",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Copy Editor",
+        "company": "WPP Production",
+        "url": "https://uy.linkedin.com/jobs/view/copy-editor-at-wpp-production-4456382474",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
