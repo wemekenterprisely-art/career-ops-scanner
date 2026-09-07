@@ -358,5 +358,63 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-07T13:19:28.709417+00:00"
+  },
+  "X-Rite": {
+    "name": "X-Rite",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-09-07T20:21:18.148561+00:00"
+  },
+  "ASK Solutions KSA": {
+    "name": "ASK Solutions KSA",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-07T20:21:18.149136+00:00"
+  },
+  "Tusclasesparticulares": {
+    "name": "Tusclasesparticulares",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-07T20:21:18.236836+00:00"
+  },
+  "Kreyco": {
+    "name": "Kreyco",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-07T20:21:18.237169+00:00"
+  },
+  "WPP Production": {
+    "name": "WPP Production",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-07T20:21:18.237833+00:00"
   }
 }
