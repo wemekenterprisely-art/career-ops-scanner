@@ -416,5 +416,53 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-07T20:21:18.237833+00:00"
+  },
+  "Digital Shift\u00ae": {
+    "name": "Digital Shift\u00ae",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-08T05:17:16.565751+00:00"
+  },
+  "Concentrix": {
+    "name": "Concentrix",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-08T05:17:16.566451+00:00"
+  },
+  "NIIT": {
+    "name": "NIIT",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-08T05:17:16.567106+00:00"
+  },
+  "Swissport": {
+    "name": "Swissport",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-08T05:17:16.567693+00:00"
   }
 }
