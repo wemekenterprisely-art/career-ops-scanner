@@ -932,5 +932,28 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-08T20:22:03.012077+00:00",
+    "matched_count": 2,
+    "all_count": 4726,
+    "jobs": [
+      {
+        "title": "English Teacher Jobs in PlanetSpark Office - Work from Home",
+        "company": "VIHU",
+        "url": "https://in.linkedin.com/jobs/view/english-teacher-jobs-in-planetspark-office-work-from-home-at-vihu-4462256062",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Senior Copy Editor",
+        "company": "Morningstar",
+        "url": "https://in.linkedin.com/jobs/view/senior-copy-editor-at-morningstar-4462834328",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
