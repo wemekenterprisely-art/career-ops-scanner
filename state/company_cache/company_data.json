@@ -500,5 +500,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-08T13:21:49.353248+00:00"
+  },
+  "VIHU": {
+    "name": "VIHU",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-08T20:21:09.087451+00:00"
+  },
+  "Morningstar": {
+    "name": "Morningstar",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-08T20:21:09.088260+00:00"
   }
 }
