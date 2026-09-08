@@ -861,5 +861,76 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-08T13:24:13.601008+00:00",
+    "matched_count": 8,
+    "all_count": 4721,
+    "jobs": [
+      {
+        "title": "Touch Typing & Copywriting Coaching",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/article-writing/Touch-Typing-Copywriting-Coaching.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "AI Email Data Entry Automation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/ai-automation/Email-Data-Entry-Automation",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "We need Arabic into English and vise versa translator",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/language-tutoring/need-Arabic-into-English-vise",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "SAT English Tutor for AKALS",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/teaching-lecturing/SAT-English-Tutor-for-AKALS",
+        "score": 97,
+        "category": "ESL",
+        "source": "freelancer"
+      },
+      {
+        "title": "Arabic Translator",
+        "company": "PakWheels.com",
+        "url": "https://pk.linkedin.com/jobs/view/arabic-translator-at-pakwheels-com-4464481500",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Arabic (Saudi Arabia) Sports Localization Specialist (Football)",
+        "company": "Welocalize",
+        "url": "https://sa.linkedin.com/jobs/view/arabic-saudi-arabia-sports-localization-specialist-football-at-welocalize-4463297833",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Hiring now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://vn.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4464496010",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "SEO Content Writer",
+        "company": "Houzeo",
+        "url": "https://in.linkedin.com/jobs/view/seo-content-writer-at-houzeo-4462295066",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
