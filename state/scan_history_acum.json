@@ -822,5 +822,44 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-08T05:18:40.495873+00:00",
+    "matched_count": 4,
+    "all_count": 4720,
+    "jobs": [
+      {
+        "title": "SEO Content Writer / Proofreader",
+        "company": "Digital Shift\u00ae",
+        "url": "https://ca.linkedin.com/jobs/view/seo-content-writer-proofreader-at-digital-shift%C2%AE-4462258672",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      },
+      {
+        "title": "Quality Analyst - Contact Center ( Bilingual - English/ Arabic )",
+        "company": "Concentrix",
+        "url": "https://ae.linkedin.com/jobs/view/quality-analyst-contact-center-bilingual-english-arabic-at-concentrix-4348068057",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Learning Experience & Implementation Lead - Bilingual (English + Arabic)",
+        "company": "NIIT",
+        "url": "https://in.linkedin.com/jobs/view/learning-experience-implementation-lead-bilingual-english-%2B-arabic-at-niit-4464372545",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "MIA Passenger Service Agent (Bilingual: English, Arabic)",
+        "company": "Swissport",
+        "url": "https://www.linkedin.com/jobs/view/mia-passenger-service-agent-bilingual-english-arabic-at-swissport-4464386443",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
