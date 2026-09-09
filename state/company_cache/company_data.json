@@ -632,5 +632,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-09T13:27:35.871101+00:00"
+  },
+  "TaskUs": {
+    "name": "TaskUs",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-09T20:19:49.249546+00:00"
   }
 }
