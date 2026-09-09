@@ -1081,5 +1081,28 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-09T20:20:41.973729+00:00",
+    "matched_count": 2,
+    "all_count": 4587,
+    "jobs": [
+      {
+        "title": "Maple Syrup Document Retyping & Formatting",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/proofreading/Maple-Syrup-Document-Retyping-Formatting.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "LX Copy Editor",
+        "company": "TaskUs",
+        "url": "https://ph.linkedin.com/jobs/view/lx-copy-editor-at-taskus-4433971999",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
