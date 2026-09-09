@@ -978,5 +978,108 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-09T13:30:55.776068+00:00",
+    "matched_count": 12,
+    "all_count": 4740,
+    "jobs": [
+      {
+        "title": "UX Copywriter for Formula 1 App -- 2",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copywriting/Copywriter-for-Formula-App",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Executive Assistant",
+        "company": "ElevenLabs",
+        "url": "https://www.remote1stjobs.com/jobs/executive-assistant-elevenlabs-mttow7mt?utm_source=jobs_json&utm_medium=rss&utm_campaign=latest_jobs_feed",
+        "score": 100,
+        "category": "Admin",
+        "source": "remote1stjobs"
+      },
+      {
+        "title": "Arabic Speaker",
+        "company": "VFS Global",
+        "url": "https://az.linkedin.com/jobs/view/arabic-speaker-at-vfs-global-4465034452",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Technical Customer Support (EMEA - Arabic Speaker)",
+        "company": "respond.io",
+        "url": "https://www.linkedin.com/jobs/view/technical-customer-support-emea-arabic-speaker-at-respond-io-4460950125",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Arabic (Saudi Arabia) Sports Localization Specialist (Football)",
+        "company": "Jobgether",
+        "url": "https://ee.linkedin.com/jobs/view/arabic-saudi-arabia-sports-localization-specialist-football-at-jobgether-4463821551",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Health Benefit Rep (Bilingual Arabic)",
+        "company": "Health Net Health Plan of Oregon, Inc.",
+        "url": "https://www.linkedin.com/jobs/view/health-benefit-rep-bilingual-arabic-at-health-net-health-plan-of-oregon-inc-4462558903",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Teacher",
+        "company": "BrainLight Learning Center (BLC)",
+        "url": "https://ph.linkedin.com/jobs/view/english-teacher-at-brainlight-learning-center-blc-4463583575",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://nz.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4464642284",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Hiring now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://nz.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4464654299",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Copy Editor",
+        "company": "Educatup (Publishing Services)",
+        "url": "https://in.linkedin.com/jobs/view/copy-editor-at-educatup-publishing-services-4463873165",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      },
+      {
+        "title": "Lead Content Editor - Bangalore candidates only",
+        "company": "Simplilearn",
+        "url": "https://in.linkedin.com/jobs/view/lead-content-editor-bangalore-candidates-only-at-simplilearn-4463830457",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      },
+      {
+        "title": "Legal Proofreader (Monday-Friday 3:00 p.m. - 12:00 a.m.)",
+        "company": "RRD",
+        "url": "https://www.linkedin.com/jobs/view/legal-proofreader-monday-friday-3-00-p-m-12-00-a-m-at-rrd-4464618741",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
