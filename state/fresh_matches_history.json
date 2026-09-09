@@ -4416,6 +4416,114 @@
     "scan_date": "2026-09-08T20:21:39.361255+00:00"
   },
   {
+    "title": "Entry-Level English Teacher",
+    "company": "English 1",
+    "url": "https://ca.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4464464321",
+    "location": "Remote \u2014 Whitehorse, Yukon Territory, Canada",
+    "posted": "2026-09-08",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-08T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.21212784222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Matches the job description for ESL teaching, academic supervision, and legal translation."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment aligns well with the candidate's skills and goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills and goals."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligns with the candidate's goals."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the entry-level English teaching role at English 1. He will excel in a remote, academic environment and is poised to grow in his career.",
+      "interview_prep": "1. What is your experience with academic supervision and research guidance? 2. Can you describe a time when you translated legal documents into English? 3. How do you approach the development of academic writing and research proposals?",
+      "one_line_summary": "Waleed Ballag's strong skills in ESL teaching, academic supervision, and legal translation make him a strong fit for the entry-level English teaching role at English 1."
+    },
+    "ai_insight": "Waleed Ballag's strong skills in ESL teaching, academic supervision, and legal translation make him a strong fit for the entry-level English teaching role at English 1.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the entry-level English teaching role at English 1. He will excel in a remote, academic environment and is poised to grow in his career.",
+    "ai_interview_prep": "1. What is your experience with academic supervision and research guidance? 2. Can you describe a time when you translated legal documents into English? 3. How do you approach the development of academic writing and research proposals?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@ca.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ca.linkedin.com",
+      "hr@ca.linkedin.com",
+      "jobs@ca.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "English 1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-07T05:15:54.992406+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/English 1_Entry-Level English Teacher_20260909.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/English 1_Entry-Level English Teacher_20260909.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-09T05:16:36.762894+00:00"
+  },
+  {
     "title": "<![CDATA[Hindi content writing ]]>",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/article-rewriting/Hindi-content-writing.html",
@@ -7586,6 +7694,114 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-08T13:23:50.061997+00:00"
+  },
+  {
+    "title": "Virtual Data Entry Assistant Required | Fast & Accurate Work",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/google-sheets/Virtual-Data-Entry-Assistant-Required.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Wed, 09 Sep 2026 00:49:26 -0400",
+    "description": "We are looking for a reliable and detail-oriented Virtual Data Entry Assistant to help with regular data entry and administrative tasks. Responsibilities: \u2022 Enter and organize data accurately in Excel/Google... (Budget: $15 - $25 USD, Jobs: Administrative Support, Data Collection, Data Entry, Data Management, Data Processing, Excel, Google Sheets, Virtual Assistant)",
+    "salary": "$15",
+    "source": "freelancer",
+    "postedISO": "2026-09-09T00:49:26-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title+description)",
+      "virtual assistant administrative assistant admin assistant executive assistant (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.3883468816666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches language skills, academic supervision, and some translation work"
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "Related to ESL teaching and academic supervision, but lacks direct experience in translation and teaching"
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, compatible"
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "Builds towards translation/teaching/academic career, aligns with goals"
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Remote work"
+      ],
+      "gaps": [
+        "Translation/teaching experience",
+        "Direct engineering/development experience"
+      ],
+      "recommendation": "Waleed Ballag is well-suited for the Virtual Data Entry Assistant role. His background in ESL teaching and academic supervision aligns well with the job requirements, and his remote work experience makes it a strong fit for the position. He has the potential to grow into a senior translator or academic coordinator role.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach data entry tasks in a virtual environment? 3. What are your thoughts on working remotely and the challenges you've faced?",
+      "one_line_summary": "Waleed Ballag's background and skills make him a strong fit for the Virtual Data Entry Assistant role, with a focus on academic supervision and remote work experience."
+    },
+    "ai_insight": "Waleed Ballag's background and skills make him a strong fit for the Virtual Data Entry Assistant role, with a focus on academic supervision and remote work experience.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "Translation/teaching experience",
+      "Direct engineering/development experience"
+    ],
+    "ai_recommendation": "Waleed Ballag is well-suited for the Virtual Data Entry Assistant role. His background in ESL teaching and academic supervision aligns well with the job requirements, and his remote work experience makes it a strong fit for the position. He has the potential to grow into a senior translator or academic coordinator role.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach data entry tasks in a virtual environment? 3. What are your thoughts on working remotely and the challenges you've faced?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Virtual Data Entry Assistant Required - Fast & Acc_20260909.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Virtual Data Entry Assistant Required - Fast & Acc_20260909.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-09T05:16:36.762894+00:00"
   },
   {
     "title": "Freelance Copywriter",
