@@ -955,5 +955,28 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-09T05:16:55.497493+00:00",
+    "matched_count": 2,
+    "all_count": 4711,
+    "jobs": [
+      {
+        "title": "Virtual Data Entry Assistant Required | Fast & Accurate Work",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/google-sheets/Virtual-Data-Entry-Assistant-Required.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Entry-Level English Teacher",
+        "company": "English 1",
+        "url": "https://ca.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4464464321",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
