@@ -5734,6 +5734,112 @@
     "scan_date": "2026-09-09T13:30:36.923154+00:00"
   },
   {
+    "title": "LX Copy Editor",
+    "company": "TaskUs",
+    "url": "https://ph.linkedin.com/jobs/view/lx-copy-editor-at-taskus-4433971999",
+    "location": "Remote \u2014 Pasig, National Capital Region, Philippines",
+    "posted": "2026-09-09",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-09-09T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "academic editor editing copy editor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.275663027222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires Arabic-English translation, ESL teaching, and academic supervision, all of which are directly related to the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which aligns perfectly with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and experience in language instruction make them a strong fit for a role that requires remote work and an academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is comfortable with remote work, so there are no issues with location or logistics."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the role, focusing on translation, teaching, and academic supervision, which are all areas where the candidate can build on their current skills."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Extensive experience in ESL teaching and academic supervision",
+        "Strong language skills in Arabic and English"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the LX Copy Editor role at TaskUs. His extensive experience in ESL teaching and academic supervision, combined with his native Arabic and advanced English skills, make him an ideal candidate for this remote, academic-based position. He can contribute to graduate-level research supervision and build long-term client relationships in academic services.",
+      "interview_prep": "1. Can you share an example of a time when you supervised a graduate-level research study? 2. How do you handle plagiarism and originality in your work? 3. Can you describe a challenging project you worked on and how you overcame it?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the LX Copy Editor role at TaskUs, with extensive experience in ESL teaching and academic supervision, and native Arabic and advanced English skills."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the LX Copy Editor role at TaskUs, with extensive experience in ESL teaching and academic supervision, and native Arabic and advanced English skills.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Extensive experience in ESL teaching and academic supervision",
+      "Strong language skills in Arabic and English"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the LX Copy Editor role at TaskUs. His extensive experience in ESL teaching and academic supervision, combined with his native Arabic and advanced English skills, make him an ideal candidate for this remote, academic-based position. He can contribute to graduate-level research supervision and build long-term client relationships in academic services.",
+    "ai_interview_prep": "1. Can you share an example of a time when you supervised a graduate-level research study? 2. How do you handle plagiarism and originality in your work? 3. Can you describe a challenging project you worked on and how you overcame it?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@ph.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ph.linkedin.com",
+      "hr@ph.linkedin.com",
+      "jobs@ph.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "TaskUs",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-09T20:19:49.249546+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/TaskUs_LX Copy Editor_20260909.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/TaskUs_LX Copy Editor_20260909.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-09T20:20:19.533010+00:00"
+  },
+  {
     "title": "<![CDATA[Hindi content writing ]]>",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/article-rewriting/Hindi-content-writing.html",
@@ -9117,6 +9223,111 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-09T13:30:36.923154+00:00"
+  },
+  {
+    "title": "Maple Syrup Document Retyping & Formatting",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/proofreading/Maple-Syrup-Document-Retyping-Formatting.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Wed, 09 Sep 2026 15:57:19 -0400",
+    "description": "I have between 50 and 200 handwritten notes that need to be transcribed verbatim into a clean, well-structured Excel spreadsheet. Each note should occupy its own row, with separate columns for the date (if present), the full text, and any short tags or headings that appear on the page... (Budget: $190 - $400 USD, Jobs: Content Verification, Data Annotating, Data Annotation, Data Entry, Data Management, Data Processing, Microsoft Word, Proofreading, Typing, Word Processing)",
+    "salary": "$190",
+    "source": "freelancer",
+    "postedISO": "2026-09-09T15:57:19-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "data annotation data labeling data labeler data entry specialist clerk operator agent (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.3205223122222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires transcribing notes into a clean Excel spreadsheet, which is a language and data entry task."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in academic supervision, language instruction, and translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment, flexible schedule, and academic setting align well with career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide location, compatible with candidate's skills."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Job description aligns with the candidate's career goals of becoming a senior translator or academic coordinator."
+      },
+      "overall_score": 89,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Data Entry"
+      ],
+      "gaps": [
+        "No direct experience in engineering or programming"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Maple Syrup Document Retyping & Formatting job. His ability to handle language and data entry tasks, combined with his academic background, positions him well for a senior translator or academic coordinator role.",
+      "interview_prep": "1. What is your experience in academic supervision and language instruction? 2. How do you approach data entry and formatting tasks? 3. Can you describe a time when you had to manage a large-scale project with tight deadlines?",
+      "one_line_summary": "Waleed Ballag's skills and experience make him a strong fit for the Maple Syrup Document Retyping & Formatting job."
+    },
+    "ai_insight": "Waleed Ballag's skills and experience make him a strong fit for the Maple Syrup Document Retyping & Formatting job.",
+    "ai_overall_score": 89,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Data Entry"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or programming"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Maple Syrup Document Retyping & Formatting job. His ability to handle language and data entry tasks, combined with his academic background, positions him well for a senior translator or academic coordinator role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and language instruction? 2. How do you approach data entry and formatting tasks? 3. Can you describe a time when you had to manage a large-scale project with tight deadlines?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Maple Syrup Document Retyping & Formatting_20260909.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Maple Syrup Document Retyping & Formatting_20260909.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-09T20:20:19.533010+00:00"
   },
   {
     "title": "Freelance Copywriter",
