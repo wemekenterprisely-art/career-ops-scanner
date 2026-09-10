@@ -5840,6 +5840,114 @@
     "scan_date": "2026-09-09T20:20:19.533010+00:00"
   },
   {
+    "title": "Arabic Language Teacher",
+    "company": "Qur'\u0101n Academy for Young Scholars",
+    "url": "https://www.linkedin.com/jobs/view/arabic-language-teacher-at-qur-%C4%81n-academy-for-young-scholars-4463083269",
+    "location": "Remote \u2014 Brooklyn, NY",
+    "posted": "2026-09-09",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic linguist",
+    "postedISO": "2026-09-09T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.21727330222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires Arabic-English translation, ESL teaching, and academic supervision, which are all skills directly related to the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which aligns perfectly with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background and skills are well-suited for a remote, academic environment, and the job description emphasizes flexibility and a remote work setting."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate's skills and experience align well with a remote work environment."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job requirements, particularly in terms of building a stable remote career in translation or ESL teaching."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's background and skills make him an excellent fit for the Qur'\u0101n Academy for Young Scholars' Arabic Language Teacher position. His experience in ESL teaching, academic supervision, and legal translation positions him well for the remote, academic environment of the job.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and how it has prepared you for this role? 2. How do you approach language translation in a legal context? 3. Can you share an example of a thesis review you've conducted?",
+      "one_line_summary": "A seasoned ESL instructor and academic supervisor with a strong background in Arabic-English translation and academic supervision is a strong fit for the Qur'\u0101n Academy's Arabic Language Teacher position."
+    },
+    "ai_insight": "A seasoned ESL instructor and academic supervisor with a strong background in Arabic-English translation and academic supervision is a strong fit for the Qur'\u0101n Academy's Arabic Language Teacher position.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's background and skills make him an excellent fit for the Qur'\u0101n Academy for Young Scholars' Arabic Language Teacher position. His experience in ESL teaching, academic supervision, and legal translation positions him well for the remote, academic environment of the job.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and how it has prepared you for this role? 2. How do you approach language translation in a legal context? 3. Can you share an example of a thesis review you've conducted?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Qur'\u0101n Academy for Young Scholars",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-10T05:19:36.908535+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "",
+    "cover_letter_type": "error",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Qur'\u0101n Academy for Young Schol_Arabic Language Teacher_20260910.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-10T05:20:07.179200+00:00"
+  },
+  {
     "title": "<![CDATA[Hindi content writing ]]>",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/article-rewriting/Hindi-content-writing.html",
@@ -10350,6 +10458,111 @@
     "cover_letter_ai": false,
     "interview_prep_generated": false,
     "scan_date": "2026-09-06T22:22:00.626718+00:00"
+  },
+  {
+    "title": "Arabic (Yemeni) Language Expert - Freelance AI Trainer Project",
+    "company": "Invisible (AI Trainer projects)",
+    "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4655042101",
+    "location": "World Wide - Remote",
+    "posted": "2026-09-09T21:44:41-04:00",
+    "description": "<p>Are you an Arabic (Yemeni) language expert eager to shape the future of AI? Large-scale language models are evolving from clever chatbots into powerful tools for communication, education, and cultural understanding. With high-quality training data, tomorrow\u2019s AI can accurately capture Yemeni Arabic vocabulary, dialects, grammar, idiomatic expressions, and cultural context\u2014helping preserve linguistic heritage and support authentic interactions. That training data begins with you\u2014we need your expertise to help power the next generation of AI.</p> <p>We\u2019re looking for Yemeni Arabic language specialists who live and breathe phonetics, morphology, syntax, regional dialects, colloquial expressions, and cultural references. You\u2019ll challenge advanced language models on topics like contextual interpretation, dialectical distinctions, semantic accuracy, and cultural nuance\u2014documenting every failure mode so we can harden model reasoning.</p> <p>On a typical day, you will converse with the model in Yemeni Arabic across a wide range of topics, verify linguistic accuracy and cultural relevance, capture reproducible error traces, and suggest improvements to our prompt engineering and evaluation metrics.</p> <p>A Master's degree in Linguistics, Arabic Studies, Translation, or a related field is ideal; professional experience in teaching, translation, language documentation, or community work signals fit. Clear, metacognitive communication\u2014\u201cshowing your work\u201d\u2014is essential.</p> <p>Ready to turn your Yemeni Arabic expertise into the knowledge base for tomorrow\u2019s AI? Apply today and start teaching the model that will teach the world.</p> <p>We offer a pay range of $8-to-$65 per hour, with the exact rate determined after evaluating your experience, expertise, and geographic location. Final offer amounts may vary from the pay range listed above. As a contractor you\u2019ll supply a secure computer and high-speed internet; company-sponsored benefits such as health insurance and PTO do not apply.</p> <p>Job title: Arabic (Yemeni) Language Expert \u2013 AI Trainer<br>Employment type: Contract<br>Workplace type: Remote<br>Seniority level: Mid-Senior Level</p>",
+    "salary": "$65 per hour",
+    "source": "greenhouse",
+    "postedISO": "2026-09-09T21:44:41-04:00",
+    "score": 82,
+    "category": "Arabic Translation",
+    "why": [
+      "translator translation interpreter linguist editor proofreader localisation specialist .{0,40}arabic (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.4726704719444443,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches language skills, academic supervision, and translation"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and language research"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "Awarded English Language Trainer of the Year"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the role of an Arabic language expert in AI training. His ability to translate, supervise, and contribute to research makes him a strong fit for the position.",
+      "interview_prep": "1. Can you describe a time when you had to challenge an advanced language model on Yemeni Arabic dialects and cultural nuances? 2. How do you approach the development of academic writing and research proposals? 3. Can you share an experience where you used SPSS for data analysis in a translation project?",
+      "one_line_summary": "Waleed Ballag's native Arabic and academic background make him a strong fit for the Arabic language expert role.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "Waleed Ballag's native Arabic and academic background make him a strong fit for the Arabic language expert role.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "Awarded English Language Trainer of the Year"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the role of an Arabic language expert in AI training. His ability to translate, supervise, and contribute to research makes him a strong fit for the position.",
+    "ai_interview_prep": "1. Can you describe a time when you had to challenge an advanced language model on Yemeni Arabic dialects and cultural nuances? 2. How do you approach the development of academic writing and research proposals? 3. Can you share an experience where you used SPSS for data analysis in a translation project?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@job-boards.eu.greenhouse.io",
+    "email_verified": false,
+    "all_emails": [
+      "careers@job-boards.eu.greenhouse.io",
+      "hr@job-boards.eu.greenhouse.io",
+      "jobs@job-boards.eu.greenhouse.io"
+    ],
+    "opportunity_score": 22,
+    "company_research": {
+      "name": "Invisible (AI Trainer projects)",
+      "legitimacy_score": 70,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Uses professional ATS"
+      ],
+      "last_updated": "2026-09-10T05:19:36.907553+00:00"
+    },
+    "company_legitimacy": 70,
+    "company_summary": "Verified company \u2022 1 positive signals",
+    "score_adjustment": 7,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Invisible (AI Trainer projects_Arabic (Yemeni) Language Expert - Freelance AI Tra_20260910.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-09-10T05:20:07.179200+00:00"
   },
   {
     "title": "<![CDATA[Indian Constitution Book Ghostwriter]]>",
