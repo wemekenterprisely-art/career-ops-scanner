@@ -1174,5 +1174,52 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-10T20:21:01.043306+00:00",
+    "matched_count": 5,
+    "all_count": 4727,
+    "jobs": [
+      {
+        "title": "Revamp Copywriting & Boost Conversion Rates",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copywriting/Revamp-Copywriting-Boost-Conversion.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Lecture Audio Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/academic-writing/English-Lecture-Audio-Transcription-40703433",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Social Media Hype Video Editor Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Social-Media-Hype-Video-Editor",
+        "score": 92,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Arabic Linguist CAT II - CENTCOM",
+        "company": "Amentum",
+        "url": "https://kw.linkedin.com/jobs/view/arabic-linguist-cat-ii-centcom-at-amentum-4444976516",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Editorial Proofreader | US Shift (7:00 PM Onwards)",
+        "company": "MOBILISE",
+        "url": "https://in.linkedin.com/jobs/view/editorial-proofreader-us-shift-7-00-pm-onwards-at-mobilise-4464525710",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
