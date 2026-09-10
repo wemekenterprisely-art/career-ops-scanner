@@ -1127,5 +1127,52 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-10T13:20:01.047414+00:00",
+    "matched_count": 5,
+    "all_count": 4745,
+    "jobs": [
+      {
+        "title": "SEO Content Writer for Diverse Topics",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/seo-writing/SEO-Content-Writer-for-Diverse",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Google Sheets Budget Data Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/google-sheets/Google-Sheets-Budget-Data-Entry",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Personal Budget Data Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/google-sheets/Personal-Budget-Data-Entry",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Guest Experience Expert - Arabic Speaker",
+        "company": "Aloft Hotels",
+        "url": "https://ae.linkedin.com/jobs/view/guest-experience-expert-arabic-speaker-at-aloft-hotels-4464121950",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Arabic-English Bilingual Healthcare Customer Service Representative - Remote in California",
+        "company": "TTEC",
+        "url": "https://www.linkedin.com/jobs/view/arabic-english-bilingual-healthcare-customer-service-representative-remote-in-california-at-ttec-4437174225",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
