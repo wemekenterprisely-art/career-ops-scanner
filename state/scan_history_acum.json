@@ -1104,5 +1104,28 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-10T05:20:31.059466+00:00",
+    "matched_count": 2,
+    "all_count": 4739,
+    "jobs": [
+      {
+        "title": "Arabic (Yemeni) Language Expert - Freelance AI Trainer Project",
+        "company": "Invisible (AI Trainer projects)",
+        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4655042101",
+        "score": 82,
+        "category": "Arabic Translation",
+        "source": "greenhouse"
+      },
+      {
+        "title": "Arabic Language Teacher",
+        "company": "Qur'\u0101n Academy for Young Scholars",
+        "url": "https://www.linkedin.com/jobs/view/arabic-language-teacher-at-qur-%C4%81n-academy-for-young-scholars-4463083269",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
