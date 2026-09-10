@@ -692,5 +692,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-10T13:18:21.544461+00:00"
+  },
+  "Amentum": {
+    "name": "Amentum",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-10T20:19:21.823210+00:00"
+  },
+  "MOBILISE": {
+    "name": "MOBILISE",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-10T20:19:21.824155+00:00"
   }
 }
