@@ -6164,6 +6164,220 @@
     "scan_date": "2026-09-10T13:19:37.057183+00:00"
   },
   {
+    "title": "Arabic Linguist CAT II - CENTCOM",
+    "company": "Amentum",
+    "url": "https://kw.linkedin.com/jobs/view/arabic-linguist-cat-ii-centcom-at-amentum-4444976516",
+    "location": "Remote \u2014 Kuwait City, Al Asimah, Kuwait",
+    "posted": "2026-09-10",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic translator",
+    "postedISO": "2026-09-10T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic translator translation interpreter linguist editor proofreader content writer qa tester localis (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.248920327222223,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 70,
+        "reason": "Requires language skills, writing, and academic work, but not exclusively translation or ESL teaching."
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Related experience in language services and academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote and academic environment, but some friction due to career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision & Research Guidance"
+      ],
+      "gaps": [
+        "US/EU citizenship or visa sponsorship"
+      ],
+      "recommendation": "Waleed Ballag's background is strong in language skills and academic supervision, but the requirement for US/EU citizenship and visa sponsorship makes it a moderate fit. He should focus on securing a remote position and potentially work on visa sponsorship.",
+      "interview_prep": "1. How do you handle client feedback and requests for revisions in academic writing? 2. Can you provide an example of a successful academic research study you supervised? 3. How do you approach the translation of legal documents and ensure accuracy?",
+      "one_line_summary": "Waleed Ballag has strong language skills and academic supervision experience, but requires additional visa sponsorship, making it a moderate fit for the Arabic Linguist CAT II position."
+    },
+    "ai_insight": "Waleed Ballag has strong language skills and academic supervision experience, but requires additional visa sponsorship, making it a moderate fit for the Arabic Linguist CAT II position.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision & Research Guidance"
+    ],
+    "ai_gaps": [
+      "US/EU citizenship or visa sponsorship"
+    ],
+    "ai_recommendation": "Waleed Ballag's background is strong in language skills and academic supervision, but the requirement for US/EU citizenship and visa sponsorship makes it a moderate fit. He should focus on securing a remote position and potentially work on visa sponsorship.",
+    "ai_interview_prep": "1. How do you handle client feedback and requests for revisions in academic writing? 2. Can you provide an example of a successful academic research study you supervised? 3. How do you approach the translation of legal documents and ensure accuracy?",
+    "ai_technical_skills": 70,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@kw.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@kw.linkedin.com",
+      "hr@kw.linkedin.com",
+      "jobs@kw.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Amentum",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-10T20:19:21.823210+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Amentum_Arabic Linguist CAT II - CENTCOM_20260910.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Amentum_Arabic Linguist CAT II - CENTCOM_20260910.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-10T20:20:37.343899+00:00"
+  },
+  {
+    "title": "Editorial Proofreader | US Shift (7:00 PM Onwards)",
+    "company": "MOBILISE",
+    "url": "https://in.linkedin.com/jobs/view/editorial-proofreader-us-shift-7-00-pm-onwards-at-mobilise-4464525710",
+    "location": "Remote \u2014 Bengaluru, Karnataka, India",
+    "posted": "2026-09-10",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-09-10T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.24892180638889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires language skills, writing, and academic work, which aligns with the candidate's experience and qualifications."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "The candidate has direct experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and remote work aligns well with the editorial proofreading role, especially the need for flexibility and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate's remote work and worldwide location are compatible with the job's remote nature."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals of securing stable remote work in translation or ESL teaching, and building long-term client relationships in academic services, align closely with the editorial proofreading role."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "No specific gaps identified"
+      ],
+      "recommendation": "Waleed Ballag's qualifications and experience make him a strong fit for the Editorial Proofreader role at MOBILISE. His ability to work remotely and his alignment with the academic environment make him an excellent candidate for this position.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you discuss a specific project you supervised and the impact it had on the students? 3. How do you approach proofreading and editing in the context of academic writing?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Editorial Proofreader role due to his extensive experience in academic supervision and language skills, which aligns well with the job requirements."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Editorial Proofreader role due to his extensive experience in academic supervision and language skills, which aligns well with the job requirements.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "No specific gaps identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's qualifications and experience make him a strong fit for the Editorial Proofreader role at MOBILISE. His ability to work remotely and his alignment with the academic environment make him an excellent candidate for this position.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you discuss a specific project you supervised and the impact it had on the students? 3. How do you approach proofreading and editing in the context of academic writing?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "MOBILISE",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-10T20:19:21.824155+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/MOBILISE_Editorial Proofreader - US Shift (7-00 PM Onwards)_20260910.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/MOBILISE_Editorial Proofreader - US Shift (7-00 PM Onwards)_20260910.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-10T20:20:37.343899+00:00"
+  },
+  {
     "title": "<![CDATA[Hindi content writing ]]>",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/article-rewriting/Hindi-content-writing.html",
@@ -9972,6 +10186,217 @@
     "scan_date": "2026-09-10T13:19:37.057183+00:00"
   },
   {
+    "title": "Revamp Copywriting & Boost Conversion Rates",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/copywriting/Revamp-Copywriting-Boost-Conversion.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Thu, 10 Sep 2026 15:41:15 -0400",
+    "description": "Hi I will share the details with the shortlisted candidates. Thanks (Budget: $30 - $50 NZD, Jobs: Content Marketing, Content Strategy, Content Writing, Conversion Rate Optimization, Copywriting, Internet Marketing, Marketing Strategy, Real Estate, SEO, Website Audit)",
+    "salary": "$30",
+    "source": "freelancer",
+    "postedISO": "2026-09-10T15:41:15-04:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.5616320519444444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in ESL teaching and academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment, and compatible with freelance work"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's background in ESL teaching and academic supervision aligns well with the job's requirements, making this a strong fit. The ability to translate between Arabic and English and supervise graduate-level research studies will be valuable in this role. The remote work environment is also a strong match.",
+      "interview_prep": "1. What are your experiences in ESL teaching and academic supervision? 2. How do you approach translation and academic editing? 3. Can you provide examples of how you have contributed to graduate-level research supervision?",
+      "one_line_summary": "Waleed Ballag's extensive experience in ESL teaching and academic supervision makes him a strong fit for the revamp copywriting role at Freelancer.com."
+    },
+    "ai_insight": "Waleed Ballag's extensive experience in ESL teaching and academic supervision makes him a strong fit for the revamp copywriting role at Freelancer.com.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in ESL teaching and academic supervision aligns well with the job's requirements, making this a strong fit. The ability to translate between Arabic and English and supervise graduate-level research studies will be valuable in this role. The remote work environment is also a strong match.",
+    "ai_interview_prep": "1. What are your experiences in ESL teaching and academic supervision? 2. How do you approach translation and academic editing? 3. Can you provide examples of how you have contributed to graduate-level research supervision?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Revamp Copywriting & Boost Conversion Rates_20260910.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Revamp Copywriting & Boost Conversion Rates_20260910.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-10T20:20:37.343899+00:00"
+  },
+  {
+    "title": "English Lecture Audio Transcription",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/academic-writing/English-Lecture-Audio-Transcription-40703433",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-10T15:21:55+00:00",
+    "description": "I have several lecture recordings in English that I need turned into clean, well-formatted text. The audios are already organized by topic, so your task is purely transcription\u2014no translation or heavy editing required. Accuracy and correct punctuation matter more than speed, though I do expect a reasonable turnaround once a file is shared. Please return each lecture as its own document, clearly labeled with the file name and any provided timestamps. If you normally use tools like Express Scribe, oTranscribe, or similar, feel free; I\u2019m interested in a polished transcript, whether you work manually or with software assistance. When you respond, let me know your expected pace per audio hour and any previous experience handling academic or instructional material.",
+    "salary": "12500.0-37500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-09-10T15:21:55+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.88364686,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Transcription is a language skills requirement, and the job description is for an English lecture transcription, which aligns with the candidate's background and skills."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and research guidance, which is directly applicable to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's remote work experience and ability to handle academic and instructional material align well with the job's remote and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is flexible, making it a good fit for the candidate's skills and lifestyle."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The job aligns with the candidate's career goals of securing stable remote work and contributing to academic supervision, which is a key aspect of the candidate's background."
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "Strong language skills",
+        "Experience in academic supervision",
+        "Remote work flexibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the English Lecture Audio Transcription job. His ability to handle academic and instructional material, combined with his remote work flexibility, align perfectly with the job requirements.",
+      "interview_prep": "1. What is your experience with transcription and editing of academic and instructional materials? 2. How do you handle timestamps and file naming in your transcriptions? 3. Can you provide an example of a lecture transcription you've completed?",
+      "one_line_summary": "Waleed Ballag's strong language skills and experience in academic supervision make him a strong fit for the English Lecture Audio Transcription job.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "Waleed Ballag's strong language skills and experience in academic supervision make him a strong fit for the English Lecture Audio Transcription job.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Experience in academic supervision",
+      "Remote work flexibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the English Lecture Audio Transcription job. His ability to handle academic and instructional material, combined with his remote work flexibility, align perfectly with the job requirements.",
+    "ai_interview_prep": "1. What is your experience with transcription and editing of academic and instructional materials? 2. How do you handle timestamps and file naming in your transcriptions? 3. Can you provide an example of a lecture transcription you've completed?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_English Lecture Audio Transcription_20260910.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_English Lecture Audio Transcription_20260910.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-10T20:20:37.343899+00:00"
+  },
+  {
     "title": "Freelance Copywriter",
     "company": "Coalition Technologies",
     "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
@@ -10064,6 +10489,112 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-05T17:46:54.889469+00:00"
+  },
+  {
+    "title": "Social Media Hype Video Editor Needed",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Social-Media-Hype-Video-Editor",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-10T16:17:57+00:00",
+    "description": "Social Media Content Creator & Video Editor (Reels, TikTok & Short Videos) Job Type: Contract / Project-Based We are seeking a talented, energetic Social Media Content Creator & Video Editor to produce high-impact, hype-building social media content (Reels, Shorts, TikToks, Static Posts) Key Responsibilities: - Short-Form Video Production: Script, edit, and optimize engaging short-form videos (9:16 format for Instagram Reels, TikTok, YouTube Shorts) - Content Pillars & Execution: Hype & Venue Teasers: Create 15\u201330 sec videos highlighting important things in the event. Category Educational Content: Edit 15 sec clips breaking down competition divisions into 3 categories. Judge & Athlete Spotlights: Produce promo videos introducing international judges and featured elite champions. Countdowns & Urgency Campaigns: Create dynamic countdown graphics/videos for registration deadlines and early-bird ticket releases. Custom Athlete Templates: Design personalized \"Be Part of the Event\" (9:16) graphics for registered champions to share on their personal profiles. - Requirements & Qualifications: Experience: 4+ years of experience in social media content creation, video editing, and digital media production (prior experience in fitness, sports events, or bodybuilding is a major plus). Technical Skills: Advanced editing in Adobe Premiere Pro, CapCut Pro, After Effects, or Final Cut Pro. Strong graphic design skills in Adobe Photoshop & Illustrator for social media templates and posts. Platform Knowledge: Mastery of Instagram Reels, TikTok, YouTube Shorts, and Meta ad formats (especially 9:16 and 1:1 ratios). Speed & Agility: Ability to turn around high-quality video content quickly during key campaign countdowns and live event days. Languages: English (Required); Arabic, Urdu, or Hindi is a strong advantage.",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-10T16:17:57+00:00",
+    "score": 92,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)",
+      "content creation (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.9497569925000002,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches the job requiring language skills, writing, and academic work."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching and academic supervision, which are relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 75,
+        "reason": "Remote work and academic environment align well with the candidate's skills and goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligning with the candidate's goals."
+      },
+      "overall_score": 83,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Remote work"
+      ],
+      "gaps": [
+        "No direct experience in engineering or programming"
+      ],
+      "recommendation": "Waleed Ballag's skills in ESL teaching and academic supervision make him a strong fit for the Social Media Hype Video Editor role. His ability to work remotely and align with an academic environment is a significant strength.",
+      "interview_prep": "1. Can you provide examples of how you've used language skills in your previous roles? 2. How do you approach creating hype-building content for social media? 3. Can you discuss your experience with academic supervision and research guidance?",
+      "one_line_summary": "Waleed Ballag's strong fit for the Social Media Hype Video Editor role due to his ESL teaching and academic supervision experience."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the Social Media Hype Video Editor role due to his ESL teaching and academic supervision experience.",
+    "ai_overall_score": 83,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or programming"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills in ESL teaching and academic supervision make him a strong fit for the Social Media Hype Video Editor role. His ability to work remotely and align with an academic environment is a significant strength.",
+    "ai_interview_prep": "1. Can you provide examples of how you've used language skills in your previous roles? 2. How do you approach creating hype-building content for social media? 3. Can you discuss your experience with academic supervision and research guidance?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 75,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 28,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Social Media Hype Video Editor Needed_20260910.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Social Media Hype Video Editor Needed_20260910.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-10T20:20:37.343899+00:00"
   },
   {
     "title": "Get Started",
