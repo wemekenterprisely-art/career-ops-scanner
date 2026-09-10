@@ -644,5 +644,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-09T20:19:49.249546+00:00"
+  },
+  "Invisible (AI Trainer projects)": {
+    "name": "Invisible (AI Trainer projects)",
+    "legitimacy_score": 70,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Uses professional ATS"
+    ],
+    "last_updated": "2026-09-10T05:19:36.907553+00:00"
+  },
+  "Qur'\u0101n Academy for Young Scholars": {
+    "name": "Qur'\u0101n Academy for Young Scholars",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-10T05:19:36.908535+00:00"
   }
 }
