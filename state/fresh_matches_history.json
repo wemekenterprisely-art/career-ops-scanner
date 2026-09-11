@@ -6592,6 +6592,344 @@
     "scan_date": "2026-09-11T05:18:16.687833+00:00"
   },
   {
+    "title": "IB English Tutor",
+    "company": "AP Guru",
+    "url": "https://in.linkedin.com/jobs/view/ib-english-tutor-at-ap-guru-4463949986",
+    "location": "Remote \u2014 India",
+    "posted": "2026-09-11",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-11T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.21999854111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 30,
+        "reason": "Requires language skills, writing, and academic work, but not specific translation or engineering skills."
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Direct experience in ESL teaching and academic supervision, partially aligning with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 75,
+        "reason": "Remote work environment, academic focus, and career goals alignment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's location."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligning with the job's role."
+      },
+      "overall_score": 75,
+      "verdict": "Good Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision background",
+        "Remote work flexibility"
+      ],
+      "gaps": [
+        "No experience in engineering or development"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the IB English Tutor role at AP Guru. He can contribute to the company's academic services and build a stable remote career in translation or ESL teaching.",
+      "interview_prep": [
+        "What is your experience in academic supervision and research guidance?",
+        "Can you share an example of a thesis review and editing you've done?",
+        "How do you approach client relationships in academic services?"
+      ],
+      "one_line_summary": "Waleed Ballag's skills and background make him a strong fit for the IB English Tutor role at AP Guru."
+    },
+    "ai_insight": "Waleed Ballag's skills and background make him a strong fit for the IB English Tutor role at AP Guru.",
+    "ai_overall_score": 75,
+    "ai_verdict": "Good Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision background",
+      "Remote work flexibility"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or development"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the IB English Tutor role at AP Guru. He can contribute to the company's academic services and build a stable remote career in translation or ESL teaching.",
+    "ai_interview_prep": [
+      "What is your experience in academic supervision and research guidance?",
+      "Can you share an example of a thesis review and editing you've done?",
+      "How do you approach client relationships in academic services?"
+    ],
+    "ai_technical_skills": 30,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 75,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "AP Guru",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-11T13:20:18.777565+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/AP Guru_IB English Tutor_20260911.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/AP Guru_IB English Tutor_20260911.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-11T13:22:00.707005+00:00"
+  },
+  {
+    "title": "Entry-Level English Teacher",
+    "company": "English 1",
+    "url": "https://uk.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4466020723",
+    "location": "Remote \u2014 Reading, England, United Kingdom",
+    "posted": "2026-09-11",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-11T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.219998986944445,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Job requires language skills, writing, and academic work, aligning with the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching and academic supervision, highly relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment, aligning well with the candidate's career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligning closely with the candidate's goals."
+      },
+      "overall_score": 86,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's strong fit for the Entry-Level English Teacher role at English 1 aligns perfectly with his qualifications and career aspirations. His background and certifications make him an excellent fit for the job, and the remote work option allows him to maintain his current lifestyle.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and editing tasks? 3. Can you describe a time when you had to adapt to a new language or writing style?",
+      "one_line_summary": "Waleed Ballag's strong fit for the Entry-Level English Teacher role at English 1 aligns perfectly with his qualifications and career aspirations."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the Entry-Level English Teacher role at English 1 aligns perfectly with his qualifications and career aspirations.",
+    "ai_overall_score": 86,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong fit for the Entry-Level English Teacher role at English 1 aligns perfectly with his qualifications and career aspirations. His background and certifications make him an excellent fit for the job, and the remote work option allows him to maintain his current lifestyle.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and editing tasks? 3. Can you describe a time when you had to adapt to a new language or writing style?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@uk.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@uk.linkedin.com",
+      "hr@uk.linkedin.com",
+      "jobs@uk.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "English 1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-07T05:15:54.992406+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/English 1_Entry-Level English Teacher_20260911.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/English 1_Entry-Level English Teacher_20260911.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-11T13:22:00.707005+00:00"
+  },
+  {
+    "title": "ESP Online Tutor",
+    "company": "Leela Home elearning",
+    "url": "https://dz.linkedin.com/jobs/view/esp-online-tutor-at-leela-home-elearning-4463979160",
+    "location": "Remote \u2014 Algeria",
+    "posted": "2026-09-11",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-11T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.21999909388889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "ESL teaching, academic supervision, legal translation, and academic editing skills align with the ESP Online Tutor role."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "ESL teaching, academic supervision, and legal translation experience partially match the ESP Online Tutor role."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, and academic environment align well with the ESP Online Tutor role."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide location fits the ESP Online Tutor role."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward translation/teaching/academic career, aligns with the ESP Online Tutor role."
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "academic supervision",
+        "legal translation"
+      ],
+      "gaps": [
+        "no specific skills not aligned with the ESP Online Tutor role"
+      ],
+      "recommendation": "Strong fit for the ESP Online Tutor role. Aligns with career goals and provides opportunities for growth in the field of translation and academic supervision.",
+      "interview_prep": "1. What are your strengths in language instruction and academic supervision? 2. How do you approach legal translation in your role? 3. Can you describe a time when you successfully supervised a graduate-level research study?",
+      "one_line_summary": "Strong fit for ESP Online Tutor role with strong alignment and career progression opportunities."
+    },
+    "ai_insight": "Strong fit for ESP Online Tutor role with strong alignment and career progression opportunities.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "academic supervision",
+      "legal translation"
+    ],
+    "ai_gaps": [
+      "no specific skills not aligned with the ESP Online Tutor role"
+    ],
+    "ai_recommendation": "Strong fit for the ESP Online Tutor role. Aligns with career goals and provides opportunities for growth in the field of translation and academic supervision.",
+    "ai_interview_prep": "1. What are your strengths in language instruction and academic supervision? 2. How do you approach legal translation in your role? 3. Can you describe a time when you successfully supervised a graduate-level research study?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@dz.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@dz.linkedin.com",
+      "hr@dz.linkedin.com",
+      "jobs@dz.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Leela Home elearning",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-11T13:20:18.778666+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am thrilled to apply for the ESP Online Tutor position at Leela Home elearning, as it aligns perfectly with my educational background and teaching expertise.",
+      "experience": "In my role as an ESL teacher and secondary supervisor at Higher Institute of Science and Technology, I have honed my skills in academic supervision, research guidance, and curriculum development.",
+      "skills": "My extensive experience in online and in-person teaching, curriculum development, and bidirectional translation are well-suited for this role.",
+      "closing": "I am available for an interview at your convenience and look forward to discussing how my qualifications and experience align with the requirements of this position at Leela Home elearning."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Leela Home elearning_ESP Online Tutor_20260911.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Leela Home elearning_ESP Online Tutor_20260911.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-11T13:22:00.707005+00:00"
+  },
+  {
     "title": "<![CDATA[Hindi content writing ]]>",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/article-rewriting/Hindi-content-writing.html",
@@ -10716,6 +11054,314 @@
     "scan_date": "2026-09-11T05:18:16.687833+00:00"
   },
   {
+    "title": "Finnish Language Proofreader and Editer Required",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/finnish-translator/Finnish-Language-Proofreader-Editer.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Fri, 11 Sep 2026 11:16:15 -0400",
+    "description": "Hey, Greetings, We have written content (website content and articles) in the Finnish language, which has been translated using ChatGPT or Google Translate. All content documents include an English version along with the Finnish text in the same document... (Budget: $30 - $250 USD, Jobs: Article Writing, Content Development, Content Writing, Copy Editing, Copywriting, Editing, Finnish Translator, Language Tutoring, Proofreading, Translation)",
+    "salary": "$30",
+    "source": "freelancer",
+    "postedISO": "2026-09-11T11:16:15-04:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)",
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": -2.050630727222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires Finnish language proofreading and editing, which aligns with the job description."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Has experience in Finnish language proofreading and editing, which is directly applicable to the job."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote and flexible work environment, suitable for the candidate's preference."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote location, worldwide availability, and compatible with the candidate's skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligning with the candidate's goals."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Finnish language skills",
+        "Remote work experience"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Finnish Language Proofreader and Editor role. The remote and flexible nature of the job is a strong fit, and the career alignment towards translation and academic roles is a significant advantage. The candidate's ability to work remotely and their experience in Finnish language editing make them a strong fit for the position.",
+      "interview_prep": "1. What is your experience with Finnish language proofreading and editing? 2. How do you approach proofreading and editing in a multilingual context? 3. Can you discuss a project where you had to proofread content in both Finnish and English?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Finnish Language Proofreader and Editor role due to their Finnish language skills and experience in remote work."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Finnish Language Proofreader and Editor role due to their Finnish language skills and experience in remote work.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Finnish language skills",
+      "Remote work experience"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Finnish Language Proofreader and Editor role. The remote and flexible nature of the job is a strong fit, and the career alignment towards translation and academic roles is a significant advantage. The candidate's ability to work remotely and their experience in Finnish language editing make them a strong fit for the position.",
+    "ai_interview_prep": "1. What is your experience with Finnish language proofreading and editing? 2. How do you approach proofreading and editing in a multilingual context? 3. Can you discuss a project where you had to proofread content in both Finnish and English?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Finnish Language Proofreader and Editer Required_20260911.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Finnish Language Proofreader and Editer Required_20260911.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-11T13:22:00.707005+00:00"
+  },
+  {
+    "title": "Engaging Instagram Content Creator -- 2",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/social-media-marketing/Engaging-Instagram-Content-Creator-40705288",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-11T13:07:11+00:00",
+    "description": "My brand\u2019s Instagram page needs a steady stream of fresh, scroll-stopping copy that sparks conversation and keeps followers coming back for more. The priority is to boost engagement, so every caption, post blurb, or reel script you craft should invite likes, comments, shares, and saves while still sounding natural to the feed. Here\u2019s exactly what I\u2019m looking for: \u2022 Captions that match the visual, hook attention in the first line, and end with a clear call-to-action or question. \u2022 Short post write-ups that can stand alone as carousels or single-image descriptions. \u2022 Snappy reel or story scripts that flow well when read aloud and encourage viewers to watch to the end. \u2022 Ongoing creative concepts or content-series ideas that align with upcoming launches or seasonal moments. Originality is non-negotiable; all work must be written in clear, easy-to-understand English and pass basic plagiarism checks. I typically plan content a week or two in advance, so reliable, on-time delivery matters. New freelancers with a flair for social copy are welcome\u2014if you\u2019ve got samples that show witty, concise wording or proof of solid engagement metrics on previous projects, feel free to share. We\u2019ll start with a small batch to confirm style and results, then roll into a regular schedule if the fit is right.",
+    "salary": "400.0-750.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-09-11T13:07:11+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.10028931472222223,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches the need for Arabic-English translation and academic supervision skills."
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "Has experience in ESL teaching and academic supervision, but lacks direct translation or writing experience."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote work environment aligns well with the candidate's preferences and skills."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote work is compatible with the candidate's skills and preferences."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Aligns with the candidate's career goals of becoming a senior translator or academic coordinator role."
+      },
+      "overall_score": 81,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills in Arabic and English",
+        "Experience in ESL teaching and academic supervision"
+      ],
+      "gaps": [
+        "Lack of direct translation or writing experience"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Engaging Instagram Content Creator role. His ability to translate and supervise academic work aligns well with the job's requirements, and his remote work experience makes him a good fit for the role's remote nature. While he lacks direct translation or writing experience, his strong language skills and skills in ESL teaching and academic supervision make him a strong candidate for the position.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translating legal documents for clients? 3. Can you provide examples of creative content ideas you've developed for your previous clients?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Engaging Instagram Content Creator role due to his language skills, academic experience, and remote work preferences."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Engaging Instagram Content Creator role due to his language skills, academic experience, and remote work preferences.",
+    "ai_overall_score": 81,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills in Arabic and English",
+      "Experience in ESL teaching and academic supervision"
+    ],
+    "ai_gaps": [
+      "Lack of direct translation or writing experience"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Engaging Instagram Content Creator role. His ability to translate and supervise academic work aligns well with the job's requirements, and his remote work experience makes him a good fit for the role's remote nature. While he lacks direct translation or writing experience, his strong language skills and skills in ESL teaching and academic supervision make him a strong candidate for the position.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translating legal documents for clients? 3. Can you provide examples of creative content ideas you've developed for your previous clients?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Engaging Instagram Content Creator -- 2_20260911.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Engaging Instagram Content Creator -- 2_20260911.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-11T13:22:00.707005+00:00"
+  },
+  {
+    "title": "Proofread Danish Website Content",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/website-localization/Proofread-Danish-Website-Content",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-11T06:53:08+00:00",
+    "description": "Danish Website / BlI'm looking for a native Danish speaker to proofread and edit my Danish web content and articles which are already translated by Google translator from Norwegian language. so you just need to overview the content that it is correct and you can just edit. The project involves approximately 30 documents in start. each time i will share 30 documents. It will be ongoing project for long term. - Primarily proofreading articles for grammar and spelling - Correcting errors to ensure high-quality content - Ensuring the Danish text is coherent and fluid The content covers a range of mental health topics including depression and anxiety, therapy and counseling, and mental wellness and self-care. Given the nature of the project, general grammar and spelling correction is crucial. There's no specific style guide to follow, just standard Danish grammar. While the main focus will be on correcting grammar and spelling, some stylistic improvements may be necessary. Your ability to enhance the content's readability without altering its meaning will be beneficial. I look forward to working with a professional who can help me deliver high-quality, coherent, and engaging content to my Danish audience with in budget mentioned below.og Content Translation Overview - Mental Health Niche Dansk Hjemmeside / BlI s\u00f8ger en dansk som modersm\u00e5l til at korrekturl\u00e6se og redigere mit danske webindhold og artikler, som allerede er oversat af Google overs\u00e6tter fra norsk. s\u00e5 du skal blot overskue indholdet, at det er korrekt, og du kan bare redigere. Projektet involverer cirka 30 dokumenter i start. hver gang deler jeg 30 dokumenter. Det vil v\u00e6re et igangv\u00e6rende projekt p\u00e5 l\u00e6ngere sigt. - Prim\u00e6rt korrekturl\u00e6sning af artikler til grammatik og stavning - Ret fejl for at sikre indhold af h\u00f8j kvalitet - Sikre, at den danske tekst er sammenh\u00e6ngende og flydende Indholdet d\u00e6kker en r\u00e6kke mentale sundhedsemner, herunder depression og angst, terapi og r\u00e5dgivning samt mental velv\u00e6re og egenom",
+    "salary": "30.0-250.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-11T06:53:08+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 6.334444160555555,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching and academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, or compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic and English skills",
+        "Experience in ESL teaching and academic supervision"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Proofread Danish Website Content job. His ability to proofread and edit content in Danish, combined with his experience in ESL teaching and academic supervision, makes him a strong fit for this role. Given his strong career goals and the alignment with his skills, he is well-positioned to succeed in this position.",
+      "interview_prep": "1. Can you describe a time when you had to proofread and edit content in a language other than your native language? 2. How do you ensure the coherence and fluidity of the Danish text in your proofreading process? 3. Can you share an experience where you had to correct errors in grammar and spelling, and how did you approach the task?",
+      "one_line_summary": "Waleed Ballag's native language skills and experience in ESL teaching make him a strong fit for the Proofread Danish Website Content job."
+    },
+    "ai_insight": "Waleed Ballag's native language skills and experience in ESL teaching make him a strong fit for the Proofread Danish Website Content job.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic and English skills",
+      "Experience in ESL teaching and academic supervision"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Proofread Danish Website Content job. His ability to proofread and edit content in Danish, combined with his experience in ESL teaching and academic supervision, makes him a strong fit for this role. Given his strong career goals and the alignment with his skills, he is well-positioned to succeed in this position.",
+    "ai_interview_prep": "1. Can you describe a time when you had to proofread and edit content in a language other than your native language? 2. How do you ensure the coherence and fluidity of the Danish text in your proofreading process? 3. Can you share an experience where you had to correct errors in grammar and spelling, and how did you approach the task?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Proofread Danish Website Content_20260911.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Proofread Danish Website Content_20260911.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-11T13:22:00.707005+00:00"
+  },
+  {
     "title": "Freelance Copywriter",
     "company": "Coalition Technologies",
     "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
@@ -11417,6 +12063,108 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-07T20:23:03.777507+00:00"
+  },
+  {
+    "title": "Compelling Blog Post Copywriter",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/article-writing/Compelling-Blog-Post-Copywriter",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-11T10:44:22+00:00",
+    "description": "The project involves crafting fresh, engaging blog posts that sound conversational yet authoritative. I will supply each topic, a working title, and any key points or keywords that must be woven naturally into the copy. From there, you turn the outline into a polished article that captures attention from the opening hook, flows logically through well-researched insights, and closes with a clear takeaway or gentle call-to-action. I expect every post to be: \u2022 Original and plagiarism-free, passing standard checks \u2022 Written in fluent, error-free English with a consistent tone \u2022 Formatted for the web\u2014concise paragraphs, sub-headings, and bullet points where they aid readability \u2022 Optimised for on-page SEO without keyword stuffing \u2022 Supplied in Google Docs or Word with an SEO title, meta description, and any reference links clearly cited Once I review the draft, minor revisions to tighten copy or adjust tone are part of the scope. Final acceptance hinges on readability, factual accuracy, and seamless keyword integration. If that aligns with your skill set, I\u2019m ready to share the first brief right away.",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-11T10:44:22+00:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.4805734430555555,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires crafting blog posts, which aligns with the candidate's skills in academic supervision, research guidance, and writing."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in academic supervision, research guidance, and writing, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's remote work experience and ability to work with diverse clients align well with the job's remote and flexible nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is listed as a remote (worldwide) location, which matches the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's offering of stable remote work and the potential for senior roles in translation or academic services."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision",
+        "Writing Skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate is highly qualified for the job and would be a strong fit for the role. They have relevant experience in academic supervision, research guidance, and writing, which aligns well with the job requirements. The candidate's remote work experience and ability to work with diverse clients make them a strong fit for the remote and flexible nature of the job.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you ensure the accuracy and originality of the content you write? 3. Can you provide examples of your experience in crafting blog posts that sound conversational yet authoritative?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Compelling Blog Post Copywriter job due to his relevant academic experience and remote work skills."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Compelling Blog Post Copywriter job due to his relevant academic experience and remote work skills.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision",
+      "Writing Skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate is highly qualified for the job and would be a strong fit for the role. They have relevant experience in academic supervision, research guidance, and writing, which aligns well with the job requirements. The candidate's remote work experience and ability to work with diverse clients make them a strong fit for the remote and flexible nature of the job.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you ensure the accuracy and originality of the content you write? 3. Can you provide examples of your experience in crafting blog posts that sound conversational yet authoritative?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Compelling Blog Post Copywriter_20260911.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Compelling Blog Post Copywriter_20260911.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-11T13:22:00.707005+00:00"
   },
   {
     "title": "<![CDATA[Refine Script & Record Greeting]]>",
