@@ -1,9 +1,9 @@
 {
-  "total_scans": 35,
-  "total_matches": 124,
+  "total_scans": 36,
+  "total_matches": 127,
   "streak_days": 7,
   "last_scan_date": "2026-09-11",
-  "total_jobs_scanned": 157899,
+  "total_jobs_scanned": 162475,
   "best_day_matches": 12,
   "best_day_date": "2026-09-09",
   "daily_history": [
@@ -312,19 +312,28 @@
       "near_misses": 0,
       "sources": 21,
       "fresh_count": 1713
+    },
+    {
+      "date": "2026-09-11",
+      "total_fetched": 4576,
+      "matches": 3,
+      "old_verified": 3,
+      "near_misses": 0,
+      "sources": 21,
+      "fresh_count": 1747
     }
   ],
   "category_trends": {
     "Arabic Translation": {
-      "count": 31,
-      "last_seen": "2026-09-10"
+      "count": 32,
+      "last_seen": "2026-09-11"
     },
     "Editing": {
       "count": 44,
       "last_seen": "2026-09-11"
     },
     "ESL": {
-      "count": 22,
+      "count": 24,
       "last_seen": "2026-09-11"
     },
     "Admin": {
@@ -382,7 +391,7 @@
       "last_seen": "2026-09-06"
     },
     "linkedin": {
-      "matches": 47,
+      "matches": 50,
       "last_seen": "2026-09-11"
     },
     "impactpool": {
