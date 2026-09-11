@@ -1252,5 +1252,68 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-11T13:22:24.268263+00:00",
+    "matched_count": 7,
+    "all_count": 4713,
+    "jobs": [
+      {
+        "title": "Finnish Language Proofreader and Editer Required",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/finnish-translator/Finnish-Language-Proofreader-Editer.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Engaging Instagram Content Creator -- 2",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/social-media-marketing/Engaging-Instagram-Content-Creator-40705288",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofread Danish Website Content",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/website-localization/Proofread-Danish-Website-Content",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Compelling Blog Post Copywriter",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/article-writing/Compelling-Blog-Post-Copywriter",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "IB English Tutor",
+        "company": "AP Guru",
+        "url": "https://in.linkedin.com/jobs/view/ib-english-tutor-at-ap-guru-4463949986",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Entry-Level English Teacher",
+        "company": "English 1",
+        "url": "https://uk.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4466020723",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "ESP Online Tutor",
+        "company": "Leela Home elearning",
+        "url": "https://dz.linkedin.com/jobs/view/esp-online-tutor-at-leela-home-elearning-4463979160",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
