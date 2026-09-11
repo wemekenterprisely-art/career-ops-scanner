@@ -1221,5 +1221,36 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-11T05:18:39.961303+00:00",
+    "matched_count": 3,
+    "all_count": 4724,
+    "jobs": [
+      {
+        "title": "Mixed Data Entry From Scans",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-entry/Mixed-Data-Entry-From-Scans.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Online GCSE English Tutor",
+        "company": "Best Path Tuition",
+        "url": "https://uk.linkedin.com/jobs/view/online-gcse-english-tutor-at-best-path-tuition-4465627820",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Automotive Content Proofreader & Post-Editor (M/F/D)",
+        "company": "Infopro Digital Automotive",
+        "url": "https://it.linkedin.com/jobs/view/automotive-content-proofreader-post-editor-m-f-d-at-infopro-digital-automotive-4463910831",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
