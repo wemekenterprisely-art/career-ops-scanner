@@ -1315,5 +1315,36 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-11T20:20:01.411325+00:00",
+    "matched_count": 3,
+    "all_count": 4576,
+    "jobs": [
+      {
+        "title": "Levantine Arabic Linguistic Projects (On-site London) | Sigma AI",
+        "company": "Sigma AI",
+        "url": "https://uk.linkedin.com/jobs/view/levantine-arabic-linguistic-projects-on-site-london-sigma-ai-at-sigma-ai-4465107940",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Teacher",
+        "company": "American Language Academy of Congo",
+        "url": "https://cd.linkedin.com/jobs/view/english-teacher-at-american-language-academy-of-congo-4464235527",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Teacher 100% online",
+        "company": "Vilenna Educaci\u00f3n",
+        "url": "https://mx.linkedin.com/jobs/view/english-teacher-100%25-online-at-vilenna-educaci%C3%B3n-4464222278",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
