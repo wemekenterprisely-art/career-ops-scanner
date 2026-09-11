@@ -6930,6 +6930,348 @@
     "scan_date": "2026-09-11T13:22:00.707005+00:00"
   },
   {
+    "title": "Levantine Arabic Linguistic Projects (On-site London) | Sigma AI",
+    "company": "Sigma AI",
+    "url": "https://uk.linkedin.com/jobs/view/levantine-arabic-linguistic-projects-on-site-london-sigma-ai-at-sigma-ai-4465107940",
+    "location": "Remote \u2014 London, England, United Kingdom",
+    "posted": "2026-09-11",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic translator",
+    "postedISO": "2026-09-11T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic translator translation interpreter linguist editor proofreader content writer qa tester localis (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.27028089722222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires Arabic-English translation, ESL teaching, and academic supervision, which aligns with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background is in academic services, which is a strong fit for the remote, academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is located worldwide, making it a compatible fit."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job's requirements, focusing on translation, teaching, and academic services."
+      },
+      "overall_score": 87,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Experience in academic supervision",
+        "Native Arabic speaker"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's strong background in ESL teaching, academic supervision, and legal translation makes him an ideal candidate for the Levantine Arabic Linguistic Projects at Sigma AI. His ability to build long-term client relationships and contribute to graduate-level research supervision positions him well for this role. Given his passion for academic services and his native language skills, he is poised to excel in this remote, academic environment.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study in a graduate-level setting? 2. How do you approach legal translation in a professional context? 3. Can you elaborate on a project you led that involved curriculum development?",
+      "one_line_summary": "Waleed Ballag's extensive experience in ESL teaching and academic supervision makes him a strong fit for the Levantine Arabic Linguistic Projects at Sigma AI."
+    },
+    "ai_insight": "Waleed Ballag's extensive experience in ESL teaching and academic supervision makes him a strong fit for the Levantine Arabic Linguistic Projects at Sigma AI.",
+    "ai_overall_score": 87,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Experience in academic supervision",
+      "Native Arabic speaker"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong background in ESL teaching, academic supervision, and legal translation makes him an ideal candidate for the Levantine Arabic Linguistic Projects at Sigma AI. His ability to build long-term client relationships and contribute to graduate-level research supervision positions him well for this role. Given his passion for academic services and his native language skills, he is poised to excel in this remote, academic environment.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study in a graduate-level setting? 2. How do you approach legal translation in a professional context? 3. Can you elaborate on a project you led that involved curriculum development?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@uk.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@uk.linkedin.com",
+      "hr@uk.linkedin.com",
+      "jobs@uk.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Sigma AI",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-11T20:19:05.072052+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "Sigma AI is seeking a Levantine Arabic Linguistic Projects professional with a passion for language instruction and translation. As a recognized linguist, your expertise will be instrumental in enhancing Sigma AI's services in the Levant region. Please apply if you are eager to contribute to a forward-thinking company and to your field.",
+      "experience": "Your 10 years of experience in ESL teaching and administration at esteemed educational institutions such as Higher Institute of Science and Technology, Al-Safwa Smart School for Private Education, and Anwar Al-Hayat School for Private Education have equipped you with the skills necessary to lead and develop language programs.",
+      "skills": "Your combination of academic supervision, research guidance, thesis writing, and curriculum development skills, combined with your proficiency in Microsoft Office, Adobe Photoshop, and SPSS, makes you a well-rounded candidate for this position. Your ability to translate between Arabic and English, both academically and professionally, highlights your versatility and dedication to excellence.",
+      "closing": "I am available for an interview at your earliest convenience. I look forward to the opportunity to discuss how my qualifications and experiences align with the requirements of this position. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Sigma AI_Levantine Arabic Linguistic Projects (On-site Lond_20260911.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Sigma AI_Levantine Arabic Linguistic Projects (On-site Lond_20260911.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-11T20:19:44.134120+00:00"
+  },
+  {
+    "title": "English Teacher",
+    "company": "American Language Academy of Congo",
+    "url": "https://cd.linkedin.com/jobs/view/english-teacher-at-american-language-academy-of-congo-4464235527",
+    "location": "Remote \u2014 Kinshasa, Democratic Republic of the Congo",
+    "posted": "2026-09-11",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-11T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.27028124027778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches the job description for ESL teaching, academic supervision, and legal translation."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in academic supervision and legal translation, aligning with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work and academic environment align well with the candidate's career goals and skills."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide locations are compatible with the candidate's skills and preferences."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds towards senior translator or academic coordinator roles, aligning with the candidate's career goals."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Legal Translation"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the English Teacher position at American Language Academy of Congo. His background in ESL teaching, academic supervision, and legal translation aligns perfectly with the job requirements, making him a valuable addition to the team. He has a proven track record in these areas and a clear career path towards senior roles in translation or academic services.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you handle plagiarism in academic papers? 3. Can you walk us through a legal translation you've done?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the English Teacher position at American Language Academy of Congo, with a proven track record in ESL/EFL instruction, academic supervision, and legal translation."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the English Teacher position at American Language Academy of Congo, with a proven track record in ESL/EFL instruction, academic supervision, and legal translation.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Legal Translation"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the English Teacher position at American Language Academy of Congo. His background in ESL teaching, academic supervision, and legal translation aligns perfectly with the job requirements, making him a valuable addition to the team. He has a proven track record in these areas and a clear career path towards senior roles in translation or academic services.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you handle plagiarism in academic papers? 3. Can you walk us through a legal translation you've done?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@cd.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@cd.linkedin.com",
+      "hr@cd.linkedin.com",
+      "jobs@cd.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "American Language Academy of Congo",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-11T20:19:05.072883+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am excited about the opportunity to join the American Language Academy of Congo as an English Teacher, leveraging my expertise in language instruction and academic supervision to enhance language education for students.",
+      "experience": "In my previous role as an ESL Teacher and Secondary Supervisor at Higher Institute of Science and Technology, I honed my skills in academic supervision and research guidance. At Al-Safwa Smart School for Private Education, I served as an ESL Teacher and partner, where I provided effective instruction and curriculum development, and at Anwar Al-Hayat School for Private Education, I focused on developing and implementing a comprehensive ESL curriculum.",
+      "skills": "My extensive experience in academic supervision and research guidance, coupled with my proficiency in academic editing and thesis review, aligns perfectly with the requirements of an English Teacher at American Language Academy of Congo. My ability to adapt to both online and in-person teaching methods, as well as my expertise in curriculum development, makes me a strong fit for this position.",
+      "closing": "I am eager to contribute my skills and enthusiasm to the mission of American Language Academy of Congo. I am available for an interview at your earliest convenience. Thank you for considering my application. I look forward to the opportunity to discuss how my background and qualifications can contribute to the success of your academy."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/American Language Academy of C_English Teacher_20260911.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/American Language Academy of C_English Teacher_20260911.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-11T20:19:44.134120+00:00"
+  },
+  {
+    "title": "English Teacher 100% online",
+    "company": "Vilenna Educaci\u00f3n",
+    "url": "https://mx.linkedin.com/jobs/view/english-teacher-100%25-online-at-vilenna-educaci%C3%B3n-4464222278",
+    "location": "Remote \u2014 M\u00e9xico, Mexico",
+    "posted": "2026-09-11",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-11T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.270281377777774,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches ESL/EFL instruction, academic supervision, and bidirectional translation."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment, and compatible with translation/teaching/academic roles."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job location in Mexico."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Secures stable remote work in translation or ESL teaching, builds toward senior translator or academic coordinator role."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the English Teacher position at Vilenna Educaci\u00f3n. His background in ESL teaching, academic supervision, and legal translation aligns well with the remote, flexible, and academic environment required for the job. He is well-positioned for a senior translator or academic coordinator role and can contribute to graduate-level research supervision.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation? 3. Can you discuss your experience in managing procurement and logistics?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the English Teacher position with his extensive experience in ESL/EFL instruction, academic supervision, and legal translation, making him a valuable asset to Vilenna Educaci\u00f3n."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the English Teacher position with his extensive experience in ESL/EFL instruction, academic supervision, and legal translation, making him a valuable asset to Vilenna Educaci\u00f3n.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the English Teacher position at Vilenna Educaci\u00f3n. His background in ESL teaching, academic supervision, and legal translation aligns well with the remote, flexible, and academic environment required for the job. He is well-positioned for a senior translator or academic coordinator role and can contribute to graduate-level research supervision.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation? 3. Can you discuss your experience in managing procurement and logistics?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@mx.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@mx.linkedin.com",
+      "hr@mx.linkedin.com",
+      "jobs@mx.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Vilenna Educaci\u00f3n",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-11T20:19:05.073576+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am thrilled to apply for the English Teacher 100% online position at Vilenna Educaci\u00f3n, where I am confident I can make significant contributions to your esteemed institution. My background as an ESL teacher and secondary supervisor has equipped me with the skills and experience necessary to excel in this role.",
+      "experience": "In my previous positions as an ESL teacher and secondary supervisor, I have honed my expertise in academic supervision, research guidance, and curriculum development. I have also taught online and in-person, ensuring that I can adapt to various teaching environments and methodologies.",
+      "skills": "My skills include academic supervision and research guidance, academic editing and thesis review, thesis writing and development, ESL/EFL instruction, online and in-person teaching, curriculum development, Arabic-English bidirectional translation, academic translation, legal translation, and Microsoft Office Suite proficiency.",
+      "closing": "I am eager to discuss how my qualifications and experience align with your needs and would welcome the opportunity to present my full profile for your consideration. I look forward to the possibility of interviewing and contributing to your team. Please feel free to contact me at [Your Email Address] or at [Your Phone Number]. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Vilenna Educaci\u00f3n_English Teacher 100% online_20260911.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Vilenna Educaci\u00f3n_English Teacher 100% online_20260911.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-11T20:19:44.134120+00:00"
+  },
+  {
     "title": "<![CDATA[Hindi content writing ]]>",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/article-rewriting/Hindi-content-writing.html",
