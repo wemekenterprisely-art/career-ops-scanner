@@ -716,5 +716,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-10T20:19:21.824155+00:00"
+  },
+  "Best Path Tuition": {
+    "name": "Best Path Tuition",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-11T05:17:31.318515+00:00"
+  },
+  "Infopro Digital Automotive": {
+    "name": "Infopro Digital Automotive",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-11T05:17:31.319582+00:00"
   }
 }
