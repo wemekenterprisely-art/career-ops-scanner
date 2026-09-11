@@ -764,5 +764,41 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-11T13:20:18.778666+00:00"
+  },
+  "Sigma AI": {
+    "name": "Sigma AI",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-11T20:19:05.072052+00:00"
+  },
+  "American Language Academy of Congo": {
+    "name": "American Language Academy of Congo",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-11T20:19:05.072883+00:00"
+  },
+  "Vilenna Educaci\u00f3n": {
+    "name": "Vilenna Educaci\u00f3n",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-11T20:19:05.073576+00:00"
   }
 }
