@@ -740,5 +740,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-11T05:17:31.319582+00:00"
+  },
+  "AP Guru": {
+    "name": "AP Guru",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-11T13:20:18.777565+00:00"
+  },
+  "Leela Home elearning": {
+    "name": "Leela Home elearning",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-11T13:20:18.778666+00:00"
   }
 }
