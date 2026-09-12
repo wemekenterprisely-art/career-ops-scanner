@@ -1346,5 +1346,20 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-12T05:17:00.801630+00:00",
+    "matched_count": 1,
+    "all_count": 4418,
+    "jobs": [
+      {
+        "title": "Gambling Content Writer \u2013 Human-Written Articles Only",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/research/Gambling-Content-Writer-Human-Written.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
