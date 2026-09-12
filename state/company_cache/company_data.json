@@ -812,5 +812,27 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-12T13:15:43.221316+00:00"
+  },
+  "micro1": {
+    "name": "micro1",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-09-12T20:20:21.048373+00:00"
+  },
+  "Echo Education": {
+    "name": "Echo Education",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-12T20:20:21.049176+00:00"
   }
 }
