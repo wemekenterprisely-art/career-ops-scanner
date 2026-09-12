@@ -1384,5 +1384,36 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-12T20:21:18.458431+00:00",
+    "matched_count": 3,
+    "all_count": 4715,
+    "jobs": [
+      {
+        "title": "Paper Text Data Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/word-processing/Paper-Text-Data-Entry.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Cantonese Language Evaluator",
+        "company": "micro1",
+        "url": "https://himalayas.app/companies/micro1/jobs/cantonese-language-evaluator",
+        "score": 100,
+        "category": "Admin",
+        "source": "himalayas"
+      },
+      {
+        "title": "Hangzhou English Teacher",
+        "company": "Echo Education",
+        "url": "https://cn.linkedin.com/jobs/view/hangzhou-english-teacher-at-echo-education-4464250714",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
