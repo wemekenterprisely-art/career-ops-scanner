@@ -1361,5 +1361,28 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-09-12T13:16:37.490423+00:00",
+    "matched_count": 2,
+    "all_count": 4712,
+    "jobs": [
+      {
+        "title": "Pakistani Virtual Assistant for Admin Support",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/social-media-management/Pakistani-Virtual-Assistant-for-Admin",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "English ESL Teacher",
+        "company": "Elevate",
+        "url": "https://cn.linkedin.com/jobs/view/english-esl-teacher-at-elevate-4466450602",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
