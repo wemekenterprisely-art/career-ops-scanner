@@ -1461,5 +1461,68 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-13T20:23:25.467402+00:00",
+    "matched_count": 7,
+    "all_count": 4712,
+    "jobs": [
+      {
+        "title": "English Handwriting Transcription Project",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/English-Handwriting-Transcription",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Healthcare Virtual Assistant (Mental Health Practice | Remote)",
+        "company": "Ataraxis Management",
+        "url": "https://himalayas.app/companies/ataraxis-management/jobs/healthcare-virtual-assistant-mental-health-practice-remote-7686738480",
+        "score": 100,
+        "category": "Admin",
+        "source": "himalayas"
+      },
+      {
+        "title": "Precise Audio Transcription Typist",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/audio-editing/Precise-Audio-Transcription-Typist",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Virtual Assistant \u2013 General Business Support",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/social-media-management/Virtual-Assistant-General-Business",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Facebook & Instagram Content Creation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-creation/Facebook-Instagram-Content-Creation-40708815",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Entry-Level English Teacher",
+        "company": "English 1",
+        "url": "https://ca.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4466766155",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Entry-Level English Teacher",
+        "company": "English 1",
+        "url": "https://ca.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4466771696",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
