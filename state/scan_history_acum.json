@@ -1446,5 +1446,20 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-13T13:17:16.061969+00:00",
+    "matched_count": 1,
+    "all_count": 4721,
+    "jobs": [
+      {
+        "title": "Creative Services Proofreader - Analyst - Markets",
+        "company": "JPMorganChase",
+        "url": "https://in.linkedin.com/jobs/view/creative-services-proofreader-analyst-markets-at-jpmorganchase-4439302040",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
