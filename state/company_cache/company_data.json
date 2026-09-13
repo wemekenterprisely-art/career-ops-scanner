@@ -834,5 +834,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-12T20:20:21.049176+00:00"
+  },
+  "Springfield Public Schools (Massachusetts)": {
+    "name": "Springfield Public Schools (Massachusetts)",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-13T05:14:49.023877+00:00"
+  },
+  "Fanatics": {
+    "name": "Fanatics",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-13T05:14:49.024972+00:00"
   }
 }
