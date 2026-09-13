@@ -7830,6 +7830,114 @@
     "scan_date": "2026-09-13T05:15:34.391740+00:00"
   },
   {
+    "title": "Creative Services Proofreader - Analyst - Markets",
+    "company": "JPMorganChase",
+    "url": "https://in.linkedin.com/jobs/view/creative-services-proofreader-analyst-markets-at-jpmorganchase-4439302040",
+    "location": "Remote \u2014 Mumbai, Maharashtra, India",
+    "posted": "2026-09-13",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-09-13T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.209944434166665,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires Arabic-English translation and academic supervision, which are closely aligned with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Candidate has experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in language instruction, academic supervision, and legal translation aligns well with the remote, academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate's remote work preference and the job's remote location are compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirement for long-term client relationships and academic services, which can be built upon."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "No specific gaps identified"
+      ],
+      "recommendation": "This candidate would excel in a role that requires remote work, academic supervision, and the ability to translate legal documents. The candidate's strong background in language instruction and academic supervision makes them a strong fit for this position.",
+      "interview_prep": "1. Can you describe a time when you supervised a group of graduate students in academic research? 2. How do you ensure the accuracy of legal translations? 3. Can you share an experience where you translated a complex academic paper into Arabic?",
+      "one_line_summary": "ESL instructor with academic supervision and legal translation experience, strong fit for remote, academic role."
+    },
+    "ai_insight": "ESL instructor with academic supervision and legal translation experience, strong fit for remote, academic role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "No specific gaps identified"
+    ],
+    "ai_recommendation": "This candidate would excel in a role that requires remote work, academic supervision, and the ability to translate legal documents. The candidate's strong background in language instruction and academic supervision makes them a strong fit for this position.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a group of graduate students in academic research? 2. How do you ensure the accuracy of legal translations? 3. Can you share an experience where you translated a complex academic paper into Arabic?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "JPMorganChase",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-13T13:16:35.737783+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/JPMorganChase_Creative Services Proofreader - Analyst - Markets_20260913.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/JPMorganChase_Creative Services Proofreader - Analyst - Markets_20260913.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-13T13:16:50.971320+00:00"
+  },
+  {
     "title": "<![CDATA[Hindi content writing ]]>",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/article-rewriting/Hindi-content-writing.html",
