@@ -858,5 +858,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-13T05:14:49.024972+00:00"
+  },
+  "JPMorganChase": {
+    "name": "JPMorganChase",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-13T13:16:35.737783+00:00"
   }
 }
