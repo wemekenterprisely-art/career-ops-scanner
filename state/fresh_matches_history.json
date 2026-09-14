@@ -13885,6 +13885,423 @@
     "scan_date": "2026-09-14T05:22:19.168390+00:00"
   },
   {
+    "title": "Typing & Translation Support",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-writing/Typing-Translation-Support.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Mon, 14 Sep 2026 09:02:22 -0400",
+    "description": "I need a set of documents re-typed into an editable Word file and then translated accurately into the target language I will specify once we start. The originals are clear but not in digital form, so the first step is faithful copy-typing that keeps headings, tables, and basic layout intact... (Budget: \u20b912500 - \u20b937500 INR, Jobs: Content Writing, Copy Typing, Copywriting, Editing, English (US) Translator, Microsoft Word, Proofreading, Translation)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-09-14T09:02:22-04:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (description)",
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.2448866163888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires accurate translation and editing, which aligns with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has relevant experience in ESL teaching, academic supervision, and legal translation, which is partially matched by the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background and skills align well with the remote, academic environment of the job, with some minor friction in terms of language skills."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preferences and skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the job, as it offers opportunities for senior roles and academic services."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Legal translation experience"
+      ],
+      "gaps": [
+        "No direct experience in engineering or programming"
+      ],
+      "recommendation": "The candidate has strong skills in ESL teaching and academic supervision, which align well with the job requirements. The remote and academic environment is a good fit, and the career goals are aligned. The candidate should focus on improving their technical skills and experience in engineering or programming to meet the job's technical requirements.",
+      "interview_prep": "1. Can you share an example of a time when you successfully translated legal documents? 2. How do you approach academic research supervision and thesis review? 3. Describe a project where you had to ensure plagiarism-free content.",
+      "one_line_summary": "Strong Fit for Freelancer.com's Typing & Translation Support job due to strong technical skills, career alignment, and remote work compatibility."
+    },
+    "ai_insight": "Strong Fit for Freelancer.com's Typing & Translation Support job due to strong technical skills, career alignment, and remote work compatibility.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Legal translation experience"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or programming"
+    ],
+    "ai_recommendation": "The candidate has strong skills in ESL teaching and academic supervision, which align well with the job requirements. The remote and academic environment is a good fit, and the career goals are aligned. The candidate should focus on improving their technical skills and experience in engineering or programming to meet the job's technical requirements.",
+    "ai_interview_prep": "1. Can you share an example of a time when you successfully translated legal documents? 2. How do you approach academic research supervision and thesis review? 3. Describe a project where you had to ensure plagiarism-free content.",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Translation backlog / scaling",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Typing & Translation Support_20260914.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Typing & Translation Support_20260914.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-14T13:21:55.583949+00:00"
+  },
+  {
+    "title": "Type 50 Handwritten Pages",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-writing/Type-Handwritten-Pages-40708774.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Mon, 14 Sep 2026 08:59:10 -0400",
+    "description": "I have 50 pages of handwritten notes that need to be faithfully converted into a clean, error-free digital document. Accuracy matters more to me than speed: spelling, punctuation, and line breaks should all mirror the original text unless a clear typo appears on the page... (Budget: \u20b912500 - \u20b937500 INR, Jobs: Content Writing, Data Entry, Editing, PDF, Proofreading, Transcription, Typing, Word Processing)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-09-14T08:59:10-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "typist transcription transcribing transcriber (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.2982209636111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires accurate translation and editing, which aligns with Waleed's skills in Arabic-English bidirectional translation and academic editing."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Waleed has experience in ESL teaching, academic supervision, and legal translation, which are relevant to the job's content writing and proofreading needs."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The remote and academic environment aligns well with Waleed's preferred working style and skills."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which matches Waleed's preference."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The job aligns with Waleed's career goals of securing stable remote work in translation or ESL teaching, building long-term client relationships, and growing into senior translator or academic coordinator roles."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Accurate translation",
+        "Strong academic background",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed's skills and experience perfectly match this job, making it a strong fit. He can contribute effectively to the translation and academic writing aspects of the job.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you provide examples of your work on legal translation and editing? 3. How do you handle plagiarism checking and originality in your work?",
+      "one_line_summary": "Strong fit for remote academic writing and translation role."
+    },
+    "ai_insight": "Strong fit for remote academic writing and translation role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Accurate translation",
+      "Strong academic background",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed's skills and experience perfectly match this job, making it a strong fit. He can contribute effectively to the translation and academic writing aspects of the job.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you provide examples of your work on legal translation and editing? 3. How do you handle plagiarism checking and originality in your work?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Type 50 Handwritten Pages_20260914.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Type 50 Handwritten Pages_20260914.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-14T13:21:55.583949+00:00"
+  },
+  {
+    "title": "Data entry typing work job_ Entry level welcome",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/proofreading/Data-entry-typing-work-job",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-14T12:01:02+00:00",
+    "description": "I have a collection of text-only documents saved as PDFs that I need converted into an editable digital format. Every character must match the source precisely, so I expect the work to be typed manually and then proofread for complete accuracy before submission. You will receive the PDFs in organized batches so you can focus on one section at a time and return clean, typo-free files. Entry-level talent is welcome; what matters most is careful attention to detail, consistent formatting, and the willingness to double-check your own work. Deliverables (per batch) \u2022 A fully typed document in Word (or Google Docs if you prefer) mirroring the original layout \u2022 A brief self-audit report highlighting any illegible areas or source inconsistencies you found while proofreading Once each batch passes a quick spot-check, the next set will be released. If you\u2019re methodical, enjoy straightforward typing tasks, and can keep text pristine, you\u2019ll find this project smooth and repetitive.",
+    "salary": "250.0-750.0 CAD",
+    "source": "freelancer",
+    "postedISO": "2026-09-14T12:01:02+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.2669259369444443,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 70,
+        "reason": "Requires language skills and academic work, but not exclusively translation or teaching"
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in academic supervision and language instruction"
+      },
+      "behavioral_fit": {
+        "score": 75,
+        "reason": "Remote work environment, but some flexibility needed for proofreading"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards senior translator or academic coordinator role, aligns with career goals"
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "15 graduate-level research studies supervised"
+      ],
+      "gaps": [
+        "No specific programming language or senior leadership experience"
+      ],
+      "recommendation": "The candidate has strong language skills and experience in academic supervision, making them a good fit for the job. They can contribute to research and supervision roles, but may need to adapt to the remote work environment.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure the accuracy of translations in legal documents? 3. What is your experience with SPSS data analysis?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the job with strong language skills and experience in academic supervision, making them a good candidate for a senior translator or academic coordinator role."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the job with strong language skills and experience in academic supervision, making them a good candidate for a senior translator or academic coordinator role.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "15 graduate-level research studies supervised"
+    ],
+    "ai_gaps": [
+      "No specific programming language or senior leadership experience"
+    ],
+    "ai_recommendation": "The candidate has strong language skills and experience in academic supervision, making them a good fit for the job. They can contribute to research and supervision roles, but may need to adapt to the remote work environment.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure the accuracy of translations in legal documents? 3. What is your experience with SPSS data analysis?",
+    "ai_technical_skills": 70,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 75,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Data entry typing work job_ Entry level welcome_20260914.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Data entry typing work job_ Entry level welcome_20260914.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-14T13:21:55.583949+00:00"
+  },
+  {
+    "title": "Instagram Content Creator for Podcast - Ongoing Content Repurposing",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-creation/Instagram-Content-Creator-for-Podcast",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-14T09:40:00+00:00",
+    "description": "I am looking for a creative content assistant to help turn episodes of my podcast, The Purposeful Shift, into thoughtful, high-quality Instagram content. The podcast is primarily for women exploring change, confidence, purpose and what they want from the next stage of their lives. I currently have around 18 - 20 solo podcast episodes in the back catalogue, with new episodes continuing to be released. I would like to work through the existing episodes initially and then continue with new episodes if we work well together, so there is potential for regular ongoing work. For each episode I will provide the full podcast transcript, TPS branding, photographs and examples of my existing Instagram content. For a full episode content pack, I would like the freelancer to: - Read and understand the podcast transcript - Identify the strongest and most relatable ideas from the episode - Create 2 single-image Instagram posts - Create 2 short Instagram carousel posts, usually 3 - 5 slides each - Suggest a caption for each post - Supply editable Canva links/files as well as finished images ready to publish - Follow the existing TPS visual brand while also suggesting thoughtful design improvements where appropriate The most important skills for this role are strong written English, good editorial judgement and a strong eye for social media design. I am happy for AI tools to be used to support the creative process, but I am not looking for someone who simply puts the transcript into ChatGPT and copies the output into Canva. I can already do that myself. The final content needs to feel human, specific to the original episode and genuinely useful or relatable to the audience. Generic motivational content or obviously AI-generated copy will not be suitable. I prefer minimal use of generic stock photography. I can provide photographs of myself and brand assets, and stock imagery should only be used where it genuinely adds value to the post. Initial paid test The budget shown for this pr",
+    "salary": "20.0-250.0 GBP",
+    "source": "freelancer",
+    "postedISO": "2026-09-14T09:40:00+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.6174689916666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches the requirement for academic supervision and research guidance, as well as the ability to translate academic materials."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Has experience in academic supervision and research guidance, and has supervised 15 graduate-level studies."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment, flexible schedule, and academic-oriented role"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills and interests"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards senior translator or academic coordinator role, contributing to graduate-level research supervision"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision and Research Guidance",
+        "Remote Work Environment"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Ideal for someone looking to advance in the field of academic supervision and translation, with a strong fit for the remote, flexible nature of the job.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translating academic materials? 3. Can you share an example of a successful project you have worked on?",
+      "one_line_summary": "A strong fit for a remote academic supervisor role with a proven track record in academic supervision and research guidance."
+    },
+    "ai_insight": "A strong fit for a remote academic supervisor role with a proven track record in academic supervision and research guidance.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision and Research Guidance",
+      "Remote Work Environment"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Ideal for someone looking to advance in the field of academic supervision and translation, with a strong fit for the remote, flexible nature of the job.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translating academic materials? 3. Can you share an example of a successful project you have worked on?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Instagram Content Creator for Podcast - Ongoing Co_20260914.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Instagram Content Creator for Podcast - Ongoing Co_20260914.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-14T13:21:55.583949+00:00"
+  },
+  {
     "title": "Freelance Copywriter",
     "company": "Coalition Technologies",
     "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
