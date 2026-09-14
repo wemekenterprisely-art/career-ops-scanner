@@ -1610,5 +1610,52 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-09-14T20:23:43.231452+00:00",
+    "matched_count": 5,
+    "all_count": 4705,
+    "jobs": [
+      {
+        "title": "Academic Notes Word Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/proofreading/Academic-Notes-Word-Transcription.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "09.14.26 Contacts / Spreadsheet Contact Cleanup & Categorization",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-management/Contacts-Spreadsheet-Contact-Cleanup.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Odia Transcription Expert - Fully Remote | Upto $12/hr",
+        "company": "mercor",
+        "url": "https://himalayas.app/companies/mercor/jobs/odia-transcription-expert-fully-remote-upto-12-hr-6251711770",
+        "score": 100,
+        "category": "Admin",
+        "source": "himalayas"
+      },
+      {
+        "title": "Social Media Video Content Creator",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/video-production/Social-Media-Video-Content-Creator",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Casual Social Media Content Creation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/graphic-design/Casual-Social-Media-Content-Creation",
+        "score": 77,
+        "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
