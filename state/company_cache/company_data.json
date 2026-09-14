@@ -892,5 +892,15 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-14T05:21:03.639597+00:00"
+  },
+  "mercor": {
+    "name": "mercor",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-09-14T20:22:04.486044+00:00"
   }
 }
