@@ -1524,5 +1524,52 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-14T05:22:42.309231+00:00",
+    "matched_count": 5,
+    "all_count": 4710,
+    "jobs": [
+      {
+        "title": "Virtual Job Application Assistant Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/excel/Virtual-Job-Application-Assistant-Needed.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Fashion Supplier Outreach Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/email-marketing/Fashion-Supplier-Outreach-Assistant.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "MY English Teacher (Full-Time)",
+        "company": "Write Edge",
+        "url": "https://my.linkedin.com/jobs/view/my-english-teacher-full-time-at-write-edge-4465701537",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Entry-Level English Teacher",
+        "company": "English 1",
+        "url": "https://ca.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4467029097",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Instagram Content Development for OhCutieCakes",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/instagram/Instagram-Content-Development-for",
+        "score": 82,
+        "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
