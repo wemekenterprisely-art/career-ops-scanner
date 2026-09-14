@@ -1571,5 +1571,44 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-09-14T13:22:19.652135+00:00",
+    "matched_count": 4,
+    "all_count": 4722,
+    "jobs": [
+      {
+        "title": "Typing & Translation Support",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Typing-Translation-Support.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Type 50 Handwritten Pages",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Type-Handwritten-Pages-40708774.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Data entry typing work job_ Entry level welcome",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/proofreading/Data-entry-typing-work-job",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Instagram Content Creator for Podcast - Ongoing Content Repurposing",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-creation/Instagram-Content-Creator-for-Podcast",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
