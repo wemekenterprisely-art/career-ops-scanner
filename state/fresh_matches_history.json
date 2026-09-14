@@ -8484,6 +8484,116 @@
     "scan_date": "2026-09-14T05:22:19.168390+00:00"
   },
   {
+    "title": "Odia Transcription Expert - Fully Remote | Upto $12/hr",
+    "company": "mercor",
+    "url": "https://himalayas.app/companies/mercor/jobs/odia-transcription-expert-fully-remote-upto-12-hr-6251711770",
+    "location": "Portugal",
+    "posted": 1789413825,
+    "description": "About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position: PDF Annotation & Transcription Experts \u2013 Odia Type: Contract Compensation: $13/hour Location: Remote Role Responsibilities Source documents: Find a publicly accessible Odia PDF in an assigned document type with multimodal elements. Record the source. Annotate structure: Identify and bound every meaningful region of the page. Assign each a component type and a reading-order index. Record relationships: Link each region to its parent component, such as a figure or table. Transcribe faithfully: Reproduce all text exactly as it appears in Odia script , including handwritten content. Flag any illegible regions. Capture page metadata: Document language, type, source, page dimensions, and flags for tables, formulas, and handwriting. Review a colleague's work: Conduct end-to-end reviews of tasks by a second Odia expert . Qualifications Must-Have Native Odia speaker with full command of the script. Experience in annotation, transcription, translation, localization, subtitling, proofreading, journalism, or regional-language data review. Exact character-level accuracy. Systematic application of taxonomy across pages. Comfort with unfamiliar layouts like multi-column newspapers and handwritten forms. Preferred Experience with regional-language AI data annotation, labeling, grading, or bilingual evaluation. Skills in transcription and localization: MTPE , subtitling, bilingual QA, OCR correction, or post-editing. Document production skills: typesetting, copy-editing, proofreading, or digitization of Odia-language material. Knowledge of script and encoding: Unicode normalization , Odia input methods , numeral-form, and character-form accuracy. Application Process (Takes 20\u201330 mins to complete) Upload resume AI interview based on your resume Submit form Resources & Support For details about the interview process and platform information, please check: For any help or support, reach out to: PS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity. Originally posted on Himalayas",
+    "salary": "$13/hour",
+    "source": "himalayas",
+    "postedISO": "2026-09-14T19:23:45+00:00",
+    "score": 100,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title+description)",
+      "data annotation data labeling data labeler data entry specialist clerk operator agent (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.8770127769444445,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches Odia Transcription Expert job, which requires Odia translation and transcription skills."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Has experience in academic supervision, legal translation, and remote work, which aligns with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work and academic environment align well with the candidate's skills and goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide location fits the job description."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligns with the candidate's goals."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic and C1 Advanced English proficiency",
+        "Experience in academic supervision and legal translation"
+      ],
+      "gaps": [
+        "No experience in AI research labs"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Odia Transcription Expert role. He has the necessary language skills and academic background to excel in this position.",
+      "interview_prep": [
+        "Can you describe a time when you supervised a research study?",
+        "What is your experience with legal translation?",
+        "How do you approach data analysis in your work?"
+      ],
+      "one_line_summary": "Waleed Ballag's strong skills and experience make him a strong fit for the Odia Transcription Expert role."
+    },
+    "ai_insight": "Waleed Ballag's strong skills and experience make him a strong fit for the Odia Transcription Expert role.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic and C1 Advanced English proficiency",
+      "Experience in academic supervision and legal translation"
+    ],
+    "ai_gaps": [
+      "No experience in AI research labs"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Odia Transcription Expert role. He has the necessary language skills and academic background to excel in this position.",
+    "ai_interview_prep": [
+      "Can you describe a time when you supervised a research study?",
+      "What is your experience with legal translation?",
+      "How do you approach data analysis in your work?"
+    ],
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@himalayas.app",
+    "email_verified": false,
+    "all_emails": [
+      "careers@himalayas.app",
+      "hr@himalayas.app",
+      "jobs@himalayas.app"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "mercor",
+      "legitimacy_score": 50,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [],
+      "last_updated": "2026-09-14T20:22:04.486044+00:00"
+    },
+    "company_legitimacy": 50,
+    "company_summary": "",
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/mercor_Odia Transcription Expert - Fully Remote - Upto $1_20260914.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/mercor_Odia Transcription Expert - Fully Remote - Upto $1_20260914.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-14T20:23:20.011011+00:00"
+  },
+  {
     "title": "<![CDATA[Hindi content writing ]]>",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/article-rewriting/Hindi-content-writing.html",
@@ -14302,6 +14412,323 @@
     "scan_date": "2026-09-14T13:21:55.583949+00:00"
   },
   {
+    "title": "Academic Notes Word Transcription",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/proofreading/Academic-Notes-Word-Transcription.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Mon, 14 Sep 2026 15:46:31 -0400",
+    "description": "A stack of handwritten academic notes needs to be turned into a clean, editable Microsoft Word document. Every heading, paragraph break, numbered list, and indentation in the original pages must appear... (Budget: \u20b9750 - \u20b91250 INR, Jobs: Editing, English (US) Translator, Proofreading, Transcription, Word)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-09-14T15:46:31-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.4977794741666666,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires academic notes transcription, which aligns with the candidate's experience in academic supervision and research guidance."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and research guidance, which are all relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic supervision and research guidance suggests a strong fit for the academic notes transcription job, especially in terms of attention to detail and organizational skills."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, which aligns with the candidate's preference for remote work and the ability to work from anywhere."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals of securing stable remote work in translation or ESL teaching, building long-term client relationships, and contributing to graduate-level research supervision align well with the job's requirements."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong experience in academic supervision and research guidance",
+        "Good fit for remote work"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's strong background in academic supervision and research guidance makes him a strong fit for the Academic Notes Word Transcription job. He brings valuable skills in academic writing, proposal development, and research guidance, which are essential for the job's requirements. His experience in remote work and ability to work with academic materials make him an ideal candidate for this role.",
+      "interview_prep": "1. Can you describe a time when you had to proofread and transcribe academic notes? 2. How do you approach managing a research project's documentation? 3. Can you share an experience where you had to ensure the accuracy of a large set of academic notes?",
+      "one_line_summary": "Waleed Ballag's academic background and remote work experience make him a strong fit for the Academic Notes Word Transcription job."
+    },
+    "ai_insight": "Waleed Ballag's academic background and remote work experience make him a strong fit for the Academic Notes Word Transcription job.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong experience in academic supervision and research guidance",
+      "Good fit for remote work"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong background in academic supervision and research guidance makes him a strong fit for the Academic Notes Word Transcription job. He brings valuable skills in academic writing, proposal development, and research guidance, which are essential for the job's requirements. His experience in remote work and ability to work with academic materials make him an ideal candidate for this role.",
+    "ai_interview_prep": "1. Can you describe a time when you had to proofread and transcribe academic notes? 2. How do you approach managing a research project's documentation? 3. Can you share an experience where you had to ensure the accuracy of a large set of academic notes?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Academic Notes Word Transcription_20260914.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Academic Notes Word Transcription_20260914.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-14T20:23:20.011011+00:00"
+  },
+  {
+    "title": "09.14.26 Contacts / Spreadsheet Contact Cleanup & Categorization",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/data-management/Contacts-Spreadsheet-Contact-Cleanup.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Mon, 14 Sep 2026 15:45:05 -0400",
+    "description": "I have a spreadsheet full of contacts that needs a thorough refresh. The file contains outdated entries, duplicate rows, and lacks any meaningful grouping. My goal is to turn it into a clean, reliable source I can sort and filter with ease... (Budget: $10 - $30 USD, Jobs: Data Annotation, Data Cleansing, Data Entry, Data Management, Data Processing, Excel, Google Sheets, Web Search)",
+    "salary": "$10",
+    "source": "freelancer",
+    "postedISO": "2026-09-14T15:45:05-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "data annotation data labeling data labeler data entry specialist clerk operator agent (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.5216688736111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Job requires data management and cleaning, which aligns with the candidate's skills in Excel and data analysis."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Candidate has experience in ESL teaching, academic supervision, and data management, which are relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work and academic environment fit well with the candidate's skills and experience."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote worldwide, and the candidate is flexible, which aligns with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "The job aligns with the candidate's career goals of securing stable remote work and building long-term client relationships."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Data Management",
+        "Remote Work",
+        "Academic Environment"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate is well-suited for the job as it aligns with their career goals and skills. They can contribute to data management and cleaning tasks, which is a perfect fit for their experience and interests.",
+      "interview_prep": "1. Can you describe a time when you used data analysis to improve a research project? 2. How do you approach managing and cleaning large datasets? 3. Can you share an experience where you had to manage a team of translators?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the job as it aligns with their career goals and skills."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the job as it aligns with their career goals and skills.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Data Management",
+      "Remote Work",
+      "Academic Environment"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate is well-suited for the job as it aligns with their career goals and skills. They can contribute to data management and cleaning tasks, which is a perfect fit for their experience and interests.",
+    "ai_interview_prep": "1. Can you describe a time when you used data analysis to improve a research project? 2. How do you approach managing and cleaning large datasets? 3. Can you share an experience where you had to manage a team of translators?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_09.14.26 Contacts - Spreadsheet Contact Cleanup & _20260914.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_09.14.26 Contacts - Spreadsheet Contact Cleanup & _20260914.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-14T20:23:20.011011+00:00"
+  },
+  {
+    "title": "Social Media Video Content Creator",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/video-production/Social-Media-Video-Content-Creator",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-14T16:20:48+00:00",
+    "description": "Company: Hidani Tech Job Type: Freelance / Contract Work Mode: Remote Compensation: \u20b9500\u2013\u20b910,000 ($5\u2013$106 USD) per REEL Note: Raw video files only , no editing required. Follower count does not matter. No posting from your personal account; clips will be used exclusively on the Hidani Tech brand page. About the Role Hidani Tech is looking for a confident, engaging on-camera content creator with a clear American accent to create short-form videos for our social media and marketing campaigns. What You'll Do Create short-form videos for Instagram and other platforms. Speak naturally and confidently in front of the camera. Follow provided scripts or turn topics into engaging video content. Create content around AI, careers, job searching, resumes, interviews, and workplace trends. Deliver clear, professional, and engaging videos. What We're Looking For Clear American accent / American-style pronunciation \u2014 required. Comfortable and confident speaking on camera. Strong communication, expressions, and delivery. Ability to make scripted content feel natural and conversational. Previous content creation experience is a plus, but not required. No followers required. We care about your on-camera presence, communication, and content quality, not your follower count. Compensation \u20b9500\u2013\u20b910,000 per video Approximately $5\u2013$106 USD per video, depending on the content, format, and scope. If you're confident on camera and can deliver content that feels natural to an American audience, we'd love to hear from you.",
+    "salary": "600.0-1500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-09-14T16:20:48+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title+description)",
+      "content creation (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.926210990555555,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires language skills, writing, and academic work, aligns with the job description."
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Related experience in language services and academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote, flexible, and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 81,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Clear American accent",
+        "Strong communication skills"
+      ],
+      "gaps": [
+        "No experience in engineering or development"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Social Media Video Content Creator role. His skills in language, writing, and academic supervision align well with the job requirements, and his remote work experience makes him a good match for the flexible nature of the position.",
+      "interview_prep": [
+        "Can you describe a time when you had to translate legal documents for academic supervision? How did you approach the challenge?",
+        "How do you ensure clear and engaging videos in front of the camera, especially when speaking in a clear American accent?"
+      ],
+      "one_line_summary": "Waleed Ballag is a strong fit for the Social Media Video Content Creator role due to his language skills, academic background, and remote work experience."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Social Media Video Content Creator role due to his language skills, academic background, and remote work experience.",
+    "ai_overall_score": 81,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Clear American accent",
+      "Strong communication skills"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or development"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Social Media Video Content Creator role. His skills in language, writing, and academic supervision align well with the job requirements, and his remote work experience makes him a good match for the flexible nature of the position.",
+    "ai_interview_prep": [
+      "Can you describe a time when you had to translate legal documents for academic supervision? How did you approach the challenge?",
+      "How do you ensure clear and engaging videos in front of the camera, especially when speaking in a clear American accent?"
+    ],
+    "ai_technical_skills": 85,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Social Media Video Content Creator_20260914.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Social Media Video Content Creator_20260914.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-14T20:23:20.011011+00:00"
+  },
+  {
     "title": "Freelance Copywriter",
     "company": "Coalition Technologies",
     "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
@@ -15842,6 +16269,107 @@
     "cover_letter_ai": false,
     "interview_prep_generated": false,
     "scan_date": "2026-09-14T05:22:19.168390+00:00"
+  },
+  {
+    "title": "Casual Social Media Content Creation",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/graphic-design/Casual-Social-Media-Content-Creation",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-14T13:57:49+00:00",
+    "description": "I\u2019m looking for a creative freelancer who can handle the full mix of social posts I need\u2014eye-catching images, short-form videos, and lively text captions\u2014all in a consistently casual and fun voice. You\u2019ll take my ideas or raw product shots, turn them into scroll-stopping visuals, pair them with punchy copy, and deliver ready-to-post assets sized correctly for the major platforms. Expect a steady flow of work: a weekly batch of image posts, a handful of quick-cut reels or story-style clips, plus the matching captions and hashtags that keep the tone upbeat and engaging. Deliverables each cycle: \u2022 Edited image posts (PSD or layered PNG + final JPG) \u2022 15\u201330 sec videos (MP4, vertical) with on-screen text or stickers \u2022 Captions and hashtags in a doc or spreadsheet I\u2019ll provide brand colours, logos, and any product info; you bring the concepts, editing skills, and social savvy. If you have a portfolio that shows playful branding work, I\u2019d love to see it.",
+    "salary": "12500.0-37500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-09-14T13:57:49+00:00",
+    "score": 77,
+    "category": "Editing",
+    "why": [
+      "content creation (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 6.3092708024999995,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires creating social media content, which is a mix of language skills and technical skills, but not exclusively Arabic-English translation, ESL teaching, or academic supervision."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and legal translation, which are relevant skills for the job."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background aligns well with the creative and casual nature of the job, and they have experience in related fields."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and the candidate is open to worldwide locations."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the role of creating social media content, which is a creative and academic task."
+      },
+      "overall_score": 87,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Creative and versatile",
+        "Strong language skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag has strong skills in language and creative writing, making them a strong fit for the social media content creation role. They can bring a fresh perspective to the job and contribute effectively to the team.",
+      "interview_prep": "1. Can you describe a time when you created social media content for a client? 2. How do you approach creating content that is both engaging and consistent with the brand's tone? 3. Can you share an example of a project where you had to balance multiple creative and technical aspects?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the social media content creation role due to their diverse skills and creative approach."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the social media content creation role due to their diverse skills and creative approach.",
+    "ai_overall_score": 87,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Creative and versatile",
+      "Strong language skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag has strong skills in language and creative writing, making them a strong fit for the social media content creation role. They can bring a fresh perspective to the job and contribute effectively to the team.",
+    "ai_interview_prep": "1. Can you describe a time when you created social media content for a client? 2. How do you approach creating content that is both engaging and consistent with the brand's tone? 3. Can you share an example of a project where you had to balance multiple creative and technical aspects?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 24,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Casual Social Media Content Creation_20260914.pdf",
+    "cover_letter_type": "marketing",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-09-14T20:23:20.011011+00:00"
   },
   {
     "title": "<![CDATA[Indian Constitution Book Ghostwriter]]>",
