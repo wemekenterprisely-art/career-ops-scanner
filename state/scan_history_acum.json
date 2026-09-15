@@ -1735,5 +1735,28 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-15T20:22:04.862115+00:00",
+    "matched_count": 2,
+    "all_count": 4647,
+    "jobs": [
+      {
+        "title": "Appointment Coordination Virtual Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/administrative-support/Appointment-Coordination-Virtual.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Business Coordinator and Executive Virtual Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/crm/Business-Coordinator-Executive-Virtual",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
