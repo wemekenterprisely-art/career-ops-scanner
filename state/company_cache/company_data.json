@@ -902,5 +902,41 @@
     "red_flags": [],
     "positive_signals": [],
     "last_updated": "2026-09-14T20:22:04.486044+00:00"
+  },
+  "Salt": {
+    "name": "Salt",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-15T13:21:06.322690+00:00"
+  },
+  "4level1": {
+    "name": "4level1",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-15T13:21:06.323816+00:00"
+  },
+  "instrucko": {
+    "name": "instrucko",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-15T13:21:06.324708+00:00"
   }
 }
