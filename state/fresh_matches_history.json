@@ -8707,6 +8707,339 @@
     "scan_date": "2026-09-15T05:16:42.692994+00:00"
   },
   {
+    "title": "Creative Translator & Copywriter (Arabic)",
+    "company": "Salt",
+    "url": "https://eg.linkedin.com/jobs/view/creative-translator-copywriter-arabic-at-salt-4465524922",
+    "location": "Remote \u2014 Cairo, Egypt",
+    "posted": "2026-09-15",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic translator",
+    "postedISO": "2026-09-15T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "translator translation interpreter linguist editor proofreader localisation specialist .{0,40}arabic (title)",
+      "translator translation specialist staff translator freelance translator (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.245201370833334,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds toward senior translator or academic coordinator role"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation",
+        "ESL teaching",
+        "Academic supervision"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is highly qualified for the Creative Translator & Copywriter role at Salt. His experience aligns well with the job requirements and he can contribute to the company's academic services.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and translation between Arabic and English?",
+      "one_line_summary": "Waleed Ballag is a highly qualified candidate with a strong background in ESL teaching and academic supervision, making him a strong fit for the Creative Translator & Copywriter role at Salt."
+    },
+    "ai_insight": "Waleed Ballag is a highly qualified candidate with a strong background in ESL teaching and academic supervision, making him a strong fit for the Creative Translator & Copywriter role at Salt.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation",
+      "ESL teaching",
+      "Academic supervision"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is highly qualified for the Creative Translator & Copywriter role at Salt. His experience aligns well with the job requirements and he can contribute to the company's academic services.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and translation between Arabic and English?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare); Translation backlog / scaling",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Salt",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-15T13:21:06.322690+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Salt_Creative Translator & Copywriter (Arabic)_20260915.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Salt_Creative Translator & Copywriter (Arabic)_20260915.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-15T13:22:21.863212+00:00"
+  },
+  {
+    "title": "General English Instructor",
+    "company": "4level1",
+    "url": "https://eg.linkedin.com/jobs/view/general-english-instructor-at-4level1-4467707934",
+    "location": "Remote \u2014 Cairo, Egypt",
+    "posted": "2026-09-15",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-15T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.245201990555556,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires language skills, writing, and academic work, but not engineering or unrelated technical skills."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in translation, ESL teaching, and academic supervision, but not in engineering or development."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment, but some friction in related experience."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward translation/teaching/academic career, but not senior leadership roles."
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Legal Translation"
+      ],
+      "gaps": [
+        "No direct experience in engineering or development roles"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the General English Instructor role. He can contribute to the translation and ESL teaching aspects of the job, making the role a strong fit for his career goals.",
+      "interview_prep": [
+        "Can you describe a time when you supervised a research study in academic supervision?",
+        "How do you approach translating legal documents for a client?",
+        "Can you share an experience where you had to adapt your teaching methods to accommodate a diverse student population?"
+      ],
+      "one_line_summary": "Waleed Ballag's skills and experience make him a strong fit for the General English Instructor role, particularly in translation and academic supervision."
+    },
+    "ai_insight": "Waleed Ballag's skills and experience make him a strong fit for the General English Instructor role, particularly in translation and academic supervision.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Legal Translation"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or development roles"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the General English Instructor role. He can contribute to the translation and ESL teaching aspects of the job, making the role a strong fit for his career goals.",
+    "ai_interview_prep": [
+      "Can you describe a time when you supervised a research study in academic supervision?",
+      "How do you approach translating legal documents for a client?",
+      "Can you share an experience where you had to adapt your teaching methods to accommodate a diverse student population?"
+    ],
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "4level1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-15T13:21:06.323816+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/4level1_General English Instructor_20260915.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/4level1_General English Instructor_20260915.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-15T13:22:21.863212+00:00"
+  },
+  {
+    "title": "Online English Teachers (Telugu)",
+    "company": "instrucko",
+    "url": "https://in.linkedin.com/jobs/view/online-english-teachers-telugu-at-instrucko-4466507288",
+    "location": "Remote \u2014 Telangana, India",
+    "posted": "2026-09-15",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-15T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.245202210833334,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation"
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation",
+        "ESL teaching",
+        "Academic supervision"
+      ],
+      "gaps": [
+        "No specific programming languages or engineering skills"
+      ],
+      "recommendation": "Strong fit for the online English teachers role. Suitable for building a career in translation and academic services.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation in a professional setting? 3. Can you describe a time when you had to adapt your teaching methods to meet diverse student needs?",
+      "one_line_summary": "Strong fit for online English teachers role with strong academic background and language skills."
+    },
+    "ai_insight": "Strong fit for online English teachers role with strong academic background and language skills.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation",
+      "ESL teaching",
+      "Academic supervision"
+    ],
+    "ai_gaps": [
+      "No specific programming languages or engineering skills"
+    ],
+    "ai_recommendation": "Strong fit for the online English teachers role. Suitable for building a career in translation and academic services.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation in a professional setting? 3. Can you describe a time when you had to adapt your teaching methods to meet diverse student needs?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "instrucko",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-15T13:21:06.324708+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/instrucko_Online English Teachers (Telugu)_20260915.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/instrucko_Online English Teachers (Telugu)_20260915.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-15T13:22:21.863212+00:00"
+  },
+  {
     "title": "<![CDATA[Hindi content writing ]]>",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/article-rewriting/Hindi-content-writing.html",
@@ -15057,6 +15390,224 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-15T05:16:42.692994+00:00"
+  },
+  {
+    "title": "Beginner Grammar & Proofreading - 15/09/2026 07:01 EDT",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/canva/Beginner-Grammar-Proofreading-EDT-40712780",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-15T11:12:34+00:00",
+    "description": "I need a skilled English educator-editor to craft fresh, beginner-level grammar exercises that zero in on tenses and verb forms, prepositions and conjunctions, plus articles and determiners. The worksheets should read naturally, include short contexts or dialogues that feel real to a new learner, and end with clear answer keys and concise teaching notes. Editable Word files that I can later re-brand or adapt are essential, though you are welcome to design in Canva or similar before exporting. At the same time, I will send several brief academic papers (about 5,000 words in total). They require thorough proofreading for grammar, flow, and citation consistency, with tracked changes and a final clean copy delivered. Deliverables \u2022 Three engaging worksheet packs\u2014one per grammar focus\u2014with answer keys and teacher notes \u2022 A tracked-changes version and a polished final version of each academic document I will give feedback on the first worksheet within a day; once it meets the mark, the remaining tasks can follow. Accuracy, a friendly teaching tone, and tidy formatting will seal the deal.",
+    "salary": "2.0-8.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-15T11:12:34+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.035772694722222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires writing, editing, proofreading, and academic supervision, which aligns with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and proofreading, which are directly related to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in language education and academic supervision aligns well with the remote, flexible, and academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which matches the candidate's preference and skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirements for building long-term client relationships and contributing to research supervision."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Proofreading"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience are well-matched with the job requirements. He can contribute effectively to the academic services and supervision roles.",
+      "interview_prep": [
+        "Can you describe a time when you supervised a group of graduate-level students in research studies?",
+        "How do you approach proofreading academic papers for grammar, flow, and citation consistency?"
+      ],
+      "one_line_summary": "A highly skilled ESL/EFL instructor with a proven track record of academic supervision, ready to contribute to the job's goals."
+    },
+    "ai_insight": "A highly skilled ESL/EFL instructor with a proven track record of academic supervision, ready to contribute to the job's goals.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Proofreading"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience are well-matched with the job requirements. He can contribute effectively to the academic services and supervision roles.",
+    "ai_interview_prep": [
+      "Can you describe a time when you supervised a group of graduate-level students in research studies?",
+      "How do you approach proofreading academic papers for grammar, flow, and citation consistency?"
+    ],
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Beginner Grammar & Proofreading - 15-09-2026 07-01_20260915.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Beginner Grammar & Proofreading - 15-09-2026 07-01_20260915.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-15T13:22:21.863212+00:00"
+  },
+  {
+    "title": "Executive Personal Assistant Needed",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/administrative-support/Executive-Personal-Assistant-Needed-40712647",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-15T09:57:17+00:00",
+    "description": "Overview We are seeking a dynamic and highly organized Personal Assistant to join our team and support executive leadership with a wide range of administrative and operational tasks. This role is vital in ensuring smooth daily operations, managing schedules, coordinating projects, and facilitating effective communication across departments. The ideal candidate will thrive in a fast-paced environment, demonstrate exceptional organizational skills, and possess a proactive attitude to handle diverse responsibilities with professionalism and enthusiasm. This paid position offers an exciting opportunity to contribute to a thriving organization while honing your administrative expertise. Responsibilities Manage and coordinate complex calendars, including scheduling meetings, appointments, and business travel arrangements for executives. Provide comprehensive executive administrative support, including preparing reports, proofreading documents, transcribing meetings, and handling correspondence. Organize and facilitate events, meetings, and conferences, ensuring all logistics are seamlessly executed. Handle internal communication efficiently by managing multi-line phone systems, email correspondence, and collaboration with C-suite executives. Maintain confidentiality when handling sensitive information and ensure data entry accuracy using productivity software such as Microsoft Office, Google Workspace, and QuickBooks. Oversee office management duties including filing, front desk responsibilities, office supply inventory, and managing office equipment. Assist with bookkeeping tasks such as invoicing, expense tracking, and using software like QuickBooks for financial record keeping. Coordinate project activities across teams using project management tools to ensure timely completion of deliverables. Prepare business travel itineraries and arrangements while ensuring all logistical details are handled efficiently. Support document signing processes using electronic signature",
+    "salary": "15.0-25.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-15T09:57:17+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "typist transcription transcribing transcriber (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.2905070119444444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires language skills, writing, and academic work, which aligns with the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and academic writing, which are directly relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate demonstrates a strong organizational and proactive attitude, which is crucial for the role of an executive assistant."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate has experience in remote work, making the location a match."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "The candidate's career goals align with the role, aiming for senior translator or academic coordinator positions, which is a natural progression in their field."
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "Extensive language skills",
+        "Proven experience in academic supervision and writing",
+        "Strong organizational skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is highly qualified for the Executive Personal Assistant role. Their background in ESL teaching and academic supervision, combined with their language skills, makes them a strong fit for the position. The candidate's career goals and experience align well with the role, and their ability to manage complex calendars and coordinate projects will be valuable assets in this role.",
+      "interview_prep": "1. Can you describe a time when you had to manage a tight deadline for a project? 2. How do you handle conflicting priorities in your work? 3. Can you share an experience where you had to work with a diverse team? 4. What is your experience with data analysis using SPSS?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Executive Personal Assistant role due to their extensive language skills, academic experience, and organizational abilities.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Executive Personal Assistant role due to their extensive language skills, academic experience, and organizational abilities.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "Extensive language skills",
+      "Proven experience in academic supervision and writing",
+      "Strong organizational skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is highly qualified for the Executive Personal Assistant role. Their background in ESL teaching and academic supervision, combined with their language skills, makes them a strong fit for the position. The candidate's career goals and experience align well with the role, and their ability to manage complex calendars and coordinate projects will be valuable assets in this role.",
+    "ai_interview_prep": "1. Can you describe a time when you had to manage a tight deadline for a project? 2. How do you handle conflicting priorities in your work? 3. Can you share an experience where you had to work with a diverse team? 4. What is your experience with data analysis using SPSS?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Executive Personal Assistant Needed_20260915.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Executive Personal Assistant Needed_20260915.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-15T13:22:21.863212+00:00"
   },
   {
     "title": "Freelance Copywriter",
