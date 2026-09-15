@@ -1688,5 +1688,52 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-15T13:22:44.872637+00:00",
+    "matched_count": 5,
+    "all_count": 4719,
+    "jobs": [
+      {
+        "title": "Beginner Grammar & Proofreading - 15/09/2026 07:01 EDT",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/canva/Beginner-Grammar-Proofreading-EDT-40712780",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Executive Personal Assistant Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/administrative-support/Executive-Personal-Assistant-Needed-40712647",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Creative Translator & Copywriter (Arabic)",
+        "company": "Salt",
+        "url": "https://eg.linkedin.com/jobs/view/creative-translator-copywriter-arabic-at-salt-4465524922",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "General English Instructor",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/general-english-instructor-at-4level1-4467707934",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Online English Teachers (Telugu)",
+        "company": "instrucko",
+        "url": "https://in.linkedin.com/jobs/view/online-english-teachers-telugu-at-instrucko-4466507288",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
