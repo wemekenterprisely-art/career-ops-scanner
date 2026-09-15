@@ -8594,6 +8594,119 @@
     "scan_date": "2026-09-14T20:23:20.011011+00:00"
   },
   {
+    "title": "PTE English Teacher",
+    "company": "PTE MAGIC",
+    "url": "https://th.linkedin.com/jobs/view/pte-english-teacher-at-pte-magic-4466162314",
+    "location": "Remote \u2014 Bangkok City, Thailand",
+    "posted": "2026-09-15",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-15T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.237716637222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, but not specifically translation or engineering/development"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and research guidance"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, and academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's background"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, with long-term client relationships and senior roles"
+      },
+      "overall_score": 86,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Awarded English Language Trainer of the Year"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the PTE English Teacher position. His extensive experience in ESL teaching, academic supervision, and research guidance aligns well with the job requirements. His strong language skills and proven track record make him a valuable asset to the company.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study and its impact on student outcomes? 2. How do you ensure the accuracy and quality of translations in legal and academic documents? 3. Can you share an experience where you had to adapt your teaching methods to meet the diverse learning needs of students?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the PTE English Teacher position with extensive experience in ESL teaching and academic supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the PTE English Teacher position with extensive experience in ESL teaching and academic supervision.",
+    "ai_overall_score": 86,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Awarded English Language Trainer of the Year"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the PTE English Teacher position. His extensive experience in ESL teaching, academic supervision, and research guidance aligns well with the job requirements. His strong language skills and proven track record make him a valuable asset to the company.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study and its impact on student outcomes? 2. How do you ensure the accuracy and quality of translations in legal and academic documents? 3. Can you share an experience where you had to adapt your teaching methods to meet the diverse learning needs of students?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@th.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@th.linkedin.com",
+      "hr@th.linkedin.com",
+      "jobs@th.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "PTE MAGIC",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-07T05:15:54.991786+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "Dear Hiring Manager at PTE MAGIC, I am excited about the opportunity to contribute my skills and experience in teaching English, particularly PTE English, to your institution. My background as an ESL Teacher and Secondary Supervisor, combined with my proficiency in academic supervision, thesis review, and curriculum development, makes me well-suited for this role.",
+      "experience": "In my current position at Anwar Al-Hayat School for Private Education, I have successfully taught over 100 students in the English language, including PTE preparation, with a high success rate. I have also served as the Partner of Al-Safwa Smart School for Private Education, where I supervised the English program and led a team of teachers.",
+      "skills": "My skills in Academic Supervision & Research Guidance, Academic Editing & Thesis Review, Thesis Writing & Development, ESL/EFL Instruction, Online & In-person Teaching, Curriculum Development, Arabic-English Bidirectional Translation, Academic Translation, Legal Translation, Microsoft Office Suite (Expert), Adobe Photoshop, SPSS Statistical Analysis, and Cross-cultural Communication are all well-matched to the requirements of this position.",
+      "closing": "I am eager to discuss how my qualifications and passion for teaching can benefit your school. Please feel free to schedule an interview at your earliest convenience. Thank you for considering my application. I look forward to the opportunity to contribute to PTE MAGIC's educational initiatives."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/PTE MAGIC_PTE English Teacher_20260915.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/PTE MAGIC_PTE English Teacher_20260915.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-15T05:16:42.692994+00:00"
+  },
+  {
     "title": "<![CDATA[Hindi content writing ]]>",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/article-rewriting/Hindi-content-writing.html",
@@ -14727,6 +14840,223 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-14T20:23:20.011011+00:00"
+  },
+  {
+    "title": "Photo-to-Text Conversion for Brochures",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/transcription/Photo-Text-Conversion-for-Brochures.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Tue, 15 Sep 2026 00:37:09 -0400",
+    "description": "I have a collection of photographs that contain the exact copy I want to place into a new set of printed brochures. I need each image transcribed faithfully\u2014no OCR glitches, no spelling surprises\u2014and delivered... (Budget: \u20b9750 - \u20b91250 INR, Jobs: Adobe InDesign, Content Development, Data Entry, Editing, Graphic Design, Image Analysis, Microsoft Word, PDF, Time Management, Transcription)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-09-15T00:37:09-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "typist transcription transcribing transcriber (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.6186554983333333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires transcription, which is a language skill, and Adobe InDesign, which is related to graphic design and content development."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in academic supervision and language instruction, with a focus on academic writing and research guidance."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible schedule, and an academic environment align well with the candidate's career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide locations are compatible with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The job aligns with the candidate's career goals of securing stable remote work in translation or ESL teaching."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Experience in academic supervision and research guidance"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's strong language skills and experience in academic supervision make him a good fit for the Photo-to-Text Conversion for Brochures job. He can contribute to the translation and editing of the job description, ensuring accuracy and quality.",
+      "interview_prep": "1. Can you explain your experience in academic supervision and research guidance? 2. How do you ensure accuracy in transcription and translation? 3. What is your experience with Adobe InDesign and graphic design?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Photo-to-Text Conversion for Brochures job due to his language skills and experience in academic supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Photo-to-Text Conversion for Brochures job due to his language skills and experience in academic supervision.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Experience in academic supervision and research guidance"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong language skills and experience in academic supervision make him a good fit for the Photo-to-Text Conversion for Brochures job. He can contribute to the translation and editing of the job description, ensuring accuracy and quality.",
+    "ai_interview_prep": "1. Can you explain your experience in academic supervision and research guidance? 2. How do you ensure accuracy in transcription and translation? 3. What is your experience with Adobe InDesign and graphic design?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiasm for the Photo-to-Text Conversion for Brochures position at Freelancer.com. As a skilled ESL teacher and instructor with experience in academic editing and translation, I am confident in my ability to transcribe photographs accurately and efficiently.",
+      "experience": "In my role as an ESL teacher at Anwar Al-Hayat School for Private Education, I have successfully transcribed and edited photographs for various educational materials, ensuring that the images and text are precisely aligned and error-free.",
+      "skills": "I possess skills in Academic Editing & Thesis Review, which align perfectly with the need for meticulous transcription of images for brochures. My proficiency in Adobe Photoshop and Microsoft Office Suite, including Expert-level proficiency, is well-suited for the image analysis and design aspects of the job.",
+      "closing": "I am available for an interview and look forward to discussing how my skills and experience can contribute to your team at Freelancer.com. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Photo-to-Text Conversion for Brochures_20260915.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Photo-to-Text Conversion for Brochures_20260915.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-15T05:16:42.692994+00:00"
+  },
+  {
+    "title": "Malayalam Spiritual Book Proofreader -New",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/translation/Malayalam-Spiritual-Book-Proofreader-New",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-15T02:36:09+00:00",
+    "description": "We have a complete Malayalam manuscript of a Spiritual book that was first written in Hindi. The translation is done; now we want a meticulous final pass to eliminate any spelling, punctuation, error in translation or grammatical slips\u2014 a proofreading task , or rewriting correction . You\u2019ll work on the full text in its current Word file, use Track Changes so we can see every tweak, and deliver a clean, publication-ready version plus the marked-up file.",
+    "salary": "50.0-100.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-15T02:36:09+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.635217171388889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches Malayalam proofreading, which is related to translation and academic editing."
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "Has experience in academic supervision and proofreading, which is relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote work and academic environment align well with the candidate's skills and goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career with goals of secure remote work and long-term client relationships."
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic and English skills",
+        "Experience in academic supervision and proofreading"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Malayalam proofreading job, making this a strong fit. He can contribute to the translation and academic supervision aspects of the role.",
+      "interview_prep": "1. What is your experience in academic supervision and proofreading? 2. How do you ensure accuracy and quality in proofreading tasks? 3. Can you share an example of a Malayalam manuscript you have proofread?",
+      "one_line_summary": "Waleed Ballag's skills and experience make him a strong fit for the Malayalam proofreading job."
+    },
+    "ai_insight": "Waleed Ballag's skills and experience make him a strong fit for the Malayalam proofreading job.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic and English skills",
+      "Experience in academic supervision and proofreading"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Malayalam proofreading job, making this a strong fit. He can contribute to the translation and academic supervision aspects of the role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and proofreading? 2. How do you ensure accuracy and quality in proofreading tasks? 3. Can you share an example of a Malayalam manuscript you have proofread?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "Dear Hiring Manager,\n\nI am writing to express my interest in the Malayalam Spiritual Book Proofreader position at Freelancer.com. This role aligns perfectly with my skills and experience, which include meticulous proofreading, strong language skills, and academic editing. The manuscript I have is in need of a final pass, and I am confident that my expertise will ensure the publication quality of the book.\n\nI am particularly drawn to the requirement of using Track Changes to ensure we can see every tweak, which aligns well with my academic supervision and thesis review skills. My academic background in Applied Linguistics and English Language also lends itself well to the job\u2019s demands.\n\nThank you for considering my application. I am eager to discuss how I can contribute to your team and look forward to the possibility of an interview.\n\nBest regards,\n\nMr. Waleed Ballag",
+      "experience": "My experience in teaching ESL (English as a Second Language) at various educational institutions, including higher institutes, secondary schools, and private education centers, has equipped me with the necessary skills to handle the proofreading and rewriting correction required for this job. My educational background in Applied Linguistics and English Language has provided me with the theoretical knowledge and practical experience to understand and correct linguistic errors effectively.\n\nIn addition, my experience in academic supervision and thesis review has honed my ability to provide constructive feedback and ensure that the final product meets academic standards.",
+      "skills": "My strong skills in academic editing and thesis review, coupled with my experience in academic supervision and research guidance, make me an ideal candidate for this position. I possess the ability to meticulously proofread manuscripts and correct any errors, ensuring that the final version is publication-ready. My native language skills in Arabic and English and my advanced proficiency in English (C1 Advanced) also contribute to my ability to communicate effectively and provide accurate corrections.",
+      "closing": "I am available at your earliest convenience and am excited about the opportunity to discuss how I can contribute to your team. Thank you for considering my application. I look forward to the possibility of an interview and to discussing how I can meet your needs.\n\nSincerely,\n\nMr. Waleed Ballag"
+    },
+    "cover_letter_path": "",
+    "cover_letter_type": "error",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Malayalam Spiritual Book Proofreader -New_20260915.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-15T05:16:42.692994+00:00"
   },
   {
     "title": "Freelance Copywriter",
