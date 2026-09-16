@@ -1789,5 +1789,44 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-09-16T13:17:52.501451+00:00",
+    "matched_count": 4,
+    "all_count": 4755,
+    "jobs": [
+      {
+        "title": "Tulis Deskripsi Formal Produk Kuliner",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Tulis-Deskripsi-Formal-Produk-Kuliner.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Odia Transcription Expert - Fully Remote | Upto $12/hr",
+        "company": "mercor",
+        "url": "https://himalayas.app/companies/mercor/jobs/odia-transcription-expert-fully-remote-upto-12-hr-3875437313",
+        "score": 100,
+        "category": "Admin",
+        "source": "himalayas"
+      },
+      {
+        "title": "Global Online English Tutor",
+        "company": "The Faculty Online Learning Group",
+        "url": "https://za.linkedin.com/jobs/view/global-online-english-tutor-at-the-faculty-online-learning-group-4465994475",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Quality Content Editor",
+        "company": "The Reynolds and Reynolds Company",
+        "url": "https://www.linkedin.com/jobs/view/quality-content-editor-at-the-reynolds-and-reynolds-company-4457476648",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
