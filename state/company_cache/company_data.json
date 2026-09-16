@@ -950,5 +950,30 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-16T05:17:46.942608+00:00"
+  },
+  "The Faculty Online Learning Group": {
+    "name": "The Faculty Online Learning Group",
+    "legitimacy_score": 65,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board",
+      "Appears to be registered business"
+    ],
+    "last_updated": "2026-09-16T13:16:49.648082+00:00"
+  },
+  "The Reynolds and Reynolds Company": {
+    "name": "The Reynolds and Reynolds Company",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-16T13:16:49.648820+00:00"
   }
 }
