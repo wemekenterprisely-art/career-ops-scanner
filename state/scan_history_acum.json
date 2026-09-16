@@ -1758,5 +1758,36 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-09-16T05:18:56.467267+00:00",
+    "matched_count": 3,
+    "all_count": 4726,
+    "jobs": [
+      {
+        "title": "Entry-Level English Teacher",
+        "company": "English 1",
+        "url": "https://ca.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4467942396",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Copy Editor",
+        "company": "Azim Premji Foundation",
+        "url": "https://in.linkedin.com/jobs/view/copy-editor-at-azim-premji-foundation-4466829489",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      },
+      {
+        "title": "Budget Travel Article Writer",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/blog-writing/Budget-Travel-Article-Writer-40713975",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
