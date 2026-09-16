@@ -975,5 +975,27 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-16T13:16:49.648820+00:00"
+  },
+  "Humana": {
+    "name": "Humana",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-09-16T20:18:48.163993+00:00"
+  },
+  "King's InterHigh": {
+    "name": "King's InterHigh",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-16T20:18:48.164945+00:00"
   }
 }
