@@ -9040,6 +9040,220 @@
     "scan_date": "2026-09-15T13:22:21.863212+00:00"
   },
   {
+    "title": "Entry-Level English Teacher",
+    "company": "English 1",
+    "url": "https://ca.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4467942396",
+    "location": "Remote \u2014 Orleans, Ontario, Canada",
+    "posted": "2026-09-16",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-16T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.209709683888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires language skills, writing, and academic work, which aligns with the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and research guidance, which are all relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's skills and experience align well with the remote, academic, and flexible nature of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "The candidate's career goals align with the job's requirements, including secure stable remote work and growing into senior roles."
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Experience in ESL teaching and academic supervision"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Entry-Level English Teacher position at English 1. His background in ESL teaching, academic supervision, and research guidance, combined with his native Arabic and advanced English skills, makes him an excellent candidate for this role. His experience in remote work and ability to build long-term client relationships will be a significant asset to the company.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you handle plagiarism checking and originality in your work? 3. Can you describe a time when you had to prepare and defend a viva for a graduate-level research study?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Entry-Level English Teacher position due to his advanced language skills, academic background, and experience in ESL teaching and research supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Entry-Level English Teacher position due to his advanced language skills, academic background, and experience in ESL teaching and research supervision.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Experience in ESL teaching and academic supervision"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Entry-Level English Teacher position at English 1. His background in ESL teaching, academic supervision, and research guidance, combined with his native Arabic and advanced English skills, makes him an excellent candidate for this role. His experience in remote work and ability to build long-term client relationships will be a significant asset to the company.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you handle plagiarism checking and originality in your work? 3. Can you describe a time when you had to prepare and defend a viva for a graduate-level research study?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@ca.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ca.linkedin.com",
+      "hr@ca.linkedin.com",
+      "jobs@ca.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "English 1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-07T05:15:54.992406+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/English 1_Entry-Level English Teacher_20260916.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/English 1_Entry-Level English Teacher_20260916.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-16T05:18:32.321496+00:00"
+  },
+  {
+    "title": "Copy Editor",
+    "company": "Azim Premji Foundation",
+    "url": "https://in.linkedin.com/jobs/view/copy-editor-at-azim-premji-foundation-4466829489",
+    "location": "Remote \u2014 Bengaluru, Karnataka, India",
+    "posted": "2026-09-16",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-09-16T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "academic editor editing copy editor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.209710032777777,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Matches job requirements for ESL/EFL instruction, academic supervision, and bidirectional translation."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in academic supervision of 15 graduate studies and ESL teaching."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work environment aligns well with the candidate's skills and goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote location fits the candidate's preference and the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards senior translator or academic coordinator role, aligning with career goals."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Bidirectional translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate is well-suited for the Copy Editor role, offering a strong fit with the technical skills, experience, and cultural fit required.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach translation and editing tasks in a remote work environment? 3. What are your thoughts on the importance of data analysis in academic research?",
+      "one_line_summary": "Strong fit for Copy Editor role with strong technical skills, experience, and cultural alignment."
+    },
+    "ai_insight": "Strong fit for Copy Editor role with strong technical skills, experience, and cultural alignment.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Bidirectional translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate is well-suited for the Copy Editor role, offering a strong fit with the technical skills, experience, and cultural fit required.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach translation and editing tasks in a remote work environment? 3. What are your thoughts on the importance of data analysis in academic research?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Azim Premji Foundation",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-16T05:17:46.942608+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Azim Premji Foundation_Copy Editor_20260916.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Azim Premji Foundation_Copy Editor_20260916.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-16T05:18:32.321496+00:00"
+  },
+  {
     "title": "<![CDATA[Hindi content writing ]]>",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/article-rewriting/Hindi-content-writing.html",
@@ -16731,6 +16945,110 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-13T20:23:10.763776+00:00"
+  },
+  {
+    "title": "Budget Travel Article Writer",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/blog-writing/Budget-Travel-Article-Writer-40713975",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-16T00:55:24+00:00",
+    "description": "I publish a growing travel blog focused on helping budget-minded backpackers see more of the world for less. To keep the content fresh and useful, I need engaging, research-driven articles that answer the practical questions low-cost travelers type into Google every day\u2014think public-transport hacks, hostel insights, shoestring itineraries, and real daily cost breakdowns. What I\u2019m after Each post should read like a friendly local sharing insider knowledge, yet remain data-backed and fact-checked. The tone is upbeat and encouraging, never salesy. Headlines, sub-headings, and meta descriptions must follow basic on-page SEO best practice so the pieces rank organically without keyword stuffing. Deliverables per assignment \u2022 800\u20131,200-word informative article tailored to budget travelers \u2022 Meta title & description ready to paste into WordPress \u2022 Logical H2/H3 structure with naturally placed primary and secondary keywords \u2022 One round of revisions after my review \u2022 Source list for prices, statistics, and any quoted material \u2022 (Optional) links to royalty-free images that fit the topic Acceptance criteria \u2022 100 % original content (Copyscape-clear) \u2022 Advice and figures accurate at time of writing \u2022 Clear, concise English with no filler If you love stretching dollars on the road and can translate that passion into well-structured prose, I\u2019d love to see a short sample or link to a published piece in the travel niche when you bid.",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-16T00:55:24+00:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.2863946825,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires language skills, writing, and academic work, which aligns with the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has direct experience in translation, ESL teaching, and academic supervision, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's experience and skills align well with the remote, academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's background."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job, focusing on translation, teaching, and academic services."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Awarded English Language Trainer of the Year"
+      ],
+      "gaps": [
+        "No specific programming languages or engineering experience"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Budget Travel Article Writer position. His background in language instruction and academic supervision aligns well with the job's requirements, and his experience matches the job's technical and behavioral demands. The remote nature of the position is a perfect fit for his skills and preferences.",
+      "interview_prep": "1. Can you provide examples of how you have used your academic supervision skills to guide graduate-level research studies? 2. How do you ensure the tone and tone of your writing is upbeat and encouraging without being salesy? 3. Can you describe a time when you had to revise a piece to make it more data-backed and fact-checked?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Budget Travel Article Writer position due to his background in language instruction and academic supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Budget Travel Article Writer position due to his background in language instruction and academic supervision.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Awarded English Language Trainer of the Year"
+    ],
+    "ai_gaps": [
+      "No specific programming languages or engineering experience"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Budget Travel Article Writer position. His background in language instruction and academic supervision aligns well with the job's requirements, and his experience matches the job's technical and behavioral demands. The remote nature of the position is a perfect fit for his skills and preferences.",
+    "ai_interview_prep": "1. Can you provide examples of how you have used your academic supervision skills to guide graduate-level research studies? 2. How do you ensure the tone and tone of your writing is upbeat and encouraging without being salesy? 3. Can you describe a time when you had to revise a piece to make it more data-backed and fact-checked?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Budget Travel Article Writer_20260916.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Budget Travel Article Writer_20260916.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-16T05:18:32.321496+00:00"
   },
   {
     "title": "<![CDATA[Refine Script & Record Greeting]]>",
