@@ -1828,5 +1828,36 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-16T20:19:39.428138+00:00",
+    "matched_count": 3,
+    "all_count": 4767,
+    "jobs": [
+      {
+        "title": "Bilingual RN Field Care Manager (Arabic or Chaldean) HCBS/LTSS",
+        "company": "Humana",
+        "url": "https://www.remote1stjobs.com/jobs/bilingual-rn-field-care-manager-arabic-or-chaldean-hcbs-ltss-humana-mu4izn91?utm_source=jobs_json&utm_medium=rss&utm_campaign=latest_jobs_feed",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "remote1stjobs"
+      },
+      {
+        "title": "Virtual Assistant \u2013 WordPress, SEO & Digital Marketing",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/digital-marketing/Virtual-Assistant-WordPress-SEO-Digital",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Teacher (GST/SEA)",
+        "company": "King's InterHigh",
+        "url": "https://ae.linkedin.com/jobs/view/english-teacher-gst-sea-at-king-s-interhigh-4468282305",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
