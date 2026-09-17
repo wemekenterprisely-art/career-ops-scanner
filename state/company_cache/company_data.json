@@ -1009,5 +1009,51 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-17T05:16:57.371302+00:00"
+  },
+  "iMerit Technology": {
+    "name": "iMerit Technology",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-09-17T13:22:11.534408+00:00"
+  },
+  "Scolingo": {
+    "name": "Scolingo",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-17T13:22:11.535608+00:00"
+  },
+  "Speak Up Egypt": {
+    "name": "Speak Up Egypt",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-17T13:22:11.536651+00:00"
+  },
+  "Wizdomi": {
+    "name": "Wizdomi",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-17T13:22:11.538014+00:00"
   }
 }
