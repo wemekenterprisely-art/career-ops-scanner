@@ -1859,5 +1859,52 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-17T05:18:31.609874+00:00",
+    "matched_count": 5,
+    "all_count": 4754,
+    "jobs": [
+      {
+        "title": "Research Data Entry From Web -2",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-management/Research-Data-Entry-From-Web-40714334.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Local Event Research and Database Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/database-management/Local-Event-Research-Database-Entry",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofread 10,000-Word Crime Fiction",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copy-editing/Proofread-Word-Crime-Fiction",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Formal English-Arabic Marketing Translation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/english-translation/Formal-English-Arabic-Marketing",
+        "score": 62,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Indegene: Copy Editor (US; fully remote)",
+        "company": "Trilogy Writing & Consulting, An Indegene Company",
+        "url": "https://www.linkedin.com/jobs/view/indegene-copy-editor-us-fully-remote-at-trilogy-writing-consulting-an-indegene-company-4468289689",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
