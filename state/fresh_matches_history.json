@@ -440,6 +440,340 @@
     "scan_date": "2026-09-17T13:24:11.141806+00:00"
   },
   {
+    "title": "Arabic Linguist",
+    "company": "eClerx",
+    "url": "https://in.linkedin.com/jobs/view/arabic-linguist-at-eclerx-4468609974",
+    "location": "Remote \u2014 Mohali district, India",
+    "posted": "2026-09-17",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic linguist",
+    "postedISO": "2026-09-17T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic translator translation interpreter linguist editor proofreader content writer qa tester localis (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.268517200833337,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires Arabic-English translation, ESL teaching, and academic supervision, which aligns well with the candidate's experience and skills."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in language instruction, research supervision, and academic writing aligns well with the remote, academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and the candidate is located worldwide, which is compatible with the candidate's preference."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "The candidate's career goals align closely with the job's requirements for stable remote work, long-term client relationships, and senior translator/academic coordinator roles."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Extensive experience in ESL teaching and academic supervision",
+        "Strong language skills in Arabic and English"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "The candidate is well-suited for the role, and the company can benefit from their skills in academic supervision, translation, and research guidance.",
+      "interview_prep": [
+        "What is your experience in academic supervision and research guidance?",
+        "Can you share an example of a research study you supervised and the outcomes?"
+      ],
+      "one_line_summary": "Waleed Ballag is a strong fit for the Arabic Linguist role due to his extensive experience in ESL teaching and academic supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Arabic Linguist role due to his extensive experience in ESL teaching and academic supervision.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Extensive experience in ESL teaching and academic supervision",
+      "Strong language skills in Arabic and English"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "The candidate is well-suited for the role, and the company can benefit from their skills in academic supervision, translation, and research guidance.",
+    "ai_interview_prep": [
+      "What is your experience in academic supervision and research guidance?",
+      "Can you share an example of a research study you supervised and the outcomes?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "eClerx",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-17T20:23:19.339292+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/eClerx_Arabic Linguist_20260917.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/eClerx_Arabic Linguist_20260917.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-17T20:24:30.984419+00:00"
+  },
+  {
+    "title": "Copy Editor",
+    "company": "Mars United Commerce",
+    "url": "https://www.linkedin.com/jobs/view/copy-editor-at-mars-united-commerce-4448582172",
+    "location": "Remote \u2014 Chicago, IL",
+    "posted": "2026-09-17",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-09-17T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "academic editor editing copy editor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.268517863611113,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches the job requiring language skills, writing, and academic work, including ESL/EFL instruction, academic supervision, and legal translation."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation aligns well with the job description."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment aligns well with the job's remote nature and requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's location."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns with the job's role in academic services."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "No specific gaps found"
+      ],
+      "recommendation": "Strong fit for the Copy Editor role. Aligns well with career goals and job requirements.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation? 3. Can you describe a time when you had to adapt to a remote work environment?",
+      "one_line_summary": "Strong fit for Copy Editor role with strong alignment in academic supervision, legal translation, and remote work environment."
+    },
+    "ai_insight": "Strong fit for Copy Editor role with strong alignment in academic supervision, legal translation, and remote work environment.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "No specific gaps found"
+    ],
+    "ai_recommendation": "Strong fit for the Copy Editor role. Aligns well with career goals and job requirements.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation? 3. Can you describe a time when you had to adapt to a remote work environment?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Mars United Commerce",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-17T20:23:19.340581+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Mars United Commerce_Copy Editor_20260917.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Mars United Commerce_Copy Editor_20260917.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-17T20:24:30.984419+00:00"
+  },
+  {
+    "title": "Copy Editor",
+    "company": "Mars United Commerce",
+    "url": "https://www.linkedin.com/jobs/view/copy-editor-at-mars-united-commerce-4449321010",
+    "location": "Remote \u2014 Minneapolis, MN",
+    "posted": "2026-09-17",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-09-17T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "academic editor editing copy editor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.268518061111113,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches the job description for ESL/EFL instruction, academic supervision, and legal translation."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Has relevant experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work environment, flexible schedule, and academic setting."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's background."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "Builds toward translation/teaching/academic career, aligns with the candidate's goals."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's qualifications and experience align well with the Copy Editor position at Mars United Commerce. His ability to work remotely and his strong educational background make him a strong fit for the role.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation in a professional setting? 3. Can you describe a time when you had to translate between Arabic and English for a client?",
+      "one_line_summary": "Waleed Ballag's strong qualifications and background make him a strong fit for the Copy Editor position at Mars United Commerce."
+    },
+    "ai_insight": "Waleed Ballag's strong qualifications and background make him a strong fit for the Copy Editor position at Mars United Commerce.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's qualifications and experience align well with the Copy Editor position at Mars United Commerce. His ability to work remotely and his strong educational background make him a strong fit for the role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation in a professional setting? 3. Can you describe a time when you had to translate between Arabic and English for a client?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Mars United Commerce",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-17T20:23:19.340581+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am thrilled to apply for the Copy Editor position at Mars United Commerce, as it aligns with my passion for language and academic excellence. This role requires a combination of academic supervision, research guidance, and editing skills, which I believe I possess from my extensive experience.",
+      "experience": "At Anwar Al-Hayat School for Private Education, I served as an ESL teacher and partner, where I supervised students, developed curricula, and provided comprehensive feedback on their essays and research papers. These experiences have honed my ability to deliver high-quality work in an educational context.",
+      "skills": "I am adept at ESL/EFL instruction, online and in-person teaching, curriculum development, academic translation, and bidirectional translation. My proficiency in Microsoft Office Suite, Adobe Photoshop, SPSS, and Adobe Premiere is particularly valuable for handling various document types and media elements. I am also an expert in APA/MLA/Harvard formatting and maintain academic integrity.",
+      "closing": "I am available for an interview at Mars United Commerce and look forward to the opportunity to discuss how my skills and experiences can contribute to the success of your team. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Mars United Commerce_Copy Editor_20260917.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Mars United Commerce_Copy Editor_20260917.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-17T20:24:30.984419+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
@@ -701,6 +1035,109 @@
     "scan_date": "2026-09-17T13:24:11.141806+00:00"
   },
   {
+    "title": "Saudi Arabic Editor & Designer",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/editing/Saudi-Arabic-Editor-Designer",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-17T15:39:53+00:00",
+    "description": "I have two parallel needs on the same stream of projects. First, I must polish a steady flow of institutional, technical-proposal, and commercial texts so they read in impeccable Saudi Arabic. Every file should come back to me error-free, consistent in terminology, and written in a formal register that matches the business culture here in the Kingdom. I expect you to proof, edit, and when required completely rewrite paragraphs so the meaning is clearer yet still faithful to the source. Please return both a tracked-changes version and a clean final file. Second, I want those very same documents transformed into visually striking corporate layouts. Typical pieces include full company profiles and bid proposals that will be distributed in both Arabic (RTL) and English (LTR). The design must feel modern and institutional, ready for print and digital use, with brand-aligned typography, colour, and iconography. Editable source files (InDesign, Illustrator, or PowerPoint, depending on the job) together with press-ready and web-ready PDFs are the expected hand-off. Deliverables: \u2022 Linguistic review, edit, and rewrite of institutional, technical, and commercial content in formal Saudi Arabic \u2022 Tracked-changes file plus polished final document \u2022 Bilingual corporate profile or proposal design, RTL/LTR compliant \u2022 Editable design source files and final PDFs Kindly attach samples that highlight prior Saudi-market language work and corporate profile designs so I can gauge fit quickly.",
+    "salary": "10.0-30.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-17T15:39:53+00:00",
+    "score": 97,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic translator translation interpreter linguist editor proofreader content writer qa tester localis (title)",
+      "bilingual.*arabic arabic.*bilingual (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.603797179722222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Matches Saudi Arabic Editor & Designer job description for editing and design."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in academic supervision and translation, aligns with job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment, aligns well with the job's nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's nature."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns well with the job's nature."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Saudi Arabic editing and design experience",
+        "Direct academic supervision and translation experience"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's profile aligns well with the Saudi Arabic Editor & Designer job. His extensive experience in academic supervision and translation makes him a strong fit for the role. The job's nature as a remote, academic environment suits his background perfectly.",
+      "interview_prep": "1. What is your experience in academic supervision and translation? 2. How do you approach proofreading and editing Saudi Arabic texts? 3. Can you provide examples of your work in corporate layouts?",
+      "one_line_summary": "Waleed Ballag's extensive academic supervision and translation experience make him a strong fit for the Saudi Arabic Editor & Designer job."
+    },
+    "ai_insight": "Waleed Ballag's extensive academic supervision and translation experience make him a strong fit for the Saudi Arabic Editor & Designer job.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Saudi Arabic editing and design experience",
+      "Direct academic supervision and translation experience"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's profile aligns well with the Saudi Arabic Editor & Designer job. His extensive experience in academic supervision and translation makes him a strong fit for the role. The job's nature as a remote, academic environment suits his background perfectly.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and translation? 2. How do you approach proofreading and editing Saudi Arabic texts? 3. Can you provide examples of your work in corporate layouts?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "No native QA, backlog of Arabic content",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Saudi Arabic Editor & Designer_20260917.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Saudi Arabic Editor & Designer_20260917.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-17T20:24:30.984419+00:00"
+  },
+  {
     "title": "YouTube Educational Video Content Creator",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Educational-Video-Content",
@@ -801,5 +1238,108 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-17T13:24:11.141806+00:00"
+  },
+  {
+    "title": "Cultural Creative Collaborator",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/video-editing/Cultural-Creative-Collaborator.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Thu, 17 Sep 2026 15:57:02 -0400",
+    "description": "Im looking for an Indonesia-based creative content creator that have a passion in fashion and accessories with deep knowledge in Indonesian Batik and Kebaya Heritage Able to making short captivating videos,... (Budget: $2 - $8 USD, Jobs: Article Writing, Content Creation, Content Writing, Copywriting, Fashion Design, Social Media Marketing, Video Editing)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-09-17T15:57:02-04:00",
+    "score": 82,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)",
+      "content creation (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.3181090475,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires deep knowledge in Indonesian Batik and Kebaya Heritage, which aligns with the candidate's expertise in Arabic-English translation and academic supervision."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and legal translation, which are relevant to the job description."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services and remote work aligns well with the flexible and academic environment required."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and the candidate is from Indonesia, making it a compatible fit."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job description, focusing on translation and academic services."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Expertise in Arabic-English translation",
+        "Experience in academic supervision",
+        "Remote work capability"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate would be a strong fit for the Cultural Creative Collaborator role, focusing on their expertise in translation and academic supervision.",
+      "interview_prep": "1. What is your experience in academic supervision and how do you handle research guidance for graduate-level studies? 2. Can you provide an example of a successful project you have supervised in the field of Indonesian batik and kebaya heritage? 3. How do you approach the creation of short captivating videos for a creative content creator role?",
+      "one_line_summary": "A strong fit for the Cultural Creative Collaborator role with expertise in translation and academic supervision."
+    },
+    "ai_insight": "A strong fit for the Cultural Creative Collaborator role with expertise in translation and academic supervision.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Expertise in Arabic-English translation",
+      "Experience in academic supervision",
+      "Remote work capability"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate would be a strong fit for the Cultural Creative Collaborator role, focusing on their expertise in translation and academic supervision.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and how do you handle research guidance for graduate-level studies? 2. Can you provide an example of a successful project you have supervised in the field of Indonesian batik and kebaya heritage? 3. How do you approach the creation of short captivating videos for a creative content creator role?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 26,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Cultural Creative Collaborator_20260917.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-09-17T20:24:30.984419+00:00"
   }
 ]
