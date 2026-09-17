@@ -1055,5 +1055,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-17T13:22:11.538014+00:00"
+  },
+  "eClerx": {
+    "name": "eClerx",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-17T20:23:19.339292+00:00"
+  },
+  "Mars United Commerce": {
+    "name": "Mars United Commerce",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-17T20:23:19.340581+00:00"
   }
 }
