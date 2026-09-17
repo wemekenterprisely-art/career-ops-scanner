@@ -1906,5 +1906,76 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-17T13:24:35.122657+00:00",
+    "matched_count": 8,
+    "all_count": 4746,
+    "jobs": [
+      {
+        "title": "Translate Legal Agreements to Arabic",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Romance Novel Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/writing/Romance-Novel-Proofreading",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Quick Proofreading Expert Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/document-checking/Quick-Proofreading-Expert-Needed",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "YouTube Educational Video Content Creator",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Educational-Video-Content",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "AI Trainer Image QA Evaluator",
+        "company": "iMerit Technology",
+        "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398",
+        "score": 100,
+        "category": "Admin",
+        "source": "remoteok"
+      },
+      {
+        "title": "Language Teacher",
+        "company": "Scolingo",
+        "url": "https://rs.linkedin.com/jobs/view/language-teacher-at-scolingo-4459845099",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Online Evening English Language Teacher",
+        "company": "Speak Up Egypt",
+        "url": "https://eg.linkedin.com/jobs/view/online-evening-english-language-teacher-at-speak-up-egypt-4468383114",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Remote K-4 Math & English Tutor / Teacher (US & Canada Curriculum)",
+        "company": "Wizdomi",
+        "url": "https://in.linkedin.com/jobs/view/remote-k-4-math-english-tutor-teacher-us-canada-curriculum-at-wizdomi-4468372602",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
