@@ -1079,5 +1079,37 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-17T20:23:19.340581+00:00"
+  },
+  "Huzzle": {
+    "name": "Huzzle",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-09-18T20:20:54.494560+00:00"
+  },
+  "Nachhilfeunterricht": {
+    "name": "Nachhilfeunterricht",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-18T20:20:54.495517+00:00"
+  },
+  "IOM - International Organization for Migration": {
+    "name": "IOM - International Organization for Migration",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-09-18T20:20:54.496478+00:00"
   }
 }
