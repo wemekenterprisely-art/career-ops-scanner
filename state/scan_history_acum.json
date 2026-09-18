@@ -2039,5 +2039,20 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-09-18T13:18:43.633615+00:00",
+    "matched_count": 1,
+    "all_count": 4752,
+    "jobs": [
+      {
+        "title": "AI Video Content Creator for Social Media",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/ai-video-editing/Video-Content-Creator-for-Social",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
