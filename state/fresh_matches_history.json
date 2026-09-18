@@ -1242,6 +1242,110 @@
     "scan_date": "2026-09-18T05:15:19.509518+00:00"
   },
   {
+    "title": "AI Video Content Creator for Social Media",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/ai-video-editing/Video-Content-Creator-for-Social",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-18T09:42:09+00:00",
+    "description": "I\u2019m looking for a creative AI Video Content Creator who can produce high-quality, original short videos for YouTube Shorts & Instagram Reels. I\u2019m specifically looking for someone experienced in: \u2022 AI-generated cartoon/animated characters \u2022 Natural-looking lip-sync and character expressions \u2022 Storytelling, comedy & engaging short-form content \u2022 Complete video editing, sound effects, music & captions \u2022 Creating strong hooks within the first 1\u20132 seconds \u2022 10\u201330 second vertical videos optimized for Shorts/Reels \u2022 Consistent characters and visual style across videos Most important: I don\u2019t want copied, recycled, or slightly modified viral content. The concepts, scripts, characters, and videos should be fresh and original, created specifically for our channel and not previously published elsewhere. The creator should be able to handle the complete workflow \u2014 idea \u2192 script \u2192 AI character/animation \u2192 lip-sync \u2192 voice/audio \u2192 editing \u2192 final ready-to-publish video. If interested, please share: Your best 3\u20135 AI/cartoon short-video samples AI/video tools you currently use Cost per finished video Expected turnaround time Whether you can develop recurring characters/series Confirmation that the final content will be original and created exclusively for us Long-term opportunity for the right creator if the quality and creativity are strong. Please apply only if you have actual experience creating polished AI short-form videos \u2014 not just basic text-to-video generation.",
+    "salary": "600.0-1500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-09-18T09:42:09+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.5116839380555556,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and AI video content creation, which aligns with the job requirements of AI video content creation."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has direct experience in ESL teaching, academic supervision, and AI video content creation, which is directly relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate has experience in creative AI video content creation, which aligns with the job's need for original, engaging short-form content, and the ability to handle the complete workflow."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is listed as a remote (worldwide) location, which is compatible with the job's requirement for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirement for long-term client relationships and graduate-level research supervision, which is a strong fit for the candidate's background."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision experience",
+        "Creative AI video content creation"
+      ],
+      "gaps": [
+        "No direct experience in AI video content creation"
+      ],
+      "recommendation": "Waleed Ballag's strong background in ESL teaching and academic supervision, combined with his experience in AI video content creation, makes him a strong fit for the AI Video Content Creator role. His ability to handle the complete workflow and create original, engaging short-form content is a significant advantage.",
+      "interview_prep": "1. What is your experience in creating AI-generated characters and animations for video content? 2. How do you approach storytelling and comedic elements in short-form videos? 3. Can you share an example of a video you created that you are particularly proud of?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the AI Video Content Creator role due to his background in ESL teaching, academic supervision, and creative AI video content creation."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the AI Video Content Creator role due to his background in ESL teaching, academic supervision, and creative AI video content creation.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision experience",
+      "Creative AI video content creation"
+    ],
+    "ai_gaps": [
+      "No direct experience in AI video content creation"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong background in ESL teaching and academic supervision, combined with his experience in AI video content creation, makes him a strong fit for the AI Video Content Creator role. His ability to handle the complete workflow and create original, engaging short-form content is a significant advantage.",
+    "ai_interview_prep": "1. What is your experience in creating AI-generated characters and animations for video content? 2. How do you approach storytelling and comedic elements in short-form videos? 3. Can you share an example of a video you created that you are particularly proud of?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_AI Video Content Creator for Social Media_20260918.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_AI Video Content Creator for Social Media_20260918.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-18T13:18:19.208814+00:00"
+  },
+  {
     "title": "YouTube Educational Video Content Creator",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Educational-Video-Content",
