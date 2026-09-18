@@ -1138,6 +1138,110 @@
     "scan_date": "2026-09-17T20:24:30.984419+00:00"
   },
   {
+    "title": "Data Entry & Excel Maintenance",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/data-management/Data-Entry-Excel-Maintenance.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Fri, 18 Sep 2026 00:49:10 -0400",
+    "description": "I have 4\u20137 Excel sheets that need to be kept up-to-date with mixed text-and-numerical data. Your job is to enter new records, clean up existing ones, and make sure everything stays well-organized and searchable... (Budget: \u20b912500 - \u20b937500 INR, Jobs: Data Analysis, Data Entry, Data Management, Data Processing, Data Visualization, Database Management, Excel, Visual Basic)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-09-18T00:49:10-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.3862898997222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires Excel management, data entry, and data analysis, which are transferable skills from the candidate's background."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the job's requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's remote work experience and ability to work with Excel make them a good fit for the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which aligns with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirements, including translation, teaching, and academic services."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Remote work experience",
+        "Transferable skills",
+        "Data management skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Data Entry & Excel Maintenance job. He is a strong fit for the position, especially considering his ability to work remotely and his proficiency in Excel management and data analysis.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you describe a time when you had to clean up existing data in an Excel sheet? 3. How do you approach data analysis using SPSS?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Data Entry & Excel Maintenance job due to his transferable skills and experience in academic supervision and remote work."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Data Entry & Excel Maintenance job due to his transferable skills and experience in academic supervision and remote work.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Remote work experience",
+      "Transferable skills",
+      "Data management skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Data Entry & Excel Maintenance job. He is a strong fit for the position, especially considering his ability to work remotely and his proficiency in Excel management and data analysis.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you describe a time when you had to clean up existing data in an Excel sheet? 3. How do you approach data analysis using SPSS?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Data Entry & Excel Maintenance_20260918.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Data Entry & Excel Maintenance_20260918.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-18T05:15:19.509518+00:00"
+  },
+  {
     "title": "YouTube Educational Video Content Creator",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Educational-Video-Content",
