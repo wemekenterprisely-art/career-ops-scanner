@@ -2054,5 +2054,52 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-09-18T20:22:26.848580+00:00",
+    "matched_count": 5,
+    "all_count": 4594,
+    "jobs": [
+      {
+        "title": "Clean Handwritten Photo Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Clean-Handwritten-Photo-Transcription",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Virtual Assistant - Guest Relations & Bookings",
+        "company": "Huzzle",
+        "url": "https://himalayas.app/companies/huzzle/jobs/virtual-assistant-guest-relations-bookings-5613922101",
+        "score": 70,
+        "category": "Admin",
+        "source": "himalayas"
+      },
+      {
+        "title": "English as a Foreign Language (EFL) Tutor",
+        "company": "Nachhilfeunterricht",
+        "url": "https://de.linkedin.com/jobs/view/english-as-a-foreign-language-efl-tutor-at-nachhilfeunterricht-4469127149",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Copy Editor",
+        "company": "Mars United Commerce",
+        "url": "https://www.linkedin.com/jobs/view/copy-editor-at-mars-united-commerce-4449314126",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      },
+      {
+        "title": "Interpreter (Arabic and French)",
+        "company": "IOM - International Organization for Migration",
+        "url": "https://www.impactpool.org/jobs/1233160",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "impactpool"
+      }
+    ]
   }
 ]
