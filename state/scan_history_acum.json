@@ -2124,5 +2124,52 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-19T13:22:26.431568+00:00",
+    "matched_count": 5,
+    "all_count": 4741,
+    "jobs": [
+      {
+        "title": "Technical PDF Proofreading & Fixes",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/adobe-acrobat/Technical-PDF-Proofreading-Fixes",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Casual Lifestyle Blog Post",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/blog-writing/Casual-Lifestyle-Blog-Post-40721178.html",
+        "score": 82,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Entry-Level English Teacher",
+        "company": "English 1",
+        "url": "https://ie.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4469517381",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
+        "company": "Kreyco",
+        "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4469234101",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Full Time English Teacher - Faro",
+        "company": "Wall Street English",
+        "url": "https://pt.linkedin.com/jobs/view/full-time-english-teacher-faro-at-wall-street-english-4469529836",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
