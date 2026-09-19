@@ -2101,5 +2101,28 @@
         "source": "impactpool"
       }
     ]
+  },
+  {
+    "date": "2026-09-19T05:17:31.810481+00:00",
+    "matched_count": 2,
+    "all_count": 4695,
+    "jobs": [
+      {
+        "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
+        "company": "Kreyco",
+        "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4469225283",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "ESL Instructor (63536)",
+        "company": "Aurora Mental Health & Recovery",
+        "url": "https://www.linkedin.com/jobs/view/esl-instructor-63536-at-aurora-mental-health-recovery-4467841444",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
