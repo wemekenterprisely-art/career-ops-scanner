@@ -2171,5 +2171,44 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-19T20:21:37.709466+00:00",
+    "matched_count": 4,
+    "all_count": 4743,
+    "jobs": [
+      {
+        "title": "Romanian Audio Lecture Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/proofreading/Romanian-Audio-Lecture-Transcription.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Elevate Beauty Salon Instagram Account",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/instagram-marketing/Elevate-Beauty-Salon-Instagram-Account",
+        "score": 82,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Tutor WFH (flexible)",
+        "company": "GALAXINO EDUCATION TECHNOLOGY- FZCO",
+        "url": "https://in.linkedin.com/jobs/view/english-tutor-wfh-flexible-at-galaxino-education-technology-fzco-4467302090",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
+        "company": "Kreyco",
+        "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4469562115",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
