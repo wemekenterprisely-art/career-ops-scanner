@@ -1095,6 +1095,230 @@
     "scan_date": "2026-09-18T20:22:09.872224+00:00"
   },
   {
+    "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
+    "company": "Kreyco",
+    "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4469225283",
+    "location": "Remote \u2014 Trenton, NJ",
+    "posted": "2026-09-18",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-18T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.202508225,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires Arabic-English translation, ESL teaching, and academic supervision, which aligns well with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, making this a strong match."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in language instruction, academic supervision, and legal translation makes them a good fit for a remote, academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is flexible, which aligns well with their skills and career goals."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job requirements, including secure stable remote work, building long-term client relationships, and contributing to graduate-level research supervision."
+      },
+      "overall_score": 83,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is highly qualified for the 26-27 SY Teaching Jobs: ESL/ENL/ELL position at Kreyco. Their extensive experience in ESL teaching, academic supervision, and legal translation make them a strong fit for the role. The job's remote nature and alignment with the candidate's career goals further enhance their suitability.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and how it has prepared you for this role? 2. How do you approach legal translation in the context of academic research? 3. Can you describe a time when you successfully guided a graduate-level research study?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the ESL/ENL/ELL position at Kreyco, combining extensive experience in ESL teaching, academic supervision, and legal translation with a remote work culture that aligns perfectly with their career goals."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the ESL/ENL/ELL position at Kreyco, combining extensive experience in ESL teaching, academic supervision, and legal translation with a remote work culture that aligns perfectly with their career goals.",
+    "ai_overall_score": 83,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is highly qualified for the 26-27 SY Teaching Jobs: ESL/ENL/ELL position at Kreyco. Their extensive experience in ESL teaching, academic supervision, and legal translation make them a strong fit for the role. The job's remote nature and alignment with the candidate's career goals further enhance their suitability.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and how it has prepared you for this role? 2. How do you approach legal translation in the context of academic research? 3. Can you describe a time when you successfully guided a graduate-level research study?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Kreyco",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-07T20:21:18.237169+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Kreyco_26-27 SY Teaching Jobs- ESL-ENL-ELL_20260919.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Kreyco_26-27 SY Teaching Jobs- ESL-ENL-ELL_20260919.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-19T05:17:08.350632+00:00"
+  },
+  {
+    "title": "ESL Instructor (63536)",
+    "company": "Aurora Mental Health & Recovery",
+    "url": "https://www.linkedin.com/jobs/view/esl-instructor-63536-at-aurora-mental-health-recovery-4467841444",
+    "location": "Remote \u2014 Aurora, CO",
+    "posted": "2026-09-18",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-18T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.202508344722222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires ESL teaching, academic supervision, and bidirectional translation, which are all skills directly related to the candidate's background and experience."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Candidate has extensive experience in ESL teaching, academic supervision, and bidirectional translation, which aligns perfectly with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background and skills are well-suited for a remote, academic environment, and they have experience in related fields like academic writing and proposal development."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, worldwide, and the candidate is available for remote work, which is compatible with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job's requirements, including secure stable remote work, building long-term client relationships, and contributing to graduate-level research supervision."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Extensive ESL teaching experience",
+        "Strong academic supervision skills",
+        "Native Arabic and C1 Advanced English proficiency"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's strong fit for the ESL Instructor role at Aurora Mental Health & Recovery aligns perfectly with his background in ESL instruction, academic supervision, and bidirectional translation. His experience and skills make him a strong candidate for this position, which offers remote work, academic environment, and career growth opportunities.",
+      "interview_prep": [
+        "Can you describe a time when you supervised a research study at the graduate level?",
+        "How do you approach translating legal documents for academic purposes?",
+        "Can you walk us through your process for editing and reviewing academic theses?"
+      ],
+      "one_line_summary": "Waleed Ballag's strong fit for the ESL Instructor role at Aurora Mental Health & Recovery aligns perfectly with his extensive experience in ESL teaching and academic supervision, making him an ideal candidate for this remote, academic-based position."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the ESL Instructor role at Aurora Mental Health & Recovery aligns perfectly with his extensive experience in ESL teaching and academic supervision, making him an ideal candidate for this remote, academic-based position.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Extensive ESL teaching experience",
+      "Strong academic supervision skills",
+      "Native Arabic and C1 Advanced English proficiency"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong fit for the ESL Instructor role at Aurora Mental Health & Recovery aligns perfectly with his background in ESL instruction, academic supervision, and bidirectional translation. His experience and skills make him a strong candidate for this position, which offers remote work, academic environment, and career growth opportunities.",
+    "ai_interview_prep": [
+      "Can you describe a time when you supervised a research study at the graduate level?",
+      "How do you approach translating legal documents for academic purposes?",
+      "Can you walk us through your process for editing and reviewing academic theses?"
+    ],
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Aurora Mental Health & Recovery",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-19T05:16:38.053684+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Aurora Mental Health & Recover_ESL Instructor (63536)_20260919.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Aurora Mental Health & Recover_ESL Instructor (63536)_20260919.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-19T05:17:08.350632+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
