@@ -1123,5 +1123,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-19T05:16:38.053684+00:00"
+  },
+  "Wall Street English": {
+    "name": "Wall Street English",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-19T13:20:46.873188+00:00"
   }
 }
