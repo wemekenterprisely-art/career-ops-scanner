@@ -2210,5 +2210,44 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-20T05:17:47.800053+00:00",
+    "matched_count": 4,
+    "all_count": 4738,
+    "jobs": [
+      {
+        "title": "Handwritten Notes to Plain Text",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/proofreading/Handwritten-Notes-Plain-Text-40722134.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Philippine Virtual Assistant Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/google-docs/Philippine-Virtual-Assistant-Needed",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Research Paper Finalization",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/academic-writing/Research-Paper-Finalization",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Entry-Level English Teacher",
+        "company": "English 1",
+        "url": "https://ca.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4469580441",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
