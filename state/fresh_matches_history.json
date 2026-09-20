@@ -2196,6 +2196,220 @@
     "scan_date": "2026-09-20T13:19:36.992587+00:00"
   },
   {
+    "title": "Online English Instructor",
+    "company": "Private Business",
+    "url": "https://eg.linkedin.com/jobs/view/online-english-instructor-at-private-business-4469804787",
+    "location": "Remote \u2014 Cairo, Egypt",
+    "posted": "2026-09-20",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-20T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.248308990555557,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches the job's requirement for language skills and academic supervision."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching and academic supervision aligns well with the job's requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work and academic environment are compatible with the candidate's skills and experience."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide location is compatible with the candidate's qualifications."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds towards translation/teaching/academic career with potential for senior roles."
+      },
+      "overall_score": 89,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "Awarded English Language Trainer of the Year"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's background in ESL teaching and academic supervision makes him a strong fit for the Online English Instructor position. His experience and skills align well with the job's requirements, and he has the potential to grow into a senior translator or academic coordinator role.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a thesis review you've conducted? 3. How do you approach data analysis using SPSS?",
+      "one_line_summary": "Waleed Ballag's strong fit for the Online English Instructor position due to his native Arabic speaker status and experience in academic supervision and research guidance."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the Online English Instructor position due to his native Arabic speaker status and experience in academic supervision and research guidance.",
+    "ai_overall_score": 89,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "Awarded English Language Trainer of the Year"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in ESL teaching and academic supervision makes him a strong fit for the Online English Instructor position. His experience and skills align well with the job's requirements, and he has the potential to grow into a senior translator or academic coordinator role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a thesis review you've conducted? 3. How do you approach data analysis using SPSS?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Private Business",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-20T20:24:06.562964+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Private Business_Online English Instructor_20260920.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Private Business_Online English Instructor_20260920.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-20T20:26:22.360898+00:00"
+  },
+  {
+    "title": "English Second Language Teacher",
+    "company": "British School of Language",
+    "url": "https://in.linkedin.com/jobs/view/english-second-language-teacher-at-british-school-of-language-4468452939",
+    "location": "Remote \u2014 Lucknow, Uttar Pradesh, India",
+    "posted": "2026-09-20",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-20T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.24830952138889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires Arabic-English translation, ESL teaching, and academic supervision, which are all relevant skills from the candidate's CV."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in language education and research supervision makes them a good fit for the academic environment described in the job listing."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is flexible, which aligns with the candidate's ability to work remotely."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the job description, focusing on translation, teaching, and academic services."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "This candidate is a strong fit for the English Second Language Teacher position. They have a proven track record in ESL instruction and academic supervision, making them well-suited to the remote, academic environment of the British School of Language.",
+      "interview_prep": "1. Can you discuss a time when you supervised a graduate-level research study? 2. How do you ensure the accuracy of academic papers and the integrity of research findings? 3. Can you describe a challenging translation project you handled and how you approached it?",
+      "one_line_summary": "ESL Instructor with extensive academic supervision and legal translation experience, a strong fit for the English Second Language Teacher position."
+    },
+    "ai_insight": "ESL Instructor with extensive academic supervision and legal translation experience, a strong fit for the English Second Language Teacher position.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "This candidate is a strong fit for the English Second Language Teacher position. They have a proven track record in ESL instruction and academic supervision, making them well-suited to the remote, academic environment of the British School of Language.",
+    "ai_interview_prep": "1. Can you discuss a time when you supervised a graduate-level research study? 2. How do you ensure the accuracy of academic papers and the integrity of research findings? 3. Can you describe a challenging translation project you handled and how you approached it?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "British School of Language",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-20T20:24:06.564242+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/British School of Language_English Second Language Teacher_20260920.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/British School of Language_English Second Language Teacher_20260920.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-20T20:26:22.360898+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
@@ -3502,6 +3716,639 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-20T13:19:36.992587+00:00"
+  },
+  {
+    "title": "PDF-to-Excel Data Entry",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/data-management/PDF-Excel-Data-Entry-40723432.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Sun, 20 Sep 2026 15:39:01 -0400",
+    "description": "I need several PDFs containing mixed content\u2014text passages, tables, and the occasional chart\u2014transcribed with 100 % accuracy into an Excel spreadsheet. Please focus on capturing every data point while presenting it in a clean, simple layout rather than mirroring the original page design... (Budget: \u20b9750 - \u20b91250 INR, Jobs: Data Analysis, Data Annotation, Data Cleansing, Data Entry, Data Management, Data Processing, Excel, PDF)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-09-20T15:39:01-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title+description)",
+      "data annotation data labeling data labeler data entry specialist clerk operator agent (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.5981776333333333,
+    "ai_insight": "Waleed Ballag's ESL teaching experience and academic supervision skills make him well-suited for this PDF-to-Excel data entry job. His ability to translate and explain complex academic concepts will help him accurately transcribe mixed content from PDFs into clean, simple Excel spreadsheets. Additio",
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_PDF-to-Excel Data Entry_20260920.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_PDF-to-Excel Data Entry_20260920.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-20T20:26:22.360898+00:00"
+  },
+  {
+    "title": "Ongoing Real Estate Virtual Assistant",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/real-estate/Ongoing-Real-Estate-Virtual-Assistant",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-20T18:52:18+00:00",
+    "description": "**Ongoing Real Estate Virtual Assistant** I\u2019m a software developer currently building a real-estate website and I\u2019m looking for a reliable Virtual Assistant to help with ongoing research and data collection. Your main responsibility will be gathering accurate real-estate information that can be organized and used on the website. **1. Property Research** * Research properties using Zillow, Redfin, Realtor.com, county websites, and similar sources. * Collect property details such as address, price, property type, bedrooms, bathrooms, square footage, year built, and sales history. * Research property ownership, tax information, and other publicly available records. * Enter and organize the information in Google Sheets or other templates. **2. Real Estate Data Collection** * Find relevant properties and real-estate information based on specific criteria. * Build clean and organized datasets. * Verify information from multiple sources and remove duplicate or incorrect entries. * Keep the collected information up to date. **3. Website Content Support** * Gather information that will be displayed on the website. * Organize property descriptions, locations, and other useful details. * Help identify useful real-estate data or information that could improve the website. **What I\u2019m Looking For** * Previous experience as a real-estate VA is preferred. * Experience with Zillow, Redfin, Realtor.com, county property records, or similar tools. * Strong research and data-entry skills. * Excellent attention to detail. * Good written English and communication. * Stable internet connection. * Ability to work independently and follow instructions carefully. **Logistics** This is an ongoing project with steady work. Payment will be made weekly after the completed work is reviewed. When applying, please provide: * A brief summary of your real-estate research experience. * Your weekly availability. * Real-estate websites, databases, CRMs, or research tools you have used. * Your hourly or w",
+    "salary": "15.0-25.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-20T18:52:18+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.3766601961111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, but not engineering or development"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Related experience in language services and academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "Language skills",
+        "Academic supervision experience",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is well-suited for the ongoing real estate virtual assistant role. His experience in language instruction and academic supervision makes him a strong fit for the job, particularly in the remote and flexible environment.",
+      "interview_prep": [
+        "What is your experience in academic supervision and research guidance?",
+        "Can you provide examples of how you have used language skills in your previous roles?"
+      ],
+      "one_line_summary": "Waleed Ballag is a strong fit for the ongoing real estate virtual assistant role due to his language skills and academic supervision experience.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the ongoing real estate virtual assistant role due to his language skills and academic supervision experience.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "Language skills",
+      "Academic supervision experience",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is well-suited for the ongoing real estate virtual assistant role. His experience in language instruction and academic supervision makes him a strong fit for the job, particularly in the remote and flexible environment.",
+    "ai_interview_prep": [
+      "What is your experience in academic supervision and research guidance?",
+      "Can you provide examples of how you have used language skills in your previous roles?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Ongoing Real Estate Virtual Assistant_20260920.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Ongoing Real Estate Virtual Assistant_20260920.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-20T20:26:22.360898+00:00"
+  },
+  {
+    "title": "Native Arabic Website & Google Ads Translation \u2014 24 Hours",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/google-ads/Native-Arabic-Website-Google-Ads",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-20T18:27:51+00:00",
+    "description": "Native Arabic Translation & Review for UAE Website + Google Ads \u2014 24 Hours GGB Consulting needs a native Arabic translator with UAE marketing-copy experience to translate, adapt and review 73 clearly identified items in two supplied Excel workbooks. These are new website and advertising items; this is not a whole-website translation. SCOPE 1. Google Search Ads: 50 rows \u2014 15 headlines, 4 descriptions, 2 CTA alternatives, 12 sitelink fields, 10 keyword intents and 7 negative-keyword families. 2. Website: 23 rows \u2014 3 UI/disclosure strings, comparison-table headings/cells, and 5 FAQ questions with their answers. DELIVERABLES Return both completed XLSX files, preserving every row ID. Enter final natural Arabic, APPROVE or HOLD per row, and a short reason/correction for any HOLD. Include reviewer name, native language, review date, batch verdict and landing-page verdict. Review the existing Arabic landing page at https://ggb.consulting/ar for consistency and clearly identify any unresolved language/RTL issues or transitions into English. Human translation and review are required; do not deliver raw machine translation. AD REQUIREMENTS Headlines maximum 30 characters; descriptions 90; sitelink labels 25; each sitelink description 35. Counts include spaces and punctuation. Headlines/descriptions must read naturally alone and in combinations. Give useful UAE spellings/variants for keyword families. Preserve GGB Consulting as the brand. CLAIMS TO PRESERVE 28+ years in food and beverage; 45+ F&B concepts. Concepts must not become a claim of 45+ restaurants launched. Do not add rankings, guaranteed results, savings/profit percentages, free consulting, or promises of Arabic-speaking founder calls. Only the diagnostic tool is free. DEADLINE Complete both workbooks within 24 hours of project award and receipt of the two files. Include one correction round for missing rows, mistranslations or over-limit ad copy. Please bid only if you can meet this deadline. IN YOUR PROPOSAL Confir",
+    "salary": "30.0-225.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-20T18:27:51+00:00",
+    "score": 97,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic translator translation interpreter linguist editor proofreader content writer qa tester localis (description)",
+      "translator translation specialist staff translator freelance translator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.784144285,
+    "ai_insight": "Waleed Ballag's ESL teaching experience is well-suited for this job because it involves working with diverse language skills and understanding different cultural contexts, which are crucial for accurately translating content for a UAE website and Google Ads. His academic supervision experience in ap",
+    "urgency_score": 0,
+    "desperation_index": 15,
+    "pain_points": "No native QA, backlog of Arabic content; Translation backlog / scaling",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 36,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "",
+    "cover_letter_type": "error",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Native Arabic Website & Google Ads Translation \u2014 2_20260920.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-20T20:26:22.360898+00:00"
+  },
+  {
+    "title": "Experienced Memoir Proofreader Needed",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/copy-editing/Experienced-Memoir-Proofreader-Needed",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-20T17:59:28+00:00",
+    "description": "My memoir is edited and typeset, but before I lock the final manuscript I want a fresh, professional eye on every line. The job is classic proofreading\u2014catching the last-minute typos, punctuation slips, and formatting quirks\u2014yet I also expect you to smooth out flow where a sentence still jars and flag anything that breaks the established tone or style. Because it is a memoir, the voice must stay authentically mine; any suggestions should preserve that conversational feel while ensuring consistency from first page to last. Track Changes in Microsoft Word is mandatory so I can review every correction and decide quickly. Please send two or three samples that show you have brought full-length books to press-ready condition, ideally memoirs or narrative non-fiction. A brief note on your typical turnaround time for projects of similar length will help me plan the printing schedule. Deliverables: \u2022 A single Word document with all proofing marks visible via Track Changes \u2022 A clean, acceptance-ready file once I have approved changes If you love the rhythm of language, have a sharp eye for detail, and can guarantee consistency without diluting the author\u2019s voice, I look forward to working together on this final polish.",
+    "salary": "30.0-250.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-20T17:59:28+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.2572236322222223,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 65,
+        "reason": "Job requires proofreading, which is related to academic and writing skills, but not exclusively."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in academic supervision and proofreading, aligning with the job's requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work and academic environment fit well, but there is a slight mismatch in career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide locations are compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "Job aligns with a career in translation and academic services, but there is a need for senior roles."
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong academic and writing skills",
+        "Experience in proofreading and academic supervision"
+      ],
+      "gaps": [
+        "Need for senior leadership roles"
+      ],
+      "recommendation": "This candidate has strong skills in academic and writing, and would be a good fit for a career in translation and academic services. However, the need for senior roles and the requirement for senior leadership experience are a slight mismatch.",
+      "interview_prep": "1. Can you walk me through a recent proofreading project you handled? 2. How do you approach ensuring consistency in a memoir's tone and voice? 3. What is your experience with Microsoft Word's Track Changes feature?",
+      "one_line_summary": "Waleed Ballag has strong skills in academic and writing, and would be a good fit for a career in translation and academic services, but there is a need for senior leadership roles."
+    },
+    "ai_insight": "Waleed Ballag has strong skills in academic and writing, and would be a good fit for a career in translation and academic services, but there is a need for senior leadership roles.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong academic and writing skills",
+      "Experience in proofreading and academic supervision"
+    ],
+    "ai_gaps": [
+      "Need for senior leadership roles"
+    ],
+    "ai_recommendation": "This candidate has strong skills in academic and writing, and would be a good fit for a career in translation and academic services. However, the need for senior roles and the requirement for senior leadership experience are a slight mismatch.",
+    "ai_interview_prep": "1. Can you walk me through a recent proofreading project you handled? 2. How do you approach ensuring consistency in a memoir's tone and voice? 3. What is your experience with Microsoft Word's Track Changes feature?",
+    "ai_technical_skills": 65,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Experienced Memoir Proofreader Needed_20260920.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Experienced Memoir Proofreader Needed_20260920.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-20T20:26:22.360898+00:00"
+  },
+  {
+    "title": "Fast Accurate English Audio Transcription",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/transcription/Fast-Accurate-English-Audio",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-20T16:44:08+00:00",
+    "description": "I have between 30 and 60 minutes of clear English audio that I need transcribed into text as quickly as possible. Accuracy is critical\u2014every word must be captured with correct punctuation, spelling, and capitalization. The conversation is straight-forward, general English, so no specialist jargon is involved. Please remove every filler word (\u201cum,\u201d \u201cuh,\u201d and similar) to keep the transcript clean and readable. When the work is finished, send the file back to me in either Microsoft Word or plain .txt format; I\u2019m happy to receive both if that is easier for you. I\u2019m looking for someone who has proven experience in audio-to-text work, an excellent ear for English, and the typing speed to meet a tight turnaround. If that sounds like you, place your bid and let me know how quickly you can deliver the final transcript.",
+    "salary": "600.0-1500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-09-20T16:44:08+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.5127740658333333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Clear Arabic-English translation experience, strong English proficiency, relevant language skills for the job"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Proven experience in audio-to-text work, excellent ear for English, typing speed matching the job requirements"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work environment, academic focus, good fit for career goals"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job requirements"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns well with the job"
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Proven experience in audio-to-text work",
+        "Excellent English proficiency",
+        "Strong academic background"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Strong fit for the job. Highly recommended for the position.",
+      "interview_prep": "1. Can you provide examples of your experience in audio-to-text transcription? 2. How do you ensure accuracy in your work? 3. What is your experience with academic supervision and research guidance?",
+      "one_line_summary": "Strong fit for the job with proven experience in audio-to-text work and excellent academic background."
+    },
+    "ai_insight": "Strong fit for the job with proven experience in audio-to-text work and excellent academic background.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Proven experience in audio-to-text work",
+      "Excellent English proficiency",
+      "Strong academic background"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Strong fit for the job. Highly recommended for the position.",
+    "ai_interview_prep": "1. Can you provide examples of your experience in audio-to-text transcription? 2. How do you ensure accuracy in your work? 3. What is your experience with academic supervision and research guidance?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Fast Accurate English Audio Transcription_20260920.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Fast Accurate English Audio Transcription_20260920.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-20T20:26:22.360898+00:00"
+  },
+  {
+    "title": "English Audio Transcription to Text",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/audio-editing/English-Audio-Transcription-Text",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-20T16:13:39+00:00",
+    "description": "I have a series of English-language audio files that I need converted into clean, well-formatted text. The material is conversational, so capturing every word accurately and preserving speaker changes is important. I\u2019ll supply the recordings and any relevant notes; you return a polished Word document for each file, ready for immediate use. When you reply, please include examples of similar transcription projects you\u2019ve completed\u2014your past work will help me judge fit and quality.",
+    "salary": "2500.0- INR",
+    "source": "freelancer",
+    "postedISO": "2026-09-20T16:13:39+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.020830969722223,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires clean, well-formatted text from audio files, which aligns with the candidate's experience in academic supervision and research guidance."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "The candidate has experience in academic supervision and research guidance, which is directly related to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services and language skills align well with the job's remote and flexible nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which the candidate is comfortable with."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's opportunities for translation, teaching, and academic supervision."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision & Research Guidance",
+        "Native Arabic Speaker"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's background in academic supervision and research guidance makes him a strong fit for this job. His native Arabic speaker status will be a valuable asset in the audio transcription process.",
+      "interview_prep": "1. Can you describe a time when you successfully supervised a research study? 2. How do you approach translating legal documents for a client? 3. Can you share an example of a project where you used SPSS for data analysis?",
+      "one_line_summary": "Waleed Ballag's strong fit as an ESL instructor and academic supervisor makes him a perfect candidate for this remote audio transcription job."
+    },
+    "ai_insight": "Waleed Ballag's strong fit as an ESL instructor and academic supervisor makes him a perfect candidate for this remote audio transcription job.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision & Research Guidance",
+      "Native Arabic Speaker"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in academic supervision and research guidance makes him a strong fit for this job. His native Arabic speaker status will be a valuable asset in the audio transcription process.",
+    "ai_interview_prep": "1. Can you describe a time when you successfully supervised a research study? 2. How do you approach translating legal documents for a client? 3. Can you share an example of a project where you used SPSS for data analysis?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_English Audio Transcription to Text_20260920.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_English Audio Transcription to Text_20260920.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-20T20:26:22.360898+00:00"
+  },
+  {
+    "title": "English-Arabic Translation Needed",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/english-translation/English-Arabic-Translation-Needed-40723055",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-20T14:52:28+00:00",
+    "description": "I\u2019m looking for a detail-oriented translator to render my English material into clear, accurate Arabic. Quality and fidelity to the original tone matter more to me than speed, so there is no fixed deadline; I simply ask for a realistic schedule and open communication along the way. Please maintain the original formatting wherever possible and flag any ambiguous phrases so we can clarify them before you proceed. Once the draft is complete, I\u2019ll review it and send back any notes\u2014one round of light revisions is all I anticipate. Deliverables: \u2022 Final Arabic text in the same file format as the source \u2022 Brief change log highlighting any sections that required interpretation choices If you have experience with CAT tools such as SDL Trados or MemoQ, feel free to use them, but it isn\u2019t mandatory. Let me know your estimated turnaround time and a few samples of previous English-to-Arabic work, and we can get started.",
+    "salary": "8.0-15.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-20T14:52:28+00:00",
+    "score": 97,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic translator translation interpreter linguist editor proofreader content writer qa tester localis (title)",
+      "translator translation specialist staff translator freelance translator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.3738686469444445,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires detailed translation, which aligns with the candidate's experience and skills."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and translation, which matches the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background is highly compatible with the remote and academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's location and skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the job, focusing on translation, teaching, and academic services."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Detailed translation ability"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's background and skills make him a strong fit for the job. His experience in ESL teaching and academic supervision, combined with his detailed translation abilities, align well with the requirements of the English-Arabic translation needed position.",
+      "interview_prep": "1. Can you describe a time when you had to interpret ambiguous phrases in a translation project? 2. How do you approach the editing and revision process in translation work? 3. Can you share a sample of your previous translation work?",
+      "one_line_summary": "Waleed Ballag's extensive experience in ESL teaching and academic supervision make him an excellent fit for the English-Arabic translation job."
+    },
+    "ai_insight": "Waleed Ballag's extensive experience in ESL teaching and academic supervision make him an excellent fit for the English-Arabic translation job.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Detailed translation ability"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's background and skills make him a strong fit for the job. His experience in ESL teaching and academic supervision, combined with his detailed translation abilities, align well with the requirements of the English-Arabic translation needed position.",
+    "ai_interview_prep": "1. Can you describe a time when you had to interpret ambiguous phrases in a translation project? 2. How do you approach the editing and revision process in translation work? 3. Can you share a sample of your previous translation work?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "No native QA, backlog of Arabic content; Translation backlog / scaling",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_English-Arabic Translation Needed_20260920.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_English-Arabic Translation Needed_20260920.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-20T20:26:22.360898+00:00"
   },
   {
     "title": "YouTube Educational Video Content Creator",
