@@ -2280,5 +2280,84 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-20T20:26:46.511939+00:00",
+    "matched_count": 9,
+    "all_count": 4740,
+    "jobs": [
+      {
+        "title": "PDF-to-Excel Data Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-management/PDF-Excel-Data-Entry-40723432.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Ongoing Real Estate Virtual Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/real-estate/Ongoing-Real-Estate-Virtual-Assistant",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Native Arabic Website & Google Ads Translation \u2014 24 Hours",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/google-ads/Native-Arabic-Website-Google-Ads",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Experienced Memoir Proofreader Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copy-editing/Experienced-Memoir-Proofreader-Needed",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Fast Accurate English Audio Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/transcription/Fast-Accurate-English-Audio",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Audio Transcription to Text",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/audio-editing/English-Audio-Transcription-Text",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "English-Arabic Translation Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/english-translation/English-Arabic-Translation-Needed-40723055",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Online English Instructor",
+        "company": "Private Business",
+        "url": "https://eg.linkedin.com/jobs/view/online-english-instructor-at-private-business-4469804787",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Second Language Teacher",
+        "company": "British School of Language",
+        "url": "https://in.linkedin.com/jobs/view/english-second-language-teacher-at-british-school-of-language-4468452939",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
