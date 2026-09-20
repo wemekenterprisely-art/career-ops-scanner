@@ -1159,5 +1159,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-20T13:18:51.597114+00:00"
+  },
+  "Private Business": {
+    "name": "Private Business",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-20T20:24:06.562964+00:00"
+  },
+  "British School of Language": {
+    "name": "British School of Language",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-20T20:24:06.564242+00:00"
   }
 }
