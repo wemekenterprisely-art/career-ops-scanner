@@ -2249,5 +2249,36 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-20T13:20:01.419663+00:00",
+    "matched_count": 3,
+    "all_count": 4742,
+    "jobs": [
+      {
+        "title": "Accurate PDF Text Data Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/optical-character-recognition/Accurate-PDF-Text-Data-Entry",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Arabic language translator/interpreter(Tour guide)",
+        "company": "Let's tour Afghanistan Agency",
+        "url": "https://af.linkedin.com/jobs/view/arabic-language-translator-interpreter-tour-guide-at-let-s-tour-afghanistan-agency-4467312630",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Teacher",
+        "company": "Elevate",
+        "url": "https://cn.linkedin.com/jobs/view/english-teacher-at-elevate-4469563900",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
