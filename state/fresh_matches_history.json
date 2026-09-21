@@ -2410,6 +2410,113 @@
     "scan_date": "2026-09-20T20:26:22.360898+00:00"
   },
   {
+    "title": "English Second Language Teacher",
+    "company": "English 1",
+    "url": "https://au.linkedin.com/jobs/view/english-second-language-teacher-at-english-1-4469828957",
+    "location": "Remote \u2014 Doonside, New South Wales, Australia",
+    "posted": "2026-09-21",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-21T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.2192815363888885,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires Arabic-English translation, academic supervision, and ESL teaching, which aligns with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has extensive experience in academic supervision, ESL teaching, and legal translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in language instruction, research supervision, and academic writing aligns well with the job's remote, flexible, and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job's requirements for stable remote work, academic services, and senior roles."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Extensive experience in academic supervision",
+        "Strong language skills",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the English Second Language Teacher position. His ability to provide academic supervision and research guidance, combined with his proficiency in both Arabic and English, positions him well for the role.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you ensure the quality of translations and research papers? 3. Can you provide examples of your work in legal translation?",
+      "one_line_summary": "Waleed Ballag's extensive experience in academic supervision, research guidance, and legal translation make him a strong fit for the English Second Language Teacher position."
+    },
+    "ai_insight": "Waleed Ballag's extensive experience in academic supervision, research guidance, and legal translation make him a strong fit for the English Second Language Teacher position.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Extensive experience in academic supervision",
+      "Strong language skills",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the English Second Language Teacher position. His ability to provide academic supervision and research guidance, combined with his proficiency in both Arabic and English, positions him well for the role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you ensure the quality of translations and research papers? 3. Can you provide examples of your work in legal translation?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@au.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@au.linkedin.com",
+      "hr@au.linkedin.com",
+      "jobs@au.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "English 1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-07T05:15:54.992406+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/English 1_English Second Language Teacher_20260921.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/English 1_English Second Language Teacher_20260921.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-21T05:17:49.671009+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
@@ -4349,6 +4456,219 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-20T20:26:22.360898+00:00"
+  },
+  {
+    "title": "Convert Handwritten Notes to PDF",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/document-checking/Convert-Handwritten-Notes-PDF-40724007.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Mon, 21 Sep 2026 00:46:02 -0400",
+    "description": "Handwritten Notes PDF Conversion (Budget: \u20b9750 - \u20b91250 INR, Jobs: Copy Typing, Data Annotation, Data Entry, Document Checking, Image Processing, OCR, PDF, Word)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-09-21T00:46:02-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "data annotation data labeling data labeler data entry specialist clerk operator agent (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.4522018661111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 60,
+        "reason": "Job requires language skills, writing, and academic work, but not exclusively translation or ESL teaching."
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Direct experience in academic supervision and research guidance, which aligns closely with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work, flexible environment, and academic context align well with the candidate's career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide locations are compatible with the candidate's preference and skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Job aligns closely with the candidate's career goals of securing stable remote work in translation or ESL teaching, building long-term client relationships, and contributing to graduate-level research supervision."
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Direct experience in academic supervision",
+        "Remote work flexibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate is well-suited for the job, offering a strong fit with the technical skills required and aligning closely with career goals in translation and academic services.",
+      "interview_prep": "1. Can you discuss a time when you supervised a graduate-level research study? 2. How do you approach data analysis using SPSS? 3. Can you describe a challenging translation project and how you overcame it?",
+      "one_line_summary": "Strong fit for the job, aligning well with career goals in translation and academic services."
+    },
+    "ai_insight": "Strong fit for the job, aligning well with career goals in translation and academic services.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Direct experience in academic supervision",
+      "Remote work flexibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate is well-suited for the job, offering a strong fit with the technical skills required and aligning closely with career goals in translation and academic services.",
+    "ai_interview_prep": "1. Can you discuss a time when you supervised a graduate-level research study? 2. How do you approach data analysis using SPSS? 3. Can you describe a challenging translation project and how you overcame it?",
+    "ai_technical_skills": 60,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Convert Handwritten Notes to PDF_20260921.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Convert Handwritten Notes to PDF_20260921.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-21T05:17:49.671009+00:00"
+  },
+  {
+    "title": "High-End Bilingual Corporate Profile Design \u2013 Arabic & English",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/indesign/High-End-Bilingual-Corporate-Profile",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-21T03:34:28+00:00",
+    "description": "We are looking for an experienced editorial / corporate profile designer to create a premium corporate profile for a well established contracting and infrastructure company in Saudi Arabia. The project requires two separate final profiles: 1. Arabic version \u2013 professionally typeset in RTL. 2. English version \u2013 professionally typeset in LTR. Both versions must follow the same visual identity and design system, while being properly adapted for each language rather than simply mirrored. Design direction: Modern, sleek, premium, corporate and architectural. Clean layouts, strong typography, intelligent use of white space, high-quality project photography, and a sophisticated construction / infrastructure feel. We do not want a generic Canva-style template. We will provide: * Final approved logo and brand colors * Arabic and English content * Project photographs and company images * Company information and project details * Design references and clear feedback throughout the project Required experience: * Strong portfolio in corporate profiles, annual reports, capability statements or editorial design * Proven experience designing in both Arabic and English * Excellent Arabic typography and RTL layout skills * Experience with construction, engineering, architecture, real estate or similar corporate sectors is preferred * Professional use of Adobe InDesign or equivalent professional publishing software Final deliverables must include: * Complete Arabic corporate profile * Complete English corporate profile * Print-ready high-resolution PDF files * CMYK / bleed / professional print preparation * Digital optimized PDF versions * Fully editable source files with all linked assets The logo is already being finalized separately. Logo design is not part of this project. Before selection, shortlisted designers may be asked to demonstrate relevant Arabic and English corporate-profile work. Please include in your proposal: * 2\u20133 of your best relevant corporate profile / editorial ",
+    "salary": "750.0-1500.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-21T03:34:28+00:00",
+    "score": 97,
+    "category": "Arabic Translation",
+    "why": [
+      "bilingual.*arabic arabic.*bilingual (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.6448390741666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Wadeed has experience in ESL teaching, academic supervision, and translation, which are all relevant to the job."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Wadeed has experience in academic supervision and research guidance, which aligns with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The job is remote and requires a flexible environment, which Wadeed's background aligns with."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Wadeed is a remote candidate, and the job is remote too, making both locations compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The job aligns with Wadeed's career goals of becoming a senior translator or academic coordinator, which is a positive fit."
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision experience",
+        "Translation experience"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Wadeed's background in ESL teaching, academic supervision, and translation aligns well with the job requirements. She can contribute to the company's profile design and potentially grow into a senior translator or academic coordinator role.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach translating legal documents? 3. How do you ensure high-quality project photography in your design work?",
+      "one_line_summary": "Wadeed's background in ESL teaching, academic supervision, and translation makes her a strong fit for the high-end corporate profile design job.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "Wadeed's background in ESL teaching, academic supervision, and translation makes her a strong fit for the high-end corporate profile design job.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision experience",
+      "Translation experience"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Wadeed's background in ESL teaching, academic supervision, and translation aligns well with the job requirements. She can contribute to the company's profile design and potentially grow into a senior translator or academic coordinator role.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach translating legal documents? 3. How do you ensure high-quality project photography in your design work?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "",
+    "cover_letter_type": "error",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_High-End Bilingual Corporate Profile Design \u2013 Arab_20260921.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-21T05:17:49.671009+00:00"
   },
   {
     "title": "YouTube Educational Video Content Creator",
