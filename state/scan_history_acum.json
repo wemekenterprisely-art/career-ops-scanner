@@ -2390,5 +2390,52 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-21T13:21:17.420129+00:00",
+    "matched_count": 5,
+    "all_count": 4734,
+    "jobs": [
+      {
+        "title": "Excel Book - Data Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/proofreading/Excel-Book-Data-Entry",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Instagram Content Creation Internship",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/social-media-management/Instagram-Content-Creation-Internship.html",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Language Teacher - Full Remote",
+        "company": "Letuelezioni",
+        "url": "https://it.linkedin.com/jobs/view/language-teacher-full-remote-at-letuelezioni-4467963153",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Second Language Tutor",
+        "company": "Yaxley Global \"Overseas Education Consultants\"",
+        "url": "https://in.linkedin.com/jobs/view/english-second-language-tutor-at-yaxley-global-overseas-education-consultants-4468710352",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English as a Foreign Language (EFL) Tutor | Flexible Schedule",
+        "company": "Nachhilfepro",
+        "url": "https://at.linkedin.com/jobs/view/english-as-a-foreign-language-efl-tutor-flexible-schedule-at-nachhilfepro-4467730611",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
