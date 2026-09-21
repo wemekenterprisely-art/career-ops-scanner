@@ -1183,5 +1183,41 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-20T20:24:06.564242+00:00"
+  },
+  "Letuelezioni": {
+    "name": "Letuelezioni",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-21T13:19:37.965799+00:00"
+  },
+  "Yaxley Global \"Overseas Education Consultants\"": {
+    "name": "Yaxley Global \"Overseas Education Consultants\"",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-21T13:19:37.967186+00:00"
+  },
+  "Nachhilfepro": {
+    "name": "Nachhilfepro",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-21T13:19:37.968366+00:00"
   }
 }
