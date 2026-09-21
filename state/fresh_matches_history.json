@@ -2517,6 +2517,336 @@
     "scan_date": "2026-09-21T05:17:49.671009+00:00"
   },
   {
+    "title": "Language Teacher - Full Remote",
+    "company": "Letuelezioni",
+    "url": "https://it.linkedin.com/jobs/view/language-teacher-full-remote-at-letuelezioni-4467963153",
+    "location": "Remote \u2014 Italy",
+    "posted": "2026-09-21",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-21T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.210820564444445,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires Arabic-English translation, ESL teaching, and academic supervision, which aligns with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 95,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in language instruction, academic supervision, and legal translation aligns well with the remote, academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "The candidate's career goals align well with the role, including secure remote work, building client relationships, and growing into senior roles."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Legal translation experience"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Language Teacher - Full Remote role. His background in ESL teaching, academic supervision, and legal translation positions him well for the remote, academic environment of the job. The candidate's career goals also align with the role, making it a promising opportunity for long-term growth and stability.",
+      "interview_prep": [
+        "Can you discuss a time when you supervised a graduate-level research study and how you ensured its quality?",
+        "Tell me about a legal translation project you worked on and how you ensured accuracy and compliance with legal standards."
+      ],
+      "one_line_summary": "Waleed Ballag's extensive experience in ESL teaching, academic supervision, and legal translation makes him a strong fit for the Language Teacher - Full Remote role."
+    },
+    "ai_insight": "Waleed Ballag's extensive experience in ESL teaching, academic supervision, and legal translation makes him a strong fit for the Language Teacher - Full Remote role.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Legal translation experience"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Language Teacher - Full Remote role. His background in ESL teaching, academic supervision, and legal translation positions him well for the remote, academic environment of the job. The candidate's career goals also align with the role, making it a promising opportunity for long-term growth and stability.",
+    "ai_interview_prep": [
+      "Can you discuss a time when you supervised a graduate-level research study and how you ensured its quality?",
+      "Tell me about a legal translation project you worked on and how you ensured accuracy and compliance with legal standards."
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 95,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@it.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@it.linkedin.com",
+      "hr@it.linkedin.com",
+      "jobs@it.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Letuelezioni",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-21T13:19:37.965799+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Letuelezioni_Language Teacher - Full Remote_20260921.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Letuelezioni_Language Teacher - Full Remote_20260921.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-21T13:20:53.505182+00:00"
+  },
+  {
+    "title": "English Second Language Tutor",
+    "company": "Yaxley Global \"Overseas Education Consultants\"",
+    "url": "https://in.linkedin.com/jobs/view/english-second-language-tutor-at-yaxley-global-overseas-education-consultants-4468710352",
+    "location": "Remote \u2014 Puducherry, Puducherry, India",
+    "posted": "2026-09-21",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-21T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.210820890277777,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires Arabic-English translation, ESL teaching, and academic supervision, which are all transferable skills from the CV."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote work environment, flexible schedule, and academic setting are all compatible with the candidate's skills and experience."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and the candidate can work worldwide, which is compatible with the candidate's skills and preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job, including secure remote work, building client relationships, and contributing to research supervision."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the job requirements, making this a strong fit. He can secure stable remote work in translation or ESL teaching, and build long-term client relationships in academic services. The candidate is well-positioned to grow into a senior translator or academic coordinator role and contribute to graduate-level research supervision.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure the accuracy of legal translations in your work? 3. Can you share an experience where you had to adapt to a remote work environment?",
+      "one_line_summary": "Waleed Ballag's skills and experience perfectly align with the job requirements, making this a strong fit for the English Second Language Tutor position."
+    },
+    "ai_insight": "Waleed Ballag's skills and experience perfectly align with the job requirements, making this a strong fit for the English Second Language Tutor position.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the job requirements, making this a strong fit. He can secure stable remote work in translation or ESL teaching, and build long-term client relationships in academic services. The candidate is well-positioned to grow into a senior translator or academic coordinator role and contribute to graduate-level research supervision.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure the accuracy of legal translations in your work? 3. Can you share an experience where you had to adapt to a remote work environment?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Yaxley Global \"Overseas Education Consultants\"",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-21T13:19:37.967186+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Yaxley Global -Overseas Educat_English Second Language Tutor_20260921.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Yaxley Global -Overseas Educat_English Second Language Tutor_20260921.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-21T13:20:53.505182+00:00"
+  },
+  {
+    "title": "English as a Foreign Language (EFL) Tutor | Flexible Schedule",
+    "company": "Nachhilfepro",
+    "url": "https://at.linkedin.com/jobs/view/english-as-a-foreign-language-efl-tutor-flexible-schedule-at-nachhilfepro-4467730611",
+    "location": "Remote \u2014 Austria",
+    "posted": "2026-09-21",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-21T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.210821016666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, and academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation",
+        "ESL teaching",
+        "Academic supervision"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the job requirements, making a strong fit. He can contribute effectively to the translation and ESL teaching roles.",
+      "interview_prep": "1. Can you describe a challenging academic supervision project you led? 2. How do you ensure accurate legal translations in your work? 3. What is your experience with developing and administering academic research proposals?",
+      "one_line_summary": "Waleed Ballag's skills and experience make him a strong fit for the EFL Tutor position."
+    },
+    "ai_insight": "Waleed Ballag's skills and experience make him a strong fit for the EFL Tutor position.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation",
+      "ESL teaching",
+      "Academic supervision"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the job requirements, making a strong fit. He can contribute effectively to the translation and ESL teaching roles.",
+    "ai_interview_prep": "1. Can you describe a challenging academic supervision project you led? 2. How do you ensure accurate legal translations in your work? 3. What is your experience with developing and administering academic research proposals?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@at.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@at.linkedin.com",
+      "hr@at.linkedin.com",
+      "jobs@at.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Nachhilfepro",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-21T13:19:37.968366+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Nachhilfepro_English as a Foreign Language (EFL) Tutor - Flexib_20260921.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Nachhilfepro_English as a Foreign Language (EFL) Tutor - Flexib_20260921.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-21T13:20:53.505182+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
@@ -4671,6 +5001,108 @@
     "scan_date": "2026-09-21T05:17:49.671009+00:00"
   },
   {
+    "title": "Excel Book - Data Entry",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/proofreading/Excel-Book-Data-Entry",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-21T11:59:25+00:00",
+    "description": "I have a collection of handwritten notes that contain several small tables filled with text-only information\u2014names, dates, brief remarks, and similar entries. I need every one of those tables reproduced, cell-for-cell, in a clean Microsoft Excel workbook. No calculations or number crunching are required; this is strictly text data entry, but accuracy in spelling and layout is essential so the finished file mirrors the handwritten tables perfectly. You will receive clear scans of the notes. Each handwritten table should become its own table in Excel, preserving column order and any headings that appear in the original. If a note contains multiple tables, please place each on a separate worksheet and name the sheet after the note\u2019s date or title so I can find information quickly later. Deliverables: \u2022 One .xlsx workbook with every handwritten table transcribed and formatted \u2022 A short confirmation sheet listing any illegible words you could not verify Acceptance criteria: \u2022 All text transferred exactly as written, including capitalization and punctuation \u2022 Table structures match the originals (same number of rows and columns) \u2022 Sheet names correspond to note identifiers for easy navigation \u2022 No stray blank rows or columns outside the recreated tables If any part of a note is unclear in the scan, flag it on the confirmation sheet and highlight the corresponding cell in yellow so I can review it. Other than that, the task is straightforward\u2014steady typing, careful proofreading, and consistent formatting are what I\u2019m after.",
+    "salary": "250.0-750.0 EUR",
+    "source": "freelancer",
+    "postedISO": "2026-09-21T11:59:25+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.2205674705555556,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires data entry, which is a skill that aligns with the candidate's experience in academic supervision and research guidance."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "The candidate has experience in academic supervision and research guidance, which is relevant to the data entry job."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services and research guidance makes them well-suited for the data entry role."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is flexible, which is compatible with their current lifestyle."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the need for stable remote work and academic services."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong background in academic supervision and research guidance",
+        "Versatile skills in data entry"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "The candidate is well-suited for the remote data entry role, especially in a flexible environment.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure accuracy in spelling and layout when transcribing handwritten tables into Excel? 3. What's your experience with Microsoft Office Suite, particularly with Excel?",
+      "one_line_summary": "Strong fit for remote data entry role with strong academic background."
+    },
+    "ai_insight": "Strong fit for remote data entry role with strong academic background.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong background in academic supervision and research guidance",
+      "Versatile skills in data entry"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "The candidate is well-suited for the remote data entry role, especially in a flexible environment.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure accuracy in spelling and layout when transcribing handwritten tables into Excel? 3. What's your experience with Microsoft Office Suite, particularly with Excel?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Excel Book - Data Entry_20260921.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Excel Book - Data Entry_20260921.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-21T13:20:53.505182+00:00"
+  },
+  {
     "title": "YouTube Educational Video Content Creator",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Educational-Video-Content",
@@ -4771,6 +5203,58 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-17T13:24:11.141806+00:00"
+  },
+  {
+    "title": "Instagram Content Creation Internship",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/social-media-management/Instagram-Content-Creation-Internship.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Mon, 21 Sep 2026 09:00:51 -0400",
+    "description": "on-our Instagram channel to a creative, self-driven intern who lives and breathes social media. Your mission is simple: keep the feed fresh, the Stories interactive, and the Reels scroll-stopping. You\u2019ll... (Budget: \u20b9600 - \u20b91500 INR, Jobs: Content Creation, Content Strategy, Graphic Design, Instagram Marketing, Photography, Sales, Social Media Management, Social Media Marketing, Video Editing)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-09-21T09:00:51-04:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content creation (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.19679747666666667,
+    "ai_insight": "Waleed Ballag's ESL teaching experience and academic supervision skills make him well-suited for the Instagram Content Creation Internship at Freelancer.com. His ability to adapt and communicate effectively in a diverse and global environment, combined with his expertise in academic supervision, wil",
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Instagram Content Creation Internship_20260921.pdf",
+    "cover_letter_type": "marketing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Instagram Content Creation Internship_20260921.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-21T13:20:53.505182+00:00"
   },
   {
     "title": "Cultural Creative Collaborator",
