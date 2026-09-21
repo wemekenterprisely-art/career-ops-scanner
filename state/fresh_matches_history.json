@@ -2847,6 +2847,114 @@
     "scan_date": "2026-09-21T13:20:53.505182+00:00"
   },
   {
+    "title": "Entry-Level English Teacher",
+    "company": "English 1",
+    "url": "https://au.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4469961154",
+    "location": "Remote \u2014 Wellard, Western Australia, Australia",
+    "posted": "2026-09-21",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-21T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.263361761666665,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Matches the job description for ESL teaching, academic supervision, and legal translation."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible schedule, and academic environment fit well with the candidate's career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote location and worldwide availability are compatible with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligns with the candidate's goals."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Legal translation experience"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Strong fit for the job. The candidate's background and skills align well with the position, and there are no significant gaps in their qualifications.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you tell me about a specific project where you supervised a graduate-level research study? 3. How do you approach legal translation in a professional setting?",
+      "one_line_summary": "Strong fit for the job. ESL instructor and academic supervisor with strong skills in academic supervision and legal translation."
+    },
+    "ai_insight": "Strong fit for the job. ESL instructor and academic supervisor with strong skills in academic supervision and legal translation.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Legal translation experience"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Strong fit for the job. The candidate's background and skills align well with the position, and there are no significant gaps in their qualifications.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you tell me about a specific project where you supervised a graduate-level research study? 3. How do you approach legal translation in a professional setting?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@au.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@au.linkedin.com",
+      "hr@au.linkedin.com",
+      "jobs@au.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "English 1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-07T05:15:54.992406+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/English 1_Entry-Level English Teacher_20260921.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/English 1_Entry-Level English Teacher_20260921.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-21T20:24:20.667459+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
@@ -5103,6 +5211,215 @@
     "scan_date": "2026-09-21T13:20:53.505182+00:00"
   },
   {
+    "title": "Easy writing text",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/proofreading/Easy-writing-text.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Mon, 21 Sep 2026 15:59:03 -0400",
+    "description": "I need a concise yet engaging piece of persuasive text written in clear, everyday language. The core requirement is simple writing that anyone in the general public can understand at first glance while still nudging them toward a specific call-to-action... (Budget: $30 - $250 CAD, Jobs: Blog Writing, Content Writing, Copywriting, Creative Writing, Editing, Ghostwriting, Proofreading, Technical Writing)",
+    "salary": "$30",
+    "source": "freelancer",
+    "postedISO": "2026-09-21T15:59:03-04:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (description)",
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.2793126886111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires clear, concise writing in everyday language, which aligns with the candidate's skills in ESL/EFL instruction and academic supervision."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL/EFL instruction, academic supervision, and legal translation, which are all directly relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and language instruction makes them well-suited for a role that requires writing, editing, and proofreading."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and the candidate is flexible, which aligns with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the role of translating or teaching, and they have experience in academic supervision and research guidance."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Clear writing skills",
+        "Experience in academic supervision",
+        "Remote work flexibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make them a strong fit for the Easy writing text job. They are well-suited for the role and can contribute effectively to the company's goals.",
+      "interview_prep": "1. Can you provide an example of a time when you helped a student improve their writing skills in an academic setting? 2. How do you approach proofreading and editing for academic papers? 3. Can you describe a project where you translated legal documents and how you ensured accuracy?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Easy writing text job with their background in ESL/EFL instruction and academic supervision, and their remote work flexibility aligns well with the job's requirements."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Easy writing text job with their background in ESL/EFL instruction and academic supervision, and their remote work flexibility aligns well with the job's requirements.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Clear writing skills",
+      "Experience in academic supervision",
+      "Remote work flexibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make them a strong fit for the Easy writing text job. They are well-suited for the role and can contribute effectively to the company's goals.",
+    "ai_interview_prep": "1. Can you provide an example of a time when you helped a student improve their writing skills in an academic setting? 2. How do you approach proofreading and editing for academic papers? 3. Can you describe a project where you translated legal documents and how you ensured accuracy?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Easy writing text_20260921.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Easy writing text_20260921.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-21T20:24:20.667459+00:00"
+  },
+  {
+    "title": "Resume Education Data Entry",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/word-processing/Resume-Education-Data-Entry",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-21T19:43:32+00:00",
+    "description": "I have a chronological resume that is currently only available as a PDF. I need the Education section entered and formatted so it fits seamlessly with the existing style. Here\u2019s exactly what I\u2019m looking for: \u2022 Extract the current PDF into an editable format. \u2022 Add or revise the Education details I supply, keeping the chronological flow intact. \u2022 Preserve fonts, spacing, and overall layout so the finished file looks like the original. Deliverables: 1. A fully updated resume in Word (.docx) and PDF formats. 2. The source file you used for editing, in case future tweaks are needed. Accuracy and consistent formatting matter most to me\u2014please double-check dates, degree names, and institution spelling before sending the final version.",
+    "salary": "750.0-1250.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-09-21T19:43:32+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.5378252352777778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires ESL teaching, academic supervision, and language skills, which match the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and language translation, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background and skills are suitable for a remote, academic, and flexible environment, which matches the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and the candidate is located worldwide, which aligns well."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job's requirements, focusing on translation, teaching, and academic work."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Language translation abilities"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is well-suited for the Freelancer.com position as it aligns with his career goals and extensive experience in ESL teaching and academic supervision. His language skills and ability to translate between Arabic and English make him a strong fit for the job.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and editing? 3. Can you describe a time when you had to develop a survey instrument?",
+      "one_line_summary": "Waleed Ballag is a strong fit for Freelancer.com's Resume Education Data Entry position with his extensive experience in ESL teaching, academic supervision, and language translation."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for Freelancer.com's Resume Education Data Entry position with his extensive experience in ESL teaching, academic supervision, and language translation.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Language translation abilities"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is well-suited for the Freelancer.com position as it aligns with his career goals and extensive experience in ESL teaching and academic supervision. His language skills and ability to translate between Arabic and English make him a strong fit for the job.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and editing? 3. Can you describe a time when you had to develop a survey instrument?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Resume Education Data Entry_20260921.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Resume Education Data Entry_20260921.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-21T20:24:20.667459+00:00"
+  },
+  {
     "title": "YouTube Educational Video Content Creator",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Educational-Video-Content",
@@ -5255,6 +5572,118 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-21T13:20:53.505182+00:00"
+  },
+  {
+    "title": "Healthcare Pro Blog Writer",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/health-care-management/Healthcare-Pro-Blog-Writer.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Mon, 21 Sep 2026 15:56:50 -0400",
+    "description": "I\u2019m expanding a Health & Wellness portal aimed squarely at doctors, nurses, dietitians, and allied-health staff, and I need a writer who can deliver clear, evidence-based blog posts they will actually want to read and share... (Budget: $250 - $750 USD, Jobs: Article Rewriting, Article Writing, Blog, Blog Writing, Content Writing, Health Care Management, Healthcare Education, Research Writing)",
+    "salary": "$250",
+    "source": "freelancer",
+    "postedISO": "2026-09-21T15:56:50-04:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.3162573947222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, aligns with the job description."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in academic supervision and writing, matches job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, and academic environment, aligns well with the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns well with the job."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Language skills",
+        "Academic writing",
+        "Remote work"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's profile suggests strong alignment with the Healthcare Pro Blog Writer job. His expertise in academic supervision, writing, and remote work make him a strong fit for this position.",
+      "interview_prep": [
+        "Can you provide examples of how you've supervised and mentored graduate-level research studies?",
+        "How do you ensure the accuracy and reliability of the evidence-based blog posts you write for the Health & Wellness portal?",
+        "Can you describe a time when you had to translate legal documents and what techniques you used to ensure accuracy?"
+      ],
+      "one_line_summary": "Waleed Ballag's background in ESL instruction, academic supervision, and language skills make him a strong fit for the Healthcare Pro Blog Writer job."
+    },
+    "ai_insight": "Waleed Ballag's background in ESL instruction, academic supervision, and language skills make him a strong fit for the Healthcare Pro Blog Writer job.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Language skills",
+      "Academic writing",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's profile suggests strong alignment with the Healthcare Pro Blog Writer job. His expertise in academic supervision, writing, and remote work make him a strong fit for this position.",
+    "ai_interview_prep": [
+      "Can you provide examples of how you've supervised and mentored graduate-level research studies?",
+      "How do you ensure the accuracy and reliability of the evidence-based blog posts you write for the Health & Wellness portal?",
+      "Can you describe a time when you had to translate legal documents and what techniques you used to ensure accuracy?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Healthcare Pro Blog Writer_20260921.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Healthcare Pro Blog Writer_20260921.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-21T20:24:20.667459+00:00"
   },
   {
     "title": "Cultural Creative Collaborator",
@@ -5664,5 +6093,109 @@
     "cover_letter_ai": false,
     "interview_prep_generated": false,
     "scan_date": "2026-09-18T20:22:09.872224+00:00"
+  },
+  {
+    "title": "Recruiting U.S. Educators for Online Tutoring Platform",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/recruitment/Recruiting-Educators-for-Online-Tutoring",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-21T17:20:10+00:00",
+    "description": "Tutor Recruitment Specialist \u2014 Recruit First 10 U.S.-Based Educators for New Online Marketplace Humanis Learning Space is a newly launched U.S.-only online marketplace connecting students and families with qualified tutors and academic advisors. We are looking for a freelancer to help us recruit our first 10 qualified U.S.-based educators and guide them through creating and completing their profiles on the Humanis platform. This is a recruitment and direct-outreach project, not a social media management or general marketing project. Responsibilities: -Identify qualified U.S.-based independent tutors and academic advisors. -Build a targeted prospect list. -Prioritize educators who are actively tutoring or open to accepting additional students. -Conduct personalized outreach through appropriate channels such as email, LinkedIn, tutoring directories, educator communities, and other permitted sources. -Explain the Humanis Learning Space opportunity accurately and professionally. -Follow up with interested educators. -Answer basic questions about joining Humanis Learning Space. -Encourage interested educators to create and complete their Humanis Learning Space profiles. -Track prospects, outreach, responses, follow-ups, and completed profiles. -Report common objections and feedback from educators. Educators do not pay a fee to join Humanis Learning Space. They create their own professional profile, list their subjects/services, set their own rates and availability, and receive payment when they work with students through the platform. Humanis Learning Space operates on a 20% commission model. We are currently in the early launch stage, so we do not promise educators a specific number of students, bookings, or income. We need someone who can communicate this accurately rather than making unsupported promises. Project Objective: The target is to recruit 10 qualified U.S.-based educators with completed Humanis Learning Space profiles during the initial 30-day project. A qua",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-21T17:20:10+00:00",
+    "score": 67,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly",
+      "senior/leadership penalty"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.927262886666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches the job description for ESL teaching, academic supervision, and translation."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Has direct experience in ESL teaching and academic supervision, and related experience in language services."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment, and compatible with the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds toward translation/teaching/academic career, aligns with the job's goals."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Arabic-English Translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's background is a strong fit for the job. He has the necessary skills and experience to contribute effectively to the recruitment efforts.",
+      "interview_prep": "1. Can you describe a time when you successfully recruited a tutor or academic advisor? 2. How do you ensure the quality of the candidates you refer? 3. What is your experience in managing a team of tutors or academic advisors?",
+      "one_line_summary": "Waleed Ballag's background is a strong fit for the job, with experience in ESL teaching, academic supervision, and translation."
+    },
+    "ai_insight": "Waleed Ballag's background is a strong fit for the job, with experience in ESL teaching, academic supervision, and translation.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Arabic-English Translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's background is a strong fit for the job. He has the necessary skills and experience to contribute effectively to the recruitment efforts.",
+    "ai_interview_prep": "1. Can you describe a time when you successfully recruited a tutor or academic advisor? 2. How do you ensure the quality of the candidates you refer? 3. What is your experience in managing a team of tutors or academic advisors?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 21,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Recruiting U.S. Educators for Online Tutoring Plat_20260921.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-09-21T20:24:20.667459+00:00"
   }
 ]
