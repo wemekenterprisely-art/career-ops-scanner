@@ -2359,5 +2359,36 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-21T05:18:12.901765+00:00",
+    "matched_count": 3,
+    "all_count": 4739,
+    "jobs": [
+      {
+        "title": "Convert Handwritten Notes to PDF",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/document-checking/Convert-Handwritten-Notes-PDF-40724007.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "High-End Bilingual Corporate Profile Design \u2013 Arabic & English",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/indesign/High-End-Bilingual-Corporate-Profile",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Second Language Teacher",
+        "company": "English 1",
+        "url": "https://au.linkedin.com/jobs/view/english-second-language-teacher-at-english-1-4469828957",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
