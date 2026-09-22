@@ -5686,6 +5686,110 @@
     "scan_date": "2026-09-21T20:24:20.667459+00:00"
   },
   {
+    "title": "Europe Travel Guide Blog Writer",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/blog-writing/Europe-Travel-Guide-Blog-Writer-40725715",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-21T23:11:04+00:00",
+    "description": "I\u2019m expanding my travel blog with in-depth destination guides that cover Europe only, and I need a reliable writer to create them. Each article should feel like friendly, first-hand advice while still being thoroughly researched and fact-checked. You\u2019ll turn a single city, region, or themed route into a complete guide, weaving in practical details\u2014getting there, things to do, local culture, food highlights, transport tips, and typical costs\u2014so readers can plan with confidence. Clear headings, natural SEO keywords, and a short meta description should be included so I can drop the piece straight into my CMS without heavy editing. The tone must stay conversational yet authoritative, all content must be original, and any images you suggest must be royalty-free. If you already write about Europe, send a link or two when you reply; solid samples will help me choose quickly. Consistent quality and on-time delivery will open the door to an ongoing stream of European destinations after this first batch.",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-21T23:11:04+00:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 6.027073770555556,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 20,
+        "reason": "Job requires language skills and academic work, but not specific translation or teaching experience."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in ESL teaching and academic supervision, with relevant certifications and awards."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work, flexible schedule, and academic environment align well with the candidate's skills and goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote work, worldwide location, and compatibility with the candidate's skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, with potential for senior roles."
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Strong language skills"
+      ],
+      "gaps": [
+        "No direct translation or teaching experience"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the job requirements, making this a good fit for the Europe Travel Guide Blog Writer role. He can contribute to the blog's content while building towards a senior translator or academic coordinator role.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translating legal documents? 3. Can you provide examples of your writing style and tone for the Europe Travel Guide Blog?",
+      "one_line_summary": "Waleed Ballag's strong skills in ESL teaching and academic supervision make him a good fit for the Europe Travel Guide Blog Writer role, aligning with his career goals."
+    },
+    "ai_insight": "Waleed Ballag's strong skills in ESL teaching and academic supervision make him a good fit for the Europe Travel Guide Blog Writer role, aligning with his career goals.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Strong language skills"
+    ],
+    "ai_gaps": [
+      "No direct translation or teaching experience"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the job requirements, making this a good fit for the Europe Travel Guide Blog Writer role. He can contribute to the blog's content while building towards a senior translator or academic coordinator role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translating legal documents? 3. Can you provide examples of your writing style and tone for the Europe Travel Guide Blog?",
+    "ai_technical_skills": 20,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Europe Travel Guide Blog Writer_20260922.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Europe Travel Guide Blog Writer_20260922.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-22T05:16:09.180268+00:00"
+  },
+  {
     "title": "Cultural Creative Collaborator",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/video-editing/Cultural-Creative-Collaborator.html",
