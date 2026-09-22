@@ -2484,5 +2484,20 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-22T05:16:32.548467+00:00",
+    "matched_count": 1,
+    "all_count": 4752,
+    "jobs": [
+      {
+        "title": "Europe Travel Guide Blog Writer",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/blog-writing/Europe-Travel-Guide-Blog-Writer-40725715",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
