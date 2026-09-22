@@ -2530,5 +2530,44 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-22T20:20:52.688137+00:00",
+    "matched_count": 4,
+    "all_count": 4629,
+    "jobs": [
+      {
+        "title": "Sci-Fi Novel Arabic Translation (Native)",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/creative-writing/Sci-Novel-Arabic-Translation-Native",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Malayalam Short Story Copy Editor",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copy-editing/Malayalam-Short-Story-Copy-Editor",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Full-Time Content Writer Needed \u2013 Manual Human-Written Content | Monthly",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Full-Time-Content-Writer-Needed-40727606",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofreader, Editorial Team (UK Hours)",
+        "company": "Third Bridge Group",
+        "url": "https://in.linkedin.com/jobs/view/proofreader-editorial-team-uk-hours-at-third-bridge-group-4460240687",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
