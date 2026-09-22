@@ -2499,5 +2499,36 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-09-22T13:20:46.837600+00:00",
+    "matched_count": 3,
+    "all_count": 4615,
+    "jobs": [
+      {
+        "title": "B2B Copywriting for Professionals",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/business-writing/Copywriting-for-Professionals.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "SAT / GRE / GMAT English Tutor",
+        "company": "AP Guru",
+        "url": "https://in.linkedin.com/jobs/view/sat-gre-gmat-english-tutor-at-ap-guru-4468538142",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Content Editor",
+        "company": "Houzeo",
+        "url": "https://in.linkedin.com/jobs/view/content-editor-at-houzeo-4468536348",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
