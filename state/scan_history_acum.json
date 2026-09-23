@@ -2569,5 +2569,60 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-23T05:18:23.377394+00:00",
+    "matched_count": 6,
+    "all_count": 4730,
+    "jobs": [
+      {
+        "title": "Digitize Manuscript into Editable Word",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-word/Digitize-Manuscript-into-Editable-Word.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "English-Uzbek Spiritual Proofreading -- 2",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/translation/English-Uzbek-Spiritual-Proofreading",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Printed Notes Word Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Printed-Notes-Word-Transcription.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "JioMart Beauty Product Listing & Copywriter Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/seo-writing/JioMart-Beauty-Product-Listing",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Tutor - From Home",
+        "company": "American Egyptian Academy",
+        "url": "https://eg.linkedin.com/jobs/view/english-tutor-from-home-at-american-egyptian-academy-4470667592",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Virtual Assistant for Mortgage Protection Leads",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/appointment-setting/Virtual-Assistant-for-Mortgage",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
