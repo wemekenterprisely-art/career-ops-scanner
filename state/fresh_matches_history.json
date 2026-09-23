@@ -3610,6 +3610,111 @@
     "scan_date": "2026-09-23T13:23:56.236163+00:00"
   },
   {
+    "title": "HR and Admin Assistant",
+    "company": "DRC - Danish Refugee Council",
+    "url": "https://www.impactpool.org/jobs/1238193",
+    "location": "Homs",
+    "posted": "",
+    "description": "DRC - Danish Refugee Council \u00b7 Homs \u00b7 I2",
+    "salary": "",
+    "source": "impactpool",
+    "postedISO": "2026-09-23T20:16:14.938355+00:00",
+    "score": 100,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title)"
+    ],
+    "is_fresh": false,
+    "age_hours": Infinity,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 40,
+        "reason": "Requires language skills, writing, and academic work, but not exclusively Arabic-English translation or ESL teaching."
+      },
+      "experience_match": {
+        "score": 50,
+        "reason": "Related experience in language services and education, but not direct translation or academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 70,
+        "reason": "Remote, flexible, academic environment, but some friction in specific location requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's background."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward translation/teaching/academic career, but not exclusively in these fields."
+      },
+      "overall_score": 72,
+      "verdict": "Good Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Experience in academic supervision and research guidance"
+      ],
+      "gaps": [
+        "US/EU citizenship or specific visa sponsorship",
+        "Senior leadership requiring 10+ years"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the HR and Admin Assistant role at DRC - Danish Refugee Council, Homs. However, the candidate's background and location requirements may present some challenges that need to be addressed.",
+      "interview_prep": "1. Can you describe a challenging academic supervision experience you had? 2. How do you approach translation and editing tasks? 3. Can you share a time when you had to adapt to a remote work environment?",
+      "one_line_summary": "Waleed Ballag's skills and background make him a strong fit for the HR and Admin Assistant role at DRC, but specific citizenship and visa requirements may present challenges."
+    },
+    "ai_insight": "Waleed Ballag's skills and background make him a strong fit for the HR and Admin Assistant role at DRC, but specific citizenship and visa requirements may present challenges.",
+    "ai_overall_score": 72,
+    "ai_verdict": "Good Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Experience in academic supervision and research guidance"
+    ],
+    "ai_gaps": [
+      "US/EU citizenship or specific visa sponsorship",
+      "Senior leadership requiring 10+ years"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the HR and Admin Assistant role at DRC - Danish Refugee Council, Homs. However, the candidate's background and location requirements may present some challenges that need to be addressed.",
+    "ai_interview_prep": "1. Can you describe a challenging academic supervision experience you had? 2. How do you approach translation and editing tasks? 3. Can you share a time when you had to adapt to a remote work environment?",
+    "ai_technical_skills": 40,
+    "ai_experience_match": 50,
+    "ai_behavioral_fit": 70,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@impactpool.org",
+    "email_verified": false,
+    "all_emails": [
+      "careers@impactpool.org",
+      "hr@impactpool.org",
+      "jobs@impactpool.org"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "DRC - Danish Refugee Council",
+      "legitimacy_score": 50,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [],
+      "last_updated": "2026-09-23T20:21:33.883776+00:00"
+    },
+    "company_legitimacy": 50,
+    "company_summary": "",
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/DRC - Danish Refugee Council_HR and Admin Assistant_20260923.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/DRC - Danish Refugee Council_HR and Admin Assistant_20260923.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-23T20:22:04.179573+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
@@ -7649,6 +7754,110 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-23T13:23:56.236163+00:00"
+  },
+  {
+    "title": "Indian UGC Content Creator- spokesperson Needed",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-creation/Indian-UGC-Content-Creator-spokesperson",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-23T15:22:44+00:00",
+    "description": "Indian UGC spokesperson creator. Hi, I'm looking for m/f Indian UGC spokesperson creator who can create simple videos in selfie mode, no further editing or anything else needed. We have 20 shorts Selfie videos, budget is $10AUD per video and would like to start with first few videos. Please only apply if you are ready to get started right away. Total Budet is $200AUD",
+    "salary": "10.0-200.0 AUD",
+    "source": "freelancer",
+    "postedISO": "2026-09-23T15:22:44+00:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.891863667222221,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Requires language skills, writing, academic work, and experience in academic supervision and research guidance."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching and academic supervision, with a focus on research guidance and supervision of graduate-level studies."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment, and compatible with the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns with the job's role of Indian UGC spokesperson creator."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision & Research Guidance",
+        "Native Arabic Speaker"
+      ],
+      "gaps": [
+        "No experience in engineering or development"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Indian UGC Content Creator position. His background in ESL teaching and academic supervision makes him well-suited for the role, and his native Arabic skills will be valuable in the content creation process. The job's focus on Indian UGC spokesperson creation and the flexible remote work arrangement align perfectly with his career goals.",
+      "interview_prep": "1. Can you provide examples of how you have supervised and guided graduate-level research studies? 2. How do you approach creating simple videos for Indian UGC spokespersons? 3. Can you describe a time when you had to translate legal documents and maintain accuracy?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Indian UGC Content Creator position due to his background in ESL teaching and academic supervision, making him well-suited for the role."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Indian UGC Content Creator position due to his background in ESL teaching and academic supervision, making him well-suited for the role.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision & Research Guidance",
+      "Native Arabic Speaker"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or development"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Indian UGC Content Creator position. His background in ESL teaching and academic supervision makes him well-suited for the role, and his native Arabic skills will be valuable in the content creation process. The job's focus on Indian UGC spokesperson creation and the flexible remote work arrangement align perfectly with his career goals.",
+    "ai_interview_prep": "1. Can you provide examples of how you have supervised and guided graduate-level research studies? 2. How do you approach creating simple videos for Indian UGC spokespersons? 3. Can you describe a time when you had to translate legal documents and maintain accuracy?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Indian UGC Content Creator- spokesperson Needed_20260923.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Indian UGC Content Creator- spokesperson Needed_20260923.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-23T20:22:04.179573+00:00"
   },
   {
     "title": "Cultural Creative Collaborator",
