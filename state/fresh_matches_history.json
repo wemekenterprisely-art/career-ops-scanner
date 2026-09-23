@@ -3280,6 +3280,123 @@
     "scan_date": "2026-09-22T20:20:34.128814+00:00"
   },
   {
+    "title": "English Tutor - From Home",
+    "company": "American Egyptian Academy",
+    "url": "https://eg.linkedin.com/jobs/view/english-tutor-from-home-at-american-egyptian-academy-4470667592",
+    "location": "Remote \u2014 Qesm 1st Nasser City, Cairo, Egypt",
+    "posted": "2026-09-23",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-23T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.202236388333333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires Arabic-English translation, ESL teaching, academic supervision, and legal translation, which aligns well with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, legal translation, and has supervised 15 graduate-level research studies, which is directly applicable to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services, research guidance, and language skills make them a strong fit for the remote, flexible, and academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, and the candidate is available for remote work, which aligns with their skills and preferences."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "The candidate's career goals align with the job's requirements, including secure stable remote work, build long-term client relationships, and contribute to research supervision."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation",
+        "Research experience"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the English Tutor role at American Egyptian Academy. His ability to provide high-quality translation, academic supervision, and research guidance aligns perfectly with the job's requirements, especially in a remote, flexible environment.",
+      "interview_prep": [
+        "What are your experiences in academic supervision and research guidance?",
+        "Can you share an example of a time when you supervised a research study?",
+        "How do you approach translating legal documents for academic purposes?"
+      ],
+      "one_line_summary": "A highly skilled ESL instructor and academic supervisor with a proven track record of academic supervision and legal translation, perfect for the English Tutor role."
+    },
+    "ai_insight": "A highly skilled ESL instructor and academic supervisor with a proven track record of academic supervision and legal translation, perfect for the English Tutor role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation",
+      "Research experience"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the English Tutor role at American Egyptian Academy. His ability to provide high-quality translation, academic supervision, and research guidance aligns perfectly with the job's requirements, especially in a remote, flexible environment.",
+    "ai_interview_prep": [
+      "What are your experiences in academic supervision and research guidance?",
+      "Can you share an example of a time when you supervised a research study?",
+      "How do you approach translating legal documents for academic purposes?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "American Egyptian Academy",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-23T05:16:28.791506+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/American Egyptian Academy_English Tutor - From Home_20260923.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/American Egyptian Academy_English Tutor - From Home_20260923.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-23T05:17:59.192308+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
@@ -6161,6 +6278,534 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-22T20:20:34.128814+00:00"
+  },
+  {
+    "title": "Digitize Manuscript into Editable Word",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/microsoft-word/Digitize-Manuscript-into-Editable-Word.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Wed, 23 Sep 2026 00:58:08 -0400",
+    "description": "I have a 50-100 page manuscript that needs to be converted into an editable Microsoft Word file. Accuracy is critical\u2014I want the body text transcribed exactly, while headings, chapter breaks, and any special elements should reflect the look of the original where it makes sense... (Budget: $2 - $8 USD, Jobs: Data Entry, Editing, Microsoft Word, OCR, PDF, Proofreading, Transcription, Word)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-09-23T00:58:08-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "typist transcription transcribing transcriber (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.23349694,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires transcribing text and maintaining formatting, which aligns with the job description for converting a manuscript into an editable Word file."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Has experience in academic supervision, which is relevant to the job description for editing and proofreading."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work and flexible environment align with the job's remote nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligning with the job's focus on editing and proofreading."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Transcription skills",
+        "Academic supervision experience",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience match the job description well, making it a strong fit. He can contribute effectively to the editing and proofreading process.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you describe a time when you had to proofread and edit a thesis? 3. How do you handle managing multiple projects simultaneously?",
+      "one_line_summary": "Waleed Ballag's skills and experience perfectly align with the job requirements, making it a strong fit for the Digitize Manuscript into Editable Word position."
+    },
+    "ai_insight": "Waleed Ballag's skills and experience perfectly align with the job requirements, making it a strong fit for the Digitize Manuscript into Editable Word position.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Transcription skills",
+      "Academic supervision experience",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience match the job description well, making it a strong fit. He can contribute effectively to the editing and proofreading process.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you describe a time when you had to proofread and edit a thesis? 3. How do you handle managing multiple projects simultaneously?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Digitize Manuscript into Editable Word_20260923.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Digitize Manuscript into Editable Word_20260923.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-23T05:17:59.192308+00:00"
+  },
+  {
+    "title": "English-Uzbek Spiritual Proofreading -- 2",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/translation/English-Uzbek-Spiritual-Proofreading",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-23T04:52:51+00:00",
+    "description": "I have a set of English self-help manuscripts that have already been translated into Uzbek. Before publication, the text needs a careful proofread to be sure every idea still carries the same devotional warmth and motivational clarity as the original. The work involves: \u2022 Reading the Uzbek draft against the English source to spot mistranslations, tone shifts, or missing sections. \u2022 Polishing grammar, punctuation, spelling, and flow so it sounds naturally Uzbek while retaining the uplifting, devotional style. \u2022 Using Track Changes in Microsoft Word so I can see every adjustment. The full manuscript package is ready to share as soon as we start, and I would like the final, clean copy returned within a month. A short sample edit (one or two pages) will help confirm we are on the same wavelength before moving through the remaining chapters.",
+    "salary": "50.0-80.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-23T04:52:51+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.32141473055555553,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, aligns with the job description of proofreading and editing"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Has direct experience in academic supervision and proofreading, closely matching the job requirements"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, and academic environment, aligning with the job's remote and worldwide nature"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements"
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds toward translation/teaching/academic career, aligning with the job's proofreading and editing focus"
+      },
+      "overall_score": 87,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Direct experience in academic supervision"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "This candidate is highly suited for the English-Uzbek proofreading job due to their extensive experience in academic supervision and language skills. They can confidently handle the proofreading tasks and contribute to the academic services.",
+      "interview_prep": "1. Can you describe a time when you proofread a manuscript and identified significant issues? 2. How do you ensure the tone and style of the Uzbek draft remain consistent with the original English source? 3. Can you share a sample of your proofreading work and how it improved the manuscript?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the English-Uzbek proofreading job due to their extensive academic supervision experience and language skills."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the English-Uzbek proofreading job due to their extensive academic supervision experience and language skills.",
+    "ai_overall_score": 87,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Direct experience in academic supervision"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "This candidate is highly suited for the English-Uzbek proofreading job due to their extensive experience in academic supervision and language skills. They can confidently handle the proofreading tasks and contribute to the academic services.",
+    "ai_interview_prep": "1. Can you describe a time when you proofread a manuscript and identified significant issues? 2. How do you ensure the tone and style of the Uzbek draft remain consistent with the original English source? 3. Can you share a sample of your proofreading work and how it improved the manuscript?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_English-Uzbek Spiritual Proofreading -- 2_20260923.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_English-Uzbek Spiritual Proofreading -- 2_20260923.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-23T05:17:59.192308+00:00"
+  },
+  {
+    "title": "Printed Notes Word Transcription",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-writing/Printed-Notes-Word-Transcription.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Wed, 23 Sep 2026 00:52:45 -0400",
+    "description": "I need a clear, accurate transcription of a set of printed notes into an editable Microsoft Word document (.docx). The pages are text-only\u2014no complex tables or graphics\u2014so the main task is to capture every... (Budget: \u20b91500 - \u20b912500 INR, Jobs: Content Writing, Copy Editing, Copy Typing, Data Entry, Editing, Microsoft Word, Transcription, Word)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-09-23T00:52:45-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "typist transcription transcribing transcriber (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.32322163944444443,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires clear transcription, which matches the candidate's skills in translation and editing."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Candidate has experience in ESL teaching, academic supervision, and legal translation, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "The candidate has experience in remote work, flexible work arrangements, and academic settings, which matches the job's remote and flexible nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is located worldwide, so this is a compatible fit."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "The candidate's career goals align with the job's potential for growth and senior roles in translation or academic services."
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Clear transcription skills",
+        "Experienced in ESL teaching and academic supervision",
+        "Good remote work experience"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the job's requirements. He is a strong fit for the position.",
+      "interview_prep": "1. Can you describe a time when you successfully transcribed a set of printed notes into an editable document? 2. How do you approach academic supervision and research guidance? 3. Can you share an example of a complex research study you supervised and its outcome?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the job due to his skills in transcription, academic supervision, and remote work experience."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the job due to his skills in transcription, academic supervision, and remote work experience.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Clear transcription skills",
+      "Experienced in ESL teaching and academic supervision",
+      "Good remote work experience"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the job's requirements. He is a strong fit for the position.",
+    "ai_interview_prep": "1. Can you describe a time when you successfully transcribed a set of printed notes into an editable document? 2. How do you approach academic supervision and research guidance? 3. Can you share an example of a complex research study you supervised and its outcome?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Printed Notes Word Transcription_20260923.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Printed Notes Word Transcription_20260923.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-23T05:17:59.192308+00:00"
+  },
+  {
+    "title": "JioMart Beauty Product Listing & Copywriter Needed",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/seo-writing/JioMart-Beauty-Product-Listing",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-23T04:35:19+00:00",
+    "description": "We are looking for a skilled Beauty Product Listing & Copywriter to create clear, engaging, and professional product content for JioMart-style e-commerce listings. Responsibilities: - Write attractive product titles and descriptions - Create clear and easy-to-read beauty & skincare product content - Highlight key features, benefits, ingredients, and usage information - Maintain accurate product information and consistent formatting - Optimize content for online shoppers and search visibility - Review and correct grammar, spelling, and basic formatting Requirements: - Good English writing skills - Experience with product descriptions or e-commerce content is preferred - Knowledge of beauty, skincare, or personal-care products is a plus - Attention to detail and ability to follow instructions - Freshers with good writing skills are welcome to apply Project Details: - Rate: $7\u2013$10 USD/hour - Flexible working hours - Long-term work may be available based on performance - Candidates should be able to communicate clearly and meet deadlines Please share your Freelancer profile and a short sample of your previous product-writing work when applying",
+    "salary": "7.0-10.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-23T04:35:19+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.6136379277777778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, but not engineering or development"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in translation, ESL teaching, and academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Excellent language skills and academic experience"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's qualifications align well with the JioMart Beauty Product Listing & Copywriting job. He can excel in creating clear, engaging, and professional product content for the e-commerce listings.",
+      "interview_prep": "1. What is your experience in translating academic papers and supervising graduate-level research studies? 2. How do you ensure accurate product information and consistent formatting in your work?",
+      "one_line_summary": "Waleed Ballag's CV aligns well with the JioMart job, focusing on academic translation, supervision, and remote work experience."
+    },
+    "ai_insight": "Waleed Ballag's CV aligns well with the JioMart job, focusing on academic translation, supervision, and remote work experience.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Excellent language skills and academic experience"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's qualifications align well with the JioMart Beauty Product Listing & Copywriting job. He can excel in creating clear, engaging, and professional product content for the e-commerce listings.",
+    "ai_interview_prep": "1. What is your experience in translating academic papers and supervising graduate-level research studies? 2. How do you ensure accurate product information and consistent formatting in your work?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am excited about the opportunity to contribute to JioMart's beauty product listings and copywriting efforts at Freelancer. The skills I possess in creating engaging and professional content align perfectly with the requirements outlined for this position.",
+      "experience": "In my previous roles as an ESL teacher at various schools, I honed my ability to instruct and mentor students effectively. My experience in secondary supervision and academic research guidance has provided a robust foundation in academic instruction and editing.",
+      "skills": "I am adept at using Microsoft Office Suite, Adobe Photoshop, and SPSS for data analysis. My proficiency in academic translation, legal translation, and cross-cultural communication ensures that all content is accurate and accessible to diverse audiences.",
+      "closing": "I am eager to discuss my qualifications and how I can contribute to JioMart's mission of providing high-quality beauty and skincare products. Please schedule an interview for the immediate possibility. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_JioMart Beauty Product Listing & Copywriter Needed_20260923.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_JioMart Beauty Product Listing & Copywriter Needed_20260923.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-23T05:17:59.192308+00:00"
+  },
+  {
+    "title": "Virtual Assistant for Mortgage Protection Leads",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/appointment-setting/Virtual-Assistant-for-Mortgage",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-22T23:14:54+00:00",
+    "description": "Project Title: Experienced Virtual Assistant/Appointment Setter for U.S. Mortgage Protection Leads Project Description: I\u2019m seeking an experienced virtual assistant/appointment setter with direct U.S. life insurance Mortgage Protection experience (not mortgage lending, brokerage, or general insurance cold calling). The role involves calling newer and aged Mortgage Protection leads, handling objections, booking qualified appointments directly onto my calendar, confirming appointments, working no-shows/reschedules, and keeping the CRM updated. I handle all insurance presentations and sales. Key Requirements: - Proven experience working with U.S. life insurance Mortgage Protection leads, especially aged leads. - Strong spoken English and availability during U.S. calling hours. - Ability to provide: * Approximate previous Mortgage Protection call volume. * Typical daily/weekly appointment numbers (please specify if these refer to booked or shown appointments). * Show-rate experience if known. * Ages/types of Mortgage Protection leads worked and strongest U.S. states called. * Dialers and CRMs used in past roles. * A short voice sample for evaluation. Responsibilities: - Repeated outbound follow-up on provided leads (newer and aged). - Basic objection handling to book qualified appointments directly onto my calendar. - Appointment confirmations, rescheduling/no-show recovery, and accurate CRM dispositions. Leads, CRM/dialer access, scripts, and appointment calendar will be provided. The strongest candidates will be invited to a short paid live-dialing trial using leads I provide, with a final hiring decision made quickly. Budget: $5\u2013$8/hour for approximately 10\u201315 hours/week initially, with potential to increase hours and add performance incentives based on consistent results. Important Notes: - Candidate must be available to begin within the next few days if selected. - Please do not apply unless you have direct U.S. life insurance Mortgage Protection appointment-settin",
+    "salary": "5.0-12.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-22T23:14:54+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.953920622222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 25,
+        "reason": "Requires language skills, writing, and academic work, but not translation or teaching"
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Has direct experience in academic supervision and language instruction"
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote and flexible, aligns well with the job's remote nature"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide, no specific country or visa requirement"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career"
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Direct academic experience"
+      ],
+      "gaps": [
+        "No on-site presence requirement"
+      ],
+      "recommendation": "Waleed Ballag is well-suited for the Freelancer.com Mortgage Protection Leads project as it aligns with his career goals and experience.",
+      "interview_prep": [
+        "Can you discuss your experience in academic supervision and research guidance?",
+        "How do you handle objections and booking appointments in your work?"
+      ],
+      "one_line_summary": "Waleed Ballag's strong language skills and academic background make him a strong fit for the Freelancer.com Mortgage Protection Leads project."
+    },
+    "ai_insight": "Waleed Ballag's strong language skills and academic background make him a strong fit for the Freelancer.com Mortgage Protection Leads project.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Direct academic experience"
+    ],
+    "ai_gaps": [
+      "No on-site presence requirement"
+    ],
+    "ai_recommendation": "Waleed Ballag is well-suited for the Freelancer.com Mortgage Protection Leads project as it aligns with his career goals and experience.",
+    "ai_interview_prep": [
+      "Can you discuss your experience in academic supervision and research guidance?",
+      "How do you handle objections and booking appointments in your work?"
+    ],
+    "ai_technical_skills": 25,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Virtual Assistant for Mortgage Protection Leads_20260923.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Virtual Assistant for Mortgage Protection Leads_20260923.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-23T05:17:59.192308+00:00"
   },
   {
     "title": "YouTube Educational Video Content Creator",
