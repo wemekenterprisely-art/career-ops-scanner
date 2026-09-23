@@ -2671,5 +2671,28 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-23T20:22:28.432348+00:00",
+    "matched_count": 2,
+    "all_count": 4790,
+    "jobs": [
+      {
+        "title": "Indian UGC Content Creator- spokesperson Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-creation/Indian-UGC-Content-Creator-spokesperson",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "HR and Admin Assistant",
+        "company": "DRC - Danish Refugee Council",
+        "url": "https://www.impactpool.org/jobs/1238193",
+        "score": 100,
+        "category": "Admin",
+        "source": "impactpool"
+      }
+    ]
   }
 ]
