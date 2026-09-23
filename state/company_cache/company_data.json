@@ -1244,5 +1244,27 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-23T05:16:28.791506+00:00"
+  },
+  "Polly English": {
+    "name": "Polly English",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-09-23T13:22:40.815070+00:00"
+  },
+  "Navneet Education Limited": {
+    "name": "Navneet Education Limited",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-23T13:22:40.816513+00:00"
   }
 }
