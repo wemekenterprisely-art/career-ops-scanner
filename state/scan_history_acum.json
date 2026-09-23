@@ -2624,5 +2624,52 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-09-23T13:24:16.497688+00:00",
+    "matched_count": 5,
+    "all_count": 4783,
+    "jobs": [
+      {
+        "title": "Start Today: Mixed Data Entry -- 2",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-processing/Start-Today-Mixed-Data-Entry-40729132.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Italy-Based Virtual Assistant Support",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/email-handling/Italy-Based-Virtual-Assistant-Support",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Looking For Online ESL Teachers - Remote- Joining Rewards of up to USD $100",
+        "company": "Polly English",
+        "url": "https://www.workingnomads.com/job/go/1884997/",
+        "score": 100,
+        "category": "ESL",
+        "source": "workingnomads"
+      },
+      {
+        "title": "Superbike Instagram Content Editor Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Superbike-Instagram-Content-Editor",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofreader",
+        "company": "Navneet Education Limited",
+        "url": "https://in.linkedin.com/jobs/view/proofreader-at-navneet-education-limited-4468988848",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
