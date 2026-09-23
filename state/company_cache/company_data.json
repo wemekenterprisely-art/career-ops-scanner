@@ -1266,5 +1266,15 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-23T13:22:40.816513+00:00"
+  },
+  "DRC - Danish Refugee Council": {
+    "name": "DRC - Danish Refugee Council",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-09-23T20:21:33.883776+00:00"
   }
 }
