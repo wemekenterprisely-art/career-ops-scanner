@@ -1288,5 +1288,30 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-24T13:25:45.564187+00:00"
+  },
+  "Hi-Q Academy": {
+    "name": "Hi-Q Academy",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-24T20:21:53.591059+00:00"
+  },
+  "The Forum Group": {
+    "name": "The Forum Group",
+    "legitimacy_score": 65,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board",
+      "Appears to be registered business"
+    ],
+    "last_updated": "2026-09-24T20:21:53.592601+00:00"
   }
 }
