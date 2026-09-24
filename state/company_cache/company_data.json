@@ -1276,5 +1276,17 @@
     "red_flags": [],
     "positive_signals": [],
     "last_updated": "2026-09-23T20:21:33.883776+00:00"
+  },
+  "Fisher Investments UK": {
+    "name": "Fisher Investments UK",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-24T13:25:45.564187+00:00"
   }
 }
