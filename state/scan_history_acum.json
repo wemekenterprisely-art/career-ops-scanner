@@ -2756,5 +2756,28 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-24T20:22:48.483090+00:00",
+    "matched_count": 2,
+    "all_count": 4769,
+    "jobs": [
+      {
+        "title": "Online English Instructor for Kids and Teens",
+        "company": "Hi-Q Academy",
+        "url": "https://eg.linkedin.com/jobs/view/online-english-instructor-for-kids-and-teens-at-hi-q-academy-4469674775",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Proofreader",
+        "company": "The Forum Group",
+        "url": "https://www.linkedin.com/jobs/view/proofreader-at-the-forum-group-4471623844",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
