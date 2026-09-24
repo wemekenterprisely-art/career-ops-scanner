@@ -2694,5 +2694,28 @@
         "source": "impactpool"
       }
     ]
+  },
+  {
+    "date": "2026-09-24T05:16:50.222779+00:00",
+    "matched_count": 2,
+    "all_count": 4792,
+    "jobs": [
+      {
+        "title": "Health & Skincare Content Writer Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/research/Health-Skincare-Content-Writer-Needed",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Legal Proofreader",
+        "company": "RRD",
+        "url": "https://www.linkedin.com/jobs/view/legal-proofreader-at-rrd-4471126772",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
