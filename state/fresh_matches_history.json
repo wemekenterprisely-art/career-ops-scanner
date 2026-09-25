@@ -4151,6 +4151,114 @@
     "scan_date": "2026-09-24T20:22:23.892613+00:00"
   },
   {
+    "title": "Content Editor",
+    "company": "Koimoi.com",
+    "url": "https://in.linkedin.com/jobs/view/content-editor-at-koimoi-com-4471899432",
+    "location": "Remote \u2014 India",
+    "posted": "2026-09-25",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-09-25T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.25557106,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 60,
+        "reason": "Requires language skills, writing, and academic work, but not exclusively translation or ESL teaching"
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "Direct experience in academic supervision and research guidance, which aligns well with the job requirements"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work environment, flexible schedule, and academic setting align well with the candidate's goals"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's preference"
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds toward senior translator or academic coordinator role, aligning with the candidate's career goals"
+      },
+      "overall_score": 81,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Experience in academic supervision and research guidance"
+      ],
+      "gaps": [
+        "No experience in engineering or development"
+      ],
+      "recommendation": "Waleed Ballag's background in academic supervision and research guidance makes him a strong fit for the Content Editor role at Koimoi.com. His expertise in language skills and academic work aligns well with the job requirements, and the remote, flexible environment suits his career goals.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translating legal documents? 3. Can you describe a time when you had to manage a research project?",
+      "one_line_summary": "Waleed Ballag's strong fit for the Content Editor role at Koimoi.com due to his academic background and experience in language skills and research guidance."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the Content Editor role at Koimoi.com due to his academic background and experience in language skills and research guidance.",
+    "ai_overall_score": 81,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Experience in academic supervision and research guidance"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or development"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in academic supervision and research guidance makes him a strong fit for the Content Editor role at Koimoi.com. His expertise in language skills and academic work aligns well with the job requirements, and the remote, flexible environment suits his career goals.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translating legal documents? 3. Can you describe a time when you had to manage a research project?",
+    "ai_technical_skills": 60,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Koimoi.com",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-25T13:19:33.383613+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Koimoi.com_Content Editor_20260925.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Koimoi.com_Content Editor_20260925.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-25T13:20:03.692935+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
@@ -8340,6 +8448,108 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-25T05:16:38.143264+00:00"
+  },
+  {
+    "title": "Handwritten Pages to PDF Transcription",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/pdf/Handwritten-Pages-PDF-Transcription",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-25T11:16:02+00:00",
+    "description": "I have more than one hundred handwritten pages that need to be faithfully turned into a single, well-structured PDF. The task is straightforward transcription: copy the text exactly as written\u2014no editing, proofreading, or rewriting\u2014while preserving my original hierarchy of headings and subheadings. Clarity and accuracy are critical because I will review the final file against the originals. Please keep the page order intact and mirror any underlining or emphasis exactly as it appears in my notes. The finished, searchable PDF should be ready for print or digital reference. If you are comfortable reading various handwriting styles and can deliver a clean, consistently formatted PDF, I look forward to working with you.",
+    "salary": "400.0-750.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-09-25T11:16:02+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.9883733541666666,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Transcription involves language skills and basic technical skills"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience with transcription and academic work"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work and academic environment align well with the candidate's skills and goals"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide locations align well with the candidate's skills and goals"
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds toward translation/teaching/academic career with potential for senior roles"
+      },
+      "overall_score": 89,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Transcription skills",
+        "Academic and writing experience"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the job requirements. He can contribute to transcription and academic services remotely, building a strong foundation for a senior translator or academic coordinator role.",
+      "interview_prep": "1. Can you describe a time when you had to accurately transcribe handwritten text? 2. How do you approach proofreading and editing in your transcription work? 3. Can you share an example of a thesis or research paper you've reviewed and edited?",
+      "one_line_summary": "Waleed Ballag's skills and experience make him a strong fit for the transcription job."
+    },
+    "ai_insight": "Waleed Ballag's skills and experience make him a strong fit for the transcription job.",
+    "ai_overall_score": 89,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Transcription skills",
+      "Academic and writing experience"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the job requirements. He can contribute to transcription and academic services remotely, building a strong foundation for a senior translator or academic coordinator role.",
+    "ai_interview_prep": "1. Can you describe a time when you had to accurately transcribe handwritten text? 2. How do you approach proofreading and editing in your transcription work? 3. Can you share an example of a thesis or research paper you've reviewed and edited?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Handwritten Pages to PDF Transcription_20260925.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Handwritten Pages to PDF Transcription_20260925.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-25T13:20:03.692935+00:00"
   },
   {
     "title": "YouTube Educational Video Content Creator",
