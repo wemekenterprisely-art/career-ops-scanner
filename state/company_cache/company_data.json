@@ -1313,5 +1313,17 @@
       "Appears to be registered business"
     ],
     "last_updated": "2026-09-24T20:21:53.592601+00:00"
+  },
+  "Koimoi.com": {
+    "name": "Koimoi.com",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-25T13:19:33.383613+00:00"
   }
 }
