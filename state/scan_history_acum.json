@@ -2802,5 +2802,28 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-09-25T13:20:28.242897+00:00",
+    "matched_count": 2,
+    "all_count": 4780,
+    "jobs": [
+      {
+        "title": "Handwritten Pages to PDF Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/pdf/Handwritten-Pages-PDF-Transcription",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Content Editor",
+        "company": "Koimoi.com",
+        "url": "https://in.linkedin.com/jobs/view/content-editor-at-koimoi-com-4471899432",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
