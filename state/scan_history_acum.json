@@ -2779,5 +2779,28 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-25T05:16:53.006701+00:00",
+    "matched_count": 2,
+    "all_count": 4781,
+    "jobs": [
+      {
+        "title": "PDF Text to Excel Transfer",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-entry/PDF-Text-Excel-Transfer-40730391.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Virtual Assistant for Business Operations",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/administrative-support/Virtual-Assistant-for-Business-40732096",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
