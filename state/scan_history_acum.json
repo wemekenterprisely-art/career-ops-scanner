@@ -2825,5 +2825,28 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-25T20:18:36.310990+00:00",
+    "matched_count": 2,
+    "all_count": 4643,
+    "jobs": [
+      {
+        "title": "Fast Copy-Paste Data Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-entry/Fast-Copy-Paste-Data-Entry.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Internship - Public Information and Outreach Section, Registry (Arabic Speaker)",
+        "company": "ICC - International Criminal Court",
+        "url": "https://www.impactpool.org/jobs/1238383",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "impactpool"
+      }
+    ]
   }
 ]
