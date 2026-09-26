@@ -2887,5 +2887,36 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-09-26T13:18:24.344457+00:00",
+    "matched_count": 3,
+    "all_count": 4728,
+    "jobs": [
+      {
+        "title": "**Academic Journal Paper Proofreading, Humanization & Rephrasing** -- 2",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/academic-writing/Academic-Journal-Paper-Proofreading-40734556",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Danish Transcription Expert",
+        "company": "micro1",
+        "url": "https://himalayas.app/companies/micro1/jobs/danish-transcription-expert",
+        "score": 100,
+        "category": "Admin",
+        "source": "himalayas"
+      },
+      {
+        "title": "Arabic\u2013English- Phone Interpreter | Iraqi Arabic | Work From Home | Open Worldwide",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/arabic-translator/Arabic-English-Phone-Interpreter-Iraqi",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
