@@ -2848,5 +2848,44 @@
         "source": "impactpool"
       }
     ]
+  },
+  {
+    "date": "2026-09-26T05:15:03.900100+00:00",
+    "matched_count": 4,
+    "all_count": 4652,
+    "jobs": [
+      {
+        "title": "PDF Text Copy & Paste Specialist | Accurate Document Conversion",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copywriting/PDF-Text-Copy-Paste-Specialist.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Danish Blog Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/editing/Danish-Blog-Proofreading",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Full-Time Bilingual Virtual Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/customer-service/Full-Time-Bilingual-Virtual-Assistant",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Arabic-Turkish Translator Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/proofreading/Arabic-Turkish-Translator-Needed",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
