@@ -4469,6 +4469,112 @@
     "scan_date": "2026-09-26T13:17:59.535143+00:00"
   },
   {
+    "title": "Brand Content Editor - Marketing",
+    "company": "CHRISTUS Health",
+    "url": "https://www.linkedin.com/jobs/view/brand-content-editor-marketing-at-christus-health-4461423178",
+    "location": "Remote \u2014 Irving, TX",
+    "posted": "2026-09-26",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-09-26T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.246917133611113,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 60,
+        "reason": "Requires language skills and academic work, but not exclusively translation or teaching"
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "Direct experience in ESL teaching and academic supervision, with related experience in language services and education"
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote, flexible, academic environment, mostly compatible with the job's requirements"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns well with the job's requirements"
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision experience"
+      ],
+      "gaps": [
+        "No experience in engineering or development"
+      ],
+      "recommendation": "Waleed Ballag's background is strong in ESL teaching and academic supervision, making him a strong fit for the Brand Content Editor role. His remote work experience and ability to work in an academic environment make him a good candidate for this position. He should focus on improving his technical skills and experience in engineering/development to further align with the role.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach language translation and editing in a professional setting? 3. Can you share an example of a project you supervised in the academic field?",
+      "one_line_summary": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him a strong fit for the Brand Content Editor role at CHRISTUS Health."
+    },
+    "ai_insight": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him a strong fit for the Brand Content Editor role at CHRISTUS Health.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision experience"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or development"
+    ],
+    "ai_recommendation": "Waleed Ballag's background is strong in ESL teaching and academic supervision, making him a strong fit for the Brand Content Editor role. His remote work experience and ability to work in an academic environment make him a good candidate for this position. He should focus on improving his technical skills and experience in engineering/development to further align with the role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach language translation and editing in a professional setting? 3. Can you share an example of a project you supervised in the academic field?",
+    "ai_technical_skills": 60,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "CHRISTUS Health",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-26T20:20:44.959264+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/CHRISTUS Health_Brand Content Editor - Marketing_20260926.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/CHRISTUS Health_Brand Content Editor - Marketing_20260926.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-26T20:21:45.442954+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
@@ -9506,6 +9612,319 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-26T13:17:59.535143+00:00"
+  },
+  {
+    "title": "VIRTUAL ASSISTANT",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/internet-marketing/VIRTUAL-ASSISTANT-40735334.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Sat, 26 Sep 2026 15:59:35 -0400",
+    "description": "Are you spending more time managing inbox chaos and schedules than actually growing your business? Let\u2019s change that! (Budget: $2 - $8 USD, Jobs: Content Creation, Digital Marketing, Facebook Marketing, Internet Marketing, Marketing, Social Media Management, Social Media Marketing, System Admin, Video Editing, Virtual Assistant)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-09-26T15:59:35-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.25405547638888887,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 70,
+        "reason": "Job requires some language skills and writing, but no direct translation or academic supervision experience."
+      },
+      "experience_match": {
+        "score": 50,
+        "reason": "Direct experience in ESL teaching and academic supervision, but not in translation or writing for academic services."
+      },
+      "behavioral_fit": {
+        "score": 50,
+        "reason": "Remote work and flexible environment, but not a strong fit for senior leadership or senior translator roles."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills."
+      },
+      "career_alignment": {
+        "score": 60,
+        "reason": "Builds toward translation/teaching/academic career, but not senior roles."
+      },
+      "overall_score": 60,
+      "verdict": "Moderate Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Remote work"
+      ],
+      "gaps": [
+        "Translation/teaching/academic supervision experience",
+        "Senior leadership roles"
+      ],
+      "recommendation": "The candidate has strong skills in ESL teaching and academic supervision, but may need to develop translation/teaching/academic supervision experience for senior roles.",
+      "interview_prep": "1. Can you provide examples of how you have supervised graduate-level research studies? 2. How do you approach legal translation in a technical context? 3. What is your experience with SPSS data analysis?",
+      "one_line_summary": "Waleed Ballag has strong skills in ESL teaching and academic supervision, but may need to develop translation/teaching/academic supervision experience for senior roles."
+    },
+    "ai_insight": "Waleed Ballag has strong skills in ESL teaching and academic supervision, but may need to develop translation/teaching/academic supervision experience for senior roles.",
+    "ai_overall_score": 60,
+    "ai_verdict": "Moderate Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "Translation/teaching/academic supervision experience",
+      "Senior leadership roles"
+    ],
+    "ai_recommendation": "The candidate has strong skills in ESL teaching and academic supervision, but may need to develop translation/teaching/academic supervision experience for senior roles.",
+    "ai_interview_prep": "1. Can you provide examples of how you have supervised graduate-level research studies? 2. How do you approach legal translation in a technical context? 3. What is your experience with SPSS data analysis?",
+    "ai_technical_skills": 70,
+    "ai_experience_match": 50,
+    "ai_behavioral_fit": 50,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 60,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_VIRTUAL ASSISTANT_20260926.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_VIRTUAL ASSISTANT_20260926.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-26T20:21:45.442954+00:00"
+  },
+  {
+    "title": "Product Data Entry Assistant",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/google-sheets/Product-Data-Entry-Assistant-40735181",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-26T18:10:05+00:00",
+    "description": "I have a growing catalogue that needs to be populated with accurate, well-formatted product details. All information will be pulled from specific online databases I\u2019ll share once we start. Your main responsibility is to take each assigned item, locate the correct record online, and enter its data into my template (Google Sheets). Fields include title, SKU, short description, key specs, and price. You don\u2019t need advanced experience\u2014just solid attention to detail, clear written English, and the ability to follow step-by-step instructions. I\u2019ll provide a quick Loom walkthrough and a written SOP; after that, I expect roughly 60\u201380 products entered per day. Deliverables (acceptance criteria): \u2022 Every required field completed for each product \u2022 Formatting matches the sample row I provide \u2022 99 % accuracy when spot-checked \u2022 Sheet updated daily so I can monitor progress Reliable internet, basic spreadsheet skills, and the willingness to ask questions early are all I ask. If you\u2019re ready to start this week, let\u2019s chat and get your first batch assigned.",
+    "salary": "1500.0-3000.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-26T18:10:05+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.0788772319444444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires accurate data entry, which aligns with the candidate's background in ESL teaching and academic supervision, and their proficiency in Arabic and English."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which are all relevant skills for the Product Data Entry Assistant role."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in language instruction and academic supervision makes them well-suited for a remote role where they can work independently and efficiently."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and the candidate is listed as a remote location, which is compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the role of a Product Data Entry Assistant, as it involves data entry and accuracy, which are skills the candidate has experience in."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Data entry proficiency"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "This candidate would excel in this role and align well with the company's goals of improving product details.",
+      "interview_prep": "1. Can you describe a time when you had to ensure accuracy in a data entry task? 2. How do you handle complex product information in your work? 3. Can you share an example of a project where you had to translate product descriptions?",
+      "one_line_summary": "ESL instructor with academic supervision experience, strong data entry skills, and a remote-friendly job match."
+    },
+    "ai_insight": "ESL instructor with academic supervision experience, strong data entry skills, and a remote-friendly job match.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Data entry proficiency"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "This candidate would excel in this role and align well with the company's goals of improving product details.",
+    "ai_interview_prep": "1. Can you describe a time when you had to ensure accuracy in a data entry task? 2. How do you handle complex product information in your work? 3. Can you share an example of a project where you had to translate product descriptions?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 40,
+    "desperation_index": 13,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 47,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Product Data Entry Assistant_20260926.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Product Data Entry Assistant_20260926.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-26T20:21:45.442954+00:00"
+  },
+  {
+    "title": "Multi-Lingual Online Language Tutors Needed BUDGET SENSITIVE",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/language-tutoring/Multi-Lingual-Online-Language-Tutors",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-26T16:35:18+00:00",
+    "description": "This is a budget-sensitive project, so cheaper bids will be favoured. Seeking online language teachers, especially: Tamil, Punjabi, Arabic, Vietnamese, Chinese, and Indonesian. Also needed: Spanish, Thai, Bengali, Hindi, Russian, French, German, Portuguese, Urdu, Farsi, Turkish, Korean, Khmer, Burmese, Polish, Mongolian, Nepali, Dutch, Swedish, Greek, Czech, and others. Please include: Languages you can teach Any qualifications/experience (optional but preferred) Approximate availability (mornings, evenings, weekends, etc.) Ongoing work may be available as the project grows. To show you've read the ad, write \"read it all\" at the end of your application.",
+    "salary": "2.0-8.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-26T16:35:18+00:00",
+    "score": 97,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.658585188055556,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires Arabic-English translation, ESL teaching, and academic supervision, which are all skills mentioned in the candidate's CV."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and Arabic-English translation, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background is in academic services and language instruction, making them a good fit for the remote, flexible, and academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate's remote location and worldwide availability align with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "The candidate's career goals align with the job's need for stable, long-term client relationships and graduate-level research supervision."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Extensive experience in ESL teaching and academic supervision",
+        "Native Arabic speaker with C1 Advanced English proficiency"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's background in ESL teaching and academic supervision makes them a strong fit for the job. Their ability to provide stable, long-term client relationships and graduate-level research supervision aligns well with the job's requirements.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach client relationships in academic services? 3. Can you provide an example of a thesis review you've conducted?",
+      "one_line_summary": "Waleed Ballag's extensive experience in ESL teaching and academic supervision makes them a strong fit for the job."
+    },
+    "ai_insight": "Waleed Ballag's extensive experience in ESL teaching and academic supervision makes them a strong fit for the job.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Extensive experience in ESL teaching and academic supervision",
+      "Native Arabic speaker with C1 Advanced English proficiency"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in ESL teaching and academic supervision makes them a strong fit for the job. Their ability to provide stable, long-term client relationships and graduate-level research supervision aligns well with the job's requirements.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach client relationships in academic services? 3. Can you provide an example of a thesis review you've conducted?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare); Needs ESL teacher, likely understaffed",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Multi-Lingual Online Language Tutors Needed BUDGET_20260926.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Multi-Lingual Online Language Tutors Needed BUDGET_20260926.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-26T20:21:45.442954+00:00"
   },
   {
     "title": "YouTube Educational Video Content Creator",
