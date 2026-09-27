@@ -2957,5 +2957,52 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-27T05:20:17.279077+00:00",
+    "matched_count": 5,
+    "all_count": 4731,
+    "jobs": [
+      {
+        "title": "Handwritten Notes to PDF Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Handwritten-Notes-PDF-Transcription-40735687",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Native Level English Teacher",
+        "company": "Mind Base Education",
+        "url": "https://ae.linkedin.com/jobs/view/native-level-english-teacher-at-mind-base-education-4471011466",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Online English Tutor",
+        "company": "COREnglish",
+        "url": "https://za.linkedin.com/jobs/view/online-english-tutor-at-corenglish-4470529793",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Teacher",
+        "company": "Lazib Inn Boutique Hotel",
+        "url": "https://eg.linkedin.com/jobs/view/english-teacher-at-lazib-inn-boutique-hotel-4472281179",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Content Editor",
+        "company": "Wolters Kluwer",
+        "url": "https://cn.linkedin.com/jobs/view/content-editor-at-wolters-kluwer-4448556391",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
