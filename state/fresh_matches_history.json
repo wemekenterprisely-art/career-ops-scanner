@@ -5005,6 +5005,229 @@
     "scan_date": "2026-09-27T05:19:52.772875+00:00"
   },
   {
+    "title": "Instructor, ESL",
+    "company": "University of North Florida",
+    "url": "https://www.linkedin.com/jobs/view/instructor-esl-at-university-of-north-florida-4471041783",
+    "location": "Remote \u2014 Jacksonville, FL",
+    "posted": "2026-09-26",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-26T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 37.200729342222225,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Contains ESL/EFL instruction, academic supervision, and legal translation, which aligns with the job requirements."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation, which is relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment, academic focus, and career alignment with translation/teaching/academic roles."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide locations are compatible with the job requirements."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds toward translation/teaching/academic career, aligns well with the job."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "No experience in engineering or development"
+      ],
+      "recommendation": "Strong fit for the job. Consider focusing on building a robust portfolio of academic services and research supervision to further align with the career goals.",
+      "interview_prep": "1. Can you provide examples of how you have supervised graduate-level research studies? 2. How do you approach legal translation in a diverse client base? 3. Can you discuss your experience in curriculum development?",
+      "one_line_summary": "Strong fit for the job, aligning well with career goals."
+    },
+    "ai_insight": "Strong fit for the job, aligning well with career goals.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or development"
+    ],
+    "ai_recommendation": "Strong fit for the job. Consider focusing on building a robust portfolio of academic services and research supervision to further align with the career goals.",
+    "ai_interview_prep": "1. Can you provide examples of how you have supervised graduate-level research studies? 2. How do you approach legal translation in a diverse client base? 3. Can you discuss your experience in curriculum development?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "University of North Florida",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-27T13:18:22.890859+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am excited to apply for the position of Instructor, ESL at the University of North Florida, as I believe I am well-suited to contribute to the language learning community.",
+      "experience": "I have significant experience as an ESL teacher and supervisor, including roles at higher institutes and private schools. This experience has provided me with the skills and knowledge necessary to excel in this role.",
+      "skills": "My skills in academic supervision, research guidance, thesis writing development, and online and in-person teaching are highly relevant to the responsibilities of an ESL instructor at the University of North Florida.",
+      "closing": "I am eager to discuss how my qualifications and experience make me an ideal candidate for this role and look forward to the possibility of a face-to-face interview."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/University of North Florida_Instructor, ESL_20260927.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/University of North Florida_Instructor, ESL_20260927.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-27T13:19:35.982607+00:00"
+  },
+  {
+    "title": "English Language Instructor",
+    "company": "Berlitz Pakistan",
+    "url": "https://pk.linkedin.com/jobs/view/english-language-instructor-at-berlitz-pakistan-4470590531",
+    "location": "Remote \u2014 Punjab, Pakistan",
+    "posted": "2026-09-27",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-27T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.2007294475,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches the job description for ESL/EFL instruction, academic supervision, and legal translation."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible schedule, and academic environment aligns well with career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills and goals."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns well with the candidate's skills and experience."
+      },
+      "overall_score": 89,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Strong fit for the English Language Instructor role at Berlitz Pakistan. The candidate's skills and experience perfectly align with the job requirements and career goals.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach legal translation in a professional setting? 3. Can you share a project you led that involved academic editing?",
+      "one_line_summary": "Strong fit for the English Language Instructor role at Berlitz Pakistan. Expert in ESL/EFL instruction, academic supervision, and legal translation."
+    },
+    "ai_insight": "Strong fit for the English Language Instructor role at Berlitz Pakistan. Expert in ESL/EFL instruction, academic supervision, and legal translation.",
+    "ai_overall_score": 89,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Strong fit for the English Language Instructor role at Berlitz Pakistan. The candidate's skills and experience perfectly align with the job requirements and career goals.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach legal translation in a professional setting? 3. Can you share a project you led that involved academic editing?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@pk.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@pk.linkedin.com",
+      "hr@pk.linkedin.com",
+      "jobs@pk.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Berlitz Pakistan",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-27T13:18:22.892631+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Berlitz Pakistan_English Language Instructor_20260927.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Berlitz Pakistan_English Language Instructor_20260927.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-27T13:19:35.982607+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
@@ -10467,6 +10690,213 @@
     "scan_date": "2026-09-27T05:19:52.772875+00:00"
   },
   {
+    "title": "Spreadsheet Data Entry Typist - 27/09/2026 07:59 EDT",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/copy-typing/Spreadsheet-Data-Entry-Typist-EDT",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-27T12:12:53+00:00",
+    "description": "I have a stack of printed documents in English that need to be keyed accurately into spreadsheets. Most pages show clear tables or straightforward lists, so the work is less about interpretation and more about precise, error-free typing and consistent layout inside the sheet. Here\u2019s the flow I have in mind: I scan each batch and share high-resolution PDFs; you transpose every cell, row, and column exactly as it appears, preserving the order of the tables or lists. Where a table header repeats, mirror it once at the top of the sheet. Spelling, punctuation, and basic number formatting must remain intact. When you finish a file, send it back so I can spot-check before we move on to the next batch. Deliverable at each milestone: the completed spreadsheet (Excel or Google Sheets\u2014your choice) plus a brief note flagging any illegible characters or ambiguous entries you encountered. If you are comfortable with steady, detail-oriented typing work and can keep a reliable turnaround time, you\u2019ll fit this perfectly.",
+    "salary": "750.0-1250.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-09-27T12:12:53+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title)",
+      "typist transcription transcribing transcriber (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.9860206563888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 60,
+        "reason": "Requires language skills, writing, and academic work, but not exclusively translation or ESL teaching."
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Direct experience in academic supervision and language instruction, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote work environment and flexible nature align well with the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligning well with the job's requirements."
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision",
+        "Remote Work",
+        "Language Skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's background in academic supervision and language instruction makes him a strong fit for this remote data entry role. His ability to maintain a consistent and detailed typing style is a valuable asset in this position.",
+      "interview_prep": "1. What is your experience in academic supervision and language instruction? 2. How do you ensure the accuracy of the data you type into spreadsheets? 3. Can you provide an example of a time when you encountered ambiguous entries and how you resolved them?",
+      "one_line_summary": "Waleed Ballag's academic background and language skills make him a strong fit for the remote data entry role."
+    },
+    "ai_insight": "Waleed Ballag's academic background and language skills make him a strong fit for the remote data entry role.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision",
+      "Remote Work",
+      "Language Skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in academic supervision and language instruction makes him a strong fit for this remote data entry role. His ability to maintain a consistent and detailed typing style is a valuable asset in this position.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and language instruction? 2. How do you ensure the accuracy of the data you type into spreadsheets? 3. Can you provide an example of a time when you encountered ambiguous entries and how you resolved them?",
+    "ai_technical_skills": 60,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Spreadsheet Data Entry Typist - 27-09-2026 07-59 E_20260927.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Spreadsheet Data Entry Typist - 27-09-2026 07-59 E_20260927.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-27T13:19:35.982607+00:00"
+  },
+  {
+    "title": "Executive Assistant",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/project-management/Executive-Assistant-40735886",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-27T07:23:12+00:00",
+    "description": "I\u2019m looking for a reliable pair of hands to keep our daily operations running smoothly. Your main focus will be coordination: acting as the link between team members, making sure everyone has what they need, and seeing that nothing falls through the cracks. Alongside that, I need you to take ownership of follow-ups\u2014sending timely reminders, confirming task completion, and logging the outcomes so we always know where things stand. Day to day you will arrange meetings, update schedules, maintain simple records, and handle routine communications with the same professional tone I use with clients and colleagues. We work mostly in Google Workspace, Slack, and Trello; if you already know those tools, great\u2014if not, you\u2019ll pick them up quickly with my guidance. Strong written and verbal English, solid computer skills, and a consistently professional attitude are essential. Beyond that, I\u2019m happy to consider fresh talent eager to learn; I value reliability and clear communication over years of experience. Deliverables I expect from you each workday: \u2022 A confirmed, up-to-date schedule for upcoming meetings and deadlines \u2022 A brief follow-up report noting actions taken and any pending responses \u2022 Updated records in our shared drive so information stays current If you can commit to these core tasks and keep our team in sync, I\u2019d love to hear how you would approach the role and when you can start.",
+    "salary": "1500.0-12500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-09-27T07:23:12+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.814082814722223,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 50,
+        "reason": "Requires some basic technical skills and knowledge of Google Workspace, Slack, and Trello, but not extensive."
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Direct experience in ESL teaching and academic supervision, which aligns with the job's need for coordination and follow-ups."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote work environment and flexible schedule align well with the candidate's preference for remote work."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward translation/teaching/academic career, aligning with the candidate's career goals."
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Strong remote work skills"
+      ],
+      "gaps": [
+        "No direct experience in engineering or development roles"
+      ],
+      "recommendation": "Waleed Ballag's strong fit for the Executive Assistant role aligns well with her background in ESL teaching and academic supervision. Her ability to work remotely and her strong communication skills make her a valuable asset to the Freelancer.com team.",
+      "interview_prep": "1. Can you describe a time when you had to coordinate meetings and ensure tasks were completed on time? 2. How do you handle follow-ups and maintain records of completed tasks? 3. Can you share an example of how you've used Google Workspace, Slack, and Trello in the past?",
+      "one_line_summary": "Waleed Ballag's strong fit for the Freelancer.com Executive Assistant role aligns with her background in ESL teaching and academic supervision, making her a valuable asset to the team."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the Freelancer.com Executive Assistant role aligns with her background in ESL teaching and academic supervision, making her a valuable asset to the team.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Strong remote work skills"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or development roles"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong fit for the Executive Assistant role aligns well with her background in ESL teaching and academic supervision. Her ability to work remotely and her strong communication skills make her a valuable asset to the Freelancer.com team.",
+    "ai_interview_prep": "1. Can you describe a time when you had to coordinate meetings and ensure tasks were completed on time? 2. How do you handle follow-ups and maintain records of completed tasks? 3. Can you share an example of how you've used Google Workspace, Slack, and Trello in the past?",
+    "ai_technical_skills": 50,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Executive Assistant_20260927.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Executive Assistant_20260927.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-27T13:19:35.982607+00:00"
+  },
+  {
     "title": "YouTube Educational Video Content Creator",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Educational-Video-Content",
@@ -11041,6 +11471,110 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-23T20:22:04.179573+00:00"
+  },
+  {
+    "title": "Health Article Writer Needed",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/seo-writing/Health-Article-Writer-Needed",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-27T05:48:57+00:00",
+    "description": "I\u2019m putting together a fresh set of health-focused articles and would like an experienced writer to take charge of the research, writing, and light SEO work. The goal is to deliver clear, accurate, and engaging pieces that a general audience can trust and enjoy. The assignment covers health topics only\u2014everything from preventative wellness and nutrition to new medical studies\u2014so you should feel comfortable reading scientific material and translating it into plain English. I can share a shortlist of themes, preferred keywords, and any style guidelines once we get started. Timing is important: I\u2019d like the full batch ready within a month, giving us room for one round of revisions if needed. Deliverables and acceptance criteria: \u2022 Original, fact-checked health articles (plagiarism-free, Grammarly-clean) \u2022 Well-structured copy, 800\u20131,200 words each, with compelling headings and subheadings \u2022 On-page SEO elements included: primary keyword, meta description, and one internal link suggestion \u2022 Minimum three authoritative citations per article, formatted consistently \u2022 Final files delivered in Word or Google Docs, ready for immediate upload If you have a portfolio that showcases similar health writing, send it over and let\u2019s discuss the outline.",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-27T05:48:57+00:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 7.384918278333333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, with some transferable skills from previous roles."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Related experience in language services and academic supervision, with some overlap in skills."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote, flexible, and academic environment, with some compatibility."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, with strong alignment."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Legal Translation"
+      ],
+      "gaps": [
+        "No direct experience in engineering or programming"
+      ],
+      "recommendation": "Waleed Ballag's background is well-suited for the Health Article Writer role, particularly in the areas of ESL/EFL instruction and academic supervision. His experience in legal translation and research guidance will be beneficial for the health article writing tasks.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure the accuracy and clarity of your writing for a general audience? 3. Can you share an experience where you had to translate a complex scientific article into plain English?",
+      "one_line_summary": "Waleed Ballag's background in ESL/EFL instruction and academic supervision makes him a strong fit for the Health Article Writer role, particularly in translating complex scientific material into plain English."
+    },
+    "ai_insight": "Waleed Ballag's background in ESL/EFL instruction and academic supervision makes him a strong fit for the Health Article Writer role, particularly in translating complex scientific material into plain English.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Legal Translation"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or programming"
+    ],
+    "ai_recommendation": "Waleed Ballag's background is well-suited for the Health Article Writer role, particularly in the areas of ESL/EFL instruction and academic supervision. His experience in legal translation and research guidance will be beneficial for the health article writing tasks.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure the accuracy and clarity of your writing for a general audience? 3. Can you share an experience where you had to translate a complex scientific article into plain English?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Health Article Writer Needed_20260927.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Health Article Writer Needed_20260927.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-27T13:19:35.982607+00:00"
   },
   {
     "title": "Cultural Creative Collaborator",
