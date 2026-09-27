@@ -1395,5 +1395,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-27T05:18:37.247222+00:00"
+  },
+  "University of North Florida": {
+    "name": "University of North Florida",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-27T13:18:22.890859+00:00"
+  },
+  "Berlitz Pakistan": {
+    "name": "Berlitz Pakistan",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-27T13:18:22.892631+00:00"
   }
 }
