@@ -3004,5 +3004,52 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-27T13:20:00.390450+00:00",
+    "matched_count": 5,
+    "all_count": 4737,
+    "jobs": [
+      {
+        "title": "Spreadsheet Data Entry Typist - 27/09/2026 07:59 EDT",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copy-typing/Spreadsheet-Data-Entry-Typist-EDT",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Executive Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/project-management/Executive-Assistant-40735886",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Health Article Writer Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/seo-writing/Health-Article-Writer-Needed",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Instructor, ESL",
+        "company": "University of North Florida",
+        "url": "https://www.linkedin.com/jobs/view/instructor-esl-at-university-of-north-florida-4471041783",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Language Instructor",
+        "company": "Berlitz Pakistan",
+        "url": "https://pk.linkedin.com/jobs/view/english-language-instructor-at-berlitz-pakistan-4470590531",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
