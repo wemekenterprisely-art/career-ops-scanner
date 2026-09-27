@@ -4575,6 +4575,436 @@
     "scan_date": "2026-09-26T20:21:45.442954+00:00"
   },
   {
+    "title": "Native Level English Teacher",
+    "company": "Mind Base Education",
+    "url": "https://ae.linkedin.com/jobs/view/native-level-english-teacher-at-mind-base-education-4471011466",
+    "location": "Remote \u2014 Dubai, Dubai, United Arab Emirates",
+    "posted": "2026-09-26",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-26T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.20070718111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires Arabic-English translation, ESL teaching, and academic supervision, which are all skills directly related to the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which aligns perfectly with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background and skills are well-suited for a remote, academic environment, and they have experience in related fields like academic writing and proposal development."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is open to remote work, which is compatible with the job's remote location."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the job, including secure remote work, building client relationships, and contributing to research supervision."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Native Level English Teacher position at Mind Base Education. He can contribute effectively to the remote, academic environment and aligns well with the career goals of secure remote work and research supervision.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and how it relates to the job requirements? 2. How do you approach legal translation and ensuring accuracy in academic documents? 3. Can you describe a time when you had to adapt to a remote work environment and how it impacted your responsibilities?",
+      "one_line_summary": "ESL instructor with extensive academic supervision and legal translation experience, well-suited for remote academic roles."
+    },
+    "ai_insight": "ESL instructor with extensive academic supervision and legal translation experience, well-suited for remote academic roles.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Native Level English Teacher position at Mind Base Education. He can contribute effectively to the remote, academic environment and aligns well with the career goals of secure remote work and research supervision.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and how it relates to the job requirements? 2. How do you approach legal translation and ensuring accuracy in academic documents? 3. Can you describe a time when you had to adapt to a remote work environment and how it impacted your responsibilities?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@ae.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ae.linkedin.com",
+      "hr@ae.linkedin.com",
+      "jobs@ae.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Mind Base Education",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-27T05:18:37.242973+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Mind Base Education_Native Level English Teacher_20260927.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Mind Base Education_Native Level English Teacher_20260927.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-27T05:19:52.772875+00:00"
+  },
+  {
+    "title": "Online English Tutor",
+    "company": "COREnglish",
+    "url": "https://za.linkedin.com/jobs/view/online-english-tutor-at-corenglish-4470529793",
+    "location": "Remote \u2014 South Africa",
+    "posted": "2026-09-26",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-26T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.20070749111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Strong match with ESL/EFL instruction, academic supervision, and bidirectional translation skills."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible schedule, and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's preference."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward senior translator or academic coordinator role in translation/teaching/academic career."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "No specific programming languages or engineering experience"
+      ],
+      "recommendation": "This candidate is well-suited for a remote, academic role in translation/teaching/academic services.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you describe a time when you translated legal documents? 3. How do you stay updated with the latest trends in translation technology?",
+      "one_line_summary": "ESL instructor with academic experience and strong translation skills, well-suited for remote translation/teaching roles."
+    },
+    "ai_insight": "ESL instructor with academic experience and strong translation skills, well-suited for remote translation/teaching roles.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "No specific programming languages or engineering experience"
+    ],
+    "ai_recommendation": "This candidate is well-suited for a remote, academic role in translation/teaching/academic services.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you describe a time when you translated legal documents? 3. How do you stay updated with the latest trends in translation technology?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@za.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@za.linkedin.com",
+      "hr@za.linkedin.com",
+      "jobs@za.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "COREnglish",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-27T05:18:37.244555+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/COREnglish_Online English Tutor_20260927.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/COREnglish_Online English Tutor_20260927.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-27T05:19:52.772875+00:00"
+  },
+  {
+    "title": "English Teacher",
+    "company": "Lazib Inn Boutique Hotel",
+    "url": "https://eg.linkedin.com/jobs/view/english-teacher-at-lazib-inn-boutique-hotel-4472281179",
+    "location": "Remote \u2014 El Faiyum, Al Fayyum, Egypt",
+    "posted": "2026-09-26",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-26T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.2007075925,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires Arabic-English translation, ESL teaching, and academic supervision, which aligns closely with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background is highly compatible with the remote, academic environment of the job, and they have experience in related fields like academic writing and proposal development."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and globally accessible, and the candidate has the necessary language skills to work remotely."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "The candidate's career goals align closely with the job requirements, including securing stable remote work and contributing to graduate-level research supervision."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Legal translation experience"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is highly qualified for the English Teacher position at Lazib Inn Boutique Hotel. Their extensive experience in ESL teaching, academic supervision, and legal translation make them an excellent fit for the remote, academic environment of the job. Their strong career goals and alignment with the company's needs further strengthen their candidacy.",
+      "interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you ensure the accuracy of academic papers you review? 3. Can you share an example of a legal translation you have performed?",
+      "one_line_summary": "Waleed Ballag is a highly qualified ESL instructor and academic supervisor with a strong background in translation and supervision, making them a strong fit for the English Teacher position at Lazib Inn Boutique Hotel."
+    },
+    "ai_insight": "Waleed Ballag is a highly qualified ESL instructor and academic supervisor with a strong background in translation and supervision, making them a strong fit for the English Teacher position at Lazib Inn Boutique Hotel.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Legal translation experience"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is highly qualified for the English Teacher position at Lazib Inn Boutique Hotel. Their extensive experience in ESL teaching, academic supervision, and legal translation make them an excellent fit for the remote, academic environment of the job. Their strong career goals and alignment with the company's needs further strengthen their candidacy.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you ensure the accuracy of academic papers you review? 3. Can you share an example of a legal translation you have performed?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Lazib Inn Boutique Hotel",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-27T05:18:37.245895+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Lazib Inn Boutique Hotel_English Teacher_20260927.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Lazib Inn Boutique Hotel_English Teacher_20260927.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-27T05:19:52.772875+00:00"
+  },
+  {
+    "title": "Content Editor",
+    "company": "Wolters Kluwer",
+    "url": "https://cn.linkedin.com/jobs/view/content-editor-at-wolters-kluwer-4448556391",
+    "location": "Remote \u2014 Beijing, Beijing, China",
+    "posted": "2026-09-26",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-09-26T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.200708013333333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches the job requirements for content editing and translation."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Has experience in academic supervision and content editing."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work and academic environment align well with the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Content editing experience",
+        "Remote work flexibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Content Editor role at Wolters Kluwer. His background in academic supervision and content editing aligns well with the job requirements, and the remote work environment is a perfect match. He has the potential to grow into a senior translator or academic coordinator role.",
+      "interview_prep": "1. What is your experience in academic supervision and content editing? 2. How do you stay updated with the latest trends in the field of translation and editing? 3. Can you provide an example of a project you have supervised and its impact on the academic community?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Content Editor role at Wolters Kluwer with his background in academic supervision and content editing, and his remote work experience aligns perfectly with the job requirements."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Content Editor role at Wolters Kluwer with his background in academic supervision and content editing, and his remote work experience aligns perfectly with the job requirements.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Content editing experience",
+      "Remote work flexibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Content Editor role at Wolters Kluwer. His background in academic supervision and content editing aligns well with the job requirements, and the remote work environment is a perfect match. He has the potential to grow into a senior translator or academic coordinator role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and content editing? 2. How do you stay updated with the latest trends in the field of translation and editing? 3. Can you provide an example of a project you have supervised and its impact on the academic community?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@cn.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@cn.linkedin.com",
+      "hr@cn.linkedin.com",
+      "jobs@cn.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Wolters Kluwer",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-27T05:18:37.247222+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Wolters Kluwer_Content Editor_20260927.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Wolters Kluwer_Content Editor_20260927.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-27T05:19:52.772875+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
@@ -9925,6 +10355,116 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-26T20:21:45.442954+00:00"
+  },
+  {
+    "title": "Handwritten Notes to PDF Transcription",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-writing/Handwritten-Notes-PDF-Transcription-40735687",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-27T04:40:55+00:00",
+    "description": "I have a collection of handwritten notes in English that I need turned into clean, searchable text. Your job is to read every page carefully and type out the content exactly as written\u2014spelling, punctuation, and line breaks\u2014without adding any extra formatting. Once the text is complete, save it as a single, standard-size PDF so I can archive and share it easily. Please keep the layout simple: plain paragraphs only, no headings, bullet points, or other styling. Accuracy matters more than speed, so take the time to double-check names, numbers, and technical terms before delivering the file.",
+    "salary": "600.0-1500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-09-27T04:40:55+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.5187757236111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Has direct experience in translation, ESL teaching, and academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, academic environment, and compatible with the job title."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job title."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 86,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation",
+        "ESL teaching",
+        "Academic supervision"
+      ],
+      "gaps": [
+        "No specific programming languages or senior leadership roles"
+      ],
+      "recommendation": "Ideal for someone looking to transition into a senior translator or academic coordinator role.",
+      "interview_prep": [
+        "Can you describe a time when you supervised a graduate-level research study?",
+        "How do you ensure accuracy in your translations and academic editing?"
+      ],
+      "one_line_summary": "Strong fit for a remote, academic role requiring translation and supervision skills."
+    },
+    "ai_insight": "Strong fit for a remote, academic role requiring translation and supervision skills.",
+    "ai_overall_score": 86,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation",
+      "ESL teaching",
+      "Academic supervision"
+    ],
+    "ai_gaps": [
+      "No specific programming languages or senior leadership roles"
+    ],
+    "ai_recommendation": "Ideal for someone looking to transition into a senior translator or academic coordinator role.",
+    "ai_interview_prep": [
+      "Can you describe a time when you supervised a graduate-level research study?",
+      "How do you ensure accuracy in your translations and academic editing?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Handwritten Notes to PDF Transcription_20260927.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Handwritten Notes to PDF Transcription_20260927.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-27T05:19:52.772875+00:00"
   },
   {
     "title": "YouTube Educational Video Content Creator",
