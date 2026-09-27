@@ -5228,6 +5228,123 @@
     "scan_date": "2026-09-27T13:19:35.982607+00:00"
   },
   {
+    "title": "English Language Instructor",
+    "company": "Motion Box",
+    "url": "https://bd.linkedin.com/jobs/view/english-language-instructor-at-motion-box-4470814649",
+    "location": "Remote \u2014 Uttara, Dhaka, Bangladesh",
+    "posted": "2026-09-27",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-27T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.2544939175,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Job requires language skills, writing, and academic work, which aligns with the candidate's background."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Candidate has experience in ESL teaching, academic supervision, and research guidance, which are relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible schedule, and academic environment align well with the candidate's career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's preference."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job requirements, including translation and academic supervision."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Remote work"
+      ],
+      "gaps": [
+        "No specific gaps noted"
+      ],
+      "recommendation": "Strong fit. The candidate's background and skills align well with the job requirements, making it an excellent opportunity for career advancement.",
+      "interview_prep": [
+        "Can you discuss your experience in academic supervision and research guidance?",
+        "How do you approach translation and bidirectional communication in academic settings?",
+        "Can you elaborate on your experience in managing and supervising graduate-level research studies?"
+      ],
+      "one_line_summary": "Strong fit for the English Language Instructor role due to alignment with career goals and relevant skills."
+    },
+    "ai_insight": "Strong fit for the English Language Instructor role due to alignment with career goals and relevant skills.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "No specific gaps noted"
+    ],
+    "ai_recommendation": "Strong fit. The candidate's background and skills align well with the job requirements, making it an excellent opportunity for career advancement.",
+    "ai_interview_prep": [
+      "Can you discuss your experience in academic supervision and research guidance?",
+      "How do you approach translation and bidirectional communication in academic settings?",
+      "Can you elaborate on your experience in managing and supervising graduate-level research studies?"
+    ],
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@bd.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@bd.linkedin.com",
+      "hr@bd.linkedin.com",
+      "jobs@bd.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Motion Box",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-27T20:18:50.871892+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Motion Box_English Language Instructor_20260927.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Motion Box_English Language Instructor_20260927.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-27T20:19:06.089909+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
