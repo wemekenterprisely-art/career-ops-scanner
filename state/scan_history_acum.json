@@ -3051,5 +3051,20 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-27T20:19:30.254496+00:00",
+    "matched_count": 1,
+    "all_count": 4735,
+    "jobs": [
+      {
+        "title": "English Language Instructor",
+        "company": "Motion Box",
+        "url": "https://bd.linkedin.com/jobs/view/english-language-instructor-at-motion-box-4470814649",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
