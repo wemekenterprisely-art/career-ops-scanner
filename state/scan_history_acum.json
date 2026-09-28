@@ -3152,5 +3152,60 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-28T20:24:42.436039+00:00",
+    "matched_count": 6,
+    "all_count": 4573,
+    "jobs": [
+      {
+        "title": "Respuesta informativa en WhatsApp",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copywriting/Respuesta-informativa-WhatsApp.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Expert English Proofreader Needed ASAP",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copy-editing/Expert-English-Proofreader-Needed-ASAP",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Focused Data Entry Clerk Needed (USA/Canada Applicants Only)",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-word/Focused-Data-Entry-Clerk-Needed",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Teacher",
+        "company": "We Learn English School",
+        "url": "https://pe.linkedin.com/jobs/view/english-teacher-at-we-learn-english-school-4458275291",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Virtual 6-12 English Teacher",
+        "company": "ACCEL Schools",
+        "url": "https://www.linkedin.com/jobs/view/virtual-6-12-english-teacher-at-accel-schools-4471543169",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Tutor",
+        "company": "FLY Experience Idiomas",
+        "url": "https://br.linkedin.com/jobs/view/english-tutor-at-fly-experience-idiomas-4445064262",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
