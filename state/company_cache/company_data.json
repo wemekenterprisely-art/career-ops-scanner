@@ -1431,5 +1431,41 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-27T20:18:50.871892+00:00"
+  },
+  "We Learn English School": {
+    "name": "We Learn English School",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-28T20:22:47.546583+00:00"
+  },
+  "ACCEL Schools": {
+    "name": "ACCEL Schools",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-28T20:22:47.548227+00:00"
+  },
+  "FLY Experience Idiomas": {
+    "name": "FLY Experience Idiomas",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-28T20:22:47.549616+00:00"
   }
 }
