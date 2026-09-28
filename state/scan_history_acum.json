@@ -3097,5 +3097,60 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-09-28T13:24:22.663143+00:00",
+    "matched_count": 6,
+    "all_count": 4733,
+    "jobs": [
+      {
+        "title": "Conversational Informative Article Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/research/Conversational-Informative-Article.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Comprehensive Guide on Skin Barrier Repair",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/article-writing/Comprehensive-Guide-Skin-Barrier-Repair.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Alphabetical Text Data Organization",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-analysis/Alphabetical-Text-Data-Organization.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Virtual Assistant for Language Course Production",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/project-management/Virtual-Assistant-for-Language-Course",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Virtual Assistant for Text Generation and Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Virtual-Assistant-for-Text-Generation",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Czech Localization QA Tester/Proofreader in Cupertino, CA",
+        "company": "Welocalize",
+        "url": "https://www.linkedin.com/jobs/view/czech-localization-qa-tester-proofreader-in-cupertino-ca-at-welocalize-4471392273",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
