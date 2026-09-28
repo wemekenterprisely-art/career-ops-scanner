@@ -3066,5 +3066,36 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-28T05:19:22.227713+00:00",
+    "matched_count": 3,
+    "all_count": 4718,
+    "jobs": [
+      {
+        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://ca.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4472490083",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Entry-Level English Teacher",
+        "company": "English 1",
+        "url": "https://au.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4472467979",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Arabic Text Entry Specialist",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/typing/Arabic-Text-Entry-Specialist",
+        "score": 62,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
