@@ -3207,5 +3207,28 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-29T05:16:10.750130+00:00",
+    "matched_count": 2,
+    "all_count": 4714,
+    "jobs": [
+      {
+        "title": "Fashion Apparel Review Copywriter",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/blog-writing/Fashion-Apparel-Review-Copywriter.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Foreign Language Teachers",
+        "company": "Resonanz Career",
+        "url": "https://uk.linkedin.com/jobs/view/foreign-language-teachers-at-resonanz-career-4473051468",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
