@@ -1479,5 +1479,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-29T05:15:35.129513+00:00"
+  },
+  "TP": {
+    "name": "TP",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-09-29T13:22:51.853606+00:00"
   }
 }
