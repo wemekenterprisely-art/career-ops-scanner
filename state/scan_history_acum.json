@@ -3301,5 +3301,60 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-29T20:28:13.224576+00:00",
+    "matched_count": 6,
+    "all_count": 4731,
+    "jobs": [
+      {
+        "title": "Instagram Content Proofreading & Editing ,writing, translation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Instagram-Content-Proofreading-Editing",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Norwegian Transcription Expert",
+        "company": "micro1",
+        "url": "https://himalayas.app/companies/micro1/jobs/norwegian-transcription-expert",
+        "score": 100,
+        "category": "Admin",
+        "source": "himalayas"
+      },
+      {
+        "title": "Finnish Transcription Expert",
+        "company": "micro1",
+        "url": "https://himalayas.app/companies/micro1/jobs/finnish-transcription-expert",
+        "score": 100,
+        "category": "Admin",
+        "source": "himalayas"
+      },
+      {
+        "title": "Social Media Content Editor for Educational Videos",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-creation/Social-Media-Content-Editor-for",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English-Speaking VA in Lima",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/English-Speaking-Lima-fix",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
+        "company": "Kreyco",
+        "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4473523386",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
