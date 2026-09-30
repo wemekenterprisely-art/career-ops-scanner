@@ -3458,5 +3458,44 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-30T20:23:42.676502+00:00",
+    "matched_count": 4,
+    "all_count": 4840,
+    "jobs": [
+      {
+        "title": "Academic Research Virtual Assistant Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/academic-research/Academic-Research-Virtual-Assistant",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Skilled Virtual Assistant & Copywriter",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Skilled-Virtual-Assistant-Copywriter",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "PDF to Plain Text Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/PDF-Plain-Text-Transcription",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Arabic Interpreter",
+        "company": "ICRC - International Committee of the Red Cross",
+        "url": "https://www.impactpool.org/jobs/1239048",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "impactpool"
+      }
+    ]
   }
 ]
