@@ -6860,6 +6860,352 @@
     "scan_date": "2026-09-30T05:20:59.147212+00:00"
   },
   {
+    "title": "Arabic Interpreter",
+    "company": "International Committee of the Red Cross - ICRC",
+    "url": "https://ch.linkedin.com/jobs/view/arabic-interpreter-at-international-committee-of-the-red-cross-icrc-4473715888",
+    "location": "Remote \u2014 Geneva, Geneva, Switzerland",
+    "posted": "2026-09-30",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic translator",
+    "postedISO": "2026-09-30T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic translator translation interpreter linguist editor proofreader content writer qa tester localis (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.279067046388889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation",
+        "ESL teaching",
+        "Academic supervision"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "A strong fit for the position, with the ability to contribute to academic services and build a career in translation or teaching.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach legal translation and its impact on client relationships? 3. What are your thoughts on the future of AI in language translation?",
+      "one_line_summary": "Strong fit for the Arabic Interpreter position with experience in academic supervision, legal translation, and a promising career in translation/teaching."
+    },
+    "ai_insight": "Strong fit for the Arabic Interpreter position with experience in academic supervision, legal translation, and a promising career in translation/teaching.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation",
+      "ESL teaching",
+      "Academic supervision"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "A strong fit for the position, with the ability to contribute to academic services and build a career in translation or teaching.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach legal translation and its impact on client relationships? 3. What are your thoughts on the future of AI in language translation?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@ch.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ch.linkedin.com",
+      "hr@ch.linkedin.com",
+      "jobs@ch.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "International Committee of the Red Cross - ICRC",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-30T13:20:10.562689+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am thrilled to apply for the Arabic Interpreter position at the International Committee of the Red Cross - ICRC. I am eager to utilize my skills in academic supervision, research guidance, thesis writing, and cross-cultural communication to contribute to this esteemed organization.",
+      "experience": "During my tenure as an ESL Teacher & Secondary Supervisor at Higher Institute of Science and Technology and an ESL Teacher & Partner at Al-Safwa Smart School for Private Education, I honed my ability to instruct English as a second language effectively. Additionally, my role as an ESL Teacher at Anwar Al-Hayat School for Private Education enhanced my proficiency in teaching Arabic to students, which is a critical skill for the ICRC.",
+      "skills": "My skills include academic supervision and research guidance, academic editing and thesis review, thesis writing and development, ESL/EFL instruction, online and in-person teaching, curriculum development, Arabic-English bidirectional translation, academic translation, legal translation, expertise in Microsoft Office Suite, Adobe Photoshop, SPSS statistical analysis, and proficiency in Arabic and English (Native and C1 Advanced, respectively).",
+      "closing": "I am available for an interview at your earliest convenience. Please feel free to contact me at [Your Email Address] or [Your Phone Number]. Thank you for considering my application. I look forward to the opportunity to discuss how my credentials and experience align with the responsibilities of this position."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/International Committee of the_Arabic Interpreter_20260930.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/International Committee of the_Arabic Interpreter_20260930.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-30T13:21:39.191961+00:00"
+  },
+  {
+    "title": "Online English Tutor",
+    "company": "COREnglish",
+    "url": "https://tn.linkedin.com/jobs/view/online-english-tutor-at-corenglish-4472148778",
+    "location": "Remote \u2014 Tunisia",
+    "posted": "2026-09-30",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-09-30T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.279067516944446,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires Arabic-English translation, ESL teaching, and academic supervision, which aligns with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has direct experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic supervision and research guidance suggests a strong fit for the academic environment described in the job posting."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, which aligns with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the job's requirements for secure remote work and academic services."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Expertise in academic supervision",
+        "Remote work preference"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate's strong language skills, experience in academic supervision, and preference for remote work make them a strong fit for the job.",
+      "interview_prep": [
+        "Can you discuss your experience in academic supervision and how it relates to the job requirements?",
+        "How do you stay updated with the latest trends in language teaching and academic research?"
+      ],
+      "one_line_summary": "Strong fit for remote, academic-focused job."
+    },
+    "ai_insight": "Strong fit for remote, academic-focused job.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Expertise in academic supervision",
+      "Remote work preference"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate's strong language skills, experience in academic supervision, and preference for remote work make them a strong fit for the job.",
+    "ai_interview_prep": [
+      "Can you discuss your experience in academic supervision and how it relates to the job requirements?",
+      "How do you stay updated with the latest trends in language teaching and academic research?"
+    ],
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@tn.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@tn.linkedin.com",
+      "hr@tn.linkedin.com",
+      "jobs@tn.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "COREnglish",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-27T05:18:37.244555+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiastic interest in the Online English Tutor position at COREnglish. I am particularly drawn to the opportunity to contribute to COREnglish's mission of making English learning accessible and effective. My academic background in applied linguistics and teaching experience aligns perfectly with this role, making me a strong fit for the position. As an ESL teacher with extensive experience in both in-person and online teaching, I am confident in my ability to deliver high-quality instruction and tailor my tutoring methods to meet the diverse needs of students.",
+      "experience": "I have extensive experience in teaching English as a Second/Foreign Language (ESL/EFL), specifically with a focus on preparing students for standardized tests and enhancing academic performance. My role as a Secondary Supervisor at Higher Institute of Science and Technology and ESL Teacher at Anwar Al-Hayat School for Private Education has honed my skills in curriculum development, lesson planning, and managing a team. I have also served as a Partner at Al-Safwa Smart School for Private Education, where I provided academic supervision and research guidance, and helped improve the quality of teaching and learning.",
+      "skills": "My skills in Academic Supervision & Research Guidance, Academic Editing & Thesis Review, and Thesis Writing & Development make me well-equipped to support students through the entire English learning process. My experience in ESL/EFL Instruction, Online & In-person Teaching, Curriculum Development, and Cross-cultural Communication allows me to effectively adapt teaching methods to different learning styles and contexts.",
+      "closing": "I am excited about the possibility of joining COREnglish and contributing to their mission of making English education accessible and effective. I am available for an interview and look forward to discussing how my skills and experiences can contribute to the success of the position. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/COREnglish_Online English Tutor_20260930.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/COREnglish_Online English Tutor_20260930.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-30T13:21:39.191961+00:00"
+  },
+  {
+    "title": "Editor/Proofreader - English speaker",
+    "company": "Notified",
+    "url": "https://lt.linkedin.com/jobs/view/editor-proofreader-english-speaker-at-notified-4473741802",
+    "location": "Remote \u2014 Vilnius, Vilniaus, Lithuania",
+    "posted": "2026-09-30",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-09-30T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.279067599166666,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires language skills, writing, and academic work, including translation and supervision."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Related experience in language services and academic supervision, including graduate-level research."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision & Research Guidance"
+      ],
+      "gaps": [
+        "No experience in engineering or development roles"
+      ],
+      "recommendation": "Waleed Ballag is well-suited for the Editor/Proofreader position with strong language skills and experience in academic supervision.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach proofreading and editing for accuracy and clarity?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Editor/Proofreader position with a background in ESL teaching and academic supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Editor/Proofreader position with a background in ESL teaching and academic supervision.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision & Research Guidance"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or development roles"
+    ],
+    "ai_recommendation": "Waleed Ballag is well-suited for the Editor/Proofreader position with strong language skills and experience in academic supervision.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach proofreading and editing for accuracy and clarity?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@lt.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@lt.linkedin.com",
+      "hr@lt.linkedin.com",
+      "jobs@lt.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Notified",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-30T05:19:58.787605+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "Dear Hiring Manager at Notified, I am excited about the Editor/Proofreader - English speaker position at your company, as I am committed to maintaining top-notch standards in academic editing and proofreading. My MA in Applied Linguistics and BA in English Language provide a strong foundation for this role, ensuring I can effectively handle the demands of an Editor/Proofreader position. Additionally, my experience teaching English as a second language has equipped me with the skills necessary for handling online and in-person teaching, curriculum development, and academic translation, making me a perfect fit for this position.",
+      "experience": "I have extensive experience in ESL teaching and administration. At the Higher Institute of Science and Technology, I served as an ESL Teacher & Secondary Supervisor, where I led a team of teachers and supervised the implementation of curriculum development. At Al-Safwa Smart School for Private Education, I was an ESL Teacher & Partner, where I developed and revised lesson plans, and supervised the translation and editing of academic materials. My roles involved a blend of online and in-person teaching, curriculum development, and a focus on academic translation, ensuring the quality of academic materials and their alignment with international standards.",
+      "skills": "In line with the Editor/Proofreader position, I possess the necessary skills in Academic Editing & Thesis Review, ESL/EFL Instruction, Online & In-person Teaching, Curriculum Development, Arabic-English Bidirectional Translation, Academic Translation, Legal Translation, and Microsoft Office Suite (Expert). I am proficient in Adobe Photoshop and SPSS Statistical Analysis, which are essential tools for proofreading and editing. My experience in teaching and curriculum development has also equipped me with strong skills in academic supervision and research guidance. Furthermore, my native Arabic and advanced English proficiency, combined with my knowledge of academic integrity compliance and formatting standards, make me a valuable asset to your team.",
+      "closing": "I am eager to contribute my skills and experience to Notified and am available for an interview. Please find enclosed my CV for further consideration. Thank you for your time and for this opportunity to discuss how I can contribute to your team. I look forward to the possibility of discussing how I can contribute to the Editor/Proofreader position at Notified."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Notified_Editor-Proofreader - English speaker_20260930.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Notified_Editor-Proofreader - English speaker_20260930.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-30T13:21:39.191961+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
@@ -14545,6 +14891,331 @@
     "scan_date": "2026-09-30T05:20:59.147212+00:00"
   },
   {
+    "title": "Proofreading and Correction of a 2-3 Page Paper",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/article-rewriting/Proofreading-Correction-Page-Paper.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Wed, 30 Sep 2026 08:53:06 -0400",
+    "description": "I need a 2-3 page paper proofread and corrected based on provided feedback. The paper has already been written, but it requires revisions to improve grammar, clarity, and overall quality. The freelancer should ensure that the content is polished and meets academic standards... (Budget: $25 - $50 USD, Jobs: Article Rewriting, Editing, English Grammar, Proofreading, Research Writing)",
+    "salary": "$25",
+    "source": "freelancer",
+    "postedISO": "2026-09-30T08:53:06-04:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.39416472916666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Job requires proofreading and correction of academic papers, which aligns with the candidate's experience in academic supervision and research guidance."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "The candidate has experience in academic supervision, research guidance, and proofreading, which are relevant skills for the job."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate has experience in academic writing and research proposal development, which are beneficial for the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is a remote worker, so this is compatible."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "The candidate's career goals align with the job, as it involves proofreading, correction, and academic writing."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision Experience",
+        "Strong English Proficiency"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate's background in academic supervision and research guidance makes them a strong fit for this job. They are well-suited to proofreading and correcting academic papers, and their strong English proficiency will be beneficial in this role.",
+      "interview_prep": "1. What are your experiences in academic supervision and research guidance? 2. How do you approach proofreading and correcting academic papers? 3. Can you provide an example of a project where you have proofread and corrected a paper?",
+      "one_line_summary": "Strong fit for proofreading and correction of academic papers."
+    },
+    "ai_insight": "Strong fit for proofreading and correction of academic papers.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision Experience",
+      "Strong English Proficiency"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate's background in academic supervision and research guidance makes them a strong fit for this job. They are well-suited to proofreading and correcting academic papers, and their strong English proficiency will be beneficial in this role.",
+    "ai_interview_prep": "1. What are your experiences in academic supervision and research guidance? 2. How do you approach proofreading and correcting academic papers? 3. Can you provide an example of a project where you have proofread and corrected a paper?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiasm for the opportunity to proofread and correct a 2-3 page paper for Freelancer.com. The paper requires revisions to enhance grammar, clarity, and overall quality, based on provided feedback. My educational background and experience in academic supervision, research guidance, and ESL instruction make me a suitable candidate for this role.",
+      "experience": "I have extensive experience in ESL teaching and supervision, including roles at Higher Institute of Science and Technology, Anwar Al-Hayat School for Private Education, and Al-Safwa Smart School for Private Education. My experience has equipped me with the skills necessary to ensure high-quality academic outputs and effective communication in both Arabic and English.",
+      "skills": "My skills include academic supervision, research guidance, and thesis review. I am proficient in Microsoft Office Suite, Adobe Photoshop, SPSS Statistical Analysis, and have native fluency in Arabic and C1 Advanced English. Additionally, I am proficient in APA/MLA/Harvard formatting, have excellent cross-cultural communication skills, and adhere to academic integrity guidelines.",
+      "closing": "I am available for an interview at your convenience and am eager to discuss how my qualifications and experience can contribute to the success of this project. Please let me know if there is a specific time that would work for you. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Proofreading and Correction of a 2-3 Page Paper_20260930.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Proofreading and Correction of a 2-3 Page Paper_20260930.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-30T13:21:39.191961+00:00"
+  },
+  {
+    "title": "Fiction Book Proofreading Expert",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/copy-editing/Fiction-Book-Proofreading-Expert",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-30T10:23:43+00:00",
+    "description": "I have a completed fiction manuscript that falls in the 50\u2013200-page range and now needs a final professional polish before I move to design and publication. Your task is to give the entire document a meticulous, line-by-line review to ensure it reads smoothly and error-free. Because this is fiction, I\u2019m especially concerned about flow and consistency of voice in addition to surface-level errors. To make expectations clear, here\u2019s what I need you to cover: \u2022 Grammar and punctuation \u2022 Consistency and style throughout chapters \u2022 Spelling and stray typos Please work in MS Word (or a fully compatible tool) and use Track Changes so I can see every modification. Once finished, provide two files: one marked-up version and one clean copy ready for layout. If you have recent experience proofreading published novels and can turn this around on schedule, I\u2019d love to collaborate.",
+    "salary": "600.0-1500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-09-30T10:23:43+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.8838035233333335,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Matches job requiring language skills, writing, and academic work."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and research guidance."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, academic environment, and strong fit for career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward senior translator or academic coordinator role."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Data Analysis",
+        "Curriculum Development"
+      ],
+      "gaps": [
+        "No specific programming languages or senior leadership experience"
+      ],
+      "recommendation": "This candidate is well-suited for the Fiction Book Proofreading Expert role, aligning well with their skills and career aspirations.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach proofreading fiction manuscripts? 3. Can you share an example of a project you've completed?",
+      "one_line_summary": "ESL instructor with academic supervision and proven proofreading experience aligns well with the Fiction Book Proofreading Expert role."
+    },
+    "ai_insight": "ESL instructor with academic supervision and proven proofreading experience aligns well with the Fiction Book Proofreading Expert role.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Data Analysis",
+      "Curriculum Development"
+    ],
+    "ai_gaps": [
+      "No specific programming languages or senior leadership experience"
+    ],
+    "ai_recommendation": "This candidate is well-suited for the Fiction Book Proofreading Expert role, aligning well with their skills and career aspirations.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach proofreading fiction manuscripts? 3. Can you share an example of a project you've completed?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Fiction Book Proofreading Expert_20260930.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Fiction Book Proofreading Expert_20260930.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-30T13:21:39.191961+00:00"
+  },
+  {
+    "title": "Short Story Grammar Proofreading",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-writing/Short-Story-Grammar-Proofreading",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-30T09:17:00+00:00",
+    "description": "I have a completed short story in English\u2014about 4,500 words of contemporary, character-driven fiction\u2014that now needs a meticulous final pass. The narrative voice and structure are set; what I require is a sharp eye to catch every comma splice, mis-used semicolon, and stray typo so the prose reads flawlessly. Your task is straightforward: work through the manuscript line by line, fix grammar, punctuation, basic spelling, and any word-choice slips that interrupt clarity. Flow, plot, and character arcs are already locked; please keep revisions limited to technical correctness unless you spot an obvious error that would jar a reader. Deliverables \u2022 A Word file (.docx) with Track Changes on, showing every correction \u2022 A clean version for easy reading I will review and accept the job once both files are returned and all marked changes address grammar and punctuation consistently throughout the piece.",
+    "salary": "750.0-1250.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-09-30T09:17:00+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.995743606388889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches the job description for ESL/EFL instruction, academic supervision, and legal translation."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching and academic supervision, relevant to the job's requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work environment and academic setting align well with the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's background."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "Builds toward translation/teaching/academic career with potential for senior roles."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's background and skills align well with the job's requirements, making this a strong fit.",
+      "interview_prep": "1. Can you describe a time when you had to proofread and correct a complex piece of academic writing? 2. How do you approach the translation of legal documents? 3. Can you share an experience where you successfully guided a student through the process of writing a research proposal?",
+      "one_line_summary": "ESL instructor with academic supervision and legal translation skills, a strong fit for the short story grammar proofreading job."
+    },
+    "ai_insight": "ESL instructor with academic supervision and legal translation skills, a strong fit for the short story grammar proofreading job.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's background and skills align well with the job's requirements, making this a strong fit.",
+    "ai_interview_prep": "1. Can you describe a time when you had to proofread and correct a complex piece of academic writing? 2. How do you approach the translation of legal documents? 3. Can you share an experience where you successfully guided a student through the process of writing a research proposal?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my keen interest in the Short Story Grammar Proofreading position at Freelancer.com, as my completed short story manuscript requires a meticulous final pass to ensure flawless prose. This role aligns perfectly with my expertise in academic editing and proofreading, as well as my experience in ESL teaching and academic supervision.",
+      "experience": "My professional experience as an ESL teacher and secondary supervisor at Higher Institute of Science and Technology, and as an ESL teacher and partner at Al-Safwa Smart School for Private Education, has honed my skills in academic instruction and editing. I have also taught Arabic and English, providing native Arabic and advanced English skills.",
+      "skills": "With a Master's degree in Applied Linguistics and a Bachelor's degree in English Language, I bring a strong foundation in language skills and research guidance. My expertise in academic supervision, thesis review, and development, as well as my experience in academic translation and statistical analysis, makes me well-equipped to handle the meticulous proofreading required for this position.",
+      "closing": "I am available to discuss my qualifications further and look forward to the opportunity to contribute my expertise to Freelancer.com's team. Please feel free to contact me at [Your Email] to schedule an interview. Thank you for considering my application. I am excited about the possibility of joining your esteemed team."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Short Story Grammar Proofreading_20260930.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Short Story Grammar Proofreading_20260930.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-30T13:21:39.191961+00:00"
+  },
+  {
     "title": "LinkedIn Post Design Specialist",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/canva/LinkedIn-Post-Design-Specialist",
@@ -15637,6 +16308,122 @@
     "cover_letter_ai": false,
     "interview_prep_generated": false,
     "scan_date": "2026-09-19T20:21:13.481409+00:00"
+  },
+  {
+    "title": "English-Arabic Contract Translation",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/legal-translation/English-Arabic-Contract-Translation",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-30T11:58:03+00:00",
+    "description": "I\u2019m working on a project in Egypt and need a reliable linguist to translate a series of legal contracts from English into Arabic. Accuracy in legal terminology is critical; the final Arabic wording must mirror the intent of the English source while remaining fully compliant with Egyptian legal standards and phrasing conventions. You will receive the contracts in editable Word files. I\u2019d like the Arabic versions returned in the same layout so lawyers on both sides can compare clauses side by side without extra formatting work. Consistency across multiple documents is important, so if you use CAT tools such as Trados or memoQ, please let me know\u2014providing a translation memory at the end would be a plus. Confidentiality is essential. I\u2019ll ask you to sign a simple NDA before sharing the files. Turnaround time is flexible but please include your realistic timeline per 1,000 words when you respond. Deliverables: \u2022 Arabic translations of each contract, preserving structure and numbering \u2022 Any supporting glossary or TM you build during the job Once we agree on scope, I\u2019ll forward the first batch of contracts so you can get started right away.",
+    "salary": "25.0-50.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-30T11:58:03+00:00",
+    "score": 72,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic translator translation interpreter linguist editor proofreader content writer qa tester localis (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.3115678516666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches technical skills in legal translation and academic supervision."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in academic supervision and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote and academic environment, but some flexibility needed."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds towards senior translator or academic coordinator role."
+      },
+      "overall_score": 83,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Legal translation experience",
+        "Academic supervision experience"
+      ],
+      "gaps": [
+        "On-site presence in specific city",
+        "US/EU citizenship or visa sponsorship"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the English-Arabic Contract Translation job. His experience in academic supervision and legal translation makes him a valuable asset to the Freelancer.com team.",
+      "interview_prep": [
+        "Can you provide an example of a legal translation you have done?",
+        "How do you approach the editing and review of academic theses and research papers?"
+      ],
+      "one_line_summary": "Waleed Ballag is a strong fit for the English-Arabic Contract Translation job due to his extensive legal translation and academic supervision experience."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the English-Arabic Contract Translation job due to his extensive legal translation and academic supervision experience.",
+    "ai_overall_score": 83,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Legal translation experience",
+      "Academic supervision experience"
+    ],
+    "ai_gaps": [
+      "On-site presence in specific city",
+      "US/EU citizenship or visa sponsorship"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the English-Arabic Contract Translation job. His experience in academic supervision and legal translation makes him a valuable asset to the Freelancer.com team.",
+    "ai_interview_prep": [
+      "Can you provide an example of a legal translation you have done?",
+      "How do you approach the editing and review of academic theses and research papers?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare); Translation backlog / scaling",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 22,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "Dear Freelancer.com Team, I am thrilled to apply for the English-Arabic Contract Translation position at your esteemed platform. With a strong background in linguistics and a passion for legal translation, I am confident in my ability to deliver accurate and compliant translations. My experience as an ESL teacher has equipped me with the skills necessary to ensure the integrity of the legal documents and the comfort of the lawyers involved. Please find my profile and skills aligned with the requirements of the project.",
+      "experience": "My MA in Applied Linguistics from University of Zawia and BA in English Language from Faculty of Arts, University of Sabratha, combined with my experience as an ESL teacher and partner in private education institutions, make me a reliable choice for this project. I have a deep understanding of academic supervision, research guidance, and the development of thesis work, which will be invaluable in the legal translation process.",
+      "skills": "In addition to my academic qualifications, I have extensive experience in academic translation, legal translation, and bidirectional Arabic-English translation. My proficiency in Microsoft Office Suite, Adobe Photoshop, SPSS statistical analysis, and the ability to meet academic integrity standards make me a versatile candidate for this role.",
+      "closing": "I am eager to discuss this opportunity further and am available to join your team at your earliest convenience. Please feel free to contact me at waleed@myemail.com to schedule an interview. Thank you for considering my application. Looking forward to your response.",
+      "candidate_profile": "Name: Mr. Waleed Ballag\nEducation: MA in Applied Linguistics, BA in English Language\nExperience: ESL Teacher & Secondary Supervisor, ESL Teacher & Partner, ESL Teacher at Anwar Al-Hayat School\nSkills: Academic Supervision & Research Guidance, Academic Editing & Thesis Review, Thesis Writing & Development, ESL/EFL Instruction, Online & In-person Teaching, Curriculum Development, Arabic-English Bidirectional Translation, Academic Translation, Legal Translation, Microsoft Office Suite, Adobe Photoshop, SPSS Statistical Analysis, Arabic (Native), English (C1 Advanced), Academic Integrity Compliance, APA/MLA/Harvard Formatting, Cross-cultural Communication"
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_English-Arabic Contract Translation_20260930.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": true,
+    "interview_prep_generated": false,
+    "scan_date": "2026-09-30T13:21:39.191961+00:00"
   },
   {
     "title": "Virtual Assistant - Guest Relations & Bookings",
