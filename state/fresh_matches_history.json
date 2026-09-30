@@ -6644,6 +6644,222 @@
     "scan_date": "2026-09-29T20:27:47.757470+00:00"
   },
   {
+    "title": "Bilingual (EN/FR) Proofreader",
+    "company": "Notified",
+    "url": "https://ca.linkedin.com/jobs/view/bilingual-en-fr-proofreader-at-notified-4473551617",
+    "location": "Remote \u2014 Fairview, Alberta, Canada",
+    "posted": "2026-09-29",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-09-29T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.23750148527778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, aligning with the job's needs for proofreading."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching and academic supervision, relevant to the job's requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible schedule, and academic environment align well with the job's expectations."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's preference."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligning with the candidate's goals."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic and English skills",
+        "Experience in ESL and academic supervision",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Strong fit for the Bilingual (EN/FR) Proofreader role. The candidate's background and skills are well-suited for the job, and the remote work option will likely be a good match.",
+      "interview_prep": "1. Can you describe a time when you had to proofread a document that was critical to a project? 2. How do you approach academic writing and proofreading? 3. Can you share an experience where you had to translate a legal document and ensure accuracy?",
+      "one_line_summary": "Strong fit for Bilingual (EN/FR) Proofreader role with strong language skills, academic background, and remote work compatibility."
+    },
+    "ai_insight": "Strong fit for Bilingual (EN/FR) Proofreader role with strong language skills, academic background, and remote work compatibility.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic and English skills",
+      "Experience in ESL and academic supervision",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Strong fit for the Bilingual (EN/FR) Proofreader role. The candidate's background and skills are well-suited for the job, and the remote work option will likely be a good match.",
+    "ai_interview_prep": "1. Can you describe a time when you had to proofread a document that was critical to a project? 2. How do you approach academic writing and proofreading? 3. Can you share an experience where you had to translate a legal document and ensure accuracy?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@ca.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ca.linkedin.com",
+      "hr@ca.linkedin.com",
+      "jobs@ca.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Notified",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-30T05:19:58.787605+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Notified_Bilingual (EN-FR) Proofreader_20260930.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Notified_Bilingual (EN-FR) Proofreader_20260930.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-30T05:20:59.147212+00:00"
+  },
+  {
+    "title": "Bilingual (EN/FR) Proofreader",
+    "company": "Notified",
+    "url": "https://ca.linkedin.com/jobs/view/bilingual-en-fr-proofreader-at-notified-4473548601",
+    "location": "Remote \u2014 Ontario, Canada",
+    "posted": "2026-09-29",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-09-29T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.237501640277777,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires language skills, writing, and academic work, aligning with the job description."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Related experience in language services and academic supervision, partially matching the job description."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote and academic environment, mostly compatible with the job description."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job description."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligning with the job description."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Language skills"
+      ],
+      "gaps": [
+        "No specific gaps identified"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Bilingual (EN/FR) Proofreader position. His experience in ESL teaching and academic supervision aligns well with the job requirements, and his language skills make him a valuable asset for the role.",
+      "interview_prep": "1. Can you discuss a time when you supervised a research study in the field of applied linguistics? 2. How do you approach proofreading for a bilingual proofreader position? 3. Can you describe a project where you had to translate legal documents into academic English?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Bilingual (EN/FR) Proofreader position due to his relevant experience and language skills."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Bilingual (EN/FR) Proofreader position due to his relevant experience and language skills.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Language skills"
+    ],
+    "ai_gaps": [
+      "No specific gaps identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Bilingual (EN/FR) Proofreader position. His experience in ESL teaching and academic supervision aligns well with the job requirements, and his language skills make him a valuable asset for the role.",
+    "ai_interview_prep": "1. Can you discuss a time when you supervised a research study in the field of applied linguistics? 2. How do you approach proofreading for a bilingual proofreader position? 3. Can you describe a project where you had to translate legal documents into academic English?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@ca.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ca.linkedin.com",
+      "hr@ca.linkedin.com",
+      "jobs@ca.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Notified",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-30T05:19:58.787605+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Notified_Bilingual (EN-FR) Proofreader_20260930.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Notified_Bilingual (EN-FR) Proofreader_20260930.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-30T05:20:59.147212+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
@@ -14120,6 +14336,213 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-29T20:27:47.757470+00:00"
+  },
+  {
+    "title": "Accurate Arabic Audio Transcription",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/proofreading/Accurate-Arabic-Audio-Transcription",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-30T03:48:44+00:00",
+    "description": "I have a set of Arabic audio recordings that must be converted into clear, error-free text. Accuracy is my top priority; every word needs to reflect the speaker\u2019s intent and tone. I will supply the audio files as soon as we start, and I\u2019m happy to discuss the preferred file type for the final transcript\u2014Word, Google Doc, or another format you\u2019re comfortable with. Please let me know: \u2022 Your experience with Arabic transcription and any dialects you specialize in \u2022 Typical turnaround time per audio hour \u2022 The quality-control steps you follow to guarantee precise results If you can also offer optional extras such as speaker identification or time-stamping, mention that in your message so I can decide whether to include them. Once we agree on scope and schedule, you will receive the recordings and any style guidelines. The project is complete when I receive the polished, fully proofread text that aligns with my requirements.",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-09-30T03:48:44+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.425279922222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Matches the job description for accurate Arabic audio transcription, aligning with the candidate's expertise in translation and academic supervision."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background and skills align well with the remote, academic, and flexible nature of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is a native Arabic speaker, making it a compatible fit."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job, focusing on translation, teaching, and academic supervision."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "Expert in ESL/EFL instruction",
+        "Highly skilled in academic supervision"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience perfectly match the job requirements. He is a strong fit for the Accurate Arabic Audio Transcription position.",
+      "interview_prep": "1. What is your experience with Arabic transcription and any dialects you specialize in? 2. How do you typically handle quality-control steps to ensure precise results? 3. Can you offer optional extras such as speaker identification or time-stamping? 4. What is your experience with academic writing and proposal development?",
+      "one_line_summary": "Waleed Ballag's native Arabic and extensive academic experience make him a strong fit for the Accurate Arabic Audio Transcription job."
+    },
+    "ai_insight": "Waleed Ballag's native Arabic and extensive academic experience make him a strong fit for the Accurate Arabic Audio Transcription job.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "Expert in ESL/EFL instruction",
+      "Highly skilled in academic supervision"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience perfectly match the job requirements. He is a strong fit for the Accurate Arabic Audio Transcription position.",
+    "ai_interview_prep": "1. What is your experience with Arabic transcription and any dialects you specialize in? 2. How do you typically handle quality-control steps to ensure precise results? 3. Can you offer optional extras such as speaker identification or time-stamping? 4. What is your experience with academic writing and proposal development?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Accurate Arabic Audio Transcription_20260930.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Accurate Arabic Audio Transcription_20260930.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-30T05:20:59.147212+00:00"
+  },
+  {
+    "title": "Elevate Company Report with MS Word Formatting",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/microsoft-word/Elevate-Company-Report-with-Word",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-09-29T23:28:48+00:00",
+    "description": "Microsoft Word Report Formatting & Professional Document Design I\u2019m looking for someone experienced in Microsoft Word document formatting and report design to professionally format an existing company report/template. The content is already complete. I do not require any rewriting, proofreading or changes to the technical content. What I need I will provide: The existing Word report Company logos and branding An example/template showing the type of reports we prepare Any existing company colours or branding where required I would like someone to improve the overall presentation of the document, including: Professional cover page Consistent headings and subheadings Fonts, spacing and paragraph formatting Tables and layouts Headers and footers Page numbering Section breaks Contents page if appropriate Consistent margins and alignment Placement and sizing of company logos Overall visual presentation and readability The final document needs to remain fully editable in Microsoft Word so our staff can use it as an ongoing report template. Style The report is used by a professional building consultancy/building surveying business. I am looking for something that is: Clean Modern Professional Easy to read Not overly corporate or flashy Suitable for technical and professional reports I\u2019m happy for the designer to make suggestions regarding the layout and presentation, but the wording and technical content of the report must not be changed. Deliverables Professionally formatted Microsoft Word document Editable .docx file Reusable formatting/styles so future reports remain consistent Professional cover page/template All logos and branding correctly incorporated When applying, please provide examples of Word reports, proposals, technical reports or similar documents you have formatted previously. This is primarily a Microsoft Word formatting/document design job, rather than a graphic design or copywriting project.",
+    "salary": "10.0-30.0 AUD",
+    "source": "freelancer",
+    "postedISO": "2026-09-29T23:28:48+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (description)",
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.757518671111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Waleed has extensive experience in ESL teaching, academic supervision, and translation, which aligns closely with the job requirements of Microsoft Word report formatting and professional document design."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Waleed has direct experience in academic supervision and research guidance, which is relevant to the job's need for professional document design and report formatting."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Waleed's background in academic services and language instruction makes him a strong fit for the remote, flexible, and academic environment required by the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote worldwide, and Waleed's background makes it compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Waleed's career goals align well with the job's requirements for secure stable remote work, long-term client relationships, and senior leadership roles."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Extensive experience in academic supervision and language instruction",
+        "Strong fit for remote, flexible, and academic environments"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed would be a strong fit for this role, providing valuable skills in document formatting and report design.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you ensure professional document design in Microsoft Word reports?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Elevate Company Report with MS Word Formatting job due to his extensive experience in academic supervision, language instruction, and remote work capabilities."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Elevate Company Report with MS Word Formatting job due to his extensive experience in academic supervision, language instruction, and remote work capabilities.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Extensive experience in academic supervision and language instruction",
+      "Strong fit for remote, flexible, and academic environments"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed would be a strong fit for this role, providing valuable skills in document formatting and report design.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you ensure professional document design in Microsoft Word reports?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Elevate Company Report with MS Word Formatting_20260930.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Elevate Company Report with MS Word Formatting_20260930.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-09-30T05:20:59.147212+00:00"
   },
   {
     "title": "LinkedIn Post Design Specialist",
