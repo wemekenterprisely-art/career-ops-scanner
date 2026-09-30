@@ -1515,5 +1515,15 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-09-30T13:20:10.562689+00:00"
+  },
+  "ICRC - International Committee of the Red Cross": {
+    "name": "ICRC - International Committee of the Red Cross",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-09-30T20:22:28.280269+00:00"
   }
 }
