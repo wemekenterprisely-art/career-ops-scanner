@@ -3395,5 +3395,68 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-09-30T13:21:52.852630+00:00",
+    "matched_count": 7,
+    "all_count": 4694,
+    "jobs": [
+      {
+        "title": "Proofreading and Correction of a 2-3 Page Paper",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/article-rewriting/Proofreading-Correction-Page-Paper.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Fiction Book Proofreading Expert",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copy-editing/Fiction-Book-Proofreading-Expert",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Short Story Grammar Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Short-Story-Grammar-Proofreading",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English-Arabic Contract Translation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/legal-translation/English-Arabic-Contract-Translation",
+        "score": 72,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Arabic Interpreter",
+        "company": "International Committee of the Red Cross - ICRC",
+        "url": "https://ch.linkedin.com/jobs/view/arabic-interpreter-at-international-committee-of-the-red-cross-icrc-4473715888",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Online English Tutor",
+        "company": "COREnglish",
+        "url": "https://tn.linkedin.com/jobs/view/online-english-tutor-at-corenglish-4472148778",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Editor/Proofreader - English speaker",
+        "company": "Notified",
+        "url": "https://lt.linkedin.com/jobs/view/editor-proofreader-english-speaker-at-notified-4473741802",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
