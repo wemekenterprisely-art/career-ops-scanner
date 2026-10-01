@@ -3566,5 +3566,68 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-10-01T20:28:56.398594+00:00",
+    "matched_count": 7,
+    "all_count": 4765,
+    "jobs": [
+      {
+        "title": "Online Tutors Needed: Science, Economics",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/chemistry-tutoring/Online-Tutors-Needed-Science-Economics",
+        "score": 97,
+        "category": "ESL",
+        "source": "freelancer"
+      },
+      {
+        "title": "Data Entry & Video Editing",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Data-Entry-Video-Editing-40744762",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Custom Data Entry Automation (Good communication skill in Native English is required)",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/api-developmet/Custom-Data-Entry-Automation-Good",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Entry-Level Virtual Executive Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/virtual-assistant/Entry-Level-Virtual-Executive-Assistant",
+        "score": 67,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Instructors (Full-Time - Part-Time)",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/english-instructors-full-time-part-time-at-4level1-4474318822",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
+        "company": "Kreyco",
+        "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4474515054",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Senior Proofreader (M-F, 9am-6pm)",
+        "company": "RRD",
+        "url": "https://www.linkedin.com/jobs/view/senior-proofreader-m-f-9am-6pm-at-rrd-4474343885",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
