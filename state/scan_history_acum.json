@@ -3503,5 +3503,68 @@
     "matched_count": 0,
     "all_count": 4905,
     "jobs": []
+  },
+  {
+    "date": "2026-10-01T13:23:58.553808+00:00",
+    "matched_count": 7,
+    "all_count": 4713,
+    "jobs": [
+      {
+        "title": "Retype PDF Into Word",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copy-typing/Retype-PDF-Into-Word-40744446.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Content Writer for General Audience",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/seo-writing/Content-Writer-for-General-Audience",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "PDF Notes Transcription to Word",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/adobe-acrobat/PDF-Notes-Transcription-Word",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Tagalog Audio English Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/audio-editing/Tagalog-Audio-English-Transcription",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Localisation Specialist (Translator) - Arabic & French",
+        "company": "Revolut",
+        "url": "https://lt.linkedin.com/jobs/view/localisation-specialist-translator-arabic-french-at-revolut-4455416100",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Language Tutor",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/english-language-tutor-at-4level1-4472929371",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
+        "company": "Kreyco",
+        "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4473932853",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
