@@ -1537,5 +1537,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-01T13:22:01.234566+00:00"
+  },
+  "Widya Bakti Nusa": {
+    "name": "Widya Bakti Nusa",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-02T13:19:08.931964+00:00"
   }
 }
