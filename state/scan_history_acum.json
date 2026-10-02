@@ -3691,5 +3691,36 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-10-02T20:19:44.254172+00:00",
+    "matched_count": 3,
+    "all_count": 4764,
+    "jobs": [
+      {
+        "title": "Nigeria-Based Part-Time Virtual Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/administrative-support/Nigeria-Based-Part-Time-Virtual",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "E-commerce Virtual Assistant Needed!",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/seo/commerce-Virtual-Assistant-Needed",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Technical Documentation Copywriting",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/documentation/Technical-Documentation-Copywriting",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
