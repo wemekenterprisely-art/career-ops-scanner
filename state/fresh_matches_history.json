@@ -8088,6 +8088,234 @@
     "scan_date": "2026-10-02T05:15:14.455620+00:00"
   },
   {
+    "title": "Entry-Level English Teacher",
+    "company": "English 1",
+    "url": "https://uk.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4474711440",
+    "location": "Remote \u2014 Cambridge, England, United Kingdom",
+    "posted": "2026-10-02",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-02T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.264618392777779,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches ESL teaching, academic supervision, and language skills"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Related to ESL teaching, academic supervision, and language skills"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Remote work"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the entry-level English teacher position at English 1. He can contribute to the company's academic services and build a stable remote career. Strong fit for the job.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach language translation and editing in academic contexts?",
+      "one_line_summary": "Strong fit for entry-level English teacher position with strong alignment towards academic services and remote work opportunities."
+    },
+    "ai_insight": "Strong fit for entry-level English teacher position with strong alignment towards academic services and remote work opportunities.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the entry-level English teacher position at English 1. He can contribute to the company's academic services and build a stable remote career. Strong fit for the job.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach language translation and editing in academic contexts?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@uk.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@uk.linkedin.com",
+      "hr@uk.linkedin.com",
+      "jobs@uk.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "English 1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-07T05:15:54.992406+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am excited to apply for the Entry-Level English Teacher position at English 1, as I have a strong passion for teaching and a deep commitment to enhancing language skills, particularly in the context of academic and professional development.",
+      "experience": "My previous roles at Higher Institute of Science and Technology, Anwar Al-Hayat School for Private Education, and Al-Safwa Smart School for Private Education have provided me with extensive experience in ESL/EFL instruction and curriculum development. I am proficient in academic supervision and research guidance, and I am skilled in thesis writing and development, as well as Arabic-English bidirectional translation.",
+      "skills": "I possess a comprehensive skill set that includes academic integrity compliance, academic translation, legal translation, Microsoft Office Suite (expert), Adobe Photoshop, SPSS statistical analysis, and the ability to provide Arabic-English bidirectional translation. I am also adept at teaching online and in-person and have a deep understanding of curriculum development.",
+      "closing": "I am eager to bring my expertise in academic supervision, research guidance, and curriculum development to English 1. I am available for an interview and would be grateful for the opportunity to discuss how I can contribute to your team. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/English 1_Entry-Level English Teacher_20261002.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/English 1_Entry-Level English Teacher_20261002.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-02T13:20:08.178201+00:00"
+  },
+  {
+    "title": "Proofreader and Copyedit",
+    "company": "Widya Bakti Nusa",
+    "url": "https://id.linkedin.com/jobs/view/proofreader-and-copyedit-at-widya-bakti-nusa-4472887570",
+    "location": "Remote \u2014 Indonesia",
+    "posted": "2026-10-02",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-10-02T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.264618476666666,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 87,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation",
+        "ESL teaching",
+        "Academic supervision"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Proofreader and Copyeditor role at Widya Bakti Nusa. His extensive experience in ESL teaching, academic supervision, and legal translation aligns well with the job requirements. He is a highly skilled translator and supervisor who can contribute effectively to the company's academic services.",
+      "interview_prep": "1. Can you discuss a time when you supervised a group of graduate students in a research project? 2. How do you ensure the accuracy of legal translations in complex legal documents? 3. Can you describe a challenging academic editing task you have handled and how you approached it?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Proofreader and Copyeditor role at Widya Bakti Nusa, with extensive experience in ESL teaching, academic supervision, and legal translation."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Proofreader and Copyeditor role at Widya Bakti Nusa, with extensive experience in ESL teaching, academic supervision, and legal translation.",
+    "ai_overall_score": 87,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation",
+      "ESL teaching",
+      "Academic supervision"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Proofreader and Copyeditor role at Widya Bakti Nusa. His extensive experience in ESL teaching, academic supervision, and legal translation aligns well with the job requirements. He is a highly skilled translator and supervisor who can contribute effectively to the company's academic services.",
+    "ai_interview_prep": "1. Can you discuss a time when you supervised a group of graduate students in a research project? 2. How do you ensure the accuracy of legal translations in complex legal documents? 3. Can you describe a challenging academic editing task you have handled and how you approached it?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@id.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@id.linkedin.com",
+      "hr@id.linkedin.com",
+      "jobs@id.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Widya Bakti Nusa",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-02T13:19:08.931964+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiastic interest in the Proofreader and Copyeditor position at Widya Bakti Nusa, as advertised on LinkedIn. This role aligns perfectly with my academic background and experience in academic instruction, editing, and translation.",
+      "experience": "In my role as an ESL Teacher and Secondary Supervisor at Higher Institute of Science and Technology, I have honed skills in academic supervision, research guidance, and academic editing. Similarly, my experience as an ESL Teacher and Partner at Al-Safwa Smart School for Private Education and an ESL Teacher at Anwar Al-Hayat School for Private Education has equipped me with the ability to enhance the clarity and accuracy of written materials. These experiences have prepared me well to excel in proofreading and copyediting tasks.",
+      "skills": "My skills in Academic Supervision & Research Guidance, Academic Editing & Thesis Review, Thesis Writing & Development, ESL/EFL Instruction, Online & In-person Teaching, Curriculum Development, Arabic-English Bidirectional Translation, Academic Translation, Legal Translation, Microsoft Office Suite (Expert), Adobe Photoshop, SPSS Statistical Analysis, Arabic (Native), English (C1 Advanced), Academic Integrity Compliance, APA/MLA/Harvard Formatting, Cross-cultural Communication, and proficiency in Adobe Photoshop, SPSS Statistical Analysis, and Microsoft Office Suite (Expert) make me a strong candidate for this role.",
+      "closing": "I am eager to contribute my expertise to the team at Widya Bakti Nusa and continue to enhance the quality of educational materials. Please feel free to schedule a meeting to discuss how I can best contribute to your team. I am available for an interview at your earliest convenience. Thank you for considering my application. I look forward to the possibility of discussing how I can bring value to your team."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Widya Bakti Nusa_Proofreader and Copyedit_20261002.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Widya Bakti Nusa_Proofreader and Copyedit_20261002.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-02T13:20:08.178201+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
@@ -17160,6 +17388,226 @@
     "scan_date": "2026-10-01T20:28:32.042726+00:00"
   },
   {
+    "title": "Executive Assistant Needed for Long-Term Role",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/project-management/Executive-Assistant-Needed-for-Long",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-02T10:55:14+00:00",
+    "description": "Seeking a highly proactive Executive Assistant / Right-Hand Person for a long-term direct role based in Kuwait, with permanent relocation support. Salary will be negotiated based on the candidate\u2019s capabilities and experience. Responsibilities include managing business and personal calendars, meetings, flights, hotels, and international travel; tracking sales, expenses, invoices, and cash flow in Excel/Google Sheets; researching markets, competitors, suppliers, and opportunities; preparing clear reports; and following through to ensure tasks are completed. The right person must be organised, accurate, discreet, independent, and solution-oriented, with excellent spoken and written English and relevant EA/PA/Founder\u2019s Assistant experience. Prior support for a CEO, chairman, founder, or HNWI is an advantage. International travel may be required. Working schedule to be discussed. Driving licence is flexible. Personal-training/fitness-coaching certification, bookkeeping, project management, other languages, and strong tech/AI skills are welcome advantages. This is intended as a long-term right-hand role, not a one-off task.",
+    "salary": "25.0-50.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-02T10:55:14+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.3440709775,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches on language skills, academic supervision, and translation"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in academic supervision and language teaching"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, and academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide location"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Language skills",
+        "Academic supervision",
+        "Remote work"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Strong fit for a long-term role in translation or ESL teaching. Ideal for building a career in academia or translation.",
+      "interview_prep": [
+        "Can you discuss your experience in academic supervision and research guidance?",
+        "How do you handle international travel and visa sponsorship in your current role?"
+      ],
+      "one_line_summary": "Strong fit for a long-term role in translation or ESL teaching."
+    },
+    "ai_insight": "Strong fit for a long-term role in translation or ESL teaching.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Language skills",
+      "Academic supervision",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Strong fit for a long-term role in translation or ESL teaching. Ideal for building a career in academia or translation.",
+    "ai_interview_prep": [
+      "Can you discuss your experience in academic supervision and research guidance?",
+      "How do you handle international travel and visa sponsorship in your current role?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am excited about the opportunity to join Freelancer.com as an Executive Assistant, particularly for a long-term role based in Kuwait. This position aligns perfectly with my experience in ESL teaching, where I managed calendars, tracked expenses, and researched markets. My ability to manage both business and personal calendars is crucial for the role, as well as my proficiency in Microsoft Office and Adobe Photoshop.",
+      "experience": "In my previous roles as an ESL Teacher and Secondary Supervisor, I honed my skills in academic supervision, research guidance, and curriculum development. I have also taught online and in-person, ensuring clear communication and effective instruction. My native Arabic and C1 Advanced English proficiency and cross-cultural communication skills are a strong asset for this role.",
+      "skills": "My academic background in applied linguistics and my extensive experience as an ESL teacher make me well-versed in academic translation, legal translation, and research guidance. I am adept at using Microsoft Office, Adobe Photoshop, and SPSS for statistical analysis, and I have strong skills in translating between Arabic and English, as well as preparing clear documents.",
+      "closing": "I am eager to discuss how my experience, skills, and enthusiasm can contribute to the success of Freelancer.com. Please schedule an interview to discuss my qualifications in more detail. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Executive Assistant Needed for Long-Term Role_20261002.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Executive Assistant Needed for Long-Term Role_20261002.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-02T13:20:08.178201+00:00"
+  },
+  {
+    "title": "Long-Term Editor and Writer for Lubricants Magazine",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/editing/Long-Term-Editor-Writer-for",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-02T08:49:24+00:00",
+    "description": "Content Editor & Writer for Monthly Lubricants & Greases Industry Magazine (Long-Term) What We're Looking For An experienced writer/editor, or a small content team, who can research, write, and edit the full editorial content of the magazine every month. This is an ongoing engagement, with a minimum commitment of 6 months for the right person. Monthly Scope of Work Industry Trends & Market Analysis (2\u20133 articles, 1,000\u20131,500 words each): Base oil price movements, crude impact, demand trends across automotive, industrial, marine, and agricultural segments, synthetic and bio-lubricants, EV fluids, and sustainability topics. News Roundup (8\u201312 short items): Domestic and international news covering product launches, company announcements, mergers, capacity expansions, BIS/API/OEM specification updates, and government policy affecting the sector. Key Personnel Interview (1\u20132 per issue, 1,200\u20132,000 words): Interviews with senior figures in the industry, such as executives from oil marketing companies, OEMs, blenders, distributors, and plant maintenance leaders. Responsibilities include preparing questions, conducting the interview (phone, video, or email), transcribing, and writing it up in Q&A or feature format. We will assist with introductions to some interviewees, but the freelancer should be able to reach out and schedule interviews independently. Technical Article (1 per issue, 1,000\u20131,500 words): Practical topics such as grease selection, lubricant contamination control, oil analysis, viscosity grades explained, storage and handling, or failure case studies, written for a practitioner audience. Editorial Support: Headlines, captions, pull quotes, a monthly editor's note draft, and proofreading of the final layout. Deliverables & Timeline An editorial calendar and story list for each issue by the 5th of the month All final content delivered by the 20th of the month, as edited with sources cited Final proof check within 48 hours of receiving the designed layout Requi",
+    "salary": "12500.0-37500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-10-02T08:49:24+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (description)",
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.441294237777778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches job requirements for academic supervision, research guidance, and academic writing."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Has direct experience in academic supervision, research guidance, and writing academic papers."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work, flexible schedule, and academic environment align well with the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote location, worldwide, and compatible with the job."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "Builds towards academic supervision, research guidance, and graduate-level research supervision."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic supervision experience",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's profile aligns well with the long-term editor and writer position for Lubricants Magazine. His strong academic background and experience in academic supervision make him a strong fit for the role.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach writing and editing academic papers? 3. Can you provide an example of a research project you supervised?",
+      "one_line_summary": "Waleed Ballag's academic background and experience in academic supervision make him a strong fit for the long-term editor and writer position."
+    },
+    "ai_insight": "Waleed Ballag's academic background and experience in academic supervision make him a strong fit for the long-term editor and writer position.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic supervision experience",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's profile aligns well with the long-term editor and writer position for Lubricants Magazine. His strong academic background and experience in academic supervision make him a strong fit for the role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach writing and editing academic papers? 3. Can you provide an example of a research project you supervised?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Long-Term Editor and Writer for Lubricants Magazin_20261002.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Long-Term Editor and Writer for Lubricants Magazin_20261002.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-02T13:20:08.178201+00:00"
+  },
+  {
     "title": "LinkedIn Post Design Specialist",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/canva/LinkedIn-Post-Design-Specialist",
@@ -17945,6 +18393,116 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-09-27T13:19:35.982607+00:00"
+  },
+  {
+    "title": "Engaging Product Description Copywriting",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-creation/Engaging-Product-Description-Copywriting-40746230",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-02T12:09:22+00:00",
+    "description": "I\u2019m refreshing my site and need sharp, persuasive product descriptions that feel natural to read yet prompt visitors to click \u201cadd to cart.\u201d All the copy will live on the website, so it should fit seamlessly into the existing design, follow our brand voice guidelines, and tick basic on-page SEO boxes (clear focus keywords, enticing meta snippets, and scannable sub-headings). Scope I\u2019ll supply the product details, images, and any existing wording; you turn that raw information into customer-focused copy. If you\u2019re comfortable translating the finished descriptions into additional languages, let me know\u2014multilingual versions are a bonus but not mandatory. Deliverables \u2022 Polished English descriptions for each product (roughly 120\u2013200 words apiece, but I\u2019m flexible if a different length serves the item better). \u2022 Compelling product titles and meta descriptions. \u2022 A concise style guide excerpt outlining the tone and keyword usage you followed, so I can keep future additions consistent. \u2022 If offered: accurate translations that preserve the persuasive tone. Acceptance Criteria The copy must be original, pass a basic plagiarism check, and read naturally when placed on the live page. Keywords should feel organic, not stuffed, and every description needs a clear call-to-action. Timeline is negotiable, though I\u2019d like to see a first batch within a week so we can align on tone before you tackle the full set. Looking forward to working together.",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-02T12:09:22+00:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.108514905,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires language skills, writing, and academic work, which aligns with the candidate's background and experience."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and language translation, which is directly relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's remote work experience and ability to work with diverse clients align well with the job's remote and flexible nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which the candidate is comfortable with, and there are no specific requirements for on-site presence or visa sponsorship."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job, focusing on translation, teaching, and academic services, which is a natural progression from their current experience."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Experience in academic supervision",
+        "Versatile remote work experience"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make this job a strong fit for her. She can easily adapt to the remote work environment and aligns well with the job's academic and writing requirements.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you handle multilingual translations and editing? 3. Can you provide examples of how you've used SPSS and thematic coding in your work?",
+      "one_line_summary": "Waleed Ballag's strong language skills and academic background make her a strong fit for the Engaging Product Description Copywriting role."
+    },
+    "ai_insight": "Waleed Ballag's strong language skills and academic background make her a strong fit for the Engaging Product Description Copywriting role.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Experience in academic supervision",
+      "Versatile remote work experience"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make this job a strong fit for her. She can easily adapt to the remote work environment and aligns well with the job's academic and writing requirements.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you handle multilingual translations and editing? 3. Can you provide examples of how you've used SPSS and thematic coding in your work?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am enthusiastic about the Engaging Product Description Copywriting opportunity at Freelancer.com, specifically for refreshing the site and crafting persuasive product descriptions that align seamlessly with the design and follow SEO best practices. I'm eager to bring my skills in academic editing, thesis writing, and cross-cultural communication to this position, ensuring that the copy resonates with the visitors and enhances the user experience.",
+      "experience": "In my previous roles as an ESL teacher and secondary supervisor at Higher Institute of Science and Technology, and partner and teacher at Al-Safwa Smart School and Anwar Al-Hayat School, I have honed my ability to develop clear, concise, and appealing language. These experiences have equipped me with the necessary skills to effectively transform raw information into compelling product descriptions that encourage visitors to click 'add to cart' and navigate the website seamlessly.",
+      "skills": "My experience in academic supervision and research guidance, thesis writing and development, and ESL/EFL instruction, along with my expertise in online teaching, curriculum development, Arabic-English bidirectional translation, and academic translation, perfectly align with the job requirements. Additionally, my proficiency in Microsoft Office Suite, Adobe Photoshop, SPSS Statistical Analysis, and a strong command of English and Arabic (C1 Advanced) ensure that I can deliver the high-quality copy needed for the site's products.",
+      "closing": "I am available for an interview to discuss my qualifications and how I can contribute to the Engaging Product Description Copywriting position at Freelancer.com. I look forward to the opportunity to showcase my skills and enthusiasm for this exciting opportunity. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Engaging Product Description Copywriting_20261002.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Engaging Product Description Copywriting_20261002.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-02T13:20:08.178201+00:00"
   },
   {
     "title": "Cultural Creative Collaborator",
