@@ -3629,5 +3629,20 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-10-02T05:15:38.562356+00:00",
+    "matched_count": 1,
+    "all_count": 4766,
+    "jobs": [
+      {
+        "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
+        "company": "Kreyco",
+        "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4474513102",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
