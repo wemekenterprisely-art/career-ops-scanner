@@ -3644,5 +3644,52 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-10-02T13:20:21.402433+00:00",
+    "matched_count": 5,
+    "all_count": 4765,
+    "jobs": [
+      {
+        "title": "Executive Assistant Needed for Long-Term Role",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/project-management/Executive-Assistant-Needed-for-Long",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Long-Term Editor and Writer for Lubricants Magazine",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/editing/Long-Term-Editor-Writer-for",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Engaging Product Description Copywriting",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-creation/Engaging-Product-Description-Copywriting-40746230",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Entry-Level English Teacher",
+        "company": "English 1",
+        "url": "https://uk.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4474711440",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Proofreader and Copyedit",
+        "company": "Widya Bakti Nusa",
+        "url": "https://id.linkedin.com/jobs/view/proofreader-and-copyedit-at-widya-bakti-nusa-4472887570",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
