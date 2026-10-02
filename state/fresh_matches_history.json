@@ -7980,6 +7980,114 @@
     "scan_date": "2026-10-01T20:28:32.042726+00:00"
   },
   {
+    "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
+    "company": "Kreyco",
+    "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4474513102",
+    "location": "Remote \u2014 Staten Island, NY",
+    "posted": "2026-10-01",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-01T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.217880423888886,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in ESL teaching, academic supervision, and research guidance"
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote and academic environment, aligns with career goals"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with candidate's preferences"
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward senior translator or academic coordinator role, aligns with career goals"
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Remote work"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience perfectly align with the job requirements, making this a strong fit. He will excel in the role and contribute positively to the team.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and editing in academic contexts?",
+      "one_line_summary": "Strong fit for Kreyco's 26-27 SY Teaching Jobs: ESL/ENL/ELL."
+    },
+    "ai_insight": "Strong fit for Kreyco's 26-27 SY Teaching Jobs: ESL/ENL/ELL.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience perfectly align with the job requirements, making this a strong fit. He will excel in the role and contribute positively to the team.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and editing in academic contexts?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Kreyco",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-07T20:21:18.237169+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Kreyco_26-27 SY Teaching Jobs- ESL-ENL-ELL_20261002.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Kreyco_26-27 SY Teaching Jobs- ESL-ENL-ELL_20261002.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-02T05:15:14.455620+00:00"
+  },
+  {
     "title": "Translate Legal Agreements to Arabic",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/legal-translation/Translate-Legal-Agreements-Arabic.html",
