@@ -1561,5 +1561,15 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-03T05:15:14.064996+00:00"
+  },
+  "UNOG - United Nations Office at Geneva": {
+    "name": "UNOG - United Nations Office at Geneva",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-10-03T18:28:22.471717+00:00"
   }
 }
