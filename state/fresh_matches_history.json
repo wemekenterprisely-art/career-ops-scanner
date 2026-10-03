@@ -111,6 +111,218 @@
     "scan_date": "2026-10-03T05:15:53.288435+00:00"
   },
   {
+    "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
+    "company": "Kreyco",
+    "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4475011645",
+    "location": "Remote \u2014 Bensalem, PA",
+    "posted": "2026-10-02",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-02T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 42.36135084055556,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, including translation and supervision for graduate-level research."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote, flexible, and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "No experience in engineering or development"
+      ],
+      "recommendation": "The candidate's background in ESL teaching, academic supervision, and legal translation aligns well with the job requirements, making it a strong fit for the 26-27 SY Teaching Jobs: ESL/ENL/ELL position at Kreyco. The candidate's skills and experience in these areas make them a strong fit for the role, especially considering the strong fit in career alignment.",
+      "interview_prep": "1. Can you discuss a time when you supervised a graduate-level research study? 2. How do you ensure the accuracy of translations in legal documents? 3. Can you share an experience where you used SPSS for data analysis?",
+      "one_line_summary": "Strong fit for the ESL/ENL/ELL position with a background in ESL teaching, academic supervision, and legal translation."
+    },
+    "ai_insight": "Strong fit for the ESL/ENL/ELL position with a background in ESL teaching, academic supervision, and legal translation.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or development"
+    ],
+    "ai_recommendation": "The candidate's background in ESL teaching, academic supervision, and legal translation aligns well with the job requirements, making it a strong fit for the 26-27 SY Teaching Jobs: ESL/ENL/ELL position at Kreyco. The candidate's skills and experience in these areas make them a strong fit for the role, especially considering the strong fit in career alignment.",
+    "ai_interview_prep": "1. Can you discuss a time when you supervised a graduate-level research study? 2. How do you ensure the accuracy of translations in legal documents? 3. Can you share an experience where you used SPSS for data analysis?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Kreyco",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-07T20:21:18.237169+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Kreyco_26-27 SY Teaching Jobs- ESL-ENL-ELL_20261003.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Kreyco_26-27 SY Teaching Jobs- ESL-ENL-ELL_20261003.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-03T18:29:22.926251+00:00"
+  },
+  {
+    "title": "Part Time Arabic Language Teacher",
+    "company": "UNOG - United Nations Office at Geneva",
+    "url": "https://www.impactpool.org/jobs/1239807",
+    "location": "Remote | Geneva",
+    "posted": "",
+    "description": "UNOG - United Nations Office at Geneva \u00b7 Remote | Geneva \u00b7 CON",
+    "salary": "",
+    "source": "impactpool",
+    "postedISO": "2026-10-03T18:21:41.139643+00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": Infinity,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Job requires Arabic-English translation, ESL teaching, and academic supervision, which aligns well with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 95,
+        "reason": "Candidate has direct experience in ESL teaching, academic supervision, and legal translation, which is closely aligned with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment, flexible schedule, and academic focus align well with the candidate's skills and career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote work location is compatible with the candidate's background and skills."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "The job aligns with the candidate's career goals of securing stable remote work and building long-term client relationships in academic services."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Arabic Language Teacher position at UNOG. He can contribute to the academic services and build long-term client relationships.",
+      "interview_prep": "1. Can you discuss an experience where you supervised a research study? 2. How do you approach translating legal documents? 3. What is your experience in developing academic writing?",
+      "one_line_summary": "Waleed Ballag's strong skills and background make him a strong fit for the Arabic Language Teacher position at UNOG."
+    },
+    "ai_insight": "Waleed Ballag's strong skills and background make him a strong fit for the Arabic Language Teacher position at UNOG.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Arabic Language Teacher position at UNOG. He can contribute to the academic services and build long-term client relationships.",
+    "ai_interview_prep": "1. Can you discuss an experience where you supervised a research study? 2. How do you approach translating legal documents? 3. What is your experience in developing academic writing?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 95,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@impactpool.org",
+    "email_verified": false,
+    "all_emails": [
+      "careers@impactpool.org",
+      "hr@impactpool.org",
+      "jobs@impactpool.org"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "UNOG - United Nations Office at Geneva",
+      "legitimacy_score": 50,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [],
+      "last_updated": "2026-10-03T18:28:22.471717+00:00"
+    },
+    "company_legitimacy": 50,
+    "company_summary": "",
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/UNOG - United Nations Office a_Part Time Arabic Language Teacher_20261003.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/UNOG - United Nations Office a_Part Time Arabic Language Teacher_20261003.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-03T18:29:22.926251+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -323,5 +535,212 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-03T05:15:53.288435+00:00"
+  },
+  {
+    "title": "Social Media Content Creator & Manager",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/social-media-management/Social-Media-Content-Creator-Manager-40748306",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-03T18:00:54+00:00",
+    "description": "Key Responsibilities: Video Editing: Edit engaging short-form video content (Reels, TikToks, Shorts) with crisp cuts, dynamic captions, trending audio, and motion graphics. Content Management: Schedule and post content consistently across Instagram, TikTok, and YouTube Shorts. Copywriting: Write compelling, relatable captions with strong call-to-actions (CTAs) and relevant hashtags. Engagement & Growth: Monitor post performance, engage with the audience, and identify viral trends. Requirements: Proven Portfolio: Experience editing high-retention short-form videos (please attach work samples). Software Proficiency: Mastery of Premiere Pro, CapCut, DaVinci Resolve, or After Effects. Trend Awareness: Solid understanding of Instagram/TikTok algorithms, viral hooks, and audio trends. Culture & Market Insight: Familiarity with Indian/South Asian pop culture, memes, and the Canadian market is a major plus. Graphic Design Basics: Basic Canva or Photoshop skills for quick thumbnail tweaks and story designs.",
+    "salary": "1500.0-12500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-10-03T18:00:54+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.34637171722222226,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches the job requirements for video editing, content management, and software proficiency."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in ESL teaching and academic supervision, aligning with the job's responsibilities."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote work and academic environment fit well with the candidate's skills and goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide locations align well with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, with potential for senior roles."
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "Video Editing Skills",
+        "Academic Supervision Experience"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Social Media Content Creator & Manager position. He can contribute effectively to the team and potentially advance in a senior translator or academic coordinator role.",
+      "interview_prep": "1. Can you provide examples of your video editing work and how you've used motion graphics and dynamic captions in your projects? 2. How do you approach writing compelling captions with strong call-to-actions for engagement? 3. What experience do you have with TikTok algorithms and identifying viral trends?",
+      "one_line_summary": "Waleed Ballag's skills in video editing, academic supervision, and engagement strategies make him a strong fit for the Social Media Content Creator & Manager position.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "Waleed Ballag's skills in video editing, academic supervision, and engagement strategies make him a strong fit for the Social Media Content Creator & Manager position.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "Video Editing Skills",
+      "Academic Supervision Experience"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Social Media Content Creator & Manager position. He can contribute effectively to the team and potentially advance in a senior translator or academic coordinator role.",
+    "ai_interview_prep": "1. Can you provide examples of your video editing work and how you've used motion graphics and dynamic captions in your projects? 2. How do you approach writing compelling captions with strong call-to-actions for engagement? 3. What experience do you have with TikTok algorithms and identifying viral trends?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Social Media Content Creator & Manager_20261003.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Social Media Content Creator & Manager_20261003.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-03T18:29:22.926251+00:00"
+  },
+  {
+    "title": "Rapid AI Reels Content Creation",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/ai-video-editing/Rapid-Reels-Content-Creation",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-03T11:26:37+00:00",
+    "description": "I need three engaging vertical reels (9:16) delivered every single day for my social channels. You\u2019ll receive a brief or raw footage each morning and I expect polished, scroll-stopping edits back within 24 hours\u2014faster is even better. Your workflow should already include AI helpers such as CapCut templates, Adobe Premiere Pro\u2019s Sensei features, Runway, Descript, or similar tools so you can turn around smart cuts, auto-captions, and dynamic motion graphics without sacrificing quality. You\u2019ll be free to mix trending audio, bold typography, and quick transitions as long as everything stays brand-safe and copyright-cleared. I\u2019ll supply topics, brand guidelines, and any long-form source video; you handle concept refinement, editing, text overlays, music, and export in platform-ready resolutions for Instagram Reels, TikTok, and Facebook. Consistency matters\u2014colour grade, font treatment, and pacing should feel cohesive across the feed\u2014yet each clip still needs a fresh hook that lands within the first two seconds. Deliverables each day: \u2022 3 finished MP4 reels, optimised and named per platform \u2022 Matching caption text and 3\u20135 relevant hashtags \u2022 Project files (so future tweaks are painless) A quick sample or portfolio link showing similar AI-accelerated edits will help me lock this in fast. If you can keep up the daily rhythm without slipping on creativity or quality, we can turn this into a long-term collaboration starting immediately.",
+    "salary": "10.0-30.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-03T11:26:37+00:00",
+    "score": 67,
+    "category": "Editing",
+    "why": [
+      "content creation (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 6.917767096944444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 30,
+        "reason": "Requires language skills, writing, and academic work, but not specifically translation or ESL teaching."
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Direct experience in academic supervision and language instruction, with relevant certifications and awards."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote work environment, academic focus, and career goals align well with the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "Builds toward academic supervision and research guidance, aligning with the candidate's career goals."
+      },
+      "overall_score": 81,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision & Research Guidance",
+        "Remote Work Environment",
+        "Career Goals Alignment"
+      ],
+      "gaps": [
+        "No experience in AI Reels creation"
+      ],
+      "recommendation": "Waleed Ballag's background in academic supervision and language instruction makes him a strong fit for the Rapid AI Reels Content Creation job. His skills and experience in academic writing, survey design, and research guidance align well with the job's requirements, and his remote work experience makes him a suitable candidate for the job.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach creating engaging content for social media platforms? 3. Can you share an example of a project you supervised that resulted in positive outcomes?",
+      "one_line_summary": "Waleed Ballag's academic background and remote work experience make him a strong fit for the Rapid AI Reels Content Creation job."
+    },
+    "ai_insight": "Waleed Ballag's academic background and remote work experience make him a strong fit for the Rapid AI Reels Content Creation job.",
+    "ai_overall_score": 81,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision & Research Guidance",
+      "Remote Work Environment",
+      "Career Goals Alignment"
+    ],
+    "ai_gaps": [
+      "No experience in AI Reels creation"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in academic supervision and language instruction makes him a strong fit for the Rapid AI Reels Content Creation job. His skills and experience in academic writing, survey design, and research guidance align well with the job's requirements, and his remote work experience makes him a suitable candidate for the job.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach creating engaging content for social media platforms? 3. Can you share an example of a project you supervised that resulted in positive outcomes?",
+    "ai_technical_skills": 30,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 20,
+    "desperation_index": 6,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 29,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Rapid AI Reels Content Creation_20261003.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-10-03T18:29:22.926251+00:00"
   }
 ]
