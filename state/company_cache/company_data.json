@@ -1549,5 +1549,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-02T13:19:08.931964+00:00"
+  },
+  "Gen Academy.net": {
+    "name": "Gen Academy.net",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-03T05:15:14.064996+00:00"
   }
 }
