@@ -3722,5 +3722,36 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-10-03T05:16:11.507743+00:00",
+    "matched_count": 3,
+    "all_count": 4759,
+    "jobs": [
+      {
+        "title": "Bulgarian Proofreader needed (Long term)",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Online English Teacher",
+        "company": "Gen Academy.net",
+        "url": "https://cz.linkedin.com/jobs/view/online-english-teacher-at-gen-academy-net-4473170581",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Sinhala & English Data Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-word/Sinhala-English-Data-Entry",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
