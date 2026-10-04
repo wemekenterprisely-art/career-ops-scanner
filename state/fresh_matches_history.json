@@ -642,6 +642,110 @@
     "scan_date": "2026-10-03T18:29:22.926251+00:00"
   },
   {
+    "title": "Book Paragraph Data Entry",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/microsoft-word/Book-Paragraph-Data-Entry",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-04T00:32:43+00:00",
+    "description": "I have a complete manuscript in a single Word document and I need the text lifted out and organised in Excel. Every paragraph should occupy its own row so I can later tag and analyse the content. The job is purely data-entry\u2014no rewriting or editing required\u2014just an accurate copy-paste (or script) that preserves all punctuation, line breaks, italics and other inline formatting where possible. Deliverable \u2022 One Excel spreadsheet with each paragraph in a separate row, presented in the original order of the book. Before sending the final file, please do a quick spot-check to be sure no paragraphs were skipped or merged. Let me know your turnaround time and any questions you have about the layout.",
+    "salary": "750.0-1250.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-10-04T00:32:43+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.0932944222222223,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires data entry, which matches the candidate's skills in ESL/EFL instruction, academic supervision, and data analysis."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL/EFL instruction, academic supervision, and data analysis, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in language instruction and supervision makes them a good fit for a remote data entry role."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and the candidate is willing to work worldwide, which is compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the need for stable remote work in translation or ESL teaching."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Data analysis"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's qualifications and experience make him a strong candidate for the Book Paragraph Data Entry role. His ability to translate and supervise academic work, combined with his data analysis skills, positions him well for this remote job.",
+      "interview_prep": "1. What is your experience in ESL/EFL instruction and academic supervision? 2. Can you describe a time when you had to translate legal documents? 3. How do you approach data analysis in your work?",
+      "one_line_summary": "Waleed Ballag's strong qualifications and remote work experience make him a strong fit for the Book Paragraph Data Entry role."
+    },
+    "ai_insight": "Waleed Ballag's strong qualifications and remote work experience make him a strong fit for the Book Paragraph Data Entry role.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Data analysis"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's qualifications and experience make him a strong candidate for the Book Paragraph Data Entry role. His ability to translate and supervise academic work, combined with his data analysis skills, positions him well for this remote job.",
+    "ai_interview_prep": "1. What is your experience in ESL/EFL instruction and academic supervision? 2. Can you describe a time when you had to translate legal documents? 3. How do you approach data analysis in your work?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Book Paragraph Data Entry_20261004.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Book Paragraph Data Entry_20261004.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-04T02:41:05.644940+00:00"
+  },
+  {
     "title": "Rapid AI Reels Content Creation",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/ai-video-editing/Rapid-Reels-Content-Creation",
