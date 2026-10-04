@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-05T18:09:51.889613+00:00",
-    "matched_count": 0,
-    "all_count": 5058,
-    "jobs": []
-  },
-  {
     "date": "2026-09-05T21:53:08.184555+00:00",
     "matched_count": 11,
     "all_count": 5216,
@@ -3630,6 +3624,69 @@
         "url": "https://www.freelancer.com/projects/microsoft-word/Book-Paragraph-Data-Entry",
         "score": 97,
         "category": "Admin",
+        "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-04T11:09:14.259639+00:00",
+    "matched_count": 7,
+    "all_count": 4761,
+    "jobs": [
+      {
+        "title": "Instagram Commenting & VA Support",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/social-media-management/Instagram-Commenting-Support.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Paper Forms to Online Registration",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-cleansing/Paper-Forms-Online-Registration.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "3D & LiDAR Data Annotation Analyst",
+        "company": "Appen",
+        "url": "https://jobicy.com/jobs/154499-3d-lidar-data-annotation-analyst",
+        "score": 100,
+        "category": "Admin",
+        "source": "jobicy"
+      },
+      {
+        "title": "Handwritten Notes Transcription with Embedded Images",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/adobe-acrobat/Handwritten-Notes-Transcription-with",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Teacher (Newly Qualified Teacher)",
+        "company": "British Council",
+        "url": "https://eg.linkedin.com/jobs/view/english-teacher-newly-qualified-teacher-at-british-council-4473472600",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Teacher",
+        "company": "English Academy by Ruangguru",
+        "url": "https://id.linkedin.com/jobs/view/english-teacher-at-english-academy-by-ruangguru-4474211286",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Promotional Video for Online Tutoring",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/script-writing/Promotional-Video-for-Online-Tutoring",
+        "score": 97,
+        "category": "ESL",
         "source": "freelancer"
       }
     ]
