@@ -665,6 +665,228 @@
     "scan_date": "2026-10-04T11:08:56.655604+00:00"
   },
   {
+    "title": "IGCSE English Teacher",
+    "company": "Nafham - \u0646\u0641\u0647\u0645",
+    "url": "https://eg.linkedin.com/jobs/view/igcse-english-teacher-at-nafham-%D9%86%D9%81%D9%87%D9%85-4473492135",
+    "location": "Remote \u2014 Egypt",
+    "posted": "2026-10-04",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-04T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 18.374511870555555,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches Arabic-English translation, ESL teaching, and academic supervision."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in academic supervision and research guidance."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation",
+        "Academic supervision",
+        "Remote work"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Strong fit for the IGCSE English Teacher position. Aligns well with career aspirations and offers opportunities for growth in academic services.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach the translation of legal documents? 3. What is your experience with Microsoft Office Suite?",
+      "one_line_summary": "Strong fit for the IGCSE English Teacher position with a strong alignment towards academic services and remote work opportunities."
+    },
+    "ai_insight": "Strong fit for the IGCSE English Teacher position with a strong alignment towards academic services and remote work opportunities.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation",
+      "Academic supervision",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Strong fit for the IGCSE English Teacher position. Aligns well with career aspirations and offers opportunities for growth in academic services.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach the translation of legal documents? 3. What is your experience with Microsoft Office Suite?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Nafham - \u0646\u0641\u0647\u0645",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-04T18:24:25.755595+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "Dear Hiring Manager at Nafham - \u0646\u0641\u0647\u0645, I am writing to express my enthusiasm for the position of IGCSE English Teacher. With a strong educational background and extensive experience in teaching English as a Second Language (ESL) and English for Foreign Language (EFL) instruction, I am eager to contribute to your esteemed institution.",
+      "experience": "In my role as an ESL teacher and secondary supervisor at Higher Institute of Science and Technology, I have successfully guided students towards excellence in language skills. Additionally, as a partner at Al-Safwa Smart School for Private Education, I have a proven track record of developing effective teaching methods and implementing innovative strategies to enhance student learning outcomes.",
+      "skills": "My expertise in academic supervision and research guidance, academic editing and thesis review, thesis writing and development, and ESL/EFL instruction positions me perfectly for the IGCSE English Teacher role at Nafham. I am adept at online and in-person teaching, curriculum development, and am fluent in both Arabic and English, ensuring cross-cultural communication is seamless.",
+      "closing": "I am available for an interview at your earliest convenience and look forward to the possibility of discussing how I can contribute to the success of your esteemed educational institution. Thank you for your time and consideration. I am excited about the opportunity to contribute my skills and passion for language learning to Nafham."
+    },
+    "cover_letter_path": "",
+    "cover_letter_type": "error",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Nafham - \u0646\u0641\u0647\u0645_IGCSE English Teacher_20261004.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-04T18:25:21.843744+00:00"
+  },
+  {
+    "title": "English Second Language Instructor",
+    "company": "Private Business",
+    "url": "https://eg.linkedin.com/jobs/view/english-second-language-instructor-at-private-business-4475365976",
+    "location": "Remote \u2014 Cairo, Egypt",
+    "posted": "2026-10-04",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-04T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 18.374512072777776,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches the requirement of academic supervision and research guidance, as well as language skills and translation."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in academic supervision and research guidance, and related experience in language services and education."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote and flexible environment, suitable for the candidate's background and skills."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's location and citizenship requirements."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds toward a senior translator or academic coordinator role, aligning with career goals."
+      },
+      "overall_score": 90,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision & Research Guidance",
+        "Arabic-English Translation"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is well-suited for the English Second Language Instructor role, offering a strong fit with the technical skills, experience, and career alignment.",
+      "interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you ensure the accuracy of translations in legal documents? 3. What is your experience with data analysis using SPSS?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the English Second Language Instructor role with a proven track record in academic supervision and language skills."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the English Second Language Instructor role with a proven track record in academic supervision and language skills.",
+    "ai_overall_score": 90,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision & Research Guidance",
+      "Arabic-English Translation"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is well-suited for the English Second Language Instructor role, offering a strong fit with the technical skills, experience, and career alignment.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you ensure the accuracy of translations in legal documents? 3. What is your experience with data analysis using SPSS?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Private Business",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-20T20:24:06.562964+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Private Business_English Second Language Instructor_20261004.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Private Business_English Second Language Instructor_20261004.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-04T18:25:21.843744+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -1477,6 +1699,332 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-04T11:08:56.655604+00:00"
+  },
+  {
+    "title": "PDF to Word Data Entry",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/data-entry/PDF-Word-Data-Entry-40749763.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Sun, 04 Oct 2026 14:05:32 -0400",
+    "description": "I have several PDFs that contain a mix of paragraphs, tables, and numerical lists. I need every bit of that content reproduced faithfully in a clean, well-formatted Microsoft Word document. Accuracy is... (Budget: \u20b912500 - \u20b937500 INR, Jobs: Data Entry, Editing, Excel, Microsoft Office, Microsoft Word, PDF, Proofreading, Word)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-10-04T14:05:32-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.2823590638888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "PDF to Word data entry is a language-related task, requiring accurate translation and formatting, which aligns with the candidate's skills in academic supervision and translation."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "The candidate has experience in academic supervision and translation, which are closely related to the job requirements of PDF to Word data entry."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services and language instruction makes them a good fit for a remote, academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the role of secure stable remote work in translation or ESL teaching."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision",
+        "Translation Skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the PDF to Word Data Entry role. They have relevant skills in academic supervision and translation, which align perfectly with the job requirements. The candidate's remote work preference and career goals make this a perfect match.",
+      "interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you ensure accuracy and quality in your translations? 3. Can you walk us through your process for formatting and cleaning PDF content?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the PDF to Word Data Entry role due to their academic supervision and translation skills, making them a perfect match for the job."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the PDF to Word Data Entry role due to their academic supervision and translation skills, making them a perfect match for the job.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision",
+      "Translation Skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the PDF to Word Data Entry role. They have relevant skills in academic supervision and translation, which align perfectly with the job requirements. The candidate's remote work preference and career goals make this a perfect match.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you ensure accuracy and quality in your translations? 3. Can you walk us through your process for formatting and cleaning PDF content?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiasm for the PDF to Word Data Entry position at Freelancer.com, recognizing the importance of accurate and thorough data entry in this role. With a background in academic supervision and research guidance, I am confident in my ability to handle the meticulous nature of this task. My native language is Arabic, and I am proficient in English at a C1 Advanced level, which ensures I can provide high-quality translations and editing services.",
+      "experience": "In my previous roles as an ESL teacher and secondary supervisor, I have honed my skills in curriculum development, academic editing, and cross-cultural communication. These experiences have equipped me with the expertise needed to handle the various formats and content types found in PDF documents.",
+      "skills": "My skills include academic translation and editing, as well as a strong proficiency in Microsoft Office, Adobe Photoshop, and SPSS Statistical Analysis. I am also adept at Arabic-English bidirectional translation and able to work effectively both online and in-person. My experience in ESL education and academic supervision has given me a unique perspective on language and content editing, which is essential for this role.",
+      "closing": "I am eager to contribute my skills and experience to the Freelancer.com team and look forward to discussing how I can bring value to your company. Please feel free to reach out to me at waleedballag2000@gmail.com or at 050-223-5678 for further information. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_PDF to Word Data Entry_20261004.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_PDF to Word Data Entry_20261004.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-04T18:25:21.843744+00:00"
+  },
+  {
+    "title": "English Audio Arabic Transcription",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/editing/English-Audio-Arabic-Transcription",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-04T12:09:35+00:00",
+    "description": "\u0644\u062f\u064a \u0645\u062c\u0645\u0648\u0639\u0629 \u062a\u0633\u062c\u064a\u0644\u0627\u062a \u0635\u0648\u062a\u064a\u0629 \u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 \u0623\u0631\u064a\u062f \u062a\u062d\u0648\u064a\u0644\u0647\u0627 \u0625\u0644\u0649 \u0646\u0635 \u0639\u0631\u0628\u064a \u0648\u0627\u0636\u062d \u0648\u062e\u0627\u0644\u064d \u0645\u0646 \u0627\u0644\u0623\u062e\u0637\u0627\u0621\u060c \u0645\u0639 \u0646\u0642\u0644 \u0627\u0644\u0645\u0639\u0646\u0649 \u0628\u0633\u0644\u0627\u0633\u0629 \u0645\u0646 \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 \u0625\u0644\u0649 \u0627\u0644\u0639\u0631\u0628\u064a\u0629. \u0625\u0644\u0649 \u062c\u0627\u0646\u0628 \u0630\u0644\u0643\u060c \u062a\u0648\u062c\u062f \u0645\u0642\u0627\u0644\u0627\u062a \u0645\u0643\u062a\u0648\u0628\u0629 \u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 \u0641\u064a \u0645\u062c\u0627\u0644 \u0627\u0644\u0623\u062f\u0628 \u0648\u0627\u0644\u0641\u0646\u0648\u0646 \u0623\u062d\u062a\u0627\u062c \u0644\u062a\u0631\u062c\u0645\u062a\u0647\u0627 \u0625\u0644\u0649 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0645\u0639 \u0627\u0644\u062d\u0641\u0627\u0638 \u0639\u0644\u0649 \u0627\u0644\u0623\u0633\u0644\u0648\u0628 \u0627\u0644\u0623\u062f\u0628\u064a \u0648\u0627\u0644\u062c\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u0644\u063a\u0648\u064a\u0629 \u0627\u0644\u0623\u0635\u0644\u064a\u0629. \u0627\u0644\u062a\u0633\u062c\u064a\u0644\u0627\u062a \u062a\u062a\u0646\u0648\u0639 \u0628\u064a\u0646 \u0623\u062d\u0627\u062f\u064a\u062b \u0641\u0631\u062f\u064a\u0629 \u0648\u062d\u0648\u0627\u0631\u0627\u062a\u060c \u0644\u0630\u0627 \u0623\u062d\u062a\u0627\u062c \u062a\u0641\u0631\u064a\u063a\u0627\u064b \u0645\u0641\u0635\u0644\u0627\u064b \u0645\u0639 \u062a\u0648\u0636\u064a\u062d \u062a\u063a\u064a\u0651\u0631 \u0627\u0644\u0645\u062a\u062d\u062f\u062b \u0643\u0644\u0645\u0627 \u0644\u0632\u0645 \u0627\u0644\u0623\u0645\u0631\u060c \u0648\u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u064f\u0631\u0641\u064e\u0642 \u0637\u0648\u0627\u0628\u0639 \u0632\u0645\u0646\u064a\u0629 \u0623\u0633\u0627\u0633\u064a\u0629 \u062a\u0633\u0647\u0651\u0644 \u0627\u0644\u0645\u0631\u0627\u062c\u0639\u0629 \u0644\u0627\u062d\u0642\u0627\u064b. \u0623\u0645\u0627 \u0627\u0644\u0645\u0642\u0627\u0644\u0627\u062a\u060c \u0641\u0623\u0631\u064a\u062f \u0646\u0633\u062e\u0629 \u0639\u0631\u0628\u064a\u0629 \u062c\u0627\u0647\u0632\u0629 \u0644\u0644\u0646\u0634\u0631 \u062a\u064f\u0638\u0647\u0631 \u0631\u0648\u062d \u0627\u0644\u0646\u0635 \u0627\u0644\u0623\u0635\u0644\u064a \u0648\u062a\u0631\u0627\u0639\u064a \u062e\u0635\u0648\u0635\u064a\u0629 \u0627\u0644\u0645\u0635\u0637\u0644\u062d\u0627\u062a \u0627\u0644\u0623\u062f\u0628\u064a\u0629. \u0639\u0644\u0649 \u0623\u0646 \u064a\u0643\u0648\u0646 \u0627\u0644\u0646\u0627\u062a\u062c \u0627\u0644\u0646\u0647\u0627\u0626\u064a: \u2022 \u0645\u0644\u0641 \u062a\u0641\u0631\u064a\u063a \u0635\u0648\u062a\u064a \u0639\u0631\u0628\u064a \u0644\u0643\u0644 \u062a\u0633\u062c\u064a\u0644 (Word \u0623\u0648 Google Docs). \u2022 \u062a\u0631\u062c\u0645\u0629 \u0639\u0631\u0628\u064a\u0629 \u0645\u0635\u0642\u0648\u0644\u0629 \u0644\u0643\u0644 \u0645\u0642\u0627\u0644\u0629 (\u062a\u0646\u0633\u064a\u0642 \u0645\u0637\u0627\u0628\u0642 \u0644\u0644\u0645\u0644\u0641 \u0627\u0644\u0645\u0631\u0633\u0644). \u064a\u0634\u062a\u0631\u0637 \u0627\u0644\u062f\u0642\u0629 \u0627\u0644\u0644\u063a\u0648\u064a\u0629\u060c \u0627\u0644\u0627\u0644\u062a\u0632\u0627\u0645 \u0628\u0627\u0644\u0645\u0648\u0627\u0639\u064a\u062f \u0627\u0644\u0645\u062a\u0641\u0642 \u0639\u0644\u064a\u0647\u0627\u060c \u0648\u0639\u062f\u0645 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0622\u0644\u064a\u0629 \u0625\u0644\u0627 \u0643\u0645\u0633\u0627\u0639\u062f \u062b\u0627\u0646\u0648\u064a \u0645\u0639 \u0645\u0631\u0627\u062c\u0639\u0629 \u0628\u0634\u0631\u064a\u0629 \u062a\u0627\u0645\u0629.",
+    "salary": "2.0-8.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-04T12:09:35+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 6.214790942777778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires Arabic-English translation, ESL teaching, and academic supervision, matching the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Candidate has direct experience in translation, ESL teaching, and academic supervision, aligning with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment, flexible schedule, and academic setting are compatible with the candidate's skills and experience."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, worldwide, and the candidate is flexible, making it a strong fit for the candidate's skills and experience."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The job aligns with the candidate's career goals of securing stable remote work in translation or ESL teaching, building long-term client relationships, and growing into senior translator or academic coordinator roles."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong Arabic-English translation skills",
+        "Direct experience in ESL teaching and academic supervision"
+      ],
+      "gaps": [
+        "Need for on-site presence in specific city"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the English Audio Arabic Transcription job. His skills and experience align perfectly with the job requirements, making it an excellent opportunity for him to secure stable remote work in translation or ESL teaching. He can focus on his career goals of building long-term client relationships and growing into senior translator or academic coordinator roles.",
+      "interview_prep": "1. Can you describe a time when you translated an academic paper into Arabic? 2. How do you approach academic writing and research supervision? 3. Can you share an experience where you had to ensure accuracy in legal translations?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the English Audio Arabic Transcription job with his extensive experience in translation, academic supervision, and Arabic-English bidirectional translation."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the English Audio Arabic Transcription job with his extensive experience in translation, academic supervision, and Arabic-English bidirectional translation.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong Arabic-English translation skills",
+      "Direct experience in ESL teaching and academic supervision"
+    ],
+    "ai_gaps": [
+      "Need for on-site presence in specific city"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the English Audio Arabic Transcription job. His skills and experience align perfectly with the job requirements, making it an excellent opportunity for him to secure stable remote work in translation or ESL teaching. He can focus on his career goals of building long-term client relationships and growing into senior translator or academic coordinator roles.",
+    "ai_interview_prep": "1. Can you describe a time when you translated an academic paper into Arabic? 2. How do you approach academic writing and research supervision? 3. Can you share an experience where you had to ensure accuracy in legal translations?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my keen interest in the English Audio Arabic Transcription position at Freelancer.com, as advertised. Your job description aligns perfectly with my skills and experience, particularly in the areas of academic translation, bidirectional translation, and the ability to handle diverse content ranging from single conversations to full-length articles. I am confident that my native Arabic and advanced English proficiency, combined with my academic background, will enable me to meet and exceed your expectations.",
+      "experience": "My educational background includes a Master's degree in Applied Linguistics from the University of Zawia and a Bachelor's degree in English Language from the Faculty of Arts, University of Sabratha. This academic foundation has equipped me with the theoretical knowledge necessary for translating academic and literary texts. My professional experience as an ESL teacher and supervisor at the Higher Institute of Science and Technology, and as a partner and English teacher at Al-Safwa Smart School for Private Education, has honed my practical skills in teaching English, editing academic work, and developing educational materials. Additionally, my roles at Anwar Al-Hayat School for Private Education have provided me with the opportunity to instruct in English and enhance my bidirectional translation abilities.",
+      "skills": "My skills in academic supervision, research guidance, thesis writing, and development, combined with my expertise in academic translation and legal translation, make me a strong candidate for this role. My proficiency in Microsoft Office Suite, Adobe Photoshop, SPSS, and cross-cultural communication will help ensure the accuracy and quality of the translations I produce. I have a native Arabic and C1 Advanced English proficiency, which is crucial for accurately translating and adapting content to the Arabic context.",
+      "closing": "I am excited about the opportunity to contribute my skills and expertise to Freelancer.com's team. Please feel free to schedule a call or interview at your convenience. I am available immediately and look forward to the possibility of discussing this opportunity further. Thank you for considering my application. I am confident that my background and skills make me a valuable asset to your team."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_English Audio Arabic Transcription_20261004.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_English Audio Arabic Transcription_20261004.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-04T18:25:21.843744+00:00"
+  },
+  {
+    "title": "F&B Website Copywriting",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/seo/Website-Copywriting-40749303",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-04T11:42:26+00:00",
+    "description": "I'm seeking a skilled, experienced copywriter to craft engaging content for my Food & Beverage website. The project includes writing menu descriptions, blog posts, an 'About Us' page, team bios, event details, and other typical F&B website elements. Ideal Skills and Experience: - Proven experience in writing for F&B and hospitality websites - Ability to create enticing, descriptive menu items - Strong storytelling skills for blog posts and company narratives - Versatile tone adaptation based on brand identity - Attention to detail and SEO knowledge is a plus - Native English is a must Please provide samples of previous work in your bids. Looking forward to your proposals!",
+    "salary": "30.0-250.0 SGD",
+    "source": "freelancer",
+    "postedISO": "2026-10-04T11:42:26+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 6.667297530833332,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires writing for F&B and hospitality websites, which aligns with the candidate's expertise in ESL/EFL instruction and academic supervision."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "The candidate has experience in academic supervision and writing for educational materials, which are relevant to the F&B website copywriting role."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in ESL/EFL instruction and academic supervision makes them well-suited for the F&B website copywriting role, especially in crafting engaging content."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is listed as a remote (worldwide) location, which is compatible with the job's remote nature."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the F&B website copywriting role, including securing stable remote work and building long-term client relationships."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction experience",
+        "Academic supervision skills",
+        "Versatile writing skills"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the F&B website copywriting role. His ability to write engaging content and his background in academic supervision make him an ideal candidate for this position.",
+      "interview_prep": "1. What is your experience in writing for educational materials and how do you approach crafting engaging content for a F&B website? 2. Can you provide examples of your previous work in creating blog posts and company narratives for a F&B website? 3. How do you adapt your tone and style based on the brand identity of a F&B website?",
+      "one_line_summary": "Waleed Ballag's background in ESL/EFL instruction and academic supervision makes him a strong fit for the F&B website copywriting role."
+    },
+    "ai_insight": "Waleed Ballag's background in ESL/EFL instruction and academic supervision makes him a strong fit for the F&B website copywriting role.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction experience",
+      "Academic supervision skills",
+      "Versatile writing skills"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the F&B website copywriting role. His ability to write engaging content and his background in academic supervision make him an ideal candidate for this position.",
+    "ai_interview_prep": "1. What is your experience in writing for educational materials and how do you approach crafting engaging content for a F&B website? 2. Can you provide examples of your previous work in creating blog posts and company narratives for a F&B website? 3. How do you adapt your tone and style based on the brand identity of a F&B website?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "Dear Hiring Manager at Freelancer.com, I am writing to express my enthusiastic interest in the F&B Website Copywriting position. With a proven track record in writing for F&B and hospitality websites, and a strong background in creative storytelling and engaging content, I am confident in my ability to contribute effectively to your team.",
+      "experience": "In my previous roles as an ESL Teacher & Secondary Supervisor and ESL Teacher & Partner, I honed my skills in crafting dynamic content tailored to educational audiences. My ability to adapt to various tones and styles has made me a valuable asset in both English and Arabic settings, ensuring effective communication.",
+      "skills": "My experience has equipped me with the skills to create compelling menu descriptions, write captivating blog posts, and develop engaging company narratives. I am adept at translating academic content and adhering to academic standards, ensuring my work is of the highest quality.",
+      "closing": "I am eager to discuss how my skills and experiences can contribute to the success of your F&B website. Please find me available for an interview at your earliest convenience. I look forward to the opportunity to showcase my skills and enthusiasm for this role. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_F&B Website Copywriting_20261004.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_F&B Website Copywriting_20261004.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-04T18:25:21.843744+00:00"
   },
   {
     "title": "Rapid AI Reels Content Creation",
