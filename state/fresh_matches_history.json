@@ -323,6 +323,348 @@
     "scan_date": "2026-10-03T18:29:22.926251+00:00"
   },
   {
+    "title": "3D & LiDAR Data Annotation Analyst",
+    "company": "Appen",
+    "url": "https://jobicy.com/jobs/154499-3d-lidar-data-annotation-analyst",
+    "location": "Anywhere",
+    "posted": "2026-10-04T05:35:56+00:00",
+    "description": "About the Role We\u2019re building high-quality ground-truth datasets used to train and validate perception models for autonomous and operator-assisted machines working in complex, real-world environments. As a Data Annotation Analyst, you\u2019ll work with camera imagery, video, and LiDAR point clouds to create precise labels that help perception systems understand objects, people, terrain, and surrounding environments. You\u2019ll work in specialized annotation tools, following detailed specifications while balancing accuracy, consistency, and production volume. Your Impact Annotate 2D and 3D objects across images, video, and LiDAR point clouds, including vehicles, machinery, people, signage, and environmental features. Create and maintain accurate segmentation, object tracking, pose, and keypoint annotations across sequences. Apply detailed annotation guidelines, including class definitions, occlusion rules, object thresholds, and inclusion/exclusion criteria. Review your work, respond to QA feedback, and maintain established quality and accuracy standards. Identify and escalate ambiguous scenes, sensor artifacts, tooling issues, and gaps in specifications rather than making assumptions. Document data quality and tooling issues with clear details and reproduction steps. Participate in calibration sessions, guideline reviews, and team standups to maintain consistent interpretations. Share observations that help improve annotation guidelines, taxonomies, and edge-case documentation. Success in this role means producing accurate, consistent annotations at the expected volume while helping maintain a reliable, high-quality dataset. What You Bring Strong attention to detail and the ability to maintain accuracy while performing repetitive, visually intensive work for extended periods. Strong spatial reasoning skills, including the ability to interpret 3D environments and understand object size, position, and orientation. Ability to learn and navigate complex, purpose-built software and become productive with keyboard shortcuts and other tooling features. Experience working in a fast-paced, scaled environment with defined productivity, quality, or accuracy targets. Experience with image annotation GenAI workflows Reliable high-speed internet, a distraction-free workspace, and the ability to work on a company-provisioned machine within a controlled environment. Nice to Haves Associate or bachelor\u2019s degree. Experience with image, video, LiDAR, or 3D annotation tools. Experience with subsurface utility engineering (SUE), construction surveying, surveying, GIS, or other work involving spatial interpretation of physical environments. Experience with AutoCAD or similar type tools Experience in construction, mining, agriculture, industrial operations, or heavy equipment environments. Familiarity with point cloud data, sensor fusion, or camera-LiDAR calibration. Experience working with autonomous vehicles, robotics, or machine perception datasets. Compensation Additional Information Why You\u2019ll Love Working Here At Appen , we foster a culture of innovation, collaboration, and excellence. We value curiosity, accountability, and a commitment to delivering the highest-quality AI solutions for frontier models. You\u2019ll work on complex challenges that shape the future of AI across industries and geographies, alongside talented people in a culture that values humility over ego. You\u2019ll have the flexibility to deliver in a way that works for you and your team, supported by tools, resources and development opportunities to continue to build your capability over time. About Appen Appen has been a leader in AI training data for over 30 years. We specialise in human generated data to train, fine tune, and evaluate models across generative AI, large language models, computer vision, and speech recognition. Our AI assisted data annotation platform and global crowd of more than 1 million contributors in over 200 countries support model pre-training, supervised fine tuning, evaluation and benchmarking, safety and red teaming, and multilingual global expansion.",
+    "salary": "30-32 USD / hourly",
+    "source": "jobicy",
+    "postedISO": "2026-10-04T05:35:56+00:00",
+    "score": 100,
+    "category": "Admin",
+    "why": [
+      "data annotation data labeling data labeler data entry specialist clerk operator agent (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.447482820277777,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches job requirements for language skills and academic supervision."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and research guidance."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible environment, and academic orientation."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "Language skills",
+        "Academic supervision",
+        "Remote work"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the 3D & LiDAR Data Annotation Analyst role at Appen. He can contribute to the creation of high-quality datasets for autonomous and operator-assisted machines, which is a strong fit for his career goals in translation and academic services.",
+      "interview_prep": [
+        "Can you describe a time when you supervised a graduate-level research study? How did you ensure consistency and accuracy in the annotations?"
+      ],
+      "one_line_summary": "Waleed Ballag's skills and experience make him a strong fit for the 3D & LiDAR Data Annotation Analyst role at Appen.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "Waleed Ballag's skills and experience make him a strong fit for the 3D & LiDAR Data Annotation Analyst role at Appen.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "Language skills",
+      "Academic supervision",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the 3D & LiDAR Data Annotation Analyst role at Appen. He can contribute to the creation of high-quality datasets for autonomous and operator-assisted machines, which is a strong fit for his career goals in translation and academic services.",
+    "ai_interview_prep": [
+      "Can you describe a time when you supervised a graduate-level research study? How did you ensure consistency and accuracy in the annotations?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "hi@jobicy.com",
+    "email_verified": false,
+    "all_emails": [
+      "hi@jobicy.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Appen",
+      "legitimacy_score": 50,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [],
+      "last_updated": "2026-10-04T11:07:26.564169+00:00"
+    },
+    "company_legitimacy": 50,
+    "company_summary": "",
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiastic interest in the 3D & LiDAR Data Annotation Analyst position at Appen. As a seasoned ESL teacher and secondary supervisor with extensive experience in education and academic fields, I am particularly interested in contributing to the high-quality data annotation that is integral to the development of perception models for autonomous and operator-assisted machines.",
+      "experience": "My experience as an ESL teacher and secondary supervisor has equipped me with the skills necessary for this role. I have a deep understanding of language instruction, curriculum development, and academic supervision, which are crucial for ensuring the accuracy and consistency of the data being created.",
+      "skills": "My proficiency in Microsoft Office Suite, Adobe Photoshop, SPSS Statistical Analysis, and my native language skills in Arabic and English, as well as my ability to translate between these languages and the English language, make me a strong candidate for this role.",
+      "closing": "I am eager to discuss how my qualifications, including my experience in academic supervision and research guidance, language skills, and proficiency in technology tools like Microsoft Office and Adobe Photoshop, align with the requirements of the 3D & LiDAR Data Annotation Analyst position at Appen. Please feel free to schedule a time for an interview to discuss my qualifications further. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Appen_3D & LiDAR Data Annotation Analyst_20261004.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Appen_3D & LiDAR Data Annotation Analyst_20261004.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-04T11:08:56.655604+00:00"
+  },
+  {
+    "title": "English Teacher (Newly Qualified Teacher)",
+    "company": "British Council",
+    "url": "https://eg.linkedin.com/jobs/view/english-teacher-newly-qualified-teacher-at-british-council-4473472600",
+    "location": "Remote \u2014 Cairo, Egypt",
+    "posted": "2026-10-04",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-04T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 11.046408984166666,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches ESL teaching, translation, and academic supervision"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching and academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote and academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Remote work"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is highly aligned with the British Council's English Teacher role. His skills and experience make him a strong fit for the position, especially in the remote and academic environment.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation in your work? 3. Can you describe a time when you had to adapt to a remote work environment?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the English Teacher role at the British Council due to his extensive experience in ESL teaching and academic supervision, making him well-suited for the remote and academic environment."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the English Teacher role at the British Council due to his extensive experience in ESL teaching and academic supervision, making him well-suited for the remote and academic environment.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is highly aligned with the British Council's English Teacher role. His skills and experience make him a strong fit for the position, especially in the remote and academic environment.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation in your work? 3. Can you describe a time when you had to adapt to a remote work environment?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "British Council",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-04T11:07:26.565920+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiasm for the English Teacher (Newly Qualified Teacher) position at the British Council, particularly as it aligns with my professional goals and skills.",
+      "experience": "In my roles as an ESL Teacher and Partner at Al-Safwa Smart School for Private Education, and as an ESL Teacher at Anwar Al-Hayat School for Private Education, I have honed my expertise in teaching English as a foreign language, including instruction on English Language and Curriculum Development. These experiences have equipped me with the ability to adapt to diverse learning environments and promote academic excellence.",
+      "skills": "My skills in Academic Supervision & Research Guidance, Academic Editing & Thesis Review, Thesis Writing & Development, ESL/EFL Instruction, Online & In-person Teaching, Curriculum Development, Arabic-English Bidirectional Translation, Academic Translation, Legal Translation, Microsoft Office Suite (Expert), Adobe Photoshop, SPSS Statistical Analysis, and proficiency in both Arabic (Native) and English (C1 Advanced) make me well-suited for this position.",
+      "closing": "I am available for an interview at your earliest convenience and look forward to the possibility of discussing how my qualifications and experiences can contribute to the success of the British Council. Thank you for considering my application. I am eager to contribute to the educational community and am confident in my ability to fulfill the responsibilities of this position."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/British Council_English Teacher (Newly Qualified Teacher)_20261004.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/British Council_English Teacher (Newly Qualified Teacher)_20261004.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-04T11:08:56.655604+00:00"
+  },
+  {
+    "title": "English Teacher",
+    "company": "English Academy by Ruangguru",
+    "url": "https://id.linkedin.com/jobs/view/english-teacher-at-english-academy-by-ruangguru-4474211286",
+    "location": "Remote \u2014 Jakarta, Indonesia",
+    "posted": "2026-10-04",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-04T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 11.046409072222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches on Arabic-English translation, ESL teaching, and academic supervision."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Matches on ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment, and compatible with the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, with potential for senior roles."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Strong fit for the job as it aligns well with the candidate's skills and career goals.",
+      "interview_prep": "1. Can you share an example of a successful academic supervision project you led? 2. How do you approach legal translation in a non-legal context? 3. Describe a time when you had to adapt to a remote work environment.",
+      "one_line_summary": "Strong fit for the job with a background in ESL teaching, academic supervision, and legal translation."
+    },
+    "ai_insight": "Strong fit for the job with a background in ESL teaching, academic supervision, and legal translation.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Strong fit for the job as it aligns well with the candidate's skills and career goals.",
+    "ai_interview_prep": "1. Can you share an example of a successful academic supervision project you led? 2. How do you approach legal translation in a non-legal context? 3. Describe a time when you had to adapt to a remote work environment.",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@id.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@id.linkedin.com",
+      "hr@id.linkedin.com",
+      "jobs@id.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "English Academy by Ruangguru",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-04T11:07:26.567152+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am excited to apply for the English Teacher position at English Academy by Ruangguru, where I can contribute my expertise and passion for language instruction to the growing community.",
+      "experience": "In my experience as an ESL teacher, I have successfully led both secondary supervision and partnership programs at prestigious educational institutions. This includes teaching at Anwar Al-Hayat School for Private Education and An-Najah National University, where I have honed my ability to engage with diverse learners and adapt teaching methods.",
+      "skills": "My skills in academic supervision, research guidance, and curriculum development make me well-suited for this role. I am proficient in using Microsoft Office, Adobe Photoshop, and SPSS, and I am fluent in both Arabic and English, with a strong foundation in academic integrity and formatting.",
+      "closing": "I am available for an interview at any time and look forward to the opportunity to discuss how my qualifications and experience align with the goals of English Academy by Ruangguru. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/English Academy by Ruangguru_English Teacher_20261004.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/English Academy by Ruangguru_English Teacher_20261004.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-04T11:08:56.655604+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -744,6 +1086,397 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-04T02:41:05.644940+00:00"
+  },
+  {
+    "title": "Instagram Commenting & VA Support",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/social-media-management/Instagram-Commenting-Support.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Sun, 04 Oct 2026 06:51:34 -0400",
+    "description": "I want to keep my Instagram account active and engaging by adding thoughtful, on-brand comments to posts I\u2019ll provide each day. At the same time, I need a reliable virtual assistant who can clear my inbox, slot meetings into my Google Calendar, and keep small volumes of data tidy in spreadsheets... (Budget: \u20b9750 - \u20b91250 INR, Jobs: Content Creation, Data Entry, Excel, Google Sheets, Instagram Marketing, Internet Marketing, Social Media Management, Virtual Assistant)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-10-04T06:51:34-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "virtual assistant administrative assistant admin assistant executive assistant (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.18706495666666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 75,
+        "reason": "Job requires some language skills and writing, but primarily focuses on content creation and data entry."
+      },
+      "experience_match": {
+        "score": 60,
+        "reason": "Some experience in content creation and data entry, but not directly related to translation or academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 75,
+        "reason": "Remote work and flexible environment, but some friction with the academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 60,
+        "reason": "Builds toward translation/teaching/academic career, but not directly related to the job description."
+      },
+      "overall_score": 65,
+      "verdict": "Good Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Data Entry",
+        "Content Creation"
+      ],
+      "gaps": [
+        "Translation/Teaching/Supervision Skills",
+        "US/EU Citizenship Required"
+      ],
+      "recommendation": "This job aligns well with Waleed's career goals but requires additional skills and a change in location.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you manage a virtual assistant's workload and schedule? 3. Can you provide examples of how you have used SPSS for data analysis?",
+      "one_line_summary": "Moderate Fit for Waleed's career goals, but requires additional skills and a change in location."
+    },
+    "ai_insight": "Moderate Fit for Waleed's career goals, but requires additional skills and a change in location.",
+    "ai_overall_score": 65,
+    "ai_verdict": "Good Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Data Entry",
+      "Content Creation"
+    ],
+    "ai_gaps": [
+      "Translation/Teaching/Supervision Skills",
+      "US/EU Citizenship Required"
+    ],
+    "ai_recommendation": "This job aligns well with Waleed's career goals but requires additional skills and a change in location.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you manage a virtual assistant's workload and schedule? 3. Can you provide examples of how you have used SPSS for data analysis?",
+    "ai_technical_skills": 75,
+    "ai_experience_match": 60,
+    "ai_behavioral_fit": 75,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 60,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my interest in the Instagram Commenting & Virtual Assistant Support position at Freelancer.com, as advertised. I am eager to contribute my skills in enhancing engagement and managing a busy inbox, aligning perfectly with the requirements of this role.",
+      "experience": "My educational background in linguistics and experience as an ESL teacher, including roles at higher institutions and private education centers, have honed my ability to provide high-quality instruction and support. I am adept at managing academic integrity and adhering to formatting standards such as APA/MLA/Harvard, contributing to a professional environment.",
+      "skills": "In line with the job requirements, my skills include native Arabic and English proficiency at C1 Advanced level, as well as expertise in Microsoft Office Suite, Adobe Photoshop, SPSS, and academic translation. I am also skilled in Arabic-English bidirectional translation, curriculum development, and academic integrity compliance.",
+      "closing": "Given my passion for language and my ability to manage and enhance a professional image on social media, I am confident that I can contribute effectively to your team. I am available for an interview and eager to discuss how I can meet the expectations outlined in your job posting. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Instagram Commenting & VA Support_20261004.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Instagram Commenting & VA Support_20261004.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-04T11:08:56.655604+00:00"
+  },
+  {
+    "title": "Paper Forms to Online Registration",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/data-cleansing/Paper-Forms-Online-Registration.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Sun, 04 Oct 2026 06:33:01 -0400",
+    "description": "I have between 100 and 500 paper registration forms that now need to be captured in my web-based registration form. I will supply PDF scans via Google Drive; you will open each scan, key every field into the online form exactly as written, submit, and move to the next record... (Budget: \u20b9750 - \u20b91250 INR, Jobs: Data Cleansing, Data Collection, Data Entry, Data Management, Data Processing, Excel, Typing, Virtual Assistant)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-10-04T06:33:01-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "virtual assistant administrative assistant admin assistant executive assistant (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.4962327288888889,
+    "ai_insight": "Waleed Ballag's ESL teaching experience and academic supervision skills make this job a perfect fit. His ability to translate complex academic concepts into clear language and his experience in supervising students will help him navigate the technical aspects of the registration forms and ensure acc",
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am excited about the opportunity to utilize my skills in academic supervision, language proficiency, and experience in teaching and research support to effectively capture and manage paper registration forms for Freelancer.com. I am eager to bring my expertise in academic translation and bidirectional communication to this role and contribute to the successful completion of the project.",
+      "experience": "In my previous positions as an ESL teacher and secondary supervisor, I have honed my ability to manage and edit academic work, which aligns perfectly with the tasks required for this project. I have also experience in curriculum development, which will be essential for ensuring the forms are accurately and effectively adapted to the online registration system.",
+      "skills": "I possess strong skills in academic editing and thesis review, which I will use to ensure that every field in the online registration form is accurately and precisely captured from the PDF scans. My proficiency in Microsoft Office Suite, Adobe Photoshop, and SPSS Statistical Analysis will help in maintaining the integrity of the data and performing necessary statistical analysis if required.",
+      "closing": "I am available for an interview to discuss how I can contribute to the Paper Forms to Online Registration project at Freelancer.com. I look forward to the opportunity to demonstrate my skills and enthusiasm for this role. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Paper Forms to Online Registration_20261004.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Paper Forms to Online Registration_20261004.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-04T11:08:56.655604+00:00"
+  },
+  {
+    "title": "Handwritten Notes Transcription with Embedded Images",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/adobe-acrobat/Handwritten-Notes-Transcription-with",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-04T03:26:44+00:00",
+    "description": "I need my handwritten notes, all in English, converted into editable text and delivered as a single, professionally-formatted PDF. Accuracy is essential, but I also want to retain the character of the originals, so each handwritten excerpt must appear as an image directly beside\u2014or immediately above\u2014the corresponding typed line or paragraph. You will receive high-resolution scans of the pages. Your job is to: \u2022 Transcribe every word exactly as written, correcting only obvious spelling mistakes when context makes them clear. \u2022 Embed the supplied images in the PDF so a reader can see the handwriting and the clean transcription together. \u2022 Produce a final, searchable PDF that opens without errors on any standard viewer. Please let me know your preferred workflow for combining OCR or manual typing with image placement, as well as the tools you intend to use (Word, InDesign, LaTeX, or another solution). A brief sample page showing your layout approach will help me confirm we are on the same page before you proceed with the full set.",
+    "salary": "750.0-1250.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-10-04T03:26:44+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 7.600866486388889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires accurate transcription and embedding of images, which aligns with the candidate's skills in Arabic-English translation and academic editing."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the job's requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background and skills align well with a remote, academic environment, and the candidate's experience in language services and academic supervision makes them a good fit for this role."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and the candidate's location is worldwide, which is compatible with the candidate's preferences and skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the role, including securing stable remote work, building client relationships, and contributing to research supervision."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Experience in academic supervision",
+        "Versatile skills in transcription and translation"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag has strong language skills, experience in academic supervision, and expertise in transcription and translation, making them a strong fit for the Handwritten Notes Transcription job. Their background and skills align well with the remote, academic environment and career goals of the role.",
+      "interview_prep": "1. Can you describe a time when you used OCR or manual typing to combine image and text in a transcription project? 2. How do you handle plagiarism and originality in your work? 3. Can you share an example of a complex academic research project you supervised and the challenges you faced?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Handwritten Notes Transcription job due to their extensive experience in ESL teaching, academic supervision, and legal translation."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Handwritten Notes Transcription job due to their extensive experience in ESL teaching, academic supervision, and legal translation.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Experience in academic supervision",
+      "Versatile skills in transcription and translation"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag has strong language skills, experience in academic supervision, and expertise in transcription and translation, making them a strong fit for the Handwritten Notes Transcription job. Their background and skills align well with the remote, academic environment and career goals of the role.",
+    "ai_interview_prep": "1. Can you describe a time when you used OCR or manual typing to combine image and text in a transcription project? 2. How do you handle plagiarism and originality in your work? 3. Can you share an example of a complex academic research project you supervised and the challenges you faced?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 20,
+    "desperation_index": 6,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 38,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiastic interest in the Handwritten Notes Transcription with Embedded Images position at Freelancer.com. As a MA in Applied Linguistics graduate and a seasoned ESL teacher, I am confident in my ability to provide the high-quality transcription and formatting you are seeking. My skills in Academic Supervision, editing, and cross-cultural communication will ensure that each handwritten excerpt is preserved in its original character while accurately converting the text into editable format. I am particularly excited about the opportunity to utilize my native Arabic and advanced English language proficiency, as well as my experience in academic translation and editing, to deliver your project to the highest standards.",
+      "experience": "My proficiency as an ESL teacher and supervisor at private educational institutions provides extensive experience in teaching and administrative roles. These roles have honed my skills in academic guidance, thesis development, and editing, which are crucial for ensuring the transcription meets your requirements.",
+      "skills": "I am proficient in Microsoft Office Suite (Expert), Adobe Photoshop, SPSS Statistical Analysis, and cross-cultural communication. My academic background in applied linguistics and native language proficiency in Arabic and advanced English make me uniquely qualified to handle the transcription and formatting of handwritten notes.",
+      "closing": "I am available for an interview to discuss this opportunity further. Please find attached my resume for your reference. I look forward to the possibility of contributing to your team at Freelancer.com. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Handwritten Notes Transcription with Embedded Imag_20261004.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Handwritten Notes Transcription with Embedded Imag_20261004.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-04T11:08:56.655604+00:00"
+  },
+  {
+    "title": "Promotional Video for Online Tutoring",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/script-writing/Promotional-Video-for-Online-Tutoring",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-04T02:48:05+00:00",
+    "description": "I need a concise, professional-looking live-action video that reassures parents their children are in capable hands when they study with us. The narrative should flow through three clear moments: \u2022 In-session: show a student interacting confidently with our online teacher, highlighting the calm, structured classroom interface. \u2022 Post-session: demonstrate how parents can log in and immediately replay the recorded lesson. \u2022 Follow-up: present the neatly organised lesson notes that parents can download or print for revision. Keep the tone professional and informative\u2014think clear explanations, clean on-screen text, and an unobtrusive music bed. I will supply a short brand guideline, logo, and any screenshots you might need; you handle scripting, on-set filming, basic lighting, editing, and final colour correction. Final deliverables: 1. 60\u201390 second HD video (MP4) 2. Separate SRT captions 3. Editable project file (Premiere Pro or DaVinci Resolve) Please include a brief outline of your proposed storyboard and any examples of previous live-action educational promos when you reply.",
+    "salary": "10.0-30.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-04T02:48:05+00:00",
+    "score": 97,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title+description)"
+    ],
+    "is_fresh": false,
+    "age_hours": 8.245034236666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires a concise, professional-looking video script, on-set filming, basic lighting, editing, and final color correction, which aligns with the candidate's skills in ESL/EFL instruction, academic supervision, and video production."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL/EFL instruction, academic supervision, and video production, which matches the job requirements perfectly."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and language instruction aligns well with the need for a professional, clear, and informative video script, and the candidate's experience in video production and editing makes them a strong fit for this role."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is a remote worker, which matches the job's remote nature and worldwide location requirement."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the need for a senior translator or academic coordinator role, and the job offers the opportunity to secure stable remote work in translation or ESL teaching."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Video production"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's background and skills make him an excellent fit for the Promotional Video for Online Tutoring role. His experience in ESL/EFL instruction, academic supervision, and video production align perfectly with the job requirements, making this a strong fit.",
+      "interview_prep": "1. What is your experience in video production and editing? 2. How do you handle on-set filming and basic lighting? 3. Can you describe a time when you had to script, edit, and color correct a video?",
+      "one_line_summary": "Waleed Ballag's background in ESL/EFL instruction, academic supervision, and video production make him a strong fit for the Promotional Video for Online Tutoring role."
+    },
+    "ai_insight": "Waleed Ballag's background in ESL/EFL instruction, academic supervision, and video production make him a strong fit for the Promotional Video for Online Tutoring role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Video production"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's background and skills make him an excellent fit for the Promotional Video for Online Tutoring role. His experience in ESL/EFL instruction, academic supervision, and video production align perfectly with the job requirements, making this a strong fit.",
+    "ai_interview_prep": "1. What is your experience in video production and editing? 2. How do you handle on-set filming and basic lighting? 3. Can you describe a time when you had to script, edit, and color correct a video?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 20,
+    "desperation_index": 6,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 38,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Promotional Video for Online Tutoring_20261004.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Promotional Video for Online Tutoring_20261004.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-04T11:08:56.655604+00:00"
   },
   {
     "title": "Rapid AI Reels Content Creation",
