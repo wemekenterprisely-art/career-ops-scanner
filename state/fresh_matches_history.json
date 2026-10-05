@@ -992,6 +992,236 @@
     "scan_date": "2026-10-05T05:27:13.664653+00:00"
   },
   {
+    "title": "English Teacher",
+    "company": "International Royal Academy",
+    "url": "https://ge.linkedin.com/jobs/view/english-teacher-at-international-royal-academy-4473623606",
+    "location": "Remote \u2014 Tbilisi, Georgia",
+    "posted": "2026-10-05",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-05T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.316634208611111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires language skills and academic work, which aligns with the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has relevant experience in ESL teaching, academic supervision, and legal translation, which is a good fit for the job description."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's skills and experience align well with the remote and academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is comfortable with remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the translation and academic roles in the job description."
+      },
+      "overall_score": 86,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Experienced in academic supervision",
+        "Certified in English language training"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's strong background in ESL teaching, academic supervision, and language skills make him a strong fit for the English Teacher position at International Royal Academy. His ability to work remotely and align with the academic environment is particularly impressive.",
+      "interview_prep": "1. What is your experience in academic supervision and how did you help manage 15 graduate-level research studies? 2. Can you describe a time when you translated legal documents and how it enhanced the understanding of the client? 3. How do you approach the development of academic writing and research proposals?",
+      "one_line_summary": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him a strong fit for the English Teacher position at International Royal Academy."
+    },
+    "ai_insight": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him a strong fit for the English Teacher position at International Royal Academy.",
+    "ai_overall_score": 86,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Experienced in academic supervision",
+      "Certified in English language training"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong background in ESL teaching, academic supervision, and language skills make him a strong fit for the English Teacher position at International Royal Academy. His ability to work remotely and align with the academic environment is particularly impressive.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and how did you help manage 15 graduate-level research studies? 2. Can you describe a time when you translated legal documents and how it enhanced the understanding of the client? 3. How do you approach the development of academic writing and research proposals?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@ge.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ge.linkedin.com",
+      "hr@ge.linkedin.com",
+      "jobs@ge.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "International Royal Academy",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-05T13:22:36.614105+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/International Royal Academy_English Teacher_20261005.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/International Royal Academy_English Teacher_20261005.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-05T13:23:21.498561+00:00"
+  },
+  {
+    "title": "Content Editor",
+    "company": "Roarke Regenerative",
+    "url": "https://www.linkedin.com/jobs/view/content-editor-at-roarke-regenerative-4474285153",
+    "location": "Remote \u2014 New York, NY",
+    "posted": "2026-10-05",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-10-05T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.316634961388889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires language skills and academic work, which aligns with the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and research guidance, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's experience and skills are well-suited for a remote, academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is open to remote work and has no specific requirements for location or visa."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the job, focusing on translation/teaching/academic work."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision and research guidance",
+        "Native Arabic and C1 English proficiency"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "The candidate is well-suited for the role, and the job aligns closely with their career goals. They can contribute effectively to the company's academic services.",
+      "interview_prep": [
+        "Can you discuss your experience in academic supervision and research guidance?",
+        "How do you approach translating legal documents, and what tools do you use for this task?"
+      ],
+      "one_line_summary": "A strong fit for the job, with a background in academic supervision and research guidance, and native language skills."
+    },
+    "ai_insight": "A strong fit for the job, with a background in academic supervision and research guidance, and native language skills.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision and research guidance",
+      "Native Arabic and C1 English proficiency"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "The candidate is well-suited for the role, and the job aligns closely with their career goals. They can contribute effectively to the company's academic services.",
+    "ai_interview_prep": [
+      "Can you discuss your experience in academic supervision and research guidance?",
+      "How do you approach translating legal documents, and what tools do you use for this task?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Roarke Regenerative",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-05T13:22:36.616017+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am excited to apply for the Content Editor position at Roarke Regenerative, as I believe my skills and experiences align well with the requirements of this role. I am eager to contribute to the company's mission of regenerative health and wellness.",
+      "experience": "As an ESL teacher and supervisor at higher institutes of science and technology, I have honed my ability to instruct and supervise language learners, which I believe is a valuable skill for the position of Content Editor.",
+      "skills": "My skills in academic supervision and research guidance, along with my proficiency in Microsoft Office Suite, Adobe Photoshop, and SPSS, make me well-suited for the Content Editor role. Additionally, my ability to translate between Arabic and English and maintain high standards of academic integrity adds a unique perspective to the team.",
+      "closing": "I am available for an interview to discuss my qualifications further. Please feel free to reach out if you have any questions or need additional information. Thank you for considering my application. I look forward to the opportunity to contribute to Roarke Regenerative and help advance the company's mission."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Roarke Regenerative_Content Editor_20261005.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Roarke Regenerative_Content Editor_20261005.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-05T13:23:21.498561+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -2340,6 +2570,110 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-05T05:27:13.664653+00:00"
+  },
+  {
+    "title": "Financial Data Entry & Formatting",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/database-management/Financial-Data-Entry-Formatting",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-05T11:19:51+00:00",
+    "description": "I have a backlog of raw financial records that must be transferred into a structured database and then organised in Excel with clear, consistent formatting. Accuracy is critical because these figures feed directly into monthly reporting. The workflow looks like this: I will share the source documents; you will enter the information into the existing database (true database entry, not just spreadsheets). Once each batch is validated you will open the linked Excel workbook, apply professional spreadsheet formatting\u2014styles, number formats, conditional highlights, protected cells\u2014so the data is presentation-ready. Because the source files include scanned statements and receipts, strong typing/editing skills are essential for correcting OCR errors as you go. If you prefer to speed things up with AI tools (ChatGPT, GPT-4, Excel formulas with Copilot, or similar) feel free, provided the final output is spotless and matches the source values exactly. Deliverables \u2022 Updated database containing all supplied financial data \u2022 An Excel workbook formatted for clarity and print readiness \u2022 A short change log noting any discrepancies you discovered and fixed The job is complete when the database balances against my control totals and the workbook passes a quick spot-check for formula integrity and layout consistency. If that sounds straightforward, let\u2019s get started\u2014files are ready to share immediately.",
+    "salary": "1500.0-12500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-10-05T11:19:51+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.985827270277778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 60,
+        "reason": "Requires language skills, writing, and academic work, but not exclusively in translation or teaching."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote, flexible, academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 83,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "No direct experience in engineering or development"
+      ],
+      "recommendation": "This candidate would excel in a role that aligns with their language skills and academic background, particularly in translation or ESL teaching.",
+      "interview_prep": "1. What is your experience with academic supervision and research guidance? 2. How do you approach legal translation and its accuracy in financial records? 3. Can you describe a time when you had to correct OCR errors while typing?",
+      "one_line_summary": "ESL Instructor with academic supervision and legal translation experience, strong fit for financial data entry and formatting."
+    },
+    "ai_insight": "ESL Instructor with academic supervision and legal translation experience, strong fit for financial data entry and formatting.",
+    "ai_overall_score": 83,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or development"
+    ],
+    "ai_recommendation": "This candidate would excel in a role that aligns with their language skills and academic background, particularly in translation or ESL teaching.",
+    "ai_interview_prep": "1. What is your experience with academic supervision and research guidance? 2. How do you approach legal translation and its accuracy in financial records? 3. Can you describe a time when you had to correct OCR errors while typing?",
+    "ai_technical_skills": 60,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 20,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 38,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Financial Data Entry & Formatting_20261005.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Financial Data Entry & Formatting_20261005.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-05T13:23:21.498561+00:00"
   },
   {
     "title": "Rapid AI Reels Content Creation",
