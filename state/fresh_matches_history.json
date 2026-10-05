@@ -887,6 +887,111 @@
     "scan_date": "2026-10-04T18:25:21.843744+00:00"
   },
   {
+    "title": "English Teacher for Kids [Full Online]",
+    "company": "natieva",
+    "url": "https://id.linkedin.com/jobs/view/english-teacher-for-kids-full-online-at-natieva-4474216989",
+    "location": "Remote \u2014 East Java, Indonesia",
+    "posted": "2026-10-05",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-05T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.395489556111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 60,
+        "reason": "Requires language skills, writing, and academic work, but not exclusively translation or ESL teaching."
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Related experience in language services and academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote, flexible, and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency"
+      ],
+      "gaps": [
+        "On-site presence requirement"
+      ],
+      "recommendation": "This candidate would excel in a remote setting, focusing on academic services and research supervision.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you handle plagiarism checking and originality in academic writing? 3. Can you describe a time when you successfully prepared and defended a viva for a graduate student?",
+      "one_line_summary": "Native Arabic speaker, C1 Advanced English, strong academic background, strong fit for remote academic services."
+    },
+    "ai_insight": "Native Arabic speaker, C1 Advanced English, strong academic background, strong fit for remote academic services.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency"
+    ],
+    "ai_gaps": [
+      "On-site presence requirement"
+    ],
+    "ai_recommendation": "This candidate would excel in a remote setting, focusing on academic services and research supervision.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you handle plagiarism checking and originality in academic writing? 3. Can you describe a time when you successfully prepared and defended a viva for a graduate student?",
+    "ai_technical_skills": 60,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@id.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@id.linkedin.com",
+      "hr@id.linkedin.com",
+      "jobs@id.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "natieva",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-05T05:26:28.380882+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/natieva_English Teacher for Kids [Full Online]_20261005.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/natieva_English Teacher for Kids [Full Online]_20261005.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-05T05:27:13.664653+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -2025,6 +2130,216 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-04T18:25:21.843744+00:00"
+  },
+  {
+    "title": "Artikel Berita Turnamen Olahraga Internasional",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/article-writing/Artikel-Berita-Turnamen-Olahraga.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Mon, 05 Oct 2026 01:12:36 -0400",
+    "description": "Saya sedang menugaskan penulisan satu artikel penuh gaya berita yang berfokus pada ajang olahraga bertaraf internasional. Formatnya harus mengikuti kaidah jurnalistik: jelas, padat, langsung ke poin, serta memuat fakta terbaru yang terverifikasi... (Budget: $15 - $25 USD, Jobs: Article Writing, Content Writing, Copywriting, Editing, Journalism, Proofreading, Research, SEO Writing)",
+    "salary": "$15",
+    "source": "freelancer",
+    "postedISO": "2026-10-05T01:12:36-04:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (description)",
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.18557685861111112,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 70,
+        "reason": "Requires language skills, writing, and academic work, but not exclusively translation or ESL teaching."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in academic supervision and research guidance, which is relevant to the job description."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote and academic environment align well with the candidate's skills and goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide location is compatible with the candidate's background and skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligns well with the job description."
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Experience in academic supervision and research guidance"
+      ],
+      "gaps": [
+        "No direct experience in translation or ESL teaching"
+      ],
+      "recommendation": "Waleed Ballag's background in academic supervision and research guidance makes him a strong fit for the job. His native Arabic and advanced English skills, combined with his experience in academic services, position him well for this role. However, the need for on-site presence in a specific city and the requirement for US/EU citizenship may present some challenges.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you ensure the accuracy of the information you provide in your translations and research papers? 3. Can you share an example of a thesis or research project you supervised that involved legal translation?",
+      "one_line_summary": "Waleed Ballag's background in academic supervision and research guidance makes him a strong fit for the job, but requires on-site presence in a specific city and US/EU citizenship."
+    },
+    "ai_insight": "Waleed Ballag's background in academic supervision and research guidance makes him a strong fit for the job, but requires on-site presence in a specific city and US/EU citizenship.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Experience in academic supervision and research guidance"
+    ],
+    "ai_gaps": [
+      "No direct experience in translation or ESL teaching"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in academic supervision and research guidance makes him a strong fit for the job. His native Arabic and advanced English skills, combined with his experience in academic services, position him well for this role. However, the need for on-site presence in a specific city and the requirement for US/EU citizenship may present some challenges.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you ensure the accuracy of the information you provide in your translations and research papers? 3. Can you share an example of a thesis or research project you supervised that involved legal translation?",
+    "ai_technical_skills": 70,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Artikel Berita Turnamen Olahraga Internasional_20261005.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Artikel Berita Turnamen Olahraga Internasional_20261005.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-05T05:27:13.664653+00:00"
+  },
+  {
+    "title": "Reliable Philippines based Customer Service/ Virtual Assistant -- 2",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/telemarketing/Reliable-Philippines-based-Customer-40750202",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-05T02:38:01+00:00",
+    "description": "YOU MUST BE FROM THE PHILIPPINES TO APPLY! Pay is $4/hour. Only respond if you agree to this pay rate. I run a small U.S.-based operation that needs hands-on help with day-to-day customer interactions. I receive a steady flow of inbound calls and emails, plus occasional outbound follow-ups, and I want every contact handled promptly and professionally. During that three-hour window you will: \u2022 answer incoming calls and place quick outbound callbacks when required, \u2022 reply to customer emails in a friendly, concise tone, and \u2022 keep our live-chat widget active so no visitor waits more than a minute. A rock-solid, high-speed internet connection is essential\u2014dropped calls or slow chat responses won\u2019t work for us. I currently forward calls through a VoIP line. Please be punctual, detail-oriented, and comfortable switching between phone, email, and chat channels seamlessly. A short end-of-shift summary (call log, resolved tickets, anything pending) will wrap up each day so I can pick up where you leave off. Outbound sales is also a must. If you have a calm phone presence, clear English, and experience juggling multiple support channels, I\u2019d love to work together. Pay is $4/hour. Only respond if you agree to this pay rate.",
+    "salary": "2.0-8.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-05T02:38:01+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.7618883166666666,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches the requirement of ESL/EFL instruction, academic supervision, and legal translation."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible schedule, and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward senior translator or academic coordinator role."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Strong fit for the role. Aligns well with career goals and offers opportunities for growth.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation? 3. Can you describe a time when you had to manage a large research project?",
+      "one_line_summary": "Strong fit for the role, aligning with career goals and offering opportunities for growth."
+    },
+    "ai_insight": "Strong fit for the role, aligning with career goals and offering opportunities for growth.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Strong fit for the role. Aligns well with career goals and offers opportunities for growth.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation? 3. Can you describe a time when you had to manage a large research project?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Reliable Philippines based Customer Service- Virtu_20261005.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Reliable Philippines based Customer Service- Virtu_20261005.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-05T05:27:13.664653+00:00"
   },
   {
     "title": "Rapid AI Reels Content Creation",
