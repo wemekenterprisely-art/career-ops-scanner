@@ -1222,6 +1222,221 @@
     "scan_date": "2026-10-05T13:23:21.498561+00:00"
   },
   {
+    "title": "Sr. Legal Proofreader - 1st Shift (Hybrid)",
+    "company": "RRD",
+    "url": "https://www.linkedin.com/jobs/view/sr-legal-proofreader-1st-shift-hybrid-at-rrd-4475872520",
+    "location": "Remote \u2014 Phoenix, AZ",
+    "posted": "2026-10-05",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-10-05T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.22615895222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 30,
+        "reason": "Requires language skills, writing, and academic work, but not extensive engineering or programming"
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Direct experience in ESL teaching and academic supervision, with related experience in language services and education"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work environment, academic focus, and career alignment towards translation/teaching/academic roles"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward a senior translator or academic coordinator role, aligning with the career goals"
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching and academic supervision experience",
+        "Strong language skills and academic background"
+      ],
+      "gaps": [
+        "No direct experience in engineering or programming"
+      ],
+      "recommendation": "Waleed Ballag's skills and background make him a strong fit for the Sr. Legal Proofreader role, especially considering the remote and academic nature of the job.",
+      "interview_prep": "1. What is your experience with academic supervision and research guidance? 2. Can you provide examples of how you have translated legal documents? 3. How do you approach the proofreading of legal documents?",
+      "one_line_summary": "Waleed Ballag's strong background in ESL and academic supervision make him a strong fit for the Sr. Legal Proofreader role."
+    },
+    "ai_insight": "Waleed Ballag's strong background in ESL and academic supervision make him a strong fit for the Sr. Legal Proofreader role.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching and academic supervision experience",
+      "Strong language skills and academic background"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or programming"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and background make him a strong fit for the Sr. Legal Proofreader role, especially considering the remote and academic nature of the job.",
+    "ai_interview_prep": "1. What is your experience with academic supervision and research guidance? 2. Can you provide examples of how you have translated legal documents? 3. How do you approach the proofreading of legal documents?",
+    "ai_technical_skills": 30,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "RRD",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-09T13:27:35.871101+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/RRD_Sr. Legal Proofreader - 1st Shift (Hybrid)_20261006.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/RRD_Sr. Legal Proofreader - 1st Shift (Hybrid)_20261006.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-06T05:20:25.572025+00:00"
+  },
+  {
+    "title": "Proofreader",
+    "company": "Tata Consultancy Services",
+    "url": "https://ie.linkedin.com/jobs/view/proofreader-at-tata-consultancy-services-4474283898",
+    "location": "Remote \u2014 Letterkenny, County Donegal, Ireland",
+    "posted": "2026-10-05",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-10-05T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.226159291111113,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Job requires Arabic-English translation and academic supervision, which aligns with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which is directly applicable to the Proofreader role."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work and flexible environment align with the candidate's preferences and skills."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, worldwide, and the candidate is available for remote work, making it a good fit."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the Proofreader role, focusing on translation, teaching, and academic supervision."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Experienced in academic supervision",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's strong background in ESL teaching, academic supervision, and legal translation makes him an excellent fit for the Proofreader role at Tata Consultancy Services. His remote work experience and ability to adapt to flexible environments make him a valuable asset to the team.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation in your work? 3. Can you share an example of a project you supervised that required significant language analysis?",
+      "one_line_summary": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him a strong fit for the Proofreader role at Tata Consultancy Services."
+    },
+    "ai_insight": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him a strong fit for the Proofreader role at Tata Consultancy Services.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Experienced in academic supervision",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong background in ESL teaching, academic supervision, and legal translation makes him an excellent fit for the Proofreader role at Tata Consultancy Services. His remote work experience and ability to adapt to flexible environments make him a valuable asset to the team.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation in your work? 3. Can you share an example of a project you supervised that required significant language analysis?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@ie.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ie.linkedin.com",
+      "hr@ie.linkedin.com",
+      "jobs@ie.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Tata Consultancy Services",
+      "legitimacy_score": 65,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board",
+        "Appears to be registered business"
+      ],
+      "last_updated": "2026-10-06T05:19:40.181919+00:00"
+    },
+    "company_legitimacy": 65,
+    "company_summary": "2 positive signals",
+    "score_adjustment": 4,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Tata Consultancy Services_Proofreader_20261006.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Tata Consultancy Services_Proofreader_20261006.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-06T05:20:25.572025+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -2674,6 +2889,113 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-05T13:23:21.498561+00:00"
+  },
+  {
+    "title": "Novel Proofreading Specialist",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-writing/Novel-Proofreading-Specialist",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-05T17:32:17+00:00",
+    "description": "I'm looking for a meticulous proofreader for my novel. The manuscript is currently in a Word document format. Key Requirements: - Correct grammar, spelling, and punctuation errors - Ensure consistency with British English conventions - Track changes and provide comments in Word Ideal Skills and Experience: - Proven experience in proofreading fiction - Strong command of British English - Attention to detail and ability to meet deadlines Please provide samples of previous work.",
+    "salary": "1500.0-12500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-10-05T17:32:17+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": false,
+    "age_hours": 11.688125970833333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires proofreading skills, which align with the candidate's experience in academic supervision and proofreading fiction."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in academic supervision and proofreading, which is directly applicable to the proofreading specialist role."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services and proofreading aligns well with the remote and flexible nature of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is listed as remote (worldwide), which matches the job's requirement."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the role, focusing on translation/teaching/academic career progression."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong experience in academic supervision and proofreading"
+      ],
+      "gaps": [
+        "No specific experience in engineering or related technical roles"
+      ],
+      "recommendation": "This candidate would excel in a remote proofreading role, leveraging their skills in academic supervision and proofreading.",
+      "interview_prep": [
+        "Can you share an example of a manuscript you proofread and the specific areas where you identified and corrected errors?",
+        "How do you approach ensuring consistency with British English conventions in a manuscript?"
+      ],
+      "one_line_summary": "Strong fit with strong academic background and remote work experience."
+    },
+    "ai_insight": "Strong fit with strong academic background and remote work experience.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong experience in academic supervision and proofreading"
+    ],
+    "ai_gaps": [
+      "No specific experience in engineering or related technical roles"
+    ],
+    "ai_recommendation": "This candidate would excel in a remote proofreading role, leveraging their skills in academic supervision and proofreading.",
+    "ai_interview_prep": [
+      "Can you share an example of a manuscript you proofread and the specific areas where you identified and corrected errors?",
+      "How do you approach ensuring consistency with British English conventions in a manuscript?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-09-05T17:43:24.036132+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Novel Proofreading Specialist_20261006.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Novel Proofreading Specialist_20261006.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-06T05:20:25.572025+00:00"
   },
   {
     "title": "Rapid AI Reels Content Creation",
