@@ -2093,6 +2093,122 @@
     "scan_date": "2026-10-07T05:22:17.482329+00:00"
   },
   {
+    "title": "Medical Assistant/Certified Phlebotomy Technician (Bilingual English/Arabic))",
+    "company": "URBAN HEALTH PLAN, INC.",
+    "url": "https://www.linkedin.com/jobs/view/medical-assistant-certified-phlebotomy-technician-bilingual-english-arabic-at-urban-health-plan-inc-4475416306",
+    "location": "Remote \u2014 Bronx, NY",
+    "posted": "2026-10-07",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic translator",
+    "postedISO": "2026-10-07T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "bilingual.*arabic arabic.*bilingual (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.304114948055556,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment, and compatible with remote work."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job location."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns with the job's academic focus."
+      },
+      "overall_score": 89,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation skills",
+        "ESL teaching experience",
+        "Legal translation experience"
+      ],
+      "gaps": [
+        "No specific programming languages or engineering experience"
+      ],
+      "recommendation": "Strong fit for the job. Suitable for building a career in translation and academic services.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a legal translation you've worked on? 3. How do you approach the viva preparation and defense coaching?",
+      "one_line_summary": "Strong fit for the job with a background in ESL teaching, academic supervision, and legal translation."
+    },
+    "ai_insight": "Strong fit for the job with a background in ESL teaching, academic supervision, and legal translation.",
+    "ai_overall_score": 89,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation skills",
+      "ESL teaching experience",
+      "Legal translation experience"
+    ],
+    "ai_gaps": [
+      "No specific programming languages or engineering experience"
+    ],
+    "ai_recommendation": "Strong fit for the job. Suitable for building a career in translation and academic services.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a legal translation you've worked on? 3. How do you approach the viva preparation and defense coaching?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "URBAN HEALTH PLAN, INC.",
+      "legitimacy_score": 65,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board",
+        "Appears to be registered business"
+      ],
+      "last_updated": "2026-10-07T13:21:14.093905+00:00"
+    },
+    "company_legitimacy": 65,
+    "company_summary": "2 positive signals",
+    "score_adjustment": 4,
+    "ai_cover_letter_content": {
+      "opening": "Dear Hiring Manager at URBAN HEALTH PLAN, INC.,",
+      "experience": "As a highly skilled Medical Assistant/Certified Phlebotomy Technician with an MA in Applied Linguistics and a BA in English Language, I am excited about the opportunity to join your esteemed organization. My bilingual proficiency in English and Arabic, combined with my experience in academic supervision, instructional skills, and cultural communication, make me a perfect fit for this role. My goal is to utilize my expertise to enhance patient care and provide a high level of service.",
+      "skills": "I bring a strong foundation in academic supervision, instructional skills, and a native fluency in Arabic and C1 Advanced English. My experience as an ESL teacher and partner at various educational institutions, including an academic integrity compliance role, has honed my ability to guide and mentor students, which I can confidently apply to the medical field.",
+      "closing": "I am eager to bring my dedication, expertise, and passion for education to the Medical Assistant/Certified Phlebotomy Technician position at URBAN HEALTH PLAN, INC. I am available for an interview to discuss how my skills and experiences can contribute to the success of this team. Thank you for considering my application. I look forward to the possibility of further discussing my qualifications and how I can make a meaningful impact in the field.",
+      "candidate": "Mr. Waleed Ballag"
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/URBAN HEALTH PLAN, INC._Medical Assistant-Certified Phlebotomy Technician _20261007.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/URBAN HEALTH PLAN, INC._Medical Assistant-Certified Phlebotomy Technician _20261007.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-07T13:21:29.168066+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
