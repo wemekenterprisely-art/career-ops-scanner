@@ -2,42 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Khidmah": {
-    "name": "Khidmah",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-07T13:19:28.708497+00:00"
-  },
-  "UNBOX Community": {
-    "name": "UNBOX Community",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-07T13:19:28.709029+00:00"
-  },
-  "WPWeb Infotech": {
-    "name": "WPWeb Infotech",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-07T13:19:28.709417+00:00"
-  },
   "X-Rite": {
     "name": "X-Rite",
     "legitimacy_score": 50,
@@ -1406,5 +1370,18 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-07T05:20:46.881823+00:00"
+  },
+  "URBAN HEALTH PLAN, INC.": {
+    "name": "URBAN HEALTH PLAN, INC.",
+    "legitimacy_score": 65,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board",
+      "Appears to be registered business"
+    ],
+    "last_updated": "2026-10-07T13:21:14.093905+00:00"
   }
 }
