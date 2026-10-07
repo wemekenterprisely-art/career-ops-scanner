@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-09-06T16:33:13.233637+00:00",
-    "matched_count": 1,
-    "all_count": 4422,
-    "jobs": [
-      {
-        "title": "Executive Assistant at a Global Business (Remote, SEA Based)",
-        "company": "himalayas_app",
-        "url": "https://himalayas.app/companies/paired-so/jobs/executive-assistant-at-a-global-business-remote-sea-based",
-        "score": 100,
-        "category": "Admin",
-        "source": "himalayas_app"
-      }
-    ]
-  },
-  {
     "date": "2026-09-06T18:23:35.894736+00:00",
     "matched_count": 1,
     "all_count": 4420,
@@ -3581,6 +3566,61 @@
         "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
         "company": "Kreyco",
         "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4476375057",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-07T05:22:41.128156+00:00",
+    "matched_count": 6,
+    "all_count": 4754,
+    "jobs": [
+      {
+        "title": "Excel Data Entry from Word",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-analysis/Excel-Data-Entry-from-Word-40754533.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Digital Data Entry to Excel -- 2",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/visual-basic/Digital-Data-Entry-Excel.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "IELTS & Academic English Teacher",
+        "company": "The Rainbow Services",
+        "url": "https://vn.linkedin.com/jobs/view/ielts-academic-english-teacher-at-the-rainbow-services-4475166260",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Content Editor",
+        "company": "Siege Media",
+        "url": "https://www.linkedin.com/jobs/view/content-editor-at-siege-media-4476528570",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      },
+      {
+        "title": "Translate Website to UAE Arabic",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/website-localization/Translate-Website-UAE-Arabic",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Tutor (Fully Remote)",
+        "company": "Flalingo",
+        "url": "https://tr.linkedin.com/jobs/view/english-tutor-fully-remote-at-flalingo-4475139229",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
