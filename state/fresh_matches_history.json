@@ -1762,6 +1762,337 @@
     "scan_date": "2026-10-06T20:21:09.351043+00:00"
   },
   {
+    "title": "IELTS & Academic English Teacher",
+    "company": "The Rainbow Services",
+    "url": "https://vn.linkedin.com/jobs/view/ielts-academic-english-teacher-at-the-rainbow-services-4475166260",
+    "location": "Remote \u2014 Hanoi Capital Region",
+    "posted": "2026-10-07",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-07T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.24323058611111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires ESL teaching, academic supervision, and bidirectional translation, which are all skills related to the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and bidirectional translation, which are all directly applicable to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background and skills align well with the remote, academic, and flexible nature of the job, with no significant friction."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, worldwide, and compatible with the candidate's skills and experience."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job, focusing on translation, teaching, and academic supervision, which are all areas where the candidate can grow and contribute."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Bidirectional translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate's strong background in ESL teaching, academic supervision, and bidirectional translation makes them a strong fit for the IELTS & Academic English Teacher position. They can build upon their skills to contribute to the company's academic services and graduate-level research supervision.",
+      "interview_prep": [
+        "What is your experience in academic supervision and research guidance?",
+        "Can you describe a time when you translated legal documents for a client?",
+        "How do you approach the development of a new curriculum in the field of English language instruction?"
+      ],
+      "one_line_summary": "A highly skilled ESL instructor with extensive academic supervision and translation experience perfectly aligns with the IELTS & Academic English Teacher position."
+    },
+    "ai_insight": "A highly skilled ESL instructor with extensive academic supervision and translation experience perfectly aligns with the IELTS & Academic English Teacher position.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Bidirectional translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate's strong background in ESL teaching, academic supervision, and bidirectional translation makes them a strong fit for the IELTS & Academic English Teacher position. They can build upon their skills to contribute to the company's academic services and graduate-level research supervision.",
+    "ai_interview_prep": [
+      "What is your experience in academic supervision and research guidance?",
+      "Can you describe a time when you translated legal documents for a client?",
+      "How do you approach the development of a new curriculum in the field of English language instruction?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@vn.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@vn.linkedin.com",
+      "hr@vn.linkedin.com",
+      "jobs@vn.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "The Rainbow Services",
+      "legitimacy_score": 65,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board",
+        "Appears to be registered business"
+      ],
+      "last_updated": "2026-10-07T05:20:46.878492+00:00"
+    },
+    "company_legitimacy": 65,
+    "company_summary": "2 positive signals",
+    "score_adjustment": 4,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/The Rainbow Services_IELTS & Academic English Teacher_20261007.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/The Rainbow Services_IELTS & Academic English Teacher_20261007.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-07T05:22:17.482329+00:00"
+  },
+  {
+    "title": "Content Editor",
+    "company": "Siege Media",
+    "url": "https://www.linkedin.com/jobs/view/content-editor-at-siege-media-4476528570",
+    "location": "Remote \u2014 Chicago, IL",
+    "posted": "2026-10-07",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-10-07T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.24323135,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, aligns with the job description of Content Editor."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Has direct experience in academic supervision and research guidance, closely matches the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment aligns well with the candidate's preference, and the candidate's experience in language services and education makes them a good fit."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's preference."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligns well with the job description of Content Editor."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Language skills",
+        "Academic experience",
+        "Remote work preference"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Content Editor role. His background in ESL teaching and academic supervision, combined with his language skills and experience in academic services, makes him an excellent candidate for this position.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the translation of legal documents? 3. Can you describe a project where you used SPSS for data analysis?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Content Editor role with his language skills and academic experience."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Content Editor role with his language skills and academic experience.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Language skills",
+      "Academic experience",
+      "Remote work preference"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Content Editor role. His background in ESL teaching and academic supervision, combined with his language skills and experience in academic services, makes him an excellent candidate for this position.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the translation of legal documents? 3. Can you describe a project where you used SPSS for data analysis?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Siege Media",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-07T05:20:46.880128+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Siege Media_Content Editor_20261007.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Siege Media_Content Editor_20261007.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-07T05:22:17.482329+00:00"
+  },
+  {
+    "title": "English Tutor (Fully Remote)",
+    "company": "Flalingo",
+    "url": "https://tr.linkedin.com/jobs/view/english-tutor-fully-remote-at-flalingo-4475139229",
+    "location": "Remote \u2014 Greater Istanbul",
+    "posted": "2026-10-06",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-06T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 29.24323091277778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires language skills, writing, and academic work, which aligns with the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and legal translation, which is directly related to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background and skills align well with the remote, academic, and flexible nature of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is open to remote work and the job is located in Istanbul, which is compatible with the candidate's skills and preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirements for stable, remote work, long-term client relationships, and academic services."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Experience in academic supervision",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the English Tutor role at Flalingo. His background in ESL teaching, academic supervision, and legal translation aligns well with the job requirements, and his remote work experience makes him a good fit for the company's culture.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure the accuracy of academic writing? 3. Can you share an experience where you translated legal documents?",
+      "one_line_summary": "Waleed Ballag is a strong fit for Flalingo's English Tutor role due to his extensive language skills and academic experience."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for Flalingo's English Tutor role due to his extensive language skills and academic experience.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Experience in academic supervision",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the English Tutor role at Flalingo. His background in ESL teaching, academic supervision, and legal translation aligns well with the job requirements, and his remote work experience makes him a good fit for the company's culture.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure the accuracy of academic writing? 3. Can you share an experience where you translated legal documents?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@tr.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@tr.linkedin.com",
+      "hr@tr.linkedin.com",
+      "jobs@tr.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Flalingo",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-07T05:20:46.881823+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Flalingo_English Tutor (Fully Remote)_20261007.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Flalingo_English Tutor (Fully Remote)_20261007.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-07T05:22:17.482329+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -3429,6 +3760,320 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-06T20:21:09.351043+00:00"
+  },
+  {
+    "title": "Excel Data Entry from Word",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/data-analysis/Excel-Data-Entry-from-Word-40754533.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Wed, 07 Oct 2026 01:05:01 -0400",
+    "description": "I have several Word documents containing a mix of text and numbers that must be transferred into a well-structured Excel workbook. Your task is to extract the information accurately, enter it into the correct columns, and apply basic formatting so the sheet is clear and ready for analysis... (Budget: \u20b91250 - \u20b92500 INR, Jobs: Data Analysis, Data Entry, Data Extraction, Data Processing, Excel, Microsoft Office, Microsoft Word, Word)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-10-07T01:05:01-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.1597553902777778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires data entry from Word documents, which is a skill that aligns with the candidate's experience in ESL teaching and academic supervision."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the job description."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services and remote work aligns well with the data entry role, making them a strong fit."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which aligns with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals of securing stable remote work and growing into senior roles align well with the data entry job."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "academic supervision",
+        "legal translation"
+      ],
+      "gaps": [
+        "no gaps"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Excel Data Entry role at Freelancer.com. Their skills in ESL teaching, academic supervision, and legal translation make them a perfect match for this data entry job.",
+      "interview_prep": "1. Can you describe a time when you supervised a student's research project? 2. How do you ensure accuracy in data entry from Word documents? 3. Can you walk us through a typical day in your role as an ESL instructor?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Excel Data Entry role at Freelancer.com, with skills in ESL teaching, academic supervision, and legal translation."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Excel Data Entry role at Freelancer.com, with skills in ESL teaching, academic supervision, and legal translation.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "academic supervision",
+      "legal translation"
+    ],
+    "ai_gaps": [
+      "no gaps"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Excel Data Entry role at Freelancer.com. Their skills in ESL teaching, academic supervision, and legal translation make them a perfect match for this data entry job.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a student's research project? 2. How do you ensure accuracy in data entry from Word documents? 3. Can you walk us through a typical day in your role as an ESL instructor?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Excel Data Entry from Word_20261007.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Excel Data Entry from Word_20261007.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-07T05:22:17.482329+00:00"
+  },
+  {
+    "title": "Digital Data Entry to Excel -- 2",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/visual-basic/Digital-Data-Entry-Excel.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Wed, 07 Oct 2026 00:54:30 -0400",
+    "description": "I have a collection of existing digital files\u2014mainly Word documents and some scattered Excel sheets\u2014containing a mix of numbers and text. I need every record transferred, validated, and neatly organized into a single, well-structured Excel workbook... (Budget: \u20b92500 - \u20b93000 INR, Jobs: Data Analysis, Data Cleansing, Data Entry, Data Management, Data Processing, Excel, Microsoft Office, Visual Basic)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-10-07T00:54:30-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.33503524444444444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires transferring and organizing digital files, which aligns with the candidate's experience in academic supervision and data management."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Candidate has direct experience in academic supervision and data management, which is relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic supervision and data management aligns well with the remote, flexible, and academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which matches the candidate's remote work experience and location."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's potential for long-term client relationships and academic services."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision",
+        "Data Management",
+        "Remote Work Experience"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "This candidate has strong skills in academic supervision and data management, making them a strong fit for the Digital Data Entry to Excel role. They can build on their existing experience to grow into senior roles in translation or academic services.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure data accuracy in your work? 3. What is your experience with Microsoft Office and Excel?",
+      "one_line_summary": "Waleed Ballag's strong background in academic supervision and data management makes them a strong fit for the Digital Data Entry to Excel role."
+    },
+    "ai_insight": "Waleed Ballag's strong background in academic supervision and data management makes them a strong fit for the Digital Data Entry to Excel role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision",
+      "Data Management",
+      "Remote Work Experience"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "This candidate has strong skills in academic supervision and data management, making them a strong fit for the Digital Data Entry to Excel role. They can build on their existing experience to grow into senior roles in translation or academic services.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure data accuracy in your work? 3. What is your experience with Microsoft Office and Excel?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Digital Data Entry to Excel -- 2_20261007.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Digital Data Entry to Excel -- 2_20261007.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-07T05:22:17.482329+00:00"
+  },
+  {
+    "title": "Translate Website to UAE Arabic",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/website-localization/Translate-Website-UAE-Arabic",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-06T21:33:00+00:00",
+    "description": "I need the existing English strings from my website rendered into authentic UAE Arabic. You will work with the source text exactly as provided\u2014headings, buttons, error messages, short paragraphs, and any micro-copy that guides users through the site. Tone and terminology have to feel native to Emirati readers, so please adapt idioms, date formats, and common e-commerce phrases rather than translating word-for-word. Accuracy matters: every term must preserve its original intent and function while sounding natural in a modern web context. I will supply the master file in the same format you must return, mirroring keys, placeholders, and punctuation so my developer can drop the translations straight into production without extra cleanup. I\u2019m looking for: \u2022 A native or near-native UAE Arabic speaker with proven website or app localisation experience \u2022 Consistent style, free of spelling or diacritical errors \u2022 Fast yet careful turnaround\u2014let me know your realistic timeline up front Before final delivery, please run a context check to be sure each string flows correctly when viewed on a screen. If anything is unclear during the process, ask; I prefer a quick note over a silent guess. Once complete, I\u2019ll run the site through staging and confirm acceptance.",
+    "salary": "15.0-25.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-06T21:33:00+00:00",
+    "score": 97,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic speaker native fluent bilingual .{0,40} translator editor content localis translation localization (description)",
+      "arabic speaker native fluent bilingual (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 7.693233601944444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires UAE Arabic translation, ESL, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "Related experience in language services and academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, or compatible"
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "UAE Arabic translation",
+        "ESL and academic supervision experience"
+      ],
+      "gaps": [
+        "No direct experience in engineering or programming"
+      ],
+      "recommendation": "Waleed Ballag is highly aligned with the job requirements and has the necessary skills to excel in the translation and academic roles.",
+      "interview_prep": "1. Can you describe a time when you translated a complex academic paper into a clear, accessible format? 2. How do you ensure accuracy in your translations? 3. Can you share a project where you supervised a group of graduate students in research writing?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the UAE Arabic translation job with relevant skills and experience.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the UAE Arabic translation job with relevant skills and experience.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "UAE Arabic translation",
+      "ESL and academic supervision experience"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or programming"
+    ],
+    "ai_recommendation": "Waleed Ballag is highly aligned with the job requirements and has the necessary skills to excel in the translation and academic roles.",
+    "ai_interview_prep": "1. Can you describe a time when you translated a complex academic paper into a clear, accessible format? 2. How do you ensure accuracy in your translations? 3. Can you share a project where you supervised a group of graduate students in research writing?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "urgency_score": 0,
+    "desperation_index": 15,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 36,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Translate Website to UAE Arabic_20261007.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Translate Website to UAE Arabic_20261007.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-07T05:22:17.482329+00:00"
   },
   {
     "title": "Rapid AI Reels Content Creation",
