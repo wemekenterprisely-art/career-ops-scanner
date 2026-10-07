@@ -2,64 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "X-Rite": {
-    "name": "X-Rite",
-    "legitimacy_score": 50,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [],
-    "last_updated": "2026-09-07T20:21:18.148561+00:00"
-  },
-  "ASK Solutions KSA": {
-    "name": "ASK Solutions KSA",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-07T20:21:18.149136+00:00"
-  },
-  "Tusclasesparticulares": {
-    "name": "Tusclasesparticulares",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-07T20:21:18.236836+00:00"
-  },
-  "Kreyco": {
-    "name": "Kreyco",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-07T20:21:18.237169+00:00"
-  },
-  "WPP Production": {
-    "name": "WPP Production",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-07T20:21:18.237833+00:00"
-  },
   "Digital Shift\u00ae": {
     "name": "Digital Shift\u00ae",
     "legitimacy_score": 60,
@@ -1383,5 +1325,17 @@
       "Appears to be registered business"
     ],
     "last_updated": "2026-10-07T13:21:14.093905+00:00"
+  },
+  "FKH for iron and steel": {
+    "name": "FKH for iron and steel",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-07T20:22:57.060269+00:00"
   }
 }
