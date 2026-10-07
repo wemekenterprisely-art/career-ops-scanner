@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-06T18:27:38.987050+00:00",
-    "matched_count": 0,
-    "all_count": 4420,
-    "jobs": []
-  },
-  {
     "date": "2026-09-06T18:31:51.376593+00:00",
     "matched_count": 0,
     "all_count": 4420,
@@ -3623,6 +3617,45 @@
         "url": "https://www.linkedin.com/jobs/view/medical-assistant-certified-phlebotomy-technician-bilingual-english-arabic-at-urban-health-plan-inc-4475416306",
         "score": 100,
         "category": "Arabic Translation",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-07T20:24:20.880884+00:00",
+    "matched_count": 4,
+    "all_count": 4762,
+    "jobs": [
+      {
+        "title": "Verbatim Hearing Audio Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/legal-writing/Verbatim-Hearing-Audio-Transcription.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Digital Operations Virtual Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/social-media-management/Digital-Operations-Virtual-Assistant",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Arabic-Turkish Translator",
+        "company": "FKH for iron and steel",
+        "url": "https://iq.linkedin.com/jobs/view/arabic-turkish-translator-at-fkh-for-iron-and-steel-4474413610",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Instructor (Full Time - Part Time)",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/english-instructor-full-time-part-time-at-4level1-4476765433",
+        "score": 100,
+        "category": "ESL",
         "source": "linkedin"
       }
     ]
