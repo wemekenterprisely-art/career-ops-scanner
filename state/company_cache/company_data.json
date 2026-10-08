@@ -2,54 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Digital Shift\u00ae": {
-    "name": "Digital Shift\u00ae",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-08T05:17:16.565751+00:00"
-  },
-  "Concentrix": {
-    "name": "Concentrix",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-08T05:17:16.566451+00:00"
-  },
-  "NIIT": {
-    "name": "NIIT",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-08T05:17:16.567106+00:00"
-  },
-  "Swissport": {
-    "name": "Swissport",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-08T05:17:16.567693+00:00"
-  },
   "PakWheels.com": {
     "name": "PakWheels.com",
     "legitimacy_score": 60,
@@ -1337,5 +1289,41 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-07T20:22:57.060269+00:00"
+  },
+  "Dominislearning": {
+    "name": "Dominislearning",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-08T11:54:28.684920+00:00"
+  },
+  "English 1": {
+    "name": "English 1",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-08T11:54:28.686396+00:00"
+  },
+  "Cure Organics": {
+    "name": "Cure Organics",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-08T11:54:28.687546+00:00"
   }
 }
