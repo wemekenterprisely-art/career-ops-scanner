@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-06T18:31:51.376593+00:00",
-    "matched_count": 0,
-    "all_count": 4420,
-    "jobs": []
-  },
-  {
     "date": "2026-09-06T21:00:09.148662+00:00",
     "matched_count": 9,
     "all_count": 4730,
@@ -3657,6 +3651,45 @@
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08T11:55:42.377962+00:00",
+    "matched_count": 4,
+    "all_count": 4767,
+    "jobs": [
+      {
+        "title": "English Teacher",
+        "company": "Dominislearning",
+        "url": "https://in.linkedin.com/jobs/view/english-teacher-at-dominislearning-4475776566",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Entry-Level English Teacher",
+        "company": "English 1",
+        "url": "https://au.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4476725251",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Computer Science Proofreader",
+        "company": "Cure Organics",
+        "url": "https://in.linkedin.com/jobs/view/computer-science-proofreader-at-cure-organics-4475753940",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      },
+      {
+        "title": "Part Time English Language Teacher",
+        "company": "UNOG - United Nations Office at Geneva",
+        "url": "https://www.impactpool.org/jobs/1239784",
+        "score": 100,
+        "category": "ESL",
+        "source": "impactpool"
       }
     ]
   }
