@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-06T22:32:12.636874+00:00",
-    "matched_count": 0,
-    "all_count": 4751,
-    "jobs": []
-  },
-  {
     "date": "2026-09-06T22:36:21.536339+00:00",
     "matched_count": 0,
     "all_count": 4751,
@@ -3682,6 +3676,21 @@
         "url": "https://ca.linkedin.com/jobs/view/bil-en-fr-proofreader-at-notified-4477832588",
         "score": 100,
         "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-09T23:56:36.175416+00:00",
+    "matched_count": 1,
+    "all_count": 4781,
+    "jobs": [
+      {
+        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://au.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4477632771",
+        "score": 100,
+        "category": "ESL",
         "source": "linkedin"
       }
     ]
