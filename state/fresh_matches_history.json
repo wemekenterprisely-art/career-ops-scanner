@@ -3101,6 +3101,224 @@
     "scan_date": "2026-10-09T11:44:00.106198+00:00"
   },
   {
+    "title": "Online English Teacher",
+    "company": "Connect recruiting Agnecy",
+    "url": "https://vn.linkedin.com/jobs/view/online-english-teacher-at-connect-recruiting-agnecy-4477812370",
+    "location": "Remote \u2014 Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+    "posted": "2026-10-09",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-09T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 18.708078708888888,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires Arabic-English translation and academic supervision, which aligns with the candidate's background and skills."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and research guidance, which is directly applicable to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and research supervision aligns well with the remote, academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is located worldwide, making it a compatible fit."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirements for remote work and academic services."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "academic supervision",
+        "language skills"
+      ],
+      "gaps": [
+        "none"
+      ],
+      "recommendation": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him a strong fit for the Online English Teacher position. His skills in translation and research supervision will be valuable in this role.",
+      "interview_prep": "1. Can you describe a time when you supervised a student's research project? 2. How do you ensure the accuracy of translations in legal documents? 3. Can you share an experience where you had to adapt your teaching methods to meet the needs of a diverse student body?",
+      "one_line_summary": "ESL instructor with extensive academic supervision and legal translation experience, a strong fit for the Online English Teacher position."
+    },
+    "ai_insight": "ESL instructor with extensive academic supervision and legal translation experience, a strong fit for the Online English Teacher position.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "academic supervision",
+      "language skills"
+    ],
+    "ai_gaps": [
+      "none"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him a strong fit for the Online English Teacher position. His skills in translation and research supervision will be valuable in this role.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a student's research project? 2. How do you ensure the accuracy of translations in legal documents? 3. Can you share an experience where you had to adapt your teaching methods to meet the needs of a diverse student body?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@vn.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@vn.linkedin.com",
+      "hr@vn.linkedin.com",
+      "jobs@vn.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Connect recruiting Agnecy",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-09T18:46:37.848486+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Connect recruiting Agnecy_Online English Teacher_20261009.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Connect recruiting Agnecy_Online English Teacher_20261009.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-09T18:47:38.182349+00:00"
+  },
+  {
+    "title": "BIL (EN/FR) Proofreader",
+    "company": "Notified",
+    "url": "https://ca.linkedin.com/jobs/view/bil-en-fr-proofreader-at-notified-4477832588",
+    "location": "Remote \u2014 Greater Toronto and Hamilton Area, Ontario, Canada",
+    "posted": "2026-10-09",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-10-09T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 18.70807913972222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Job requires Arabic-English translation, academic supervision, and language skills, but not engineering or programming."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in ESL teaching, academic supervision, and language skills, but not in engineering or programming."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment, aligns well with career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's preference."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns well with career goals."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Language Skills"
+      ],
+      "gaps": [
+        "Programming Languages",
+        "US/EU Citizenship"
+      ],
+      "recommendation": "Candidate's strong background in language instruction and academic supervision makes them a strong fit for the BIL (EN/FR) Proofreader role. Their skills in ESL/EFL instruction and academic supervision align well with the job requirements, and they can build on their experience in language instruction and academic supervision to grow in a senior translator or academic coordinator role.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study and its outcomes? 2. How do you approach proofreading and ensuring accuracy in translations? 3. Can you discuss a project where you used SPSS for data analysis?",
+      "one_line_summary": "Waleed Ballag's strong background in ESL/EFL instruction and academic supervision makes them a strong fit for the BIL (EN/FR) Proofreader role, aligning well with their career goals."
+    },
+    "ai_insight": "Waleed Ballag's strong background in ESL/EFL instruction and academic supervision makes them a strong fit for the BIL (EN/FR) Proofreader role, aligning well with their career goals.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Language Skills"
+    ],
+    "ai_gaps": [
+      "Programming Languages",
+      "US/EU Citizenship"
+    ],
+    "ai_recommendation": "Candidate's strong background in language instruction and academic supervision makes them a strong fit for the BIL (EN/FR) Proofreader role. Their skills in ESL/EFL instruction and academic supervision align well with the job requirements, and they can build on their experience in language instruction and academic supervision to grow in a senior translator or academic coordinator role.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study and its outcomes? 2. How do you approach proofreading and ensuring accuracy in translations? 3. Can you discuss a project where you used SPSS for data analysis?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@ca.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ca.linkedin.com",
+      "hr@ca.linkedin.com",
+      "jobs@ca.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Notified",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-30T05:19:58.787605+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Notified_BIL (EN-FR) Proofreader_20261009.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Notified_BIL (EN-FR) Proofreader_20261009.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-09T18:47:38.182349+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -5879,6 +6097,218 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-09T11:44:00.106198+00:00"
+  },
+  {
+    "title": "Proofread Sinhala App Strings",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/translation/Proofread-Sinhala-App-Strings",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-09T15:35:38+00:00",
+    "description": "I have a Google Sheets file with 165 short strings for my mobile app. Column C holds the original English copy, while Column D already contains a Sinhala translation that now needs a careful pass for contextual accuracy. Column B is simply the screen or component label, so it stays untouched. The job is straightforward: read each Sinhala string, compare it to its English source, and correct or comment wherever the meaning feels off in context. Grammar and spelling tweaks are welcome if you spot them, yet my top priority is ensuring every phrase sounds natural to a native Sinhala speaker and matches the intention of the app\u2019s UI. Deliverable: \u2022 Updated Sheet with refined Sinhala text in Column D, leaving cell structure intact. Please work directly in the shared spreadsheet so I can track edits in real time.",
+    "salary": "10.0-30.0 CAD",
+    "source": "freelancer",
+    "postedISO": "2026-10-09T15:35:38+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.114191146388889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job involves proofreading Sinhala strings, which aligns with the candidate's expertise in academic supervision and translation."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in academic supervision, translation, and proofreading, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in ESL instruction and academic supervision suggests a strong fit for remote work and academic environments."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which aligns with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the translation and academic supervision roles in the job description."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision",
+        "Remote Work",
+        "Translation Expertise"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "This candidate would excel in a role that combines academic supervision and translation, particularly in a remote, worldwide setting.",
+      "interview_prep": "1. Can you describe a time when you had to proofread and ensure the accuracy of Sinhala translations for an academic project? 2. What is your experience with proofreading and ensuring the context of Sinhala strings in a mobile app? 3. How do you handle conflicting translations in academic supervision roles?",
+      "one_line_summary": "Waleed Ballag's background in ESL and academic supervision makes him a strong fit for the Sinhala app proofreading job."
+    },
+    "ai_insight": "Waleed Ballag's background in ESL and academic supervision makes him a strong fit for the Sinhala app proofreading job.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision",
+      "Remote Work",
+      "Translation Expertise"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "This candidate would excel in a role that combines academic supervision and translation, particularly in a remote, worldwide setting.",
+    "ai_interview_prep": "1. Can you describe a time when you had to proofread and ensure the accuracy of Sinhala translations for an academic project? 2. What is your experience with proofreading and ensuring the context of Sinhala strings in a mobile app? 3. How do you handle conflicting translations in academic supervision roles?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Proofread Sinhala App Strings_20261009.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Proofread Sinhala App Strings_20261009.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-09T18:47:38.182349+00:00"
+  },
+  {
+    "title": "Website Migration & UAE PPC Specialist",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/ppc-marketing/Website-Migration-UAE-PPC-Specialist",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-09T13:01:09+00:00",
+    "description": "WordPress & Arabic PPC Expert Needed: 1:1 Website Migration from Base44 + Dubai Campaigns (UAE Based Preferred) Project Description: I am looking for an experienced WordPress developer and digital marketer to migrate an existing website built on Base44 into WordPress, localize it for the Dubai market, and manage targeted Arabic paid ad campaigns. Key Requirements: UAE Location Preferred: Strong preference will be given to candidates currently based in the UAE / Dubai who have direct, hands-on experience with the local consumer market and nuances. Native Arabic Speaker: Flawless Arabic writing and localization (RTL layout, local terminology, tone of voice suited specifically for the UAE audience). 1:1 Pixel-Perfect Replication: Exact duplicate of the original site\u2019s layout, animations, typography, and styling. Visual Builder (Live Sections & Preview): Built using a visual builder (e.g., Elementor or Gutenberg Blocks). All pages and sections must be independently editable via a live visual editor without code modifications. Paid Campaign Setup & Management: Proven track record in setting up and managing Arabic PPC and social campaigns (Google Ads, Meta/Instagram) targeting audiences in Dubai and the GCC. Tracking & Performance: Full setup of GA4, Meta Pixel, Conversion API, and on-page SEO best practices for fast mobile loading. To Apply, Please Provide: 1. Your current location (City/Country). 2. Portfolio links of WordPress websites built with visual page builders. 3. Examples/case studies of Arabic marketing campaigns you have managed in the UAE. 4. Your preferred visual builder for this project. The original Base44 link will be provided to shortlisted candidates to finalize scope, timeline, and milestones.",
+    "salary": "30.0-250.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-09T13:01:09+00:00",
+    "score": 97,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic speaker native fluent bilingual .{0,40} translator editor content localis translation localization (description)",
+      "arabic speaker native fluent bilingual (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.6889148775,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Requires language skills, writing, and academic work, aligns with the job's need for translation, ESL teaching, and academic supervision."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in translation, ESL teaching, and academic supervision, closely matches the job's requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment, aligns well with the job's nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirement for worldwide work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns well with the job's requirements."
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "Language skills",
+        "Academic background",
+        "Remote work experience"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's strong fit for the Freelancer.com job aligns perfectly with his background in ESL teaching, academic supervision, and language skills. His experience in translation and academic writing will be well-suited to the job's requirements.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the localization of a website for the UAE market? 3. Can you describe a time when you had to adapt to a new language and culture in your work?",
+      "one_line_summary": "Waleed Ballag's strong fit for the Freelancer.com job aligns perfectly with his background in ESL teaching, academic supervision, and language skills. His experience in translation and academic writing will be well-suited to the job's requirements.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the Freelancer.com job aligns perfectly with his background in ESL teaching, academic supervision, and language skills. His experience in translation and academic writing will be well-suited to the job's requirements.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "Language skills",
+      "Academic background",
+      "Remote work experience"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong fit for the Freelancer.com job aligns perfectly with his background in ESL teaching, academic supervision, and language skills. His experience in translation and academic writing will be well-suited to the job's requirements.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the localization of a website for the UAE market? 3. Can you describe a time when you had to adapt to a new language and culture in your work?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 15,
+    "pain_points": "No native QA, backlog of Arabic content",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 36,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Website Migration & UAE PPC Specialist_20261009.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Website Migration & UAE PPC Specialist_20261009.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-09T18:47:38.182349+00:00"
   },
   {
     "title": "Excel, Translation, Canva & CapCut Freelance Services",
