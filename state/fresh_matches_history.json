@@ -2985,6 +2985,122 @@
     "scan_date": "2026-10-09T00:15:48.211792+00:00"
   },
   {
+    "title": "English Tutor",
+    "company": "Codeyoung",
+    "url": "https://ph.linkedin.com/jobs/view/english-tutor-at-codeyoung-4477629546",
+    "location": "Remote \u2014 Philippines",
+    "posted": "2026-10-09",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-09T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 11.70331517611111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 50,
+        "reason": "Requires language skills, writing, and academic work, but not exclusively Arabic-English translation or ESL teaching."
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Direct experience in academic supervision and research guidance, but not exclusively in Arabic-English translation or ESL teaching."
+      },
+      "behavioral_fit": {
+        "score": 60,
+        "reason": "Remote work and flexible environment, but some friction in academic supervision and client relationships."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible, but requires visa sponsorship."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward translation/teaching/academic career, but not exclusively in these areas."
+      },
+      "overall_score": 75,
+      "verdict": "Good Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision & Research Guidance",
+        "Data Analysis (SPSS, thematic coding)"
+      ],
+      "gaps": [
+        "On-site presence in specific city",
+        "US/EU citizenship required"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the English Tutor position at Codeyoung. His background in academic supervision and research guidance aligns well with the job requirements, and his language skills and experience in translation and editing are valuable assets. The remote work and flexible environment are a good match, but the need for visa sponsorship is a dealbreaker. He has the potential to grow into a senior translator or academic coordinator role, which is a positive career trajectory.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you handle client relationships in an academic setting? 3. Can you provide examples of how you have used SPSS and thematic coding in your work?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the English Tutor position at Codeyoung, with experience in academic supervision, research guidance, and language skills. The remote work and flexible environment are a good match, but visa sponsorship is a dealbreaker."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the English Tutor position at Codeyoung, with experience in academic supervision, research guidance, and language skills. The remote work and flexible environment are a good match, but visa sponsorship is a dealbreaker.",
+    "ai_overall_score": 75,
+    "ai_verdict": "Good Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision & Research Guidance",
+      "Data Analysis (SPSS, thematic coding)"
+    ],
+    "ai_gaps": [
+      "On-site presence in specific city",
+      "US/EU citizenship required"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the English Tutor position at Codeyoung. His background in academic supervision and research guidance aligns well with the job requirements, and his language skills and experience in translation and editing are valuable assets. The remote work and flexible environment are a good match, but the need for visa sponsorship is a dealbreaker. He has the potential to grow into a senior translator or academic coordinator role, which is a positive career trajectory.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you handle client relationships in an academic setting? 3. Can you provide examples of how you have used SPSS and thematic coding in your work?",
+    "ai_technical_skills": 50,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 60,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@ph.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ph.linkedin.com",
+      "hr@ph.linkedin.com",
+      "jobs@ph.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Codeyoung",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-09T11:43:27.529904+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am reaching out to express my enthusiasm for the English Tutor position at Codeyoung. As a highly skilled English teacher with extensive experience and academic background, I am eager to contribute my expertise to your esteemed organization. My academic qualifications, including my MA in Applied Linguistics and BA in English Language, align perfectly with the skills required for this role.",
+      "experience": "In my previous roles, I have honed my abilities in teaching English as a second language (ESL) and enhancing educational content for both primary and secondary levels. My experience at higher institutes and private schools has equipped me with the necessary knowledge and techniques to effectively tutor students remotely and in-person, ensuring they achieve academic success.",
+      "skills": "My proficiency in academic supervision, research guidance, editing, and thesis development positions me well in this role. I am also adept at using Microsoft Office, Adobe Photoshop, SPSS, and other software essential for academic and professional tasks. My native language skills in Arabic and advanced English proficiency (C1) and ability to provide Arabic-English bidirectional translation make me well-suited for the demands of the position.",
+      "closing": "I am available to discuss this opportunity further and would appreciate the chance to interview for this position. Please find my full resume attached for your reference. Thank you for considering my application. I look forward to the possibility of working with your esteemed company and contributing to your continued success. Best regards, Mr. Waleed Ballag"
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Codeyoung_English Tutor_20261009.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Codeyoung_English Tutor_20261009.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-09T11:44:00.106198+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -5543,6 +5659,226 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-09T00:15:48.211792+00:00"
+  },
+  {
+    "title": "Key Account Virtual Assistant Needed",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/crm/Key-Account-Virtual-Assistant-Needed",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-09T08:36:20+00:00",
+    "description": "I manage a growing key account and need a reliable virtual assistant who can step in for 21\u201330 hours each week. The bulk of the role revolves around keeping our day-to-day operations smooth through instant-messaging touchpoints, so you must be comfortable giving quick updates and receiving real-time instructions. Your core responsibilities will be: \u2022 Email management \u2013 triage, draft replies, flag priorities, and keep the inbox clean. \u2022 Scheduling appointments \u2013 coordinate internal and client meetings across multiple time zones without clashes. \u2022 Data entry \u2013 maintain accurate records in our CRM and spreadsheets so reports stay current. Consistency, attention to detail, and professional written English are essential. If you\u2019ve previously supported account managers or sales teams, that\u2019s a plus. Let me know your availability within the 21\u201330-hour window and any tools you\u2019re already proficient with. I\u2019m ready to get started this week.",
+    "salary": "750.0-1500.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-09T08:36:20+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.0977692544444446,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires language skills, writing, and academic work; some transferable skills."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Related experience in language services and academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, or compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency"
+      ],
+      "gaps": [
+        "No specific programming skills or engineering experience"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Key Account Virtual Assistant role. His ability to handle language and academic tasks makes him a strong fit for the position.",
+      "interview_prep": "1. Can you describe a time when you had to manage multiple time zones for client meetings? 2. How do you ensure accuracy in maintaining records in a CRM and spreadsheets? 3. Can you explain your approach to handling urgent email requests and maintaining a clean inbox?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Key Account Virtual Assistant role due to his language skills, academic background, and ability to work remotely."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Key Account Virtual Assistant role due to his language skills, academic background, and ability to work remotely.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency"
+    ],
+    "ai_gaps": [
+      "No specific programming skills or engineering experience"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Key Account Virtual Assistant role. His ability to handle language and academic tasks makes him a strong fit for the position.",
+    "ai_interview_prep": "1. Can you describe a time when you had to manage multiple time zones for client meetings? 2. How do you ensure accuracy in maintaining records in a CRM and spreadsheets? 3. Can you explain your approach to handling urgent email requests and maintaining a clean inbox?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 15,
+    "desperation_index": 5,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 36,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "Dear Hiring Manager, I am thrilled to apply for the Key Account Virtual Assistant position at Freelancer.com, as this role perfectly aligns with my skills and experience. With a strong background in academic supervision, research guidance, and ESL teaching, I am confident in my ability to manage the day-to-day operations seamlessly. My experience as an ESL teacher and secondary supervisor has equipped me with the necessary skills to handle the email management and scheduling responsibilities efficiently. My native fluency in both Arabic and English and proficiency in Microsoft Office Suite, Adobe Photoshop, and SPSS Statistical Analysis are crucial for the role.",
+      "experience": "In my roles as an ESL teacher at higher institutes and private schools, I have effectively managed email operations and scheduled appointments. My experience as a partner and supervisor also involves managing multiple tasks, which I believe aligns well with the responsibilities of the Key Account Virtual Assistant role.",
+      "skills": "I excel in academic supervision, research guidance, and academic editing, which are essential skills for the role. My experience as an ESL teacher and partner has prepared me for the management of clients and appointments. My native fluency in Arabic and English, along with proficiency in Microsoft Office, Adobe Photoshop, and SPSS, ensures I can maintain a smooth virtual communication and handle the day-to-day operations effectively.",
+      "closing": "I am enthusiastic about the opportunity to contribute to your team and contribute to the growth of Freelancer.com. I am available to discuss this position further and would be delighted to discuss how my skills can benefit your team. Please feel free to contact me at [Your Email] or [Your Phone Number]. I look forward to the possibility of joining your team and contributing to your mission. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Key Account Virtual Assistant Needed_20261009.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Key Account Virtual Assistant Needed_20261009.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-09T11:44:00.106198+00:00"
+  },
+  {
+    "title": "EN-HI Transcription & Annotation",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/audio-editing/Transcription-Annotation",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-09T04:14:10+00:00",
+    "description": "I have a batch of English-Hindi mixed audio that must be converted into clean, time-stamped text with rich linguistic annotation. Every utterance needs to be captured exactly as spoken (code-switching, fillers, pauses) and each speaker identified. I will supply the audio files in waves, along with a brief annotation guideline; you return a UTF-8 text or JSON file per recording plus the corresponding annotation layer. Average length per file is still to be confirmed\u2014my note currently shows \u201cAmmu,\u201d so treat duration as variable until I update you. Please include a brief remark in your bid about how you normally schedule and price work when file lengths shift at the last minute. Key deliverables \u2022 Verbatim English-Hindi transcription with speaker labels and time stamps every 30 seconds (or closer when speakers change) \u2022 Annotation layer marking code-switch points, fillers, overlaps, and any notable acoustic events (laughter, sighs, long silences) \u2022 Final QC pass to ensure >98 % accuracy on both transcription and tags \u2022 All files returned in the agreed format, compressed in a folder named by date I\u2019ll review the first file as a pilot; once approved, the remaining files will be released in batches. Fast turnaround, careful attention to bilingual detail, and comfort with annotation conventions are essential.",
+    "salary": "15.0-25.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-09T04:14:10+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 7.467215498888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires clean, time-stamped text with rich linguistic annotation, which aligns with the candidate's expertise in Arabic-English translation and academic supervision."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which are all relevant skills for the job."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and research supervision aligns well with the job's focus on academic writing and proposal development."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is available worldwide, which is compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals of securing stable remote work in translation or ESL teaching, building long-term client relationships, and contributing to graduate-level research supervision align with the job's focus on transcription and annotation."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Expertise in Arabic-English translation and academic supervision",
+        "Relevant experience in ESL teaching and academic supervision",
+        "Strong background in legal translation"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "The candidate's skills and experience perfectly match the job's requirements, making this a strong fit. The ability to provide clean, time-stamped text with rich linguistic annotation aligns well with the job's needs.",
+      "interview_prep": "1. Can you share an example of a transcription you've done that required speaker identification and time stamps every 30 seconds? 2. How do you typically price and schedule work when file lengths shift at the last minute?",
+      "one_line_summary": "Strong Fit: Expert in Arabic-English translation, academic supervision, and transcription, perfectly aligning with the job's requirements."
+    },
+    "ai_insight": "Strong Fit: Expert in Arabic-English translation, academic supervision, and transcription, perfectly aligning with the job's requirements.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Expertise in Arabic-English translation and academic supervision",
+      "Relevant experience in ESL teaching and academic supervision",
+      "Strong background in legal translation"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "The candidate's skills and experience perfectly match the job's requirements, making this a strong fit. The ability to provide clean, time-stamped text with rich linguistic annotation aligns well with the job's needs.",
+    "ai_interview_prep": "1. Can you share an example of a transcription you've done that required speaker identification and time stamps every 30 seconds? 2. How do you typically price and schedule work when file lengths shift at the last minute?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiastic interest in the EN-HI Transcription & Annotation position at Freelancer.com. Given the nature of the job, I am particularly excited about the opportunity to handle mixed-language audio recordings, ensuring accurate and detailed annotations for every utterance. My academic background in applied linguistics and experience in ESL instruction make me uniquely qualified for this task.",
+      "experience": "I have extensive experience in ESL teaching and administration, including roles as an ESL teacher and partner at private education institutions. This hands-on experience in language instruction and curriculum development is directly relevant to the transcription and annotation tasks at Freelancer.com.",
+      "skills": "I am adept at academic supervision and research guidance, thesis writing and development, and translation between Arabic and English. My proficiency in Microsoft Office, Adobe Photoshop, and SPSS statistical analysis, combined with my native fluency in Arabic and C1 advanced English, positions me well to handle the transcription and annotation requirements of this position.",
+      "closing": "I am available at any time to discuss further how my skills and experience align with the requirements of this position. I look forward to the opportunity to discuss this exciting opportunity further and would be grateful for the chance to contribute to Freelancer.com's diverse team. Thank you for your time and consideration."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_EN-HI Transcription & Annotation_20261009.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_EN-HI Transcription & Annotation_20261009.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-09T11:44:00.106198+00:00"
   },
   {
     "title": "Excel, Translation, Canva & CapCut Freelance Services",
