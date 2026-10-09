@@ -2,114 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "ElevenLabs": {
-    "name": "ElevenLabs",
-    "legitimacy_score": 50,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [],
-    "last_updated": "2026-09-09T13:27:35.865280+00:00"
-  },
-  "VFS Global": {
-    "name": "VFS Global",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-09T13:27:35.866107+00:00"
-  },
-  "respond.io": {
-    "name": "respond.io",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-09T13:27:35.866842+00:00"
-  },
-  "Jobgether": {
-    "name": "Jobgether",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-09T13:27:35.867497+00:00"
-  },
-  "Health Net Health Plan of Oregon, Inc.": {
-    "name": "Health Net Health Plan of Oregon, Inc.",
-    "legitimacy_score": 65,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board",
-      "Appears to be registered business"
-    ],
-    "last_updated": "2026-09-09T13:27:35.868183+00:00"
-  },
-  "BrainLight Learning Center (BLC)": {
-    "name": "BrainLight Learning Center (BLC)",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-09T13:27:35.868864+00:00"
-  },
-  "Educatup (Publishing Services)": {
-    "name": "Educatup (Publishing Services)",
-    "legitimacy_score": 65,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board",
-      "Appears to be registered business"
-    ],
-    "last_updated": "2026-09-09T13:27:35.869817+00:00"
-  },
-  "Simplilearn": {
-    "name": "Simplilearn",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-09T13:27:35.870495+00:00"
-  },
-  "RRD": {
-    "name": "RRD",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-09T13:27:35.871101+00:00"
-  },
   "TaskUs": {
     "name": "TaskUs",
     "legitimacy_score": 60,
@@ -1289,5 +1181,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-09T11:43:27.529904+00:00"
+  },
+  "Connect recruiting Agnecy": {
+    "name": "Connect recruiting Agnecy",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-09T18:46:37.848486+00:00"
   }
 }
