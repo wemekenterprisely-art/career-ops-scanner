@@ -3319,6 +3319,113 @@
     "scan_date": "2026-10-09T18:47:38.182349+00:00"
   },
   {
+    "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+    "company": "English 1",
+    "url": "https://au.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4477632771",
+    "location": "Remote \u2014 Sadadeen, Northern Territory, Australia",
+    "posted": "2026-10-09",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-09T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 23.90406395888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires Arabic-English translation, ESL teaching, and academic supervision, which are all skills directly related to the candidate's background."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which aligns perfectly with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The remote work environment and academic setting are well-suited to the candidate's skills and experience."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, which the candidate is comfortable with, and the location is compatible with the candidate's background."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The job aligns closely with the candidate's career goals of securing stable remote work in translation or ESL teaching, building long-term client relationships, and growing into senior translator or academic coordinator roles."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Extensive experience in ESL teaching and academic supervision",
+        "Strong skills in Arabic-English translation and legal translation"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's strong background in ESL teaching, academic supervision, and legal translation makes him an excellent fit for the remote English teacher position. His skills and experience are well-matched with the job requirements, and the remote work environment suits his preferences.",
+      "interview_prep": "1. What are your strengths and how do they align with the job requirements? 2. How do you handle challenges in a remote work environment? 3. Can you provide examples of how you have successfully supervised graduate-level research studies?",
+      "one_line_summary": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him an excellent fit for the remote English teacher position."
+    },
+    "ai_insight": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him an excellent fit for the remote English teacher position.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Extensive experience in ESL teaching and academic supervision",
+      "Strong skills in Arabic-English translation and legal translation"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong background in ESL teaching, academic supervision, and legal translation makes him an excellent fit for the remote English teacher position. His skills and experience are well-matched with the job requirements, and the remote work environment suits his preferences.",
+    "ai_interview_prep": "1. What are your strengths and how do they align with the job requirements? 2. How do you handle challenges in a remote work environment? 3. Can you provide examples of how you have successfully supervised graduate-level research studies?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 30,
+    "desperation_index": 10,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@au.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@au.linkedin.com",
+      "hr@au.linkedin.com",
+      "jobs@au.linkedin.com"
+    ],
+    "opportunity_score": 43,
+    "company_research": {
+      "name": "English 1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-08T11:54:28.686396+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/English 1_Hiring Now! Entry-Level English Teacher (ESL) - No_20261010.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/English 1_Hiring Now! Entry-Level English Teacher (ESL) - No_20261010.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-09T23:56:17.152753+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
