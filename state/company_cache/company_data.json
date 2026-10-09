@@ -2,30 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "VIHU": {
-    "name": "VIHU",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-08T20:21:09.087451+00:00"
-  },
-  "Morningstar": {
-    "name": "Morningstar",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-08T20:21:09.088260+00:00"
-  },
   "ElevenLabs": {
     "name": "ElevenLabs",
     "legitimacy_score": 50,
@@ -1289,5 +1265,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-08T11:54:28.687546+00:00"
+  },
+  "Escape Campus Italia": {
+    "name": "Escape Campus Italia",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-09T00:15:18.029691+00:00"
   }
 }
