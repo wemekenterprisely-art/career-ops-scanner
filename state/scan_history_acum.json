@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-09-06T22:22:24.442826+00:00",
-    "matched_count": 1,
-    "all_count": 4751,
-    "jobs": [
-      {
-        "title": "CREATIVE CONTENT AND MARKETING PARTNER FOR A DARK LITERARY BRAND",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/digital-marketing/CREATIVE-CONTENT-AND-MARKETING-PARTNER.html",
-        "score": 82,
-        "category": "Editing",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-09-06T22:26:06.848869+00:00",
     "matched_count": 0,
     "all_count": 4751,
@@ -3631,6 +3616,37 @@
         "title": "English Teacher",
         "company": "Escape Campus Italia",
         "url": "https://co.linkedin.com/jobs/view/english-teacher-at-escape-campus-italia-4474844739",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-09T11:44:14.389127+00:00",
+    "matched_count": 3,
+    "all_count": 4774,
+    "jobs": [
+      {
+        "title": "Key Account Virtual Assistant Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/crm/Key-Account-Virtual-Assistant-Needed",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "EN-HI Transcription & Annotation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/audio-editing/Transcription-Annotation",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Tutor",
+        "company": "Codeyoung",
+        "url": "https://ph.linkedin.com/jobs/view/english-tutor-at-codeyoung-4477629546",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
