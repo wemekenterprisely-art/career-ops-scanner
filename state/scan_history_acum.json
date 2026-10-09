@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-06T22:26:06.848869+00:00",
-    "matched_count": 0,
-    "all_count": 4751,
-    "jobs": []
-  },
-  {
     "date": "2026-09-06T22:32:12.636874+00:00",
     "matched_count": 0,
     "all_count": 4751,
@@ -3649,6 +3643,45 @@
         "url": "https://ph.linkedin.com/jobs/view/english-tutor-at-codeyoung-4477629546",
         "score": 100,
         "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-09T18:47:56.804362+00:00",
+    "matched_count": 4,
+    "all_count": 4772,
+    "jobs": [
+      {
+        "title": "Proofread Sinhala App Strings",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/translation/Proofread-Sinhala-App-Strings",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Website Migration & UAE PPC Specialist",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/ppc-marketing/Website-Migration-UAE-PPC-Specialist",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Online English Teacher",
+        "company": "Connect recruiting Agnecy",
+        "url": "https://vn.linkedin.com/jobs/view/online-english-teacher-at-connect-recruiting-agnecy-4477812370",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "BIL (EN/FR) Proofreader",
+        "company": "Notified",
+        "url": "https://ca.linkedin.com/jobs/view/bil-en-fr-proofreader-at-notified-4477832588",
+        "score": 100,
+        "category": "Editing",
         "source": "linkedin"
       }
     ]
