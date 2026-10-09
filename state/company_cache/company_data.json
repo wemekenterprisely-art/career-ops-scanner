@@ -1277,5 +1277,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-09T00:15:18.029691+00:00"
+  },
+  "Codeyoung": {
+    "name": "Codeyoung",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-09T11:43:27.529904+00:00"
   }
 }
