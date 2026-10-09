@@ -2879,6 +2879,112 @@
     "scan_date": "2026-10-08T11:55:23.481059+00:00"
   },
   {
+    "title": "English Teacher",
+    "company": "Escape Campus Italia",
+    "url": "https://co.linkedin.com/jobs/view/english-teacher-at-escape-campus-italia-4474844739",
+    "location": "Remote \u2014 Colombia",
+    "posted": "2026-10-08",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-08T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 24.228968003333332,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires academic supervision and research guidance, which aligns with the candidate's experience and skills."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in academic supervision and research guidance, which is directly applicable to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic supervision and research guidance aligns well with the remote, academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is flexible, making it a good fit for the candidate's preferences and the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirements, including secure stable remote work, long-term client relationships, and senior translator or academic coordinator roles."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision & Research Guidance",
+        "Remote Work Flexibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's strong fit with the job aligns perfectly with his background in academic supervision and research guidance, making him a strong candidate for the English Teacher position at Escape Campus Italia.",
+      "interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you ensure the accuracy and originality of translations in academic work? 3. What strategies do you use to develop and review academic writing?",
+      "one_line_summary": "Waleed Ballag's strong fit with the job aligns perfectly with his background in academic supervision and research guidance, making him a strong candidate for the English Teacher position at Escape Campus Italia."
+    },
+    "ai_insight": "Waleed Ballag's strong fit with the job aligns perfectly with his background in academic supervision and research guidance, making him a strong candidate for the English Teacher position at Escape Campus Italia.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision & Research Guidance",
+      "Remote Work Flexibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong fit with the job aligns perfectly with his background in academic supervision and research guidance, making him a strong candidate for the English Teacher position at Escape Campus Italia.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you ensure the accuracy and originality of translations in academic work? 3. What strategies do you use to develop and review academic writing?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@co.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@co.linkedin.com",
+      "hr@co.linkedin.com",
+      "jobs@co.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Escape Campus Italia",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-09T00:15:18.029691+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Escape Campus Italia_English Teacher_20261009.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Escape Campus Italia_English Teacher_20261009.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-09T00:15:48.211792+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -5335,6 +5441,108 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-08T19:18:51.530030+00:00"
+  },
+  {
+    "title": "Academic Proofreading for Applied Sciences Publication",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/academic-writing/Academic-Proofreading-for-Applied",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-08T21:34:51+00:00",
+    "description": "My research paper has been accepted for publication in MDPI's Applied Sciences journal, and I am looking for a professional proofreader to finalize the manuscript according to the journal's requirements. Paper Title: \"Privacy, Trust, and Security in Extended Reality for Education: Challenges, Frameworks, and Future Directions\" Requirements: Perform comprehensive proofreading according to MDPI Applied Sciences guidelines. Correct grammar, spelling, punctuation, and academic language. Improve sentence structure, clarity, coherence, and paragraph formatting. Review and ensure proper formatting of all tables, figures, and captions. Ensure consistency throughout the manuscript without changing the technical meaning or research findings. Prepare the manuscript for final submission to the journal. Deadline: The completed work must be delivered by October 12, 2026. The paper covers a technical topic related to Cybersecurity, Data Privacy, and Extended Reality (XR). Please confirm your availability, experience with MDPI manuscripts, and total cost. Thank you.",
+    "salary": "30.0-250.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-08T21:34:51+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.6481471205555556,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job involves academic proofreading, which aligns with the candidate's background in academic supervision and research guidance. The candidate's experience in academic writing and proposal development also contributes to this match."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has direct experience in academic supervision and research guidance, which is directly applicable to the job requirements. The experience in academic writing and proposal development further supports this match."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic supervision and research guidance aligns well with the job's academic environment and research focus. The candidate's ability to prepare manuscripts for submission also matches the job's need for final proofreading."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, which matches the candidate's preference for remote work, and the candidate's current location is worldwide, making it compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the job's requirements, including securing stable remote work in translation or ESL teaching, and building long-term client relationships in academic services."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision and Research Guidance",
+        "Remote Work Preference"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate is well-suited for this role as they have a strong background in academic supervision and research guidance, which perfectly aligns with the job requirements. They also have experience in remote work, which is a perfect fit for the job's remote nature. The candidate's skills and experience make them a strong fit for the position.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study and its outcomes? 2. How do you ensure consistency in academic writing across different sections of a paper? 3. Can you provide an example of how you used SPSS for data analysis?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Academic Proofreading for Applied Sciences Publication role due to their extensive background in academic supervision and research guidance, combined with their remote work preference and strong skills in language and academic writing."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Academic Proofreading for Applied Sciences Publication role due to their extensive background in academic supervision and research guidance, combined with their remote work preference and strong skills in language and academic writing.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision and Research Guidance",
+      "Remote Work Preference"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate is well-suited for this role as they have a strong background in academic supervision and research guidance, which perfectly aligns with the job requirements. They also have experience in remote work, which is a perfect fit for the job's remote nature. The candidate's skills and experience make them a strong fit for the position.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study and its outcomes? 2. How do you ensure consistency in academic writing across different sections of a paper? 3. Can you provide an example of how you used SPSS for data analysis?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Academic Proofreading for Applied Sciences Publica_20261009.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Academic Proofreading for Applied Sciences Publica_20261009.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-09T00:15:48.211792+00:00"
   },
   {
     "title": "Excel, Translation, Canva & CapCut Freelance Services",
