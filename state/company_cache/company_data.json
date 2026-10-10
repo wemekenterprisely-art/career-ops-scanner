@@ -2,30 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Amentum": {
-    "name": "Amentum",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-10T20:19:21.823210+00:00"
-  },
-  "MOBILISE": {
-    "name": "MOBILISE",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-10T20:19:21.824155+00:00"
-  },
   "Best Path Tuition": {
     "name": "Best Path Tuition",
     "legitimacy_score": 60,
@@ -1158,5 +1134,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-10T17:45:38.293194+00:00"
+  },
+  "Language Services Associates": {
+    "name": "Language Services Associates",
+    "legitimacy_score": 55,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Appears to be registered business"
+    ],
+    "last_updated": "2026-10-10T23:28:39.876744+00:00"
+  },
+  "Torrance Unified School District": {
+    "name": "Torrance Unified School District",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-10T23:28:39.878397+00:00"
   }
 }
