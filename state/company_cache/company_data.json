@@ -2,30 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Invisible (AI Trainer projects)": {
-    "name": "Invisible (AI Trainer projects)",
-    "legitimacy_score": 70,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Uses professional ATS"
-    ],
-    "last_updated": "2026-09-10T05:19:36.907553+00:00"
-  },
-  "Qur'\u0101n Academy for Young Scholars": {
-    "name": "Qur'\u0101n Academy for Young Scholars",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-10T05:19:36.908535+00:00"
-  },
   "Aloft Hotels": {
     "name": "Aloft Hotels",
     "legitimacy_score": 60,
@@ -1181,5 +1157,18 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-09T18:46:37.848486+00:00"
+  },
+  "Experts Plus Recruitment Services": {
+    "name": "Experts Plus Recruitment Services",
+    "legitimacy_score": 65,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board",
+      "Appears to be registered business"
+    ],
+    "last_updated": "2026-10-10T11:07:25.736290+00:00"
   }
 }
