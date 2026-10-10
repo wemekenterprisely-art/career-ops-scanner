@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-09-06T22:41:53.438109+00:00",
-    "matched_count": 1,
-    "all_count": 4751,
-    "jobs": [
-      {
-        "title": "ASAP DATA ENTRY WORK fast internet required",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/data-processing/ASAP-DATA-ENTRY-WORK-fast.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-09-07T05:17:18.208018+00:00",
     "matched_count": 4,
     "all_count": 4749,
@@ -3730,6 +3715,37 @@
         "title": "Entry-Level English Teacher",
         "company": "English 1",
         "url": "https://ca.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4477858148",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-10T17:46:48.422443+00:00",
+    "matched_count": 3,
+    "all_count": 4780,
+    "jobs": [
+      {
+        "title": "Manuscript Proofreading and Typing Assistance",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/typing/Manuscript-Proofreading-Typing",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Arabic Medical Clinic Copywriting",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Arabic-Medical-Clinic-Copywriting",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English as a Foreign Language Tutor - Part-Time & No experience",
+        "company": "FindTutors",
+        "url": "https://uk.linkedin.com/jobs/view/english-as-a-foreign-language-tutor-part-time-no-experience-at-findtutors-4476834944",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
