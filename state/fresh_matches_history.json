@@ -3426,6 +3426,223 @@
     "scan_date": "2026-10-09T23:56:17.152753+00:00"
   },
   {
+    "title": "Researcher (Arabic Speaker Only)",
+    "company": "Experts Plus Recruitment Services",
+    "url": "https://ae.linkedin.com/jobs/view/researcher-arabic-speaker-only-at-experts-plus-recruitment-services-4477813314",
+    "location": "Remote \u2014 Dubai, Dubai, United Arab Emirates",
+    "posted": "2026-10-09",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic linguist",
+    "postedISO": "2026-10-09T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic speaker native fluent bilingual (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 35.002860405,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Related experience in language services and academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, compatible"
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation skills",
+        "ESL teaching experience",
+        "Academic supervision background"
+      ],
+      "gaps": [
+        "No specific programming languages or development experience"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Researcher role at Experts Plus Recruitment Services. His background in ESL teaching and academic supervision makes him a valuable asset in the field of translation and academic services.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach legal translation tasks? 3. What is your experience with Microsoft Office Suite?",
+      "one_line_summary": "Waleed Ballag's background in ESL teaching and academic supervision makes him a strong fit for the Researcher role at Experts Plus Recruitment Services."
+    },
+    "ai_insight": "Waleed Ballag's background in ESL teaching and academic supervision makes him a strong fit for the Researcher role at Experts Plus Recruitment Services.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation skills",
+      "ESL teaching experience",
+      "Academic supervision background"
+    ],
+    "ai_gaps": [
+      "No specific programming languages or development experience"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Researcher role at Experts Plus Recruitment Services. His background in ESL teaching and academic supervision makes him a valuable asset in the field of translation and academic services.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach legal translation tasks? 3. What is your experience with Microsoft Office Suite?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@ae.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ae.linkedin.com",
+      "hr@ae.linkedin.com",
+      "jobs@ae.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Experts Plus Recruitment Services",
+      "legitimacy_score": 65,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board",
+        "Appears to be registered business"
+      ],
+      "last_updated": "2026-10-10T11:07:25.736290+00:00"
+    },
+    "company_legitimacy": 65,
+    "company_summary": "2 positive signals",
+    "score_adjustment": 4,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Experts Plus Recruitment Servi_Researcher (Arabic Speaker Only)_20261010.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Experts Plus Recruitment Servi_Researcher (Arabic Speaker Only)_20261010.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-10T11:08:41.192637+00:00"
+  },
+  {
+    "title": "Entry-Level English Teacher",
+    "company": "English 1",
+    "url": "https://ca.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4477858148",
+    "location": "Remote \u2014 Markham, Ontario, Canada",
+    "posted": "2026-10-09",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-09T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 35.002861091944446,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires language skills, writing, and academic work, which aligns with the candidate's experience and certifications."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "The candidate has relevant experience in ESL teaching, academic supervision, and legal translation, which is partially matched by the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 75,
+        "reason": "The candidate is remote and flexible, which is compatible with the job's remote nature, but there is some friction due to the need for specific skills and experience."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's skills and preferences."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "The candidate's career goals align with the job's role, and the candidate is building towards a senior translator or academic coordinator role."
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "No specific skills or experience in engineering or development"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Entry-Level English Teacher position at English 1. His background in ESL teaching and academic supervision, combined with his language skills and certifications, makes him a suitable candidate for the role. He is well-positioned to grow into a senior translator or academic coordinator role and contribute to graduate-level research supervision.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a research project you supervised? 3. How do you approach legal translation and bidirectional translation?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Entry-Level English Teacher position with English 1, combining his language skills and academic experience with the job's requirements."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Entry-Level English Teacher position with English 1, combining his language skills and academic experience with the job's requirements.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "No specific skills or experience in engineering or development"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Entry-Level English Teacher position at English 1. His background in ESL teaching and academic supervision, combined with his language skills and certifications, makes him a suitable candidate for the role. He is well-positioned to grow into a senior translator or academic coordinator role and contribute to graduate-level research supervision.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a research project you supervised? 3. How do you approach legal translation and bidirectional translation?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 75,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@ca.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ca.linkedin.com",
+      "hr@ca.linkedin.com",
+      "jobs@ca.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "English 1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-08T11:54:28.686396+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/English 1_Entry-Level English Teacher_20261010.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/English 1_Entry-Level English Teacher_20261010.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-10T11:08:41.192637+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -6418,6 +6635,219 @@
     "scan_date": "2026-10-09T18:47:38.182349+00:00"
   },
   {
+    "title": "Handwritten Notes to Word",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/microsoft-word/Handwritten-Notes-Word-40760625.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Sat, 10 Oct 2026 06:33:28 -0400",
+    "description": "I have a batch of clear, high\u2013resolution images that show my handwritten notes. The content is organised mainly as bullet-point lists, so I need those lists preserved exactly as they appear\u2014indentation, order, and spacing included\u2014when you convert everything into a clean Microsoft Word file... (Budget: \u20b9750 - \u20b91250 INR, Jobs: Copy Typing, Data Entry, Editing, Microsoft Word, Proofreading, Transcription, Typing, Word)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-10-10T06:33:28-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "typist transcription transcribing transcriber (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.4452085925,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 60,
+        "reason": "Job requires clear images and bullet-point lists, which align with the candidate's skills in academic supervision and data analysis."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has extensive experience in academic supervision and research guidance, which is highly relevant to the job description."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "The candidate's background in academic supervision and research guidance aligns well with the job's need for academic writing and proposal development."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate's skills in academic supervision and research guidance make them suitable for this role."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "The candidate's skills in academic supervision and research guidance align well with the job's requirements for academic writing and proposal development."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Extensive experience in academic supervision and research guidance",
+        "Skills in academic writing and proposal development"
+      ],
+      "gaps": [
+        "No experience in data entry or proofreading",
+        "No experience in engineering or programming"
+      ],
+      "recommendation": "Waleed Ballag's background in academic supervision and research guidance makes them well-suited for this remote role. Their strong skills in academic writing and proposal development will be valuable in this position.",
+      "interview_prep": [
+        "Can you describe a time when you supervised a research project and provided guidance?",
+        "What is your experience with data analysis and how do you apply it in your work?"
+      ],
+      "one_line_summary": "Waleed Ballag's strong background in academic supervision and research guidance makes them a strong fit for this remote translation/teaching role."
+    },
+    "ai_insight": "Waleed Ballag's strong background in academic supervision and research guidance makes them a strong fit for this remote translation/teaching role.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Extensive experience in academic supervision and research guidance",
+      "Skills in academic writing and proposal development"
+    ],
+    "ai_gaps": [
+      "No experience in data entry or proofreading",
+      "No experience in engineering or programming"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in academic supervision and research guidance makes them well-suited for this remote role. Their strong skills in academic writing and proposal development will be valuable in this position.",
+    "ai_interview_prep": [
+      "Can you describe a time when you supervised a research project and provided guidance?",
+      "What is your experience with data analysis and how do you apply it in your work?"
+    ],
+    "ai_technical_skills": 60,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Handwritten Notes to Word_20261010.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Handwritten Notes to Word_20261010.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-10T11:08:41.192637+00:00"
+  },
+  {
+    "title": "Casual Home Page Copywriting",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/seo-writing/Casual-Home-Page-Copywriting",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-10T04:45:57+00:00",
+    "description": "I need a fresh, engaging piece of website copy for my Home page. The goal is to greet visitors with a warm, casual, and friendly tone that quickly explains who we are, what we do, and why they should stay on the site. Here\u2019s what I\u2019m looking for: \u2022 One complete Home-page draft (approx. 300\u2013500 words) written in clear, conversational English. \u2022 A punchy headline, supporting sub-headline, brief body sections, and a concise call-to-action. \u2022 Light, natural SEO: weave in suggested keywords without compromising flow. \u2022 Copy that feels approachable\u2014think helpful guide rather than corporate brochure\u2014yet still professional enough to inspire confidence. I will supply background details about the brand, target audience, and any must-include points as soon as we start. You can ask clarifying questions up front so you have everything you need to hit the right tone. Deliver the first draft in a Google Doc (or Word) with comments enabled for easy feedback. One revision round is included so we can polish the final version together. If you enjoy writing friendly web copy and can hit deadlines, I look forward to reading your proposal and samples.",
+    "salary": "1250.0-2500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-10-10T04:45:57+00:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 6.2370443191666665,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires writing, copywriting, and SEO optimization, which aligns with the candidate's skills in academic writing, proposal development, and SEO strategy."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in academic writing, proposal development, and SEO strategy, which are all relevant skills for the job."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services, survey design, and plagiarism checking aligns well with the job's requirements for writing, research, and editing."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is listed as remote, which is compatible with the job's requirement for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals of securing stable remote work, building client relationships, and contributing to research align well with the job's requirements for writing, copywriting, and SEO."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong academic writing and research skills",
+        "Experience in SEO and copywriting"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "The candidate is well-suited for the job due to their strong academic background, relevant experience, and alignment with the job's requirements.",
+      "interview_prep": "1. What is your experience in academic writing and research? How do you approach writing proposals and research papers? 2. Can you provide an example of a time when you used SEO optimization techniques to improve a website's traffic? 3. How do you approach plagiarism checking and originality in your work?",
+      "one_line_summary": "Waleed Ballag's strong academic background and relevant experience make him a strong fit for the job."
+    },
+    "ai_insight": "Waleed Ballag's strong academic background and relevant experience make him a strong fit for the job.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong academic writing and research skills",
+      "Experience in SEO and copywriting"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "The candidate is well-suited for the job due to their strong academic background, relevant experience, and alignment with the job's requirements.",
+    "ai_interview_prep": "1. What is your experience in academic writing and research? How do you approach writing proposals and research papers? 2. Can you provide an example of a time when you used SEO optimization techniques to improve a website's traffic? 3. How do you approach plagiarism checking and originality in your work?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Casual Home Page Copywriting_20261010.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Casual Home Page Copywriting_20261010.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-10T11:08:41.192637+00:00"
+  },
+  {
     "title": "Excel, Translation, Canva & CapCut Freelance Services",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/excel/Excel-Translation-Canva-CapCut-Freelance",
@@ -6621,5 +7051,107 @@
     "cover_letter_ai": false,
     "interview_prep_generated": false,
     "scan_date": "2026-10-03T18:29:22.926251+00:00"
+  },
+  {
+    "title": "Corporate Instagram Content Creation & Management",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/social-media-management/Corporate-Instagram-Content-Creation",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-10T06:40:32+00:00",
+    "description": "I\u2019m looking for a creative partner who can take full ownership of my Instagram&Tiktok&Snapchat presence and keep it consistently on-brand. The focus is strictly Instagram\u2014no Facebook or YouTube for now\u2014and every asset must align with a polished, professional, corporate look and feel. Here\u2019s what I need handled each week: \u2022 Static posts that translate business updates and thought-leadership into clean, scroll-stopping visuals. \u2022 Story sequences that highlight daily insights, behind-the-scenes moments, and quick polls while maintaining the same visual language. \u2022 Short-form Reels edited from raw clips I\u2019ll provide (or sourced stock when appropriate) with tight cuts, branded lower-thirds, subtle motion graphics, and royalty-free music. Beyond designing and editing, I\u2019d like you to manage the account end-to-end\u2014drafting captions, scheduling through tools like Later or Hootsuite, monitoring comments, and compiling a monthly performance snapshot (reach, engagement, best-performing content). You\u2019ll likely lean on Adobe Photoshop, Illustrator, Premiere Pro or DaVinci Resolve, plus After Effects for light animation; however, I\u2019m tool-agnostic as long as the final assets are crisp, on time, and sized correctly for feed, story, and Reels. Deliverables will be approved when: 1. Visuals match the provided brand guidelines (fonts, color palette, logo usage). 2. Videos export at 1080\u00d71920 (Stories/Reels) or 1080\u00d71080 (Posts) with no compression artifacts. 3. Captions are free of typos and include agreed-upon hashtags. 4. The monthly report clearly summarizes metrics and recommended adjustments. If you have a portfolio that shows corporate-grade Instagram work\u2014especially Reels\u2014let\u2019s talk timelines and workflow.",
+    "salary": "15.0-25.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-10T06:40:32+00:00",
+    "score": 67,
+    "category": "Editing",
+    "why": [
+      "content creation (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.327329274444445,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 40,
+        "reason": "Requires language skills, writing, and academic work but not engineering or development"
+      },
+      "experience_match": {
+        "score": 40,
+        "reason": "Related experience in language services and education, but not direct experience"
+      },
+      "behavioral_fit": {
+        "score": 50,
+        "reason": "Remote, flexible, academic environment, but some friction in career alignment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, compatible"
+      },
+      "career_alignment": {
+        "score": 50,
+        "reason": "Builds toward translation/teaching/academic career, but not senior roles"
+      },
+      "overall_score": 50,
+      "verdict": "Moderate Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "Awarded English Language Trainer of the Year"
+      ],
+      "gaps": [
+        "Senior leadership roles",
+        "10+ years of experience"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Corporate Instagram Content Creation & Management role. His background in ESL teaching and academic supervision aligns well with the job requirements. However, the need for senior leadership roles and the lack of 10+ years of experience may create some challenges in the long term.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you manage a remote team? 3. Can you provide examples of your data analysis skills?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Corporate Instagram Content Creation & Management role with relevant experience but lacks senior leadership roles and 10+ years of experience."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Corporate Instagram Content Creation & Management role with relevant experience but lacks senior leadership roles and 10+ years of experience.",
+    "ai_overall_score": 50,
+    "ai_verdict": "Moderate Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "Awarded English Language Trainer of the Year"
+    ],
+    "ai_gaps": [
+      "Senior leadership roles",
+      "10+ years of experience"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Corporate Instagram Content Creation & Management role. His background in ESL teaching and academic supervision aligns well with the job requirements. However, the need for senior leadership roles and the lack of 10+ years of experience may create some challenges in the long term.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you manage a remote team? 3. Can you provide examples of your data analysis skills?",
+    "ai_technical_skills": 40,
+    "ai_experience_match": 40,
+    "ai_behavioral_fit": 50,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 50,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 21,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Corporate Instagram Content Creation & Management_20261010.pdf",
+    "cover_letter_type": "marketing",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-10-10T11:08:41.192637+00:00"
   }
 ]
