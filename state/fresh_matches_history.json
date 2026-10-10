@@ -3751,6 +3751,327 @@
     "scan_date": "2026-10-10T17:46:23.672361+00:00"
   },
   {
+    "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+    "company": "English 1",
+    "url": "https://ie.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4478033622",
+    "location": "Remote \u2014 Tralee, County Kerry, Ireland",
+    "posted": "2026-10-10",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-10T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 23.388174365555557,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Requires language skills, writing, and academic work, aligning with the job description for ESL teaching and academic supervision."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Related experience in language services and education, including ESL teaching and academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, and academic environment, aligning with the job's remote and worldwide nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's location."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligning with the job's role of ESL teacher and academic supervisor."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching and academic supervision experience",
+        "Remote and worldwide compatibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Strong fit for the ESL teaching role. Candidate has relevant experience and aligns well with the job's requirements.",
+      "interview_prep": "1. Can you share an example of a time when you supervised a graduate-level research study? 2. How do you approach translating legal documents for academic clients? 3. Describe a project where you used SPSS for data analysis.",
+      "one_line_summary": "Strong fit for ESL teaching role due to relevant experience and alignment with job requirements."
+    },
+    "ai_insight": "Strong fit for ESL teaching role due to relevant experience and alignment with job requirements.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching and academic supervision experience",
+      "Remote and worldwide compatibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Strong fit for the ESL teaching role. Candidate has relevant experience and aligns well with the job's requirements.",
+    "ai_interview_prep": "1. Can you share an example of a time when you supervised a graduate-level research study? 2. How do you approach translating legal documents for academic clients? 3. Describe a project where you used SPSS for data analysis.",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 30,
+    "desperation_index": 10,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@ie.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ie.linkedin.com",
+      "hr@ie.linkedin.com",
+      "jobs@ie.linkedin.com"
+    ],
+    "opportunity_score": 43,
+    "company_research": {
+      "name": "English 1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-08T11:54:28.686396+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/English 1_Hiring Now! Entry-Level English Teacher (ESL) - No_20261011.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/English 1_Hiring Now! Entry-Level English Teacher (ESL) - No_20261011.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-10T23:30:10.462239+00:00"
+  },
+  {
+    "title": "2026-2027 Substitute Adult Education Teacher - ESL All Levels",
+    "company": "Torrance Unified School District",
+    "url": "https://ca.linkedin.com/jobs/view/2026-2027-substitute-adult-education-teacher-esl-all-levels-at-torrance-unified-school-district-4476883132",
+    "location": "Remote \u2014 Torrance, Ontario, Canada",
+    "posted": "2026-10-10",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-10T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 23.38817458722222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Related experience in language services and academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment, academic focus, and career alignment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job requirements"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 87,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching and academic supervision experience",
+        "Native Arabic and C1 English proficiency"
+      ],
+      "gaps": [
+        "No specific programming skills or US/EU citizenship requirement"
+      ],
+      "recommendation": "Strong fit for the ESL teaching and academic supervision role. The candidate has a strong background in language instruction and supervision, which aligns well with the job's requirements. The ability to work remotely and the focus on academic services are key strengths.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you ensure the quality of translations and academic papers? 3. What strategies do you use to prepare students for viva defenses?",
+      "one_line_summary": "Strong fit for ESL teaching and academic supervision role with strong language skills and experience in supervision and research guidance."
+    },
+    "ai_insight": "Strong fit for ESL teaching and academic supervision role with strong language skills and experience in supervision and research guidance.",
+    "ai_overall_score": 87,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching and academic supervision experience",
+      "Native Arabic and C1 English proficiency"
+    ],
+    "ai_gaps": [
+      "No specific programming skills or US/EU citizenship requirement"
+    ],
+    "ai_recommendation": "Strong fit for the ESL teaching and academic supervision role. The candidate has a strong background in language instruction and supervision, which aligns well with the job's requirements. The ability to work remotely and the focus on academic services are key strengths.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you ensure the quality of translations and academic papers? 3. What strategies do you use to prepare students for viva defenses?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@ca.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ca.linkedin.com",
+      "hr@ca.linkedin.com",
+      "jobs@ca.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Torrance Unified School District",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-10T23:28:39.878397+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Torrance Unified School Distri_2026-2027 Substitute Adult Education Teacher - ESL_20261011.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Torrance Unified School Distri_2026-2027 Substitute Adult Education Teacher - ESL_20261011.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-10T23:30:10.462239+00:00"
+  },
+  {
+    "title": "Social Science Proofreader & Editor",
+    "company": "Cure Organics",
+    "url": "https://in.linkedin.com/jobs/view/social-science-proofreader-editor-at-cure-organics-4477238008",
+    "location": "Remote \u2014 Noida, Uttar Pradesh, India",
+    "posted": "2026-10-10",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-10-10T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 23.388174884722222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches job requirements for ESL/EFL instruction, academic supervision, and bidirectional translation."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work, flexible schedule, and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's background."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward senior translator or academic coordinator role, aligns with career goals."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate's skills and experience align well with the job requirements, making for a strong fit. The ability to supervise graduate-level research studies and provide academic editing services is particularly relevant to the role.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure the accuracy of academic papers? 3. Can you share an example of a legal translation you've done?",
+      "one_line_summary": "Waleed Ballag's skills in ESL/EFL instruction, academic supervision, and legal translation make him a strong fit for the Social Science Proofreader & Editor role at Cure Organics."
+    },
+    "ai_insight": "Waleed Ballag's skills in ESL/EFL instruction, academic supervision, and legal translation make him a strong fit for the Social Science Proofreader & Editor role at Cure Organics.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate's skills and experience align well with the job requirements, making for a strong fit. The ability to supervise graduate-level research studies and provide academic editing services is particularly relevant to the role.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure the accuracy of academic papers? 3. Can you share an example of a legal translation you've done?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Cure Organics",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-08T11:54:28.687546+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Cure Organics_Social Science Proofreader & Editor_20261011.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Cure Organics_Social Science Proofreader & Editor_20261011.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-10T23:30:10.462239+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -6958,6 +7279,216 @@
     "scan_date": "2026-10-10T17:46:23.672361+00:00"
   },
   {
+    "title": "DTP Operator & Academic Content Writer Wanted",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/academic-writing/DTP-Operator-Academic-Content-Writer",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-10T18:18:02+00:00",
+    "description": "Job Description: DTP Operator & Academic Content Writer We are a publishing company based in Ghaziabad, Uttar Pradesh, India, looking for skilled and dedicated professionals to work on academic and educational book publishing projects. We are hiring for the following roles: 1. DTP Operator \u2013 Adobe InDesign Responsibilities: \u2022 Format and typeset academic and educational books. \u2022 Design professional page layouts using Adobe InDesign. \u2022 Apply paragraph styles, character styles, headings, bullets, and page numbering. \u2022 Manage tables, figures, captions, and images. \u2022 Prepare high-quality, print-ready PDF files. \u2022 Maintain consistency in formatting and follow publishing specifications. Required Skills: \u2022 Adobe InDesign \u2022 Book Formatting and Typesetting \u2022 Page Layout and Book Design \u2022 Print-Ready PDF Preparation \u2022 MS Word and basic proofreading 2. Academic Content Writer Responsibilities: \u2022 Research and write academic and educational content. \u2022 Develop and organize chapters, headings, and subheadings. \u2022 Edit and proofread manuscripts for grammar, clarity, and consistency. \u2022 Ensure content accuracy and maintain an appropriate academic tone. \u2022 Follow project guidelines, deadlines, and formatting requirements. Required Skills: \u2022 Academic Writing and Content Development \u2022 English Grammar and Proofreading \u2022 Research and Fact-Checking \u2022 MS Word \u2022 Editing and Content Organization Mandatory Requirement Candidates applying for these positions must have their own laptop and the necessary software or tools required for their work. Preferred Qualifications \u2022 Previous experience in academic publishing or educational book production. \u2022 Strong attention to detail and ability to meet deadlines. \u2022 Freshers with relevant skills may also apply. Work Arrangement \u2022 Company Location: Ghaziabad, Uttar Pradesh, India \u2022 Project Type: Ongoing academic publishing work \u2022 Joining: Immediate \u2022 Payment: Negotiable based on skills, experience, and scope of work. Interested candidates should share their r",
+    "salary": "600.0-1500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-10-10T18:18:02+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (description)",
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.0876356524999995,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job involves DTP, academic content writing, and formatting, which aligns with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "The candidate has experience in academic supervision, research guidance, and academic writing, which are relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services and language skills make them suitable for the remote, academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and the candidate is flexible, making it a good fit for the candidate's skills and preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirements, focusing on translation, teaching, and academic services."
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "Academic Supervision",
+        "Academic Writing",
+        "Remote Work"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the DTP Operator & Academic Content Writer role. He can contribute to the company's academic and educational book publishing projects with his expertise in language instruction and academic supervision.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure consistency in formatting and follow publishing specifications? 3. What is your experience with Microsoft Office Suite and Adobe Photoshop?",
+      "one_line_summary": "Waleed Ballag's academic background and language skills make him a strong fit for the DTP Operator & Academic Content Writer role.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "Waleed Ballag's academic background and language skills make him a strong fit for the DTP Operator & Academic Content Writer role.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "Academic Supervision",
+      "Academic Writing",
+      "Remote Work"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the DTP Operator & Academic Content Writer role. He can contribute to the company's academic and educational book publishing projects with his expertise in language instruction and academic supervision.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure consistency in formatting and follow publishing specifications? 3. What is your experience with Microsoft Office Suite and Adobe Photoshop?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 15,
+    "desperation_index": 5,
+    "pain_points": "Content needs, scaling blog/docs",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 36,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_DTP Operator & Academic Content Writer Wanted_20261011.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_DTP Operator & Academic Content Writer Wanted_20261011.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-10T23:30:10.462239+00:00"
+  },
+  {
+    "title": "Humanities Research Proofreading",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/writing/Humanities-Research-Proofreading",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-10T18:07:31+00:00",
+    "description": "I have projects that require editing, writing, and proofreading services. Most of them are from a business background, including management, operations, finance and supply chain topics. If you have experience in editing, publishing research papers you are encouraged to apply. 1. This is non-academic work, payment will be released in milestones. 2. You are required to share your previous work samples or some online profile to showcase your work 3. You may asked to do a free sample work (typically less than 100 words) to check your writing your editing skills, please don't apply if you dont want to do the sample work for free 4. Please use academic English, active tone only, I am repeating active tone of English only 5. All paragraphs/sentences should be meaningful, paraphrarsing each word will be useless 6. The AI generated text need to be paraprhased, but the payment will be releasing after checking AI content and plagirism using Turnitin. Both shoyld be less 15% only. 7. Please read above terms and conditions atleast 2 times and hit the apply button, thank you. 8. Budget depends on the word count, apply and message for more details 9. Work will be provided continuosly",
+    "salary": "1500.0-12500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-10-10T18:07:31+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.262914953055556,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires editing, writing, and proofreading services, which aligns with the candidate's experience in academic supervision and research guidance."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has experience in academic supervision and research guidance, which is relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in ESL teaching and academic supervision aligns well with the job's need for editing and proofreading services."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirements, such as securing stable remote work and contributing to research supervision."
+      },
+      "overall_score": 90,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision & Research Guidance",
+        "Remote Work Preference"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the job requirements, making this a strong fit. The candidate's ability to supervise research studies and translate academic papers makes them a valuable asset in the editing and proofreading field.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study and its outcomes? 2. How do you ensure the accuracy and originality of the editing and proofreading work? 3. Can you share an example of a project you have worked on that required both academic and non-academic editing?",
+      "one_line_summary": "Waleed Ballag's background in academic supervision and research guidance makes them a strong fit for the Humanities Research Proofreading job."
+    },
+    "ai_insight": "Waleed Ballag's background in academic supervision and research guidance makes them a strong fit for the Humanities Research Proofreading job.",
+    "ai_overall_score": 90,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision & Research Guidance",
+      "Remote Work Preference"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the job requirements, making this a strong fit. The candidate's ability to supervise research studies and translate academic papers makes them a valuable asset in the editing and proofreading field.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study and its outcomes? 2. How do you ensure the accuracy and originality of the editing and proofreading work? 3. Can you share an example of a project you have worked on that required both academic and non-academic editing?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Humanities Research Proofreading_20261011.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Humanities Research Proofreading_20261011.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-10T23:30:10.462239+00:00"
+  },
+  {
     "title": "Casual Home Page Copywriting",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/seo-writing/Casual-Home-Page-Copywriting",
@@ -7159,6 +7690,106 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-10T17:46:23.672361+00:00"
+  },
+  {
+    "title": "International Audio/Video Remote Kurdish and Arabic or Persian Interpreter",
+    "company": "Language Services Associates",
+    "url": "https://jobicy.com/jobs/154979-international-audio-video-remote-kurdish-and-arabic-or-persian-interpreter",
+    "location": "Anywhere",
+    "posted": "2026-10-10T15:50:35+00:00",
+    "description": "Overview: As an audio/video interpreter for Kurdish and Arabic or Persian in LSA\u2019s network of Independently Contracted Interpreters, you are responsible for handling audio and video calls on demand and facilitating language communication for the Limited English Proficient (LEP) community in a variety of settings. Language Services Associates is continuously accepting qualified interpreters! Responsibilities: \u00b7 Provide effective audio and video interpreting through a web based platform \u00b7 Answer inbound calls in a timely manner \u00b7 Provide superior customer service \u00b7 Adhere to Code of Professional Conduct, including maintaining strict standards of confidentiality \u00b7 Adhere to all policies and procedures, including professional interpretation protocols and industry specific best practices Qualifications/Experience: \u00b7 Full fluency in both English and Kurdish and Arabic or Persian \u00b7 Technology proficient (web-based platforms, email, Microsoft Word) \u00b7 An interpreting space that is quiet, secure, and free from outside noises \u00b7 1+ years of professional interpreting experience preferred \u00b7 Industry specific certifications/trainings preferred (CMI, CCHI, etc.) LSA is passionate about what we do, which is helping people thrive in an increasingly global environment and in recognition of our commitment to excellence, LSA was named a Top Provider and a Top Workplace in 2026. If interested, please apply and include a copy of your resume, which emphasizes your interpreting experience. Compensation Additional Information",
+    "salary": "",
+    "source": "jobicy",
+    "postedISO": "2026-10-10T15:50:35+00:00",
+    "score": 77,
+    "category": "Arabic Translation",
+    "why": [
+      "translator translation interpreter linguist editor proofreader localisation specialist .{0,40}arabic (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 7.5450617875,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires both language skills (Arabic-English translation) and academic supervision, which aligns with the candidate's background and qualifications."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and research guidance, which is directly applicable to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and research supervision aligns well with the job's focus on academic services and research supervision."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate's location is worldwide, making it a compatible fit."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirement to secure stable remote work in translation or ESL teaching."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Extensive experience in ESL teaching and academic supervision",
+        "Strong language skills in Arabic-English translation"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's background and skills make him a strong fit for the International Audio/Video Remote Kurdish and Arabic or Persian Interpreter role. His ability to provide effective language communication and academic supervision aligns perfectly with the job's requirements. The remote nature of the position and the ability to work with LEP communities make it a highly suitable role for him.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you ensure confidentiality and professional standards in interpreting? 3. Can you describe a time when you successfully facilitated language communication for a LEP community? ",
+      "one_line_summary": "Waleed Ballag's extensive experience in ESL and academic supervision positions him as a strong fit for the International Audio/Video Remote Kurdish and Arabic or Persian Interpreter role."
+    },
+    "ai_insight": "Waleed Ballag's extensive experience in ESL and academic supervision positions him as a strong fit for the International Audio/Video Remote Kurdish and Arabic or Persian Interpreter role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Extensive experience in ESL teaching and academic supervision",
+      "Strong language skills in Arabic-English translation"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's background and skills make him a strong fit for the International Audio/Video Remote Kurdish and Arabic or Persian Interpreter role. His ability to provide effective language communication and academic supervision aligns perfectly with the job's requirements. The remote nature of the position and the ability to work with LEP communities make it a highly suitable role for him.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you ensure confidentiality and professional standards in interpreting? 3. Can you describe a time when you successfully facilitated language communication for a LEP community? ",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": false,
+    "hiring_email": "hi@jobicy.com",
+    "email_verified": false,
+    "all_emails": [
+      "hi@jobicy.com"
+    ],
+    "opportunity_score": 22,
+    "company_research": {
+      "name": "Language Services Associates",
+      "legitimacy_score": 55,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Appears to be registered business"
+      ],
+      "last_updated": "2026-10-10T23:28:39.876744+00:00"
+    },
+    "company_legitimacy": 55,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Language Services Associates_International Audio-Video Remote Kurdish and Arabi_20261011.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-10-10T23:30:10.462239+00:00"
   },
   {
     "title": "Excel, Translation, Canva & CapCut Freelance Services",
