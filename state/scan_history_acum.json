@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-06T22:36:21.536339+00:00",
-    "matched_count": 0,
-    "all_count": 4751,
-    "jobs": []
-  },
-  {
     "date": "2026-09-06T22:41:53.438109+00:00",
     "matched_count": 1,
     "all_count": 4751,
@@ -3689,6 +3683,53 @@
         "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
         "company": "English 1",
         "url": "https://au.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4477632771",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-10T11:09:03.111088+00:00",
+    "matched_count": 5,
+    "all_count": 4785,
+    "jobs": [
+      {
+        "title": "Handwritten Notes to Word",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-word/Handwritten-Notes-Word-40760625.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Casual Home Page Copywriting",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/seo-writing/Casual-Home-Page-Copywriting",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Corporate Instagram Content Creation & Management",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/social-media-management/Corporate-Instagram-Content-Creation",
+        "score": 67,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Researcher (Arabic Speaker Only)",
+        "company": "Experts Plus Recruitment Services",
+        "url": "https://ae.linkedin.com/jobs/view/researcher-arabic-speaker-only-at-experts-plus-recruitment-services-4477813314",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Entry-Level English Teacher",
+        "company": "English 1",
+        "url": "https://ca.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4477858148",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
