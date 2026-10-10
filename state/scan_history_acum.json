@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-09-07T05:17:18.208018+00:00",
-    "matched_count": 4,
-    "all_count": 4749,
-    "jobs": [
-      {
-        "title": "Multilingual Online Language Teachers Needed IV",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/language-tutoring/Multilingual-Online-Language-Teachers-40695277",
-        "score": 97,
-        "category": "ESL",
-        "source": "freelancer"
-      },
-      {
-        "title": "PTE Academic English Teacher",
-        "company": "PTE MAGIC",
-        "url": "https://id.linkedin.com/jobs/view/pte-academic-english-teacher-at-pte-magic-4462903395",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Hiring now! Entry-Level English Teacher (ESL) | No Experience Needed",
-        "company": "English 1",
-        "url": "https://nz.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4464077704",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Consultant Pediatric Neurologist (Arabic Speaker) - Abu Dhabi",
-        "company": "Allocation Assist Middle East",
-        "url": "https://ae.linkedin.com/jobs/view/consultant-pediatric-neurologist-arabic-speaker-abu-dhabi-at-allocation-assist-middle-east-4461809800",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-07T13:20:40.162299+00:00",
     "matched_count": 4,
     "all_count": 4748,
@@ -3748,6 +3709,61 @@
         "url": "https://uk.linkedin.com/jobs/view/english-as-a-foreign-language-tutor-part-time-no-experience-at-findtutors-4476834944",
         "score": 100,
         "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-10T23:30:35.032733+00:00",
+    "matched_count": 6,
+    "all_count": 4781,
+    "jobs": [
+      {
+        "title": "DTP Operator & Academic Content Writer Wanted",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/academic-writing/DTP-Operator-Academic-Content-Writer",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Humanities Research Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/writing/Humanities-Research-Proofreading",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "International Audio/Video Remote Kurdish and Arabic or Persian Interpreter",
+        "company": "Language Services Associates",
+        "url": "https://jobicy.com/jobs/154979-international-audio-video-remote-kurdish-and-arabic-or-persian-interpreter",
+        "score": 77,
+        "category": "Arabic Translation",
+        "source": "jobicy"
+      },
+      {
+        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://ie.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4478033622",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "2026-2027 Substitute Adult Education Teacher - ESL All Levels",
+        "company": "Torrance Unified School District",
+        "url": "https://ca.linkedin.com/jobs/view/2026-2027-substitute-adult-education-teacher-esl-all-levels-at-torrance-unified-school-district-4476883132",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Social Science Proofreader & Editor",
+        "company": "Cure Organics",
+        "url": "https://in.linkedin.com/jobs/view/social-science-proofreader-editor-at-cure-organics-4477238008",
+        "score": 100,
+        "category": "Editing",
         "source": "linkedin"
       }
     ]
