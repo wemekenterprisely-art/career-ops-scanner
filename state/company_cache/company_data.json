@@ -2,30 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Aloft Hotels": {
-    "name": "Aloft Hotels",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-10T13:18:21.543565+00:00"
-  },
-  "TTEC": {
-    "name": "TTEC",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-10T13:18:21.544461+00:00"
-  },
   "Amentum": {
     "name": "Amentum",
     "legitimacy_score": 60,
@@ -1170,5 +1146,17 @@
       "Appears to be registered business"
     ],
     "last_updated": "2026-10-10T11:07:25.736290+00:00"
+  },
+  "FindTutors": {
+    "name": "FindTutors",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-10T17:45:38.293194+00:00"
   }
 }
