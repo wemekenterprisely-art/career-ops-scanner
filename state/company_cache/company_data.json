@@ -1098,5 +1098,27 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-11T11:21:39.890501+00:00"
+  },
+  "RecruitGo": {
+    "name": "RecruitGo",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-10-12T12:54:43.526734+00:00"
+  },
+  "Chemonics UK": {
+    "name": "Chemonics UK",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-12T12:54:43.528244+00:00"
   }
 }
