@@ -1,21 +1,12 @@
 {
-  "total_scans": 125,
-  "total_matches": 452,
+  "total_scans": 126,
+  "total_matches": 456,
   "streak_days": 38,
   "last_scan_date": "2026-10-12",
-  "total_jobs_scanned": 584157,
+  "total_jobs_scanned": 588922,
   "best_day_matches": 12,
   "best_day_date": "2026-09-09",
   "daily_history": [
-    {
-      "date": "2026-09-11",
-      "total_fetched": 4576,
-      "matches": 3,
-      "old_verified": 3,
-      "near_misses": 0,
-      "sources": 21,
-      "fresh_count": 1747
-    },
     {
       "date": "2026-09-12",
       "total_fetched": 4418,
@@ -816,30 +807,39 @@
       "near_misses": 0,
       "sources": 21,
       "fresh_count": 1491
+    },
+    {
+      "date": "2026-10-12",
+      "total_fetched": 4765,
+      "matches": 4,
+      "old_verified": 2,
+      "near_misses": 0,
+      "sources": 21,
+      "fresh_count": 1504
     }
   ],
   "category_trends": {
     "Arabic Translation": {
-      "count": 61,
-      "last_seen": "2026-10-11"
+      "count": 62,
+      "last_seen": "2026-10-12"
     },
     "Editing": {
-      "count": 150,
-      "last_seen": "2026-10-11"
+      "count": 151,
+      "last_seen": "2026-10-12"
     },
     "ESL": {
-      "count": 118,
-      "last_seen": "2026-10-11"
+      "count": 119,
+      "last_seen": "2026-10-12"
     },
     "Admin": {
-      "count": 121,
-      "last_seen": "2026-10-11"
+      "count": 122,
+      "last_seen": "2026-10-12"
     }
   },
   "source_trends": {
     "freelancer": {
-      "matches": 231,
-      "last_seen": "2026-10-11"
+      "matches": 232,
+      "last_seen": "2026-10-12"
     },
     "gotranscript": {
       "matches": 2,
@@ -862,8 +862,8 @@
       "last_seen": "2026-09-05"
     },
     "himalayas": {
-      "matches": 14,
-      "last_seen": "2026-09-29"
+      "matches": 15,
+      "last_seen": "2026-10-12"
     },
     "search_discovered": {
       "matches": 2,
@@ -886,8 +886,8 @@
       "last_seen": "2026-09-06"
     },
     "linkedin": {
-      "matches": 176,
-      "last_seen": "2026-10-11"
+      "matches": 178,
+      "last_seen": "2026-10-12"
     },
     "impactpool": {
       "matches": 7,
