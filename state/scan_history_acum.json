@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-09-09T05:16:55.497493+00:00",
-    "matched_count": 2,
-    "all_count": 4711,
-    "jobs": [
-      {
-        "title": "Virtual Data Entry Assistant Required | Fast & Accurate Work",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/google-sheets/Virtual-Data-Entry-Assistant-Required.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Entry-Level English Teacher",
-        "company": "English 1",
-        "url": "https://ca.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4464464321",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-09T13:30:55.776068+00:00",
     "matched_count": 12,
     "all_count": 4740,
@@ -3683,6 +3660,21 @@
         "url": "https://ca.linkedin.com/jobs/view/copy-editor-senior-at-capital-group-4477904839",
         "score": 100,
         "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-13T01:57:24.961077+00:00",
+    "matched_count": 1,
+    "all_count": 4767,
+    "jobs": [
+      {
+        "title": "Online English Teacher \u2013 Native Speaker | TEFL/TESOL/Qualified Teacher",
+        "company": "Elite Global Academy",
+        "url": "https://uk.linkedin.com/jobs/view/online-english-teacher-%E2%80%93-native-speaker-tefl-tesol-qualified-teacher-at-elite-global-academy-4476042226",
+        "score": 100,
+        "category": "ESL",
         "source": "linkedin"
       }
     ]
