@@ -5505,6 +5505,120 @@
     "scan_date": "2026-10-13T12:36:01.728306+00:00"
   },
   {
+    "title": "Legal Analyst (Bilingual) Arabic & English",
+    "company": "WhiteCrow Research",
+    "url": "https://za.linkedin.com/jobs/view/legal-analyst-bilingual-arabic-english-at-whitecrow-research-4478798780",
+    "location": "Remote \u2014 South Africa",
+    "posted": "2026-10-13",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic linguist",
+    "postedISO": "2026-10-13T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "bilingual.*arabic arabic.*bilingual (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 19.795634313333334,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work, flexible schedule, and academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements"
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds towards translation/teaching/academic career, with potential for senior roles"
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Legal translation experience"
+      ],
+      "gaps": [
+        "No specific programming or engineering experience"
+      ],
+      "recommendation": "Strong fit for the Legal Analyst role. Focus on building a strong foundation in translation and academic supervision skills.",
+      "interview_prep": "1. Can you explain your experience in academic supervision and research guidance? 2. How do you approach legal translation in a professional setting?",
+      "one_line_summary": "Strong fit for the Legal Analyst role with a focus on academic supervision and legal translation experience."
+    },
+    "ai_insight": "Strong fit for the Legal Analyst role with a focus on academic supervision and legal translation experience.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Legal translation experience"
+    ],
+    "ai_gaps": [
+      "No specific programming or engineering experience"
+    ],
+    "ai_recommendation": "Strong fit for the Legal Analyst role. Focus on building a strong foundation in translation and academic supervision skills.",
+    "ai_interview_prep": "1. Can you explain your experience in academic supervision and research guidance? 2. How do you approach legal translation in a professional setting?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@za.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@za.linkedin.com",
+      "hr@za.linkedin.com",
+      "jobs@za.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "WhiteCrow Research",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-13T19:48:58.946388+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "Dear Hiring Manager at WhiteCrow Research, I am writing to express my strong interest in the Legal Analyst (Bilingual) Arabic & English position. I am particularly excited about the opportunity to contribute to the company's mission of providing legal insights to the Arabic-speaking community. My academic background, including my degree in Applied Linguistics and experience as an ESL teacher, aligns perfectly with the skills required for this role.",
+      "experience": "My experience as an ESL teacher and secondary supervisor has equipped me with the expertise needed to conduct comprehensive academic supervision and research guidance. I have also served as a partner in an educational institution, enhancing my ability to develop and review academic materials.",
+      "skills": "My skills in academic editing, thesis writing, curriculum development, and bidirectional translation align perfectly with the job requirements. I am proficient in Microsoft Office Suite, Adobe Photoshop, and SPSS Statistical Analysis, and my native proficiency in Arabic and advanced English (C1) make me a valuable asset to the team.",
+      "closing": "I am eager to bring my bilingual skills and educational background to the Legal Analyst position at WhiteCrow Research. I am available for an interview at your convenience. Please feel free to contact me to discuss how my qualifications can contribute to the success of your team. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/WhiteCrow Research_Legal Analyst (Bilingual) Arabic & English_20261013.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/WhiteCrow Research_Legal Analyst (Bilingual) Arabic & English_20261013.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-13T19:49:30.873793+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -9451,6 +9565,228 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-13T12:36:01.728306+00:00"
+  },
+  {
+    "title": "Annual Marketing Communications Proofreader",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/proofreading/Annual-Marketing-Communications",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-13T14:24:45+00:00",
+    "description": "I need a detail-oriented proofreader to review a variety of marketing communications materials throughout the year. Content types include: - Emails and newsletters - Social media posts - Brochures and print materials - Tradeshow graphics - PowerPoint presentations Key requirements: - Exceptional grammar, punctuation, and style - Experience with corporate marketing materials - Ability to maintain a consistent brand voice Ideal Skills and Experience: - Professional proofreading experience - Strong attention to detail - Familiarity with marketing language and concepts - Ability to meet deadlines and manage multiple projects Looking for a long-term collaboration with a proofreader experienced in reviewing technical content. Looking forward to your proposals!",
+    "salary": "15.0-25.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-13T14:24:45+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.383148839722223,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires proofreading, which is a skill closely related to ESL and academic writing."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and proofreading, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background and skills are well-suited for a remote, academic environment, and the job description emphasizes a flexible, remote work style."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which matches the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job, aiming for a senior translator or academic coordinator role, which is a natural progression from their current experience."
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Proofreading Experience"
+      ],
+      "gaps": [
+        "No experience in engineering or development"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the job requirements, making this a strong fit. They are well-suited for a role in translation or academic services, and the remote work environment is a perfect match for their preferences.",
+      "interview_prep": "1. What is your experience in proofreading and reviewing technical content? 2. How do you approach maintaining a consistent brand voice in marketing materials? 3. Can you provide an example of a project where you had to ensure accuracy in corporate language?",
+      "one_line_summary": "Waleed Ballag's strong fit for the job due to their background in ESL/EFL instruction, academic supervision, and proofreading, aligning perfectly with the remote, academic environment and career goals."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the job due to their background in ESL/EFL instruction, academic supervision, and proofreading, aligning perfectly with the remote, academic environment and career goals.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Proofreading Experience"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or development"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the job requirements, making this a strong fit. They are well-suited for a role in translation or academic services, and the remote work environment is a perfect match for their preferences.",
+    "ai_interview_prep": "1. What is your experience in proofreading and reviewing technical content? 2. How do you approach maintaining a consistent brand voice in marketing materials? 3. Can you provide an example of a project where you had to ensure accuracy in corporate language?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my strong interest in the Annual Marketing Communications Proofreader position at Freelancer.com. With a background in linguistics and a master's degree in applied linguistics, I bring exceptional skills in grammar, punctuation, and style, which align perfectly with the job requirements. My experience with corporate marketing materials and ability to maintain a consistent brand voice make me a valuable asset to your team. I am eager to contribute to the annual review process of marketing communications materials, ensuring quality and consistency across all content types.",
+      "experience": "In addition to my academic credentials, I have extensive experience in English as a Second Language (ESL) instruction. I have taught ESL at private schools in the United Arab Emirates, focusing on developing academic skills and research guidance. My experience includes leading secondary supervision and managing partner programs, both of which have honed my ability to maintain a consistent brand voice and maintain high standards in proofreading.",
+      "skills": "I bring a combination of skills to the table that perfectly match the job requirements. My proficiency in Microsoft Office, Adobe Photoshop, and SPSS is essential for maintaining consistent brand standards and conducting statistical analysis. My experience in academic translation and editing, combined with my native fluency in English and Arabic, enables me to handle the diverse and complex nature of marketing communications. My ability to maintain a consistent brand voice and a strong understanding of grammar and punctuation will significantly contribute to the annual proofreading process.",
+      "closing": "I am available for an interview at your earliest convenience and am excited about the opportunity to contribute my skills and experience to your team. Thank you for considering my application. I look forward to the possibility of discussing how my background and skills align with the needs of the Annual Marketing Communications Proofreader position at Freelancer.com."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Annual Marketing Communications Proofreader_20261013.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Annual Marketing Communications Proofreader_20261013.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-13T19:49:30.873793+00:00"
+  },
+  {
+    "title": "EN-IT Marketing Material Translation",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/brochure-design/Marketing-Material-Translation",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-13T14:17:41+00:00",
+    "description": "We are seeking a versatile and detail-oriented freelance translator and marketing content creator to translate and adapt health, wellness, and nutrition documents. This is a one-time project with strong potential for ongoing, long-term work and rate increases for high-performing contractors who deliver quality results. Key Responsibilities Translation & Localization: Accurately translate and adapt documents related to health, nutrition, and wellness across multiple languages. Marketing Material Creation: Assist in crafting or refining polished, engaging marketing content tailored to target audiences. Sensitive Content Handling: Comfortably review and translate documents that may contain sensitive or non-explicit anatomical/health-related material (NSFW). Requirements & Qualifications Multilingual Proficiency: Fluency in at least three (3) of the following languages: English Spanish Italian German (Additional languages are a plus) Industry Domain Knowledge: Familiarity with terminology in health, wellness, and nutrition. NDA Requirement: Willingness to sign a standard Non-Disclosure Agreement (NDA) / legal documentation prior to starting, due to sensitive content. Strong written communication, proofreading, creating,and marketing copy skills.",
+    "salary": "30.0-250.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-13T14:17:41+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (description)",
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.500912834444445,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires Arabic-English translation and ESL teaching skills, which are directly aligned with the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background and skills align well with the remote, academic, and flexible nature of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which fits the candidate's preference and the company's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's potential for long-term, high-quality work and the possibility of senior roles."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Translation skills"
+      ],
+      "gaps": [
+        "No specific gaps noted"
+      ],
+      "recommendation": "The candidate is well-suited for this position as they bring relevant skills and experience in translation, academic supervision, and ESL teaching. They are a strong fit for the remote, academic, and flexible nature of the job.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you describe a time when you translated sensitive content? 3. How do you approach data analysis and curriculum development?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the EN-IT Marketing Material Translation job due to their extensive experience in ESL teaching, academic supervision, and translation skills."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the EN-IT Marketing Material Translation job due to their extensive experience in ESL teaching, academic supervision, and translation skills.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Translation skills"
+    ],
+    "ai_gaps": [
+      "No specific gaps noted"
+    ],
+    "ai_recommendation": "The candidate is well-suited for this position as they bring relevant skills and experience in translation, academic supervision, and ESL teaching. They are a strong fit for the remote, academic, and flexible nature of the job.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you describe a time when you translated sensitive content? 3. How do you approach data analysis and curriculum development?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Translation backlog / scaling",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am excited about the opportunity to join Freelancer.com as an EN-IT Marketing Material Translation freelancer. This project aligns perfectly with my skills and experience in academic translation and cross-cultural communication, which are key requirements for this role.",
+      "experience": "My experience as an ESL Teacher and Partner, and ESL Teacher at various schools, has provided me with the skills and knowledge necessary to excel in translating and adapting health, wellness, and nutrition documents across multiple languages. I am proficient in academic supervision, editing, thesis writing, and curriculum development, which are crucial for this project.",
+      "skills": "I possess strong skills in Arabic-English bidirectional translation, Microsoft Office Suite, Adobe Photoshop, SPSS statistical analysis, and the ability to handle high volumes of work with minimal errors. My proficiency in various languages and my ability to provide quality results are highlighted by my awards as the Laureate of Linguistic Excellence: English Language Trainer of the Year.",
+      "closing": "I am available to discuss this opportunity further and look forward to the possibility of contributing to Freelancer.com's team. I am excited to bring my skills and experience to this project and contribute to the success of the EN-IT Marketing Material Translation."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_EN-IT Marketing Material Translation_20261013.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_EN-IT Marketing Material Translation_20261013.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-13T19:49:30.873793+00:00"
   },
   {
     "title": "Casual Home Page Copywriting",
