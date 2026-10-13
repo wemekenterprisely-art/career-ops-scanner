@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-09-09T20:20:41.973729+00:00",
-    "matched_count": 2,
-    "all_count": 4587,
-    "jobs": [
-      {
-        "title": "Maple Syrup Document Retyping & Formatting",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/proofreading/Maple-Syrup-Document-Retyping-Formatting.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "LX Copy Editor",
-        "company": "TaskUs",
-        "url": "https://ph.linkedin.com/jobs/view/lx-copy-editor-at-taskus-4433971999",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-10T05:20:31.059466+00:00",
     "matched_count": 2,
     "all_count": 4739,
@@ -3603,6 +3580,37 @@
         "url": "https://eg.linkedin.com/jobs/view/english-teacher-at-roeya-academy-4478765868",
         "score": 100,
         "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-13T19:49:44.811102+00:00",
+    "matched_count": 3,
+    "all_count": 4745,
+    "jobs": [
+      {
+        "title": "Annual Marketing Communications Proofreader",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/proofreading/Annual-Marketing-Communications",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "EN-IT Marketing Material Translation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/brochure-design/Marketing-Material-Translation",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Legal Analyst (Bilingual) Arabic & English",
+        "company": "WhiteCrow Research",
+        "url": "https://za.linkedin.com/jobs/view/legal-analyst-bilingual-arabic-english-at-whitecrow-research-4478798780",
+        "score": 100,
+        "category": "Arabic Translation",
         "source": "linkedin"
       }
     ]
