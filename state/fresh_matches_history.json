@@ -5280,6 +5280,231 @@
     "scan_date": "2026-10-13T01:57:06.019920+00:00"
   },
   {
+    "title": "Translator (English, French & Arabic)",
+    "company": "Manpower Middle East",
+    "url": "https://ae.linkedin.com/jobs/view/translator-english-french-arabic-at-manpower-middle-east-4476421848",
+    "location": "Remote \u2014 Dubai, United Arab Emirates",
+    "posted": "2026-10-13",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic translator",
+    "postedISO": "2026-10-13T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "translator translation interpreter linguist editor proofreader localisation specialist .{0,40}arabic (title)",
+      "translator translation specialist staff translator freelance translator (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 12.510863734722223,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, academic, and flexible work environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward senior translator or academic coordinator role"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation",
+        "ESL teaching experience",
+        "Academic supervision"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "The candidate's skills and experience align well with the translation and academic supervision roles at Manpower Middle East. The remote and flexible nature of the position is a strong fit, and the candidate's ability to supervise graduate-level research studies is a significant strength.",
+      "interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach legal translation in the context of academic research? 3. What strategies do you use to ensure the accuracy of translation in academic writing?",
+      "one_line_summary": "Strong Fit for Translator role with strong fit in remote and academic environment."
+    },
+    "ai_insight": "Strong Fit for Translator role with strong fit in remote and academic environment.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation",
+      "ESL teaching experience",
+      "Academic supervision"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "The candidate's skills and experience align well with the translation and academic supervision roles at Manpower Middle East. The remote and flexible nature of the position is a strong fit, and the candidate's ability to supervise graduate-level research studies is a significant strength.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach legal translation in the context of academic research? 3. What strategies do you use to ensure the accuracy of translation in academic writing?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare); Translation backlog / scaling",
+    "email_guessed": true,
+    "hiring_email": "careers@ae.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ae.linkedin.com",
+      "hr@ae.linkedin.com",
+      "jobs@ae.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Manpower Middle East",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-13T12:35:16.380402+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Manpower Middle East_Translator (English, French & Arabic)_20261013.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Manpower Middle East_Translator (English, French & Arabic)_20261013.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-13T12:36:01.728306+00:00"
+  },
+  {
+    "title": "English Teacher",
+    "company": "Roeya Academy",
+    "url": "https://eg.linkedin.com/jobs/view/english-teacher-at-roeya-academy-4478765868",
+    "location": "Remote \u2014 Egypt",
+    "posted": "2026-10-13",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-13T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 12.510865225833333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Job requires Arabic-English translation and academic supervision, which aligns with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Candidate has direct experience in ESL teaching and academic supervision, which is relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services and remote work aligns well with the job's remote and flexible nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate's location is worldwide, which is compatible."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "The candidate's career goals align with the job's potential for long-term client relationships and senior roles in translation or academic services."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Remote work experience"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the English Teacher position at Roeya Academy. His ability to provide academic supervision and translate academic materials aligns well with the job's requirements, and his remote work experience makes him a good fit for the remote nature of the position.",
+      "interview_prep": [
+        "Can you describe a time when you supervised a graduate-level research study?",
+        "How do you approach translating legal documents for academic purposes?",
+        "Can you share an experience where you had to ensure the originality of a thesis?"
+      ],
+      "one_line_summary": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him a strong fit for the English Teacher position at Roeya Academy."
+    },
+    "ai_insight": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him a strong fit for the English Teacher position at Roeya Academy.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Remote work experience"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the English Teacher position at Roeya Academy. His ability to provide academic supervision and translate academic materials aligns well with the job's requirements, and his remote work experience makes him a good fit for the remote nature of the position.",
+    "ai_interview_prep": [
+      "Can you describe a time when you supervised a graduate-level research study?",
+      "How do you approach translating legal documents for academic purposes?",
+      "Can you share an experience where you had to ensure the originality of a thesis?"
+    ],
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Roeya Academy",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-13T12:35:16.381742+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Roeya Academy_English Teacher_20261013.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Roeya Academy_English Teacher_20261013.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-13T12:36:01.728306+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -9119,6 +9344,113 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-12T21:43:35.367387+00:00"
+  },
+  {
+    "title": "Customer Service Virtual Assistant",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/customer-service/Customer-Service-Virtual-Assistant-40765136",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-13T08:18:39+00:00",
+    "description": "I need a detail-oriented virtual assistant based in India or the Philippines who can take full ownership of day-to-day customer service. Your main focus will be responding promptly, clearly, and courteously to customer inquiries, ensuring each interaction leaves the customer satisfied. Scope of work \u2022 Monitor the shared inbox during agreed-upon hours. \u2022 Draft, send, and log replies that follow our tone and policies. \u2022 Escalate edge-case or technical questions to me when needed and track them to completion. \u2022 Maintain concise conversation histories so any team member can pick up where you left off. Tools we already use include Gmail, Slack, and Google Sheets; familiarity with similar platforms will make onboarding easier, but I can walk you through our specific workflow. Deliverables 1. Same-day responses to all incoming messages within the coverage window. 2. A weekly summary sheet highlighting common questions, unresolved tickets, and any suggestions that could improve the customer experience. If you are proactive, write clean English, and enjoy helping people get quick answers, you\u2019ll fit right in.",
+    "salary": "30.0-250.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-13T08:18:39+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.200052511666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 40,
+        "reason": "Requires language skills and academic work, but lacks direct translation experience and no engineering/development background."
+      },
+      "experience_match": {
+        "score": 50,
+        "reason": "Related experience in language services and academic supervision, but lacks direct translation or ESL teaching experience."
+      },
+      "behavioral_fit": {
+        "score": 50,
+        "reason": "Remote work and flexible environment, but lacks experience in customer service or academic supervision."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 50,
+        "reason": "Builds toward translation/teaching/academic career, but lacks direct experience in these fields."
+      },
+      "overall_score": 50,
+      "verdict": "Moderate Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Legal Translation"
+      ],
+      "gaps": [
+        "Direct Translation Experience",
+        "Academic Supervision Experience"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Freelancer.com Customer Service Virtual Assistant role due to his background in language instruction and academic supervision, which aligns with the job's requirements. However, he lacks direct translation experience and direct experience in academic supervision, which could be a concern for the career alignment score.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you handle technical questions that cannot be resolved within the scope of your responsibilities?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Freelancer.com Customer Service Virtual Assistant role due to his background in language instruction and academic supervision, but lacks direct translation and academic supervision experience."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Freelancer.com Customer Service Virtual Assistant role due to his background in language instruction and academic supervision, but lacks direct translation and academic supervision experience.",
+    "ai_overall_score": 50,
+    "ai_verdict": "Moderate Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Legal Translation"
+    ],
+    "ai_gaps": [
+      "Direct Translation Experience",
+      "Academic Supervision Experience"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Freelancer.com Customer Service Virtual Assistant role due to his background in language instruction and academic supervision, which aligns with the job's requirements. However, he lacks direct translation experience and direct experience in academic supervision, which could be a concern for the career alignment score.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you handle technical questions that cannot be resolved within the scope of your responsibilities?",
+    "ai_technical_skills": 40,
+    "ai_experience_match": 50,
+    "ai_behavioral_fit": 50,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 50,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Customer Service Virtual Assistant_20261013.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Customer Service Virtual Assistant_20261013.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-13T12:36:01.728306+00:00"
   },
   {
     "title": "Casual Home Page Copywriting",
