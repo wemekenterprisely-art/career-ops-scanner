@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-09-10T05:20:31.059466+00:00",
-    "matched_count": 2,
-    "all_count": 4739,
-    "jobs": [
-      {
-        "title": "Arabic (Yemeni) Language Expert - Freelance AI Trainer Project",
-        "company": "Invisible (AI Trainer projects)",
-        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4655042101",
-        "score": 82,
-        "category": "Arabic Translation",
-        "source": "greenhouse"
-      },
-      {
-        "title": "Arabic Language Teacher",
-        "company": "Qur'\u0101n Academy for Young Scholars",
-        "url": "https://www.linkedin.com/jobs/view/arabic-language-teacher-at-qur-%C4%81n-academy-for-young-scholars-4463083269",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-10T13:20:01.047414+00:00",
     "matched_count": 5,
     "all_count": 4745,
@@ -3612,6 +3589,29 @@
         "score": 100,
         "category": "Arabic Translation",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-13T23:43:11.311998+00:00",
+    "matched_count": 2,
+    "all_count": 4740,
+    "jobs": [
+      {
+        "title": "Accurate Typing & Proofreading Assistance(entry level)",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/typing/Accurate-Typing-Proofreading-Assistance",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Academic Typing & Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/academic-writing/Academic-Typing-Proofreading",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
       }
     ]
   }
