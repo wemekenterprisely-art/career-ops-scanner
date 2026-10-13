@@ -5167,6 +5167,119 @@
     "scan_date": "2026-10-12T21:43:35.367387+00:00"
   },
   {
+    "title": "Online English Teacher \u2013 Native Speaker | TEFL/TESOL/Qualified Teacher",
+    "company": "Elite Global Academy",
+    "url": "https://uk.linkedin.com/jobs/view/online-english-teacher-%E2%80%93-native-speaker-tefl-tesol-qualified-teacher-at-elite-global-academy-4476042226",
+    "location": "Remote \u2014 England, United Kingdom",
+    "posted": "2026-10-12",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-12T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 25.939417309722224,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Related experience in language services and academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 87,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision & Research Guidance"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Strong fit for the online English teacher role, with a focus on translation and academic supervision.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach legal translation in your teaching and work? 3. What is your experience with data analysis and curriculum development?",
+      "one_line_summary": "Strong fit for online English teacher role with strong skills in academic supervision and research guidance."
+    },
+    "ai_insight": "Strong fit for online English teacher role with strong skills in academic supervision and research guidance.",
+    "ai_overall_score": 87,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision & Research Guidance"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Strong fit for the online English teacher role, with a focus on translation and academic supervision.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach legal translation in your teaching and work? 3. What is your experience with data analysis and curriculum development?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@uk.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@uk.linkedin.com",
+      "hr@uk.linkedin.com",
+      "jobs@uk.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Elite Global Academy",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-13T01:56:53.356549+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am excited to apply for the Online English Teacher \u2013 Native Speaker | TEFL/TESOL/Qualified Teacher position at Elite Global Academy. As a native speaker with a background in academic leadership and teaching, I am keen to contribute my skills and passion to the esteemed institution.",
+      "experience": "In my role as an ESL Teacher at Anwar Al-Hayat School for Private Education, I have successfully developed curriculum and provided instruction tailored to students' needs. Additionally, my experience as a supervisor at Higher Institute of Science and Technology has honed my ability to guide and mentor students towards academic excellence.",
+      "skills": "My skills include academic supervision and research guidance, effective thesis writing, and the ability to translate between Arabic and English. I am proficient in using Microsoft Office Suite, Adobe Photoshop, SPSS Statistical Analysis, and have excellent command of both English and Arabic.",
+      "closing": "I am available for an interview to discuss how my qualifications and experience align with the requirements of this position. I look forward to the opportunity to contribute to Elite Global Academy's mission of excellence in education."
+    },
+    "cover_letter_path": "",
+    "cover_letter_type": "error",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Elite Global Academy_Online English Teacher \u2013 Native Speaker - TEFL-TES_20261013.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-13T01:57:06.019920+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
