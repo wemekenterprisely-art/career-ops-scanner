@@ -1099,5 +1099,17 @@
       "Appears to be registered business"
     ],
     "last_updated": "2026-10-12T21:42:34.924563+00:00"
+  },
+  "Elite Global Academy": {
+    "name": "Elite Global Academy",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-13T01:56:53.356549+00:00"
   }
 }
