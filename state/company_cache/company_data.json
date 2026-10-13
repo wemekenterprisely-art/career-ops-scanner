@@ -2,30 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Springfield Public Schools (Massachusetts)": {
-    "name": "Springfield Public Schools (Massachusetts)",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-13T05:14:49.023877+00:00"
-  },
-  "Fanatics": {
-    "name": "Fanatics",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-13T05:14:49.024972+00:00"
-  },
   "JPMorganChase": {
     "name": "JPMorganChase",
     "legitimacy_score": 60,
@@ -1111,5 +1087,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-13T01:56:53.356549+00:00"
+  },
+  "Manpower Middle East": {
+    "name": "Manpower Middle East",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-13T12:35:16.380402+00:00"
+  },
+  "Roeya Academy": {
+    "name": "Roeya Academy",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-13T12:35:16.381742+00:00"
   }
 }
