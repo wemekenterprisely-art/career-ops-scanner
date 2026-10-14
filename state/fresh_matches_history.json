@@ -5619,6 +5619,115 @@
     "scan_date": "2026-10-13T19:49:30.873793+00:00"
   },
   {
+    "title": "Translator(English to Arabic)",
+    "company": "Confidential Careers",
+    "url": "https://ae.linkedin.com/jobs/view/translator-english-to-arabic-at-confidential-careers-4478413623",
+    "location": "Remote \u2014 Abu Dhabi Emirate, United Arab Emirates",
+    "posted": "2026-10-14",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic translator",
+    "postedISO": "2026-10-14T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "translator translation interpreter linguist editor proofreader localisation specialist .{0,40}arabic (title)",
+      "translator translation specialist staff translator freelance translator (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 9.973770178333334,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires language skills, writing, and academic work, but not engineering or unrelated technical skills."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in translation and academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 89,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker with C1 Advanced English proficiency",
+        "Awarded English Language Trainer of the Year (2024)",
+        "Supervised 15 graduate-level research studies"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Translator(English to Arabic) role. He is a strong fit for the position and has the potential to grow into a senior translator or academic coordinator role.",
+      "interview_prep": "1. Can you describe a challenging academic supervision experience you had? 2. How do you handle translation between Arabic and English in legal documents? 3. What is your experience with data analysis using SPSS?",
+      "one_line_summary": "Waleed Ballag's strong fit as a Translator(English to Arabic) candidate due to his native language skills and academic supervision experience."
+    },
+    "ai_insight": "Waleed Ballag's strong fit as a Translator(English to Arabic) candidate due to his native language skills and academic supervision experience.",
+    "ai_overall_score": 89,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker with C1 Advanced English proficiency",
+      "Awarded English Language Trainer of the Year (2024)",
+      "Supervised 15 graduate-level research studies"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Translator(English to Arabic) role. He is a strong fit for the position and has the potential to grow into a senior translator or academic coordinator role.",
+    "ai_interview_prep": "1. Can you describe a challenging academic supervision experience you had? 2. How do you handle translation between Arabic and English in legal documents? 3. What is your experience with data analysis using SPSS?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare); Translation backlog / scaling",
+    "email_guessed": true,
+    "hiring_email": "careers@ae.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ae.linkedin.com",
+      "hr@ae.linkedin.com",
+      "jobs@ae.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Confidential Careers",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-14T10:01:35.220195+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Confidential Careers_Translator(English to Arabic)_20261014.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Confidential Careers_Translator(English to Arabic)_20261014.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-14T10:02:05.539729+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -9999,6 +10108,110 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-13T23:42:52.581505+00:00"
+  },
+  {
+    "title": "ATC Radio Audio Transcription",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/aviation/ATC-Radio-Audio-Transcription",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-14T06:31:01+00:00",
+    "description": "I have just under an hour of raw air-traffic-control audio that I need turned into a clean, time-coded, plain-text transcript for an upcoming training module. Because every call sign, altitude, and clearance matters, I\u2019m looking for someone who already speaks the language of aviation\u2014ideally a native English speaker who has spent time on frequency and can follow rapid-fire exchanges without replaying them a dozen times. The work is paid hourly. Let me know, in a short note, what real-world aviation or ATC experience you have and roughly how many hours a week you can dedicate so I can plan our schedule. Accuracy in phraseology and a quick turnaround are the key success factors; if you can deliver that, we\u2019ll be a great fit.",
+    "salary": "25.0-50.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-14T06:31:01+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.4568433344444442,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Has experience in ESL teaching, academic supervision, and language translation"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Has relevant experience in academic supervision and language translation"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work environment aligns well with the candidate's skills and goals"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote work is suitable for the candidate's background"
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "Aligns with the candidate's career goals of translation and academic supervision"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Language translation"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "This candidate is highly suited for the ATC Radio Audio Transcription job due to their extensive experience in language instruction and academic supervision, making them a strong fit for the remote, academic environment.",
+      "interview_prep": "1. What is your experience in academic supervision and language translation? 2. How do you approach the accuracy and turnaround time in your work? 3. Can you describe a time when you had to quickly adapt to a new language or context?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the ATC Radio Audio Transcription job due to their extensive experience in ESL teaching and academic supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the ATC Radio Audio Transcription job due to their extensive experience in ESL teaching and academic supervision.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Language translation"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "This candidate is highly suited for the ATC Radio Audio Transcription job due to their extensive experience in language instruction and academic supervision, making them a strong fit for the remote, academic environment.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and language translation? 2. How do you approach the accuracy and turnaround time in your work? 3. Can you describe a time when you had to quickly adapt to a new language or context?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_ATC Radio Audio Transcription_20261014.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_ATC Radio Audio Transcription_20261014.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-14T10:02:05.539729+00:00"
   },
   {
     "title": "Casual Home Page Copywriting",
