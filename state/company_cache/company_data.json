@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Write Edge": {
-    "name": "Write Edge",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-14T05:21:03.639597+00:00"
-  },
   "mercor": {
     "name": "mercor",
     "legitimacy_score": 50,
@@ -1101,5 +1089,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-13T19:48:58.946388+00:00"
+  },
+  "Confidential Careers": {
+    "name": "Confidential Careers",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-14T10:01:35.220195+00:00"
   }
 }
