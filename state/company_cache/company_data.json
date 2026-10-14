@@ -1101,5 +1101,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-14T10:01:35.220195+00:00"
+  },
+  "goFLUENT": {
+    "name": "goFLUENT",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-14T17:56:18.636373+00:00"
   }
 }
