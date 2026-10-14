@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-09-10T20:21:01.043306+00:00",
-    "matched_count": 5,
-    "all_count": 4727,
-    "jobs": [
-      {
-        "title": "Revamp Copywriting & Boost Conversion Rates",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/copywriting/Revamp-Copywriting-Boost-Conversion.html",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "English Lecture Audio Transcription",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/academic-writing/English-Lecture-Audio-Transcription-40703433",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Social Media Hype Video Editor Needed",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Social-Media-Hype-Video-Editor",
-        "score": 92,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Arabic Linguist CAT II - CENTCOM",
-        "company": "Amentum",
-        "url": "https://kw.linkedin.com/jobs/view/arabic-linguist-cat-ii-centcom-at-amentum-4444976516",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "linkedin"
-      },
-      {
-        "title": "Editorial Proofreader | US Shift (7:00 PM Onwards)",
-        "company": "MOBILISE",
-        "url": "https://in.linkedin.com/jobs/view/editorial-proofreader-us-shift-7-00-pm-onwards-at-mobilise-4464525710",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-11T05:18:39.961303+00:00",
     "matched_count": 3,
     "all_count": 4724,
@@ -3587,6 +3540,45 @@
         "url": "https://ae.linkedin.com/jobs/view/translator-english-to-arabic-at-confidential-careers-4478413623",
         "score": 100,
         "category": "Arabic Translation",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14T17:57:43.814084+00:00",
+    "matched_count": 4,
+    "all_count": 4753,
+    "jobs": [
+      {
+        "title": "Email Chat Support & Admin Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/customer-service/Email-Chat-Support-Admin-Assistant",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Investment Proposal Writing & Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/proposal-bid-writing/Investment-Proposal-Writing-Proofreading",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Executive Assistant for US Construction Company",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/executive-assistant/Executive-Assistant-for-Construction",
+        "score": 67,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "ESL Teacher",
+        "company": "goFLUENT",
+        "url": "https://ph.linkedin.com/jobs/view/esl-teacher-at-gofluent-4478473013",
+        "score": 100,
+        "category": "ESL",
         "source": "linkedin"
       }
     ]
