@@ -10843,6 +10843,110 @@
     "scan_date": "2026-10-14T23:09:33.279113+00:00"
   },
   {
+    "title": "Handwritten Lectures PDF Transcription",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/pdf/Handwritten-Lectures-PDF-Transcription",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-15T06:01:27+00:00",
+    "description": "I have a collection of lecture notes written by hand in both English and Hindi. Your job is to type every word exactly as it appears\u2014no extra formatting or restructuring\u2014then supply the finished text as clean, searchable PDFs. The page count is open-ended; I may send a small batch first and follow with more if the initial work meets expectations, so please be comfortable handling anything from a dozen sheets to a full notebook. Accuracy matters more than speed: line breaks, spellings, and any shorthand must stay true to the original handwriting in whichever language appears on the page. Deliverables \u2022 Word-for-word digital transcription of each page \u2022 One PDF per lecture set (or per page if that proves easier for you) \u2022 Original file format used for typing (Word, Google Docs, or similar) in case edits are needed Acceptance criteria \u2022 100 % text captured with no omissions \u2022 English and Hindi characters rendered correctly (use Unicode fonts) \u2022 Page order preserved and filenames labelled clearly If this sounds straightforward to you, let me know your turnaround time for an initial ten pages and we can scale up from there.",
+    "salary": "12500.0-37500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-10-15T06:01:27+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.658074023611111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires language skills, writing, and academic work, aligning with the job description."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in ESL teaching and academic supervision, relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment, aligning with the job's remote nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligning with the job's goal."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Awarded English Language Trainer of the Year"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Strong fit for the job. Waleed Ballag's skills and experience align well with the requirements, making it an excellent opportunity for career growth.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you ensure accuracy in the transcription of handwritten lectures? 3. Can you provide examples of how you have used SPSS and thematic coding in your work?",
+      "one_line_summary": "Waleed Ballag's strong skills and experience make this job a perfect fit for his career goals."
+    },
+    "ai_insight": "Waleed Ballag's strong skills and experience make this job a perfect fit for his career goals.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Awarded English Language Trainer of the Year"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Strong fit for the job. Waleed Ballag's skills and experience align well with the requirements, making it an excellent opportunity for career growth.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you ensure accuracy in the transcription of handwritten lectures? 3. Can you provide examples of how you have used SPSS and thematic coding in your work?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Handwritten Lectures PDF Transcription_20261015.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Handwritten Lectures PDF Transcription_20261015.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-15T09:43:16.240683+00:00"
+  },
+  {
     "title": "Casual Home Page Copywriting",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/seo-writing/Casual-Home-Page-Copywriting",
@@ -11146,6 +11250,121 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-12T21:43:35.367387+00:00"
+  },
+  {
+    "title": "Penulisan Deskripsi 51-100 Produk - 15/10/2026 05:08 EDT",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-creation/Penulisan-Deskripsi-Produk-EDT-40769201.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Thu, 15 Oct 2026 05:20:57 -0400",
+    "description": "Saya membutuhkan bantuan untuk menulis deskripsi produk dalam jumlah besar\u2014sekitar 51 hingga 100 item. Fokus utamanya adalah membuat teks yang ringkas, menarik, dan jelas sehingga calon pembeli langsung memahami manfaat serta keunikan tiap produk... (Budget: $15 - $25 USD, Jobs: Content Creation, Content Development, Content Writing, Copywriting, Editing, Keyword Research, Product Descriptions, SEO)",
+    "salary": "$15",
+    "source": "freelancer",
+    "postedISO": "2026-10-15T05:20:57-04:00",
+    "score": 82,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)",
+      "content creation (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.3331851763888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires writing product descriptions, which aligns with the candidate's skills in academic writing, proposal development, and content creation."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has experience in academic supervision, which is relevant to the job's need for product descriptions."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in ESL teaching and academic supervision aligns well with the remote and academic nature of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which fits the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job, as it involves writing product descriptions, which can lead to a senior translator or academic coordinator role."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong experience in academic supervision",
+        "Good fit for remote work",
+        "Career alignment with writing product descriptions"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate is well-suited for this job due to their strong background in academic supervision, remote work experience, and career goals aligned with writing product descriptions.",
+      "interview_prep": [
+        "What specific challenges have you faced in academic supervision and how did you overcome them?",
+        "Can you provide examples of how you have used your skills in ESL teaching to enhance product descriptions?"
+      ],
+      "one_line_summary": "Strong fit for remote, academic-focused job with strong experience in supervision and writing."
+    },
+    "ai_insight": "Strong fit for remote, academic-focused job with strong experience in supervision and writing.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong experience in academic supervision",
+      "Good fit for remote work",
+      "Career alignment with writing product descriptions"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate is well-suited for this job due to their strong background in academic supervision, remote work experience, and career goals aligned with writing product descriptions.",
+    "ai_interview_prep": [
+      "What specific challenges have you faced in academic supervision and how did you overcome them?",
+      "Can you provide examples of how you have used your skills in ESL teaching to enhance product descriptions?"
+    ],
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 26,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "Hello Freelancer.com, I am writing to express my interest in the Penulisan Deskripsi 51-100 Produk position. I am excited about the opportunity to contribute to your growing community and have the ability to create compelling product descriptions that will engage your clients.",
+      "experience": "In my role as an ESL teacher and supervisor at Higher Institute of Science and Technology, I have honed my skills in academic supervision, research guidance, and curriculum development. These experiences have equipped me with the ability to provide effective instruction and ensure students achieve their educational goals.",
+      "skills": "I am skilled in academic editing, thesis writing, and developing academic content. I am also proficient in Microsoft Office Suite (Expert), Adobe Photoshop, SPSS Statistical Analysis, and the use of Arabic-English bidirectional translation for academic and legal purposes. My ability to maintain academic integrity and adhere to formatting guidelines is a strength that aligns perfectly with the requirements of this position.",
+      "closing": "Thank you for considering my application. I am available for an interview at your earliest convenience. I look forward to the opportunity to discuss how my skills and experience can contribute to the success of this project. Please contact me at [Your Email Address] or [Your Phone Number]. Thank you again for your time and consideration."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Penulisan Deskripsi 51-100 Produk - 15-10-2026 05-_20261015.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": true,
+    "interview_prep_generated": false,
+    "scan_date": "2026-10-15T09:43:16.240683+00:00"
   },
   {
     "title": "International Audio/Video Remote Kurdish and Arabic or Persian Interpreter",
