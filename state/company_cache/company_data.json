@@ -2,42 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Salt": {
-    "name": "Salt",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-15T13:21:06.322690+00:00"
-  },
-  "4level1": {
-    "name": "4level1",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-15T13:21:06.323816+00:00"
-  },
-  "instrucko": {
-    "name": "instrucko",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-15T13:21:06.324708+00:00"
-  },
   "Azim Premji Foundation": {
     "name": "Azim Premji Foundation",
     "legitimacy_score": 60,
@@ -1103,5 +1067,39 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-14T17:56:18.636373+00:00"
+  },
+  "Albion Business School": {
+    "name": "Albion Business School",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-15T17:45:46.763466+00:00"
+  },
+  "Jagran New Media": {
+    "name": "Jagran New Media",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-15T17:45:46.764914+00:00"
+  },
+  "Editorial Assistant (Bilingual with Focus Arabic)": {
+    "name": "Editorial Assistant (Bilingual with Focus Arabic)",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-10-15T17:45:46.766126+00:00"
   }
 }
