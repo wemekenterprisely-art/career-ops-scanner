@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-09-12T05:17:00.801630+00:00",
-    "matched_count": 1,
-    "all_count": 4418,
-    "jobs": [
-      {
-        "title": "Gambling Content Writer \u2013 Human-Written Articles Only",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/research/Gambling-Content-Writer-Human-Written.html",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-09-12T13:16:37.490423+00:00",
     "matched_count": 2,
     "all_count": 4712,
@@ -3588,6 +3573,29 @@
         "score": 100,
         "category": "Arabic Translation",
         "source": "impactpool"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-15T23:01:59.002328+00:00",
+    "matched_count": 2,
+    "all_count": 4737,
+    "jobs": [
+      {
+        "title": "Online Tutoring Opportunities at Skill-Vista",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/tutoring/Online-Tutoring-Opportunities-Skill",
+        "score": 97,
+        "category": "ESL",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Instructor",
+        "company": "El-Nyroz Tech",
+        "url": "https://eg.linkedin.com/jobs/view/english-instructor-at-el-nyroz-tech-4480125361",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
       }
     ]
   }
