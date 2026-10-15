@@ -1,68 +1,5 @@
 [
   {
-    "date": "2026-09-11T13:22:24.268263+00:00",
-    "matched_count": 7,
-    "all_count": 4713,
-    "jobs": [
-      {
-        "title": "Finnish Language Proofreader and Editer Required",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/finnish-translator/Finnish-Language-Proofreader-Editer.html",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Engaging Instagram Content Creator -- 2",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/social-media-marketing/Engaging-Instagram-Content-Creator-40705288",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Proofread Danish Website Content",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/website-localization/Proofread-Danish-Website-Content",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Compelling Blog Post Copywriter",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/article-writing/Compelling-Blog-Post-Copywriter",
-        "score": 87,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "IB English Tutor",
-        "company": "AP Guru",
-        "url": "https://in.linkedin.com/jobs/view/ib-english-tutor-at-ap-guru-4463949986",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Entry-Level English Teacher",
-        "company": "English 1",
-        "url": "https://uk.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4466020723",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "ESP Online Tutor",
-        "company": "Leela Home elearning",
-        "url": "https://dz.linkedin.com/jobs/view/esp-online-tutor-at-leela-home-elearning-4463979160",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-11T20:20:01.411325+00:00",
     "matched_count": 3,
     "all_count": 4576,
@@ -3578,6 +3515,29 @@
         "company": "Freelancer.com",
         "url": "https://www.freelancer.com/projects/academic-writing/Expert-Academic-Editor-Revise-Report",
         "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-15T09:43:29.999419+00:00",
+    "matched_count": 2,
+    "all_count": 4731,
+    "jobs": [
+      {
+        "title": "Handwritten Lectures PDF Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/pdf/Handwritten-Lectures-PDF-Transcription",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Penulisan Deskripsi 51-100 Produk - 15/10/2026 05:08 EDT",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-creation/Penulisan-Deskripsi-Produk-EDT-40769201.html",
+        "score": 82,
         "category": "Editing",
         "source": "freelancer"
       }
