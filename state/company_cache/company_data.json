@@ -1101,5 +1101,17 @@
     "red_flags": [],
     "positive_signals": [],
     "last_updated": "2026-10-15T17:45:46.766126+00:00"
+  },
+  "El-Nyroz Tech": {
+    "name": "El-Nyroz Tech",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-15T23:01:04.322280+00:00"
   }
 }
