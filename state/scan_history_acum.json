@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-09-12T13:16:37.490423+00:00",
-    "matched_count": 2,
-    "all_count": 4712,
-    "jobs": [
-      {
-        "title": "Pakistani Virtual Assistant for Admin Support",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/social-media-management/Pakistani-Virtual-Assistant-for-Admin",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "English ESL Teacher",
-        "company": "Elevate",
-        "url": "https://cn.linkedin.com/jobs/view/english-esl-teacher-at-elevate-4466450602",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-12T20:21:18.458431+00:00",
     "matched_count": 3,
     "all_count": 4715,
@@ -3596,6 +3573,29 @@
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-16T09:35:00.612887+00:00",
+    "matched_count": 2,
+    "all_count": 4748,
+    "jobs": [
+      {
+        "title": "Text Data Entry from Websites",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/google-sheets/Text-Data-Entry-from-Websites",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "LinkedIn Content Creation Specialist",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/article-writing/LinkedIn-Content-Creation-Specialist",
+        "score": 67,
+        "category": "Editing",
+        "source": "freelancer"
       }
     ]
   }
