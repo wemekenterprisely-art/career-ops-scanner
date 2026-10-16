@@ -2,28 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Humana": {
-    "name": "Humana",
-    "legitimacy_score": 50,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [],
-    "last_updated": "2026-09-16T20:18:48.163993+00:00"
-  },
-  "King's InterHigh": {
-    "name": "King's InterHigh",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-16T20:18:48.164945+00:00"
-  },
   "Trilogy Writing & Consulting, An Indegene Company": {
     "name": "Trilogy Writing & Consulting, An Indegene Company",
     "legitimacy_score": 60,
@@ -1100,5 +1078,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-16T17:15:45.064179+00:00"
+  },
+  "Leidos": {
+    "name": "Leidos",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-16T22:43:52.795211+00:00"
+  },
+  "Legal & Teaching Jobs for Foreign Teachers in Vietnam": {
+    "name": "Legal & Teaching Jobs for Foreign Teachers in Vietnam",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-16T22:43:52.796435+00:00"
   }
 }
