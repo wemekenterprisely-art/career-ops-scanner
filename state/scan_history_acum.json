@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-09-13T05:15:58.133229+00:00",
-    "matched_count": 3,
-    "all_count": 4720,
-    "jobs": [
-      {
-        "title": "Proofread Short Creative Manuscript",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/copy-editing/Proofread-Short-Creative-Manuscript",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Middle School ESL Teacher (Anticipated Openings 2026-2027)",
-        "company": "Springfield Public Schools (Massachusetts)",
-        "url": "https://www.linkedin.com/jobs/view/middle-school-esl-teacher-anticipated-openings-2026-2027-at-springfield-public-schools-massachusetts-4464295658",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Quality Assurance Proofreader",
-        "company": "Fanatics",
-        "url": "https://www.linkedin.com/jobs/view/quality-assurance-proofreader-at-fanatics-4457366495",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-13T13:17:16.061969+00:00",
     "matched_count": 1,
     "all_count": 4721,
@@ -3593,6 +3562,29 @@
         "title": "Certified English Language Instructor",
         "company": "mYngle",
         "url": "https://za.linkedin.com/jobs/view/certified-english-language-instructor-at-myngle-4479364744",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-16T22:44:38.014316+00:00",
+    "matched_count": 2,
+    "all_count": 4735,
+    "jobs": [
+      {
+        "title": "Arabic Linguist",
+        "company": "Leidos",
+        "url": "https://www.linkedin.com/jobs/view/arabic-linguist-at-leidos-4480549042",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Apollo English Vietnam - ESL teachers hiring 2027",
+        "company": "Legal & Teaching Jobs for Foreign Teachers in Vietnam",
+        "url": "https://vn.linkedin.com/jobs/view/apollo-english-vietnam-esl-teachers-hiring-2027-at-legal-teaching-jobs-for-foreign-teachers-in-vietnam-4479346555",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
