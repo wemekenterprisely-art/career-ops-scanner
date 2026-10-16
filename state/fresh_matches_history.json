@@ -6486,6 +6486,236 @@
     "scan_date": "2026-10-16T17:16:30.434630+00:00"
   },
   {
+    "title": "Arabic Linguist",
+    "company": "Leidos",
+    "url": "https://www.linkedin.com/jobs/view/arabic-linguist-at-leidos-4480549042",
+    "location": "Remote \u2014 Reston, VA",
+    "posted": "2026-10-16",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic translator",
+    "postedISO": "2026-10-16T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic translator translation interpreter linguist editor proofreader content writer qa tester localis (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 22.70746149472222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires Arabic-English translation, academic supervision, and ESL teaching, which aligns with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in academic supervision, research guidance, and academic writing, which is directly applicable to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services and research supervision aligns well with the job's need for long-term client relationships and graduate-level research supervision."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is open to worldwide locations, which is compatible with their preference for remote work."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "The candidate's career goals align with the job's requirement for senior translator or academic coordinator roles, and the candidate's skills and experience are well-suited to these positions."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Extensive experience in academic supervision",
+        "Strong skills in Arabic-English translation",
+        "Long-term client relationships"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Arabic Linguist role at Leidos. His background in academic supervision, research guidance, and ESL teaching aligns perfectly with the job requirements, and his skills in Arabic-English translation and academic editing are particularly relevant. This position is likely to provide a stable and long-term career opportunity for Waleed.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a research study you supervised? 3. How do you approach the translation of legal documents for academic purposes?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Arabic Linguist role at Leidos due to his extensive experience in academic supervision and research guidance, which perfectly aligns with the job requirements."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Arabic Linguist role at Leidos due to his extensive experience in academic supervision and research guidance, which perfectly aligns with the job requirements.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Extensive experience in academic supervision",
+      "Strong skills in Arabic-English translation",
+      "Long-term client relationships"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Arabic Linguist role at Leidos. His background in academic supervision, research guidance, and ESL teaching aligns perfectly with the job requirements, and his skills in Arabic-English translation and academic editing are particularly relevant. This position is likely to provide a stable and long-term career opportunity for Waleed.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a research study you supervised? 3. How do you approach the translation of legal documents for academic purposes?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Leidos",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-16T22:43:52.795211+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiasm for the Arabic Linguist position at Leidos, specifically due to the opportunity to contribute to the company's linguistic services and align with my expertise in academic supervision and research guidance. My MA in Applied Linguistics and BA in English Language, combined with my experience in ESL teaching and curriculum development, make me a strong candidate for this role. I am eager to bring my skills in academic editing, thesis review, and developing academic papers to Leidos.",
+      "experience": "In my role as an ESL teacher and secondary supervisor at Higher Institute of Science and Technology, I have successfully guided students in improving their language skills through both online and in-person teaching methods. My experience includes teaching Arabic, English, and academic subjects, ensuring academic integrity and compliance with formatting standards.",
+      "skills": "My key skills in academic supervision, research guidance, thesis writing, and developing academic papers make me ideal for this position. I possess advanced language skills in Arabic and English, enabling bidirectional translation and cross-cultural communication. My proficiency in using Microsoft Office Suite, Adobe Photoshop, and SPSS Statistical Analysis is highly relevant for the job.",
+      "closing": "I am available to discuss this opportunity further and look forward to the possibility of contributing my skills and experience to Leidos. Please feel free to contact me at [Your Email] or [Your Phone Number]. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Leidos_Arabic Linguist_20261017.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Leidos_Arabic Linguist_20261017.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-16T22:44:19.356662+00:00"
+  },
+  {
+    "title": "Apollo English Vietnam - ESL teachers hiring 2027",
+    "company": "Legal & Teaching Jobs for Foreign Teachers in Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/apollo-english-vietnam-esl-teachers-hiring-2027-at-legal-teaching-jobs-for-foreign-teachers-in-vietnam-4479346555",
+    "location": "Remote \u2014 Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+    "posted": "2026-10-16",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-16T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 22.707462550833334,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "ESL teaching, academic supervision, language skills, and experience aligns well with the job description."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and language skills fits the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible environment, and academic focus align well with career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide locations are compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligns with career goals."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Language skills",
+        "Remote work"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience are well-matched for the Apollo English Vietnam ESL teacher position. The job requires language skills, academic supervision, and a remote work environment, which aligns well with Waleed's background and career goals. Waleed is a strong fit for the role and should consider this opportunity.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach language translation and editing? 3. Can you describe a time when you had to adapt to a remote work environment?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the ESL teacher position due to his extensive experience in academic supervision and language skills, which perfectly aligns with the job requirements."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the ESL teacher position due to his extensive experience in academic supervision and language skills, which perfectly aligns with the job requirements.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Language skills",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience are well-matched for the Apollo English Vietnam ESL teacher position. The job requires language skills, academic supervision, and a remote work environment, which aligns well with Waleed's background and career goals. Waleed is a strong fit for the role and should consider this opportunity.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach language translation and editing? 3. Can you describe a time when you had to adapt to a remote work environment?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@vn.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@vn.linkedin.com",
+      "hr@vn.linkedin.com",
+      "jobs@vn.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Legal & Teaching Jobs for Foreign Teachers in Vietnam",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-16T22:43:52.796435+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "Dear Hiring Manager at Legal & Teaching Jobs for Foreign Teachers in Vietnam, I am writing to express my enthusiasm for the position of ESL teachers at Apollo English Vietnam. With a strong background in linguistics and language teaching, I am confident in my ability to contribute effectively to the program.",
+      "experience": "My experience as an ESL teacher and secondary supervisor at Higher Institute of Science and Technology, alongside my roles as a partner and teacher at Al-Safwa Smart School for Private Education and Anwar Al-Hayat School for Private Education, has honed my skills in academic supervision, research guidance, and curriculum development. These experiences have prepared me for the challenges of teaching in a remote environment.",
+      "skills": "In line with the requirements, I am proficient in academic editing, thesis review, and the development of academic writing. My skills in teaching online and in-person, curriculum design, and the ability to translate between Arabic and English are essential for this role. Furthermore, my comprehensive Microsoft Office suite skills, Adobe Photoshop proficiency, and statistical analysis abilities contribute to the quality of my teaching and research.",
+      "closing": "I am eager to discuss how my qualifications and experiences align with the goals of Apollo English Vietnam. Please schedule an interview for a deeper conversation. Thank you for considering my application. I look forward to the opportunity to contribute to your team."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Legal & Teaching Jobs for Fore_Apollo English Vietnam - ESL teachers hiring 2027_20261017.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Legal & Teaching Jobs for Fore_Apollo English Vietnam - ESL teachers hiring 2027_20261017.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-16T22:44:19.356662+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
