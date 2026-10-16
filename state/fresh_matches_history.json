@@ -12015,6 +12015,110 @@
     "scan_date": "2026-10-15T23:01:34.619252+00:00"
   },
   {
+    "title": "Text Data Entry from Websites",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/google-sheets/Text-Data-Entry-from-Websites",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-16T04:55:50+00:00",
+    "description": "I need a detail-oriented freelancer who can extract and accurately type textual information found on a set of specified websites into a structured format. The priority is data entry\u2014no numbers, only words, sentences, or paragraphs exactly as they appear online. You will receive a list of URLs along with simple field guidelines (e.g., title, description, author). Your task is to capture the text verbatim, paste or type it into the template I provide (typically a Google Sheet or Excel file), and double-check for spelling or formatting inconsistencies introduced during the copy process. Reliability and consistency matter more to me than speed; I would rather receive a smaller batch that is 100 % accurate than a large batch that needs rework. If this first round goes smoothly, I may add occasional side tasks\u2014light English typing or handwritten note transcription\u2014but the immediate focus is online text data. Deliverable: \u2022 Completed spreadsheet populated with all requested website text, properly aligned to each column header and free from typos. I am ready to share the URL list and template as soon as we agree on timing. Looking forward to working together.",
+    "salary": "400.0-750.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-10-16T04:55:50+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title+description)",
+      "typist transcription transcribing transcriber (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.621348697777778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires data entry, which is a language-related task, and the candidate has experience in academic supervision and language skills."
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "Candidate has experience in academic supervision and ESL teaching, which aligns with the job requirements of academic supervision and language skills."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic supervision and language skills make them a good fit for the remote, flexible, and academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "The candidate's career goals align with the job's focus on academic services and graduate-level research supervision, which is a good role for their skills and aspirations."
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision",
+        "Language Skills"
+      ],
+      "gaps": [
+        "No significant gaps identified"
+      ],
+      "recommendation": "Waleed Ballag is well-suited for the Text Data Entry from Websites job due to their background in academic supervision and language skills, which aligns well with the job's requirements. They have a strong fit for the remote, academic environment and career goals.",
+      "interview_prep": "1. What is your experience in academic supervision and language instruction? 2. How do you ensure the accuracy of the data extracted from websites?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Text Data Entry from Websites job due to their academic background and language skills."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Text Data Entry from Websites job due to their academic background and language skills.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision",
+      "Language Skills"
+    ],
+    "ai_gaps": [
+      "No significant gaps identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is well-suited for the Text Data Entry from Websites job due to their background in academic supervision and language skills, which aligns well with the job's requirements. They have a strong fit for the remote, academic environment and career goals.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and language instruction? 2. How do you ensure the accuracy of the data extracted from websites?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Text Data Entry from Websites_20261016.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Text Data Entry from Websites_20261016.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-16T09:34:41.799846+00:00"
+  },
+  {
     "title": "Casual Home Page Copywriting",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/seo-writing/Casual-Home-Page-Copywriting",
@@ -13051,5 +13155,111 @@
     "cover_letter_ai": false,
     "interview_prep_generated": false,
     "scan_date": "2026-10-15T17:48:01.520940+00:00"
+  },
+  {
+    "title": "LinkedIn Content Creation Specialist",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/article-writing/LinkedIn-Content-Creation-Specialist",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-16T05:23:59+00:00",
+    "description": "I want my LinkedIn feed to position me as a clear thought-leader in my field. To make that happen, I need polished long-form articles alongside eye-catching infographics that feel native to the LinkedIn platform. Your role will be to: \u2022 Research and propose timely topics that align with my expertise and audience interests. \u2022 Draft authoritative, well-structured LinkedIn Articles (800\u20131,200 words each) ready for publishing in the LinkedIn Publishing interface. \u2022 Design complementary infographics that distil each article\u2019s key insights\u2014sized and formatted specifically for LinkedIn posts. All writing must be original, SEO-aware, and crafted in a professional yet approachable tone that encourages comments and shares. Visuals should be clean, brand-consistent and delivered in both editable (e.g., Canva, Illustrator, or Figma) and final PNG formats. Acceptance criteria \u2013 Content showcases expertise and avoids overt sales pitches. \u2013 Articles pass plagiarism checks and require minimal editing. \u2013 Infographics are visually balanced, mobile-friendly, and include concise copy that supports the article narrative. \u2013 Final assets ready for upload to LinkedIn without additional formatting. Let me know how many article/infographic sets you recommend per month and include samples of past LinkedIn work to demonstrate your style and results.",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-16T05:23:59+00:00",
+    "score": 67,
+    "category": "Editing",
+    "why": [
+      "content creation (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.152188251388889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires translation, ESL teaching, and academic supervision, which aligns with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "The candidate has experience in ESL teaching and academic supervision, which is relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "The candidate's background is in academic services and translation, making them a good fit for the remote and academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the role of a LinkedIn Content Creation Specialist, as it involves writing and creating content, which is closely related to their expertise and experience."
+      },
+      "overall_score": 81,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Experienced in academic supervision and writing"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make them a strong fit for the LinkedIn Content Creation Specialist role. They are well-suited to the remote, academic environment and align closely with the career goals of securing stable remote work in translation or ESL teaching.",
+      "interview_prep": "1. What are your thoughts on creating high-quality, SEO-aware content for the LinkedIn platform? 2. Can you provide examples of how you have used infographics to enhance your articles? 3. How do you approach the research and writing process for your articles?",
+      "one_line_summary": "Waleed Ballag's strong language skills and experience in academic supervision make them a strong fit for the LinkedIn Content Creation Specialist role."
+    },
+    "ai_insight": "Waleed Ballag's strong language skills and experience in academic supervision make them a strong fit for the LinkedIn Content Creation Specialist role.",
+    "ai_overall_score": 81,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Experienced in academic supervision and writing"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make them a strong fit for the LinkedIn Content Creation Specialist role. They are well-suited to the remote, academic environment and align closely with the career goals of securing stable remote work in translation or ESL teaching.",
+    "ai_interview_prep": "1. What are your thoughts on creating high-quality, SEO-aware content for the LinkedIn platform? 2. Can you provide examples of how you have used infographics to enhance your articles? 3. How do you approach the research and writing process for your articles?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 21,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to apply for the LinkedIn Content Creation Specialist position at Freelancer. My experience as an ESL teacher and partner in education aligns perfectly with your requirements, specifically in researching and proposing timely topics and drafting long-form articles suitable for the LinkedIn platform. My passion for thought leadership and my native proficiency in English make me an ideal candidate for this role.",
+      "experience": "My background as an ESL teacher and partner in education has provided me with a robust understanding of educational practices and a keen eye for educational research. I am adept at conducting thorough research and proposing topics that resonate with my audience, enhancing my ability to position myself as a clear thought-leader in my field.",
+      "skills": "I possess skills such as academic supervision and research guidance, which are crucial for the research and proposal phase. My ability to draft authoritative LinkedIn articles and design effective infographics, along with my experience in academic editing and thesis review, aligns with your requirements for crafting articles and designing complementary content.",
+      "closing": "I am available to discuss this opportunity further and look forward to the possibility of contributing to Freelancer's success through my skills in content creation and educational expertise. Please feel free to schedule an interview at your convenience. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_LinkedIn Content Creation Specialist_20261016.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": true,
+    "interview_prep_generated": false,
+    "scan_date": "2026-10-16T09:34:41.799846+00:00"
   }
 ]
