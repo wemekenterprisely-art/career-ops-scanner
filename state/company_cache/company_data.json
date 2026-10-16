@@ -2,31 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "The Faculty Online Learning Group": {
-    "name": "The Faculty Online Learning Group",
-    "legitimacy_score": 65,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board",
-      "Appears to be registered business"
-    ],
-    "last_updated": "2026-09-16T13:16:49.648082+00:00"
-  },
-  "The Reynolds and Reynolds Company": {
-    "name": "The Reynolds and Reynolds Company",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-16T13:16:49.648820+00:00"
-  },
   "Humana": {
     "name": "Humana",
     "legitimacy_score": 50,
@@ -1101,5 +1076,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-15T23:01:04.322280+00:00"
+  },
+  "Dudons": {
+    "name": "Dudons",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-16T17:15:45.062649+00:00"
+  },
+  "mYngle": {
+    "name": "mYngle",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-16T17:15:45.064179+00:00"
   }
 }
