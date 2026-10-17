@@ -6934,6 +6934,128 @@
     "scan_date": "2026-10-17T16:16:29.330797+00:00"
   },
   {
+    "title": "Human Transcription Reviewer | Remote | Korea",
+    "company": "OpsArmy Careers",
+    "url": "https://kr.linkedin.com/jobs/view/human-transcription-reviewer-remote-korea-at-opsarmy-careers-4479683590",
+    "location": "Remote \u2014 Seoul, Seoul, South Korea",
+    "posted": "2026-10-17",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic linguist",
+    "postedISO": "2026-10-17T00:00:00",
+    "score": 100,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 22.067762699444444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, aligning with the job description."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching and academic supervision, closely matching the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, and academic environment, with some minor friction."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds towards translation/teaching/academic career, with some alignment."
+      },
+      "overall_score": 87,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "No direct experience in programming languages"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Human Transcription Reviewer role. His background in ESL teaching and academic supervision aligns well with the job requirements, and he can build on his experience to grow in the field of translation and academic services.",
+      "interview_prep": [
+        "Can you discuss your experience in academic supervision and research guidance?",
+        "How do you approach the translation of legal documents and academic papers?",
+        "Can you share a specific project where you applied advanced language skills in a professional setting?"
+      ],
+      "one_line_summary": "Waleed Ballag is a strong fit for the Human Transcription Reviewer role with a background in ESL teaching and academic supervision that aligns well with the job requirements."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Human Transcription Reviewer role with a background in ESL teaching and academic supervision that aligns well with the job requirements.",
+    "ai_overall_score": 87,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "No direct experience in programming languages"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Human Transcription Reviewer role. His background in ESL teaching and academic supervision aligns well with the job requirements, and he can build on his experience to grow in the field of translation and academic services.",
+    "ai_interview_prep": [
+      "Can you discuss your experience in academic supervision and research guidance?",
+      "How do you approach the translation of legal documents and academic papers?",
+      "Can you share a specific project where you applied advanced language skills in a professional setting?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@kr.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@kr.linkedin.com",
+      "hr@kr.linkedin.com",
+      "jobs@kr.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "OpsArmy Careers",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-17T22:05:16.317690+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiastic interest in the Human Transcription Reviewer position at OpsArmy Careers, remote, Korea. With a Master of Arts in Applied Linguistics from the University of Zawia and a Bachelor of Arts in English Language from the University of Sabratha, I am well-equipped to excel in this role.",
+      "experience": "I have extensive experience in ESL teaching and supervising, which I have utilized to help improve language skills and teaching methodologies. I have worked as an ESL teacher and partner at Al-Safwa Smart School for Private Education and as an ESL teacher at Anwar Al-Hayat School for Private Education, where I have also facilitated curriculum development and thesis writing assistance.",
+      "skills": "In my previous roles, I have demonstrated proficiency in academic supervision, research guidance, academic editing, and translation. I am highly skilled in online and in-person teaching, curriculum development, Arabic-English bidirectional translation, academic translation, and legal translation using Microsoft Office Suite (expert), Adobe Photoshop, SPSS Statistical Analysis, and cross-cultural communication.",
+      "closing": "I am eager to bring my linguistic skills and experience to OpsArmy Careers' esteemed team. Please feel free to schedule an interview at your convenience. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/OpsArmy Careers_Human Transcription Reviewer - Remote - Korea_20261018.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/OpsArmy Careers_Human Transcription Reviewer - Remote - Korea_20261018.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-17T22:05:58.544144+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -13331,6 +13453,229 @@
     "scan_date": "2026-10-17T16:16:29.330797+00:00"
   },
   {
+    "title": "Virtual Assistant: Data & Support",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/customer-service/Virtual-Assistant-Data-Support",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-17T21:58:20+00:00",
+    "description": "I'm looking for a virtual assistant to help with various tasks including market research, collecting YouTuber data (channel names, subscriber counts, contact details), and other small ad-hoc tasks. This is entry-level work, so I'm happy to hire someone new to Freelancer who is reliable and eager to learn. Tasks will include: - Researching YouTube channels and collecting data - General market research - Other small administrative tasks as needed Requirements: - Good English communication - Attention to detail - Willingness to learn Please share any relevant experience and your expected hourly rate. New freelancers are encouraged to apply",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-17T21:58:20+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.09554761222222223,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires general administrative tasks and market research, which aligns with the candidate's skills in language services and academic writing."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and market research, which partially matches the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate is a good fit for a remote, academic environment, and the job description is compatible with their skills."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is a remote worker, and the job can be done worldwide."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the role, focusing on translation, teaching, and academic services."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "academic supervision",
+        "market research"
+      ],
+      "gaps": [
+        "on-site presence",
+        "specific country"
+      ],
+      "recommendation": "The candidate is well-suited for the job due to their language skills and experience in academic and market research.",
+      "interview_prep": [
+        "Can you share an example of a time when you handled market research tasks?",
+        "Tell me about a project you supervised in an academic setting."
+      ],
+      "one_line_summary": "ESL instructor with academic supervision experience, strong fit for remote market research role."
+    },
+    "ai_insight": "ESL instructor with academic supervision experience, strong fit for remote market research role.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "academic supervision",
+      "market research"
+    ],
+    "ai_gaps": [
+      "on-site presence",
+      "specific country"
+    ],
+    "ai_recommendation": "The candidate is well-suited for the job due to their language skills and experience in academic and market research.",
+    "ai_interview_prep": [
+      "Can you share an example of a time when you handled market research tasks?",
+      "Tell me about a project you supervised in an academic setting."
+    ],
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Virtual Assistant- Data & Support_20261018.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Virtual Assistant- Data & Support_20261018.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-17T22:05:58.544144+00:00"
+  },
+  {
+    "title": "Reliable Virtual Assistant for Admin Tasks/40 -50 hours/wk",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/microsoft-office/Reliable-Virtual-Assistant-for-Admin",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-17T19:29:26+00:00",
+    "description": "My inbox, calendar, and spreadsheets have outgrown the hours in my day, so I\u2019m adding a virtual assistant who can keep them organised and up-to-date without constant supervision. The core of the role is straightforward: \u2022 Email management \u2013 filter, label, and draft replies so only priority messages land on my desk each morning. \u2022 Calendar scheduling \u2013 coordinate meetings across time zones, confirm attendance, and prevent double-bookings. \u2022 Data entry \u2013 log information accurately into Google Sheets or Excel as it arrives, ensuring documents stay current. Because most of our interaction happens through chat and video, fluent English\u2014both spoken and written\u2014is essential. Clear, proactive communication matters more to me than years of experience. If you can jump on a quick call when details are fuzzy, we\u2019ll work well together. Typical rhythm: light check-ins at the start and close of my business day, real-time updates only when something urgent pops up. All tasks are cloud-based, so a stable internet connection and comfort with standard office tools (Gmail, Google Workspace or Microsoft Office) will make things easier. Deliverables are simple: 1. Daily inbox summary with flagged priorities. 2. Fully maintained calendar, 48-hour horizon always confirmed. 3. Error-free data entries submitted on schedule. If you thrive on keeping others organized and can communicate naturally in English, I\u2019d love to see how you work.",
+    "salary": "2.0-8.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-17T19:29:26+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.5772152808333333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 70,
+        "reason": "Job requires language skills, writing, and academic work, but not specific technical skills."
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Related experience in language services and education, but not directly in translation or academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote, flexible, academic environment aligns well with the candidate's skills and goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward translation/teaching/academic career, with potential for senior roles."
+      },
+      "overall_score": 74,
+      "verdict": "Good Fit",
+      "strengths": [
+        "Strong language skills",
+        "Experience in academic supervision"
+      ],
+      "gaps": [
+        "Need for engineering/development skills"
+      ],
+      "recommendation": "Ideal for someone looking to transition into senior roles in translation or academic services.",
+      "interview_prep": null,
+      "one_line_summary": "Waleed Ballag's skills align well with the job, focusing on language and academic experience."
+    },
+    "ai_insight": "Waleed Ballag's skills align well with the job, focusing on language and academic experience.",
+    "ai_overall_score": 74,
+    "ai_verdict": "Good Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Experience in academic supervision"
+    ],
+    "ai_gaps": [
+      "Need for engineering/development skills"
+    ],
+    "ai_recommendation": "Ideal for someone looking to transition into senior roles in translation or academic services.",
+    "ai_interview_prep": null,
+    "ai_technical_skills": 70,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "urgency_score": 30,
+    "desperation_index": 10,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 43,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am thrilled to apply for the Reliable Virtual Assistant for Admin Tasks/40 -50 hours/week position at Freelancer.com. My experience as an ESL teacher and supervisor aligns perfectly with the need for email management, calendar scheduling, and data entry, ensuring my inbox and calendars stay organized and up-to-date.",
+      "experience": "My time at Anwar Al-Hayat School for Private Education and Higher Institute of Science and Technology provided invaluable experience in academic supervision and research guidance, which I believe will be beneficial in organizing and managing the tasks of a virtual assistant.",
+      "skills": "My skills in Microsoft Office Suite (Expert), Adobe Photoshop, SPSS Statistical Analysis, and Arabic (Native) are particularly relevant for the tasks outlined in the job description. Additionally, my ability to communicate effectively in Arabic and English (C1 Advanced) and my proficiency in academic integrity compliance, APA/MLA/Harvard formatting, cross-cultural communication will be highly advantageous in this role.",
+      "closing": "I am excited about the opportunity to contribute my skills and expertise to Freelancer.com's team. I am available to discuss this role further and would welcome the chance to interview for this position. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Reliable Virtual Assistant for Admin Tasks-40 -50 _20261018.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Reliable Virtual Assistant for Admin Tasks-40 -50 _20261018.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-17T22:05:58.544144+00:00"
+  },
+  {
     "title": "Casual Home Page Copywriting",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/seo-writing/Casual-Home-Page-Copywriting",
@@ -13968,6 +14313,114 @@
     "cover_letter_ai": true,
     "interview_prep_generated": false,
     "scan_date": "2026-10-17T16:16:29.330797+00:00"
+  },
+  {
+    "title": "Social Media Buzz: Military Offer",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/graphic-design/Social-Media-Buzz-Military-Offer.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Sat, 17 Oct 2026 17:40:37 -0400",
+    "description": "I need our current military discount pushed hard on Facebook and Instagram only. My goal is to drive qualified traffic from active-duty personnel, veterans, and their families straight to the dedicated landing page and, ultimately, to checkout... (Budget: $30 - $250 USD, Jobs: Content Creation, Content Strategy, Content Writing, Copywriting, Facebook Marketing, Graphic Design, Instagram Marketing, Social Media Marketing)",
+    "salary": "$30",
+    "source": "freelancer",
+    "postedISO": "2026-10-17T17:40:37-04:00",
+    "score": 82,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)",
+      "content creation (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.3909291044444444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires Arabic-English translation, ESL teaching, academic supervision, and data analysis skills, which aligns with the job description."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in academic supervision, ESL teaching, and academic research, which is relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible environment, and academic focus align well with the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligning with the job's goals."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Data analysis skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Social Media Buzz: Military Offer job. He can contribute effectively to the content creation and marketing efforts, especially in the academic and translation-related aspects.",
+      "one_line_summary": "Strong fit with strong skills and experience in academic supervision, data analysis, and remote work."
+    },
+    "ai_insight": "Strong fit with strong skills and experience in academic supervision, data analysis, and remote work.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Data analysis skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Social Media Buzz: Military Offer job. He can contribute effectively to the content creation and marketing efforts, especially in the academic and translation-related aspects.",
+    "ai_interview_prep": "",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 26,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am thrilled to apply for the Social Media Buzz: Military Offer position at Freelancer.com, where I am eager to utilize my skills in academic supervision, academic editing, and teaching, especially in the context of driving qualified traffic and conversions for a dedicated landing page. My experience in ESL education has equipped me with the necessary skills to effectively engage active-duty personnel, veterans, and their families, thereby enhancing the visibility of the social media campaign.",
+      "experience": "In my previous roles as an ESL teacher and supervisor, I have honed my ability to provide comprehensive academic support and instruction, including thesis writing and development, curriculum development, and academic translation. My experience in curriculum development has also prepared me well for tailoring educational content to military personnel, making it more relevant and engaging. Additionally, my expertise in Arabic-English bidirectional translation and legal translation has been invaluable in ensuring the content's accuracy and professionalism.",
+      "skills": "I am proficient in Microsoft Office Suite (Expert), Adobe Photoshop, SPSS Statistical Analysis, and have a strong understanding of academic integrity and formatting standards such as APA/MLA/Harvard. My ability to communicate effectively across cultural boundaries and my advanced English skills make me a valuable asset in a diverse and international audience.",
+      "closing": "I am eager to discuss how my background and skills can contribute to the success of this project and am available for an interview at your convenience. Please feel free to contact me at [Your Contact Information] to schedule a meeting. Thank you for considering my application and for the opportunity to be a part of Freelancer.com\u2019s community."
+    },
+    "cover_letter_path": "",
+    "cover_letter_type": "error",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-10-17T22:05:58.544144+00:00"
   },
   {
     "title": "International Audio/Video Remote Kurdish and Arabic or Persian Interpreter",
