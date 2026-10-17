@@ -2,52 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "iMerit Technology": {
-    "name": "iMerit Technology",
-    "legitimacy_score": 50,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [],
-    "last_updated": "2026-09-17T13:22:11.534408+00:00"
-  },
-  "Scolingo": {
-    "name": "Scolingo",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-17T13:22:11.535608+00:00"
-  },
-  "Speak Up Egypt": {
-    "name": "Speak Up Egypt",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-17T13:22:11.536651+00:00"
-  },
-  "Wizdomi": {
-    "name": "Wizdomi",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-17T13:22:11.538014+00:00"
-  },
   "eClerx": {
     "name": "eClerx",
     "legitimacy_score": 60,
@@ -1090,5 +1044,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-16T22:43:52.796435+00:00"
+  },
+  "Elevate": {
+    "name": "Elevate",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-17T16:15:15.827517+00:00"
+  },
+  "Teacheroo": {
+    "name": "Teacheroo",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-17T16:15:15.828439+00:00"
   }
 }
