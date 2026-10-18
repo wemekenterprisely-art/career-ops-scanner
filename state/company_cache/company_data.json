@@ -1056,5 +1056,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-17T22:05:16.317690+00:00"
+  },
+  "Wenzhou-Kean University": {
+    "name": "Wenzhou-Kean University",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-18T09:27:35.737815+00:00"
   }
 }
