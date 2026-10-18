@@ -1068,5 +1068,27 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-18T09:27:35.737815+00:00"
+  },
+  "Welo Global": {
+    "name": "Welo Global",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-10-18T16:26:49.011553+00:00"
+  },
+  "Allocation Assist Middle East": {
+    "name": "Allocation Assist Middle East",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-18T16:26:49.012549+00:00"
   }
 }
