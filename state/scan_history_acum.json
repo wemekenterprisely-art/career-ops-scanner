@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-09-14T13:22:19.652135+00:00",
-    "matched_count": 4,
-    "all_count": 4722,
-    "jobs": [
-      {
-        "title": "Typing & Translation Support",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/content-writing/Typing-Translation-Support.html",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Type 50 Handwritten Pages",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/content-writing/Type-Handwritten-Pages-40708774.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Data entry typing work job_ Entry level welcome",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/proofreading/Data-entry-typing-work-job",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Instagram Content Creator for Podcast - Ongoing Content Repurposing",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/content-creation/Instagram-Content-Creator-for-Podcast",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-09-14T20:23:43.231452+00:00",
     "matched_count": 5,
     "all_count": 4705,
@@ -3579,6 +3540,53 @@
         "url": "https://kr.linkedin.com/jobs/view/human-transcription-reviewer-remote-korea-at-opsarmy-careers-4479683590",
         "score": 100,
         "category": "Admin",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18T09:29:07.285784+00:00",
+    "matched_count": 5,
+    "all_count": 4533,
+    "jobs": [
+      {
+        "title": "Engaging Content Creation - Medical/Fashion",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-creation/Engaging-Content-Creation-Medical",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "PDF Proofreading & Copyright Update",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/adobe-acrobat/PDF-Proofreading-Copyright-Update",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Australian Health & Wellness Content Writer",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/seo/Australian-Health-Wellness-Content",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Tutor (Remote)",
+        "company": "Codeyoung",
+        "url": "https://in.linkedin.com/jobs/view/english-tutor-remote-at-codeyoung-4479907815",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "2027 Learning English for Academic Purposes (LEAP) Lecturer Positions in ESL/EAP",
+        "company": "Wenzhou-Kean University",
+        "url": "https://cn.linkedin.com/jobs/view/2027-learning-english-for-academic-purposes-leap-lecturer-positions-in-esl-eap-at-wenzhou-kean-university-4480862712",
+        "score": 100,
+        "category": "ESL",
         "source": "linkedin"
       }
     ]
