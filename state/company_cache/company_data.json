@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Wall Street English": {
-    "name": "Wall Street English",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-19T13:20:46.873188+00:00"
-  },
   "GALAXINO EDUCATION TECHNOLOGY- FZCO": {
     "name": "GALAXINO EDUCATION TECHNOLOGY- FZCO",
     "legitimacy_score": 60,
@@ -1059,5 +1047,17 @@
       "Appears to be registered business"
     ],
     "last_updated": "2026-10-18T22:23:48.193553+00:00"
+  },
+  "4level1": {
+    "name": "4level1",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-19T19:10:37.611210+00:00"
   }
 }
