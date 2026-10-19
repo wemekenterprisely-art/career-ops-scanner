@@ -7719,6 +7719,115 @@
     "scan_date": "2026-10-18T22:24:18.466017+00:00"
   },
   {
+    "title": "English Language Instructor",
+    "company": "4level1",
+    "url": "https://eg.linkedin.com/jobs/view/english-language-instructor-at-4level1-4480985789",
+    "location": "Remote \u2014 Cairo, Egypt",
+    "posted": "2026-10-19",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-19T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 19.108818450555553,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches Arabic-English translation, ESL teaching, and academic supervision."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in translation, ESL teaching, and academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, or compatible."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 86,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Legal Translation"
+      ],
+      "gaps": [
+        "No direct experience in engineering or development"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the English Language Instructor position at 4level1. His ability to teach ESL, supervise academic studies, and translate legal documents makes him a strong fit for the role. The remote nature of the position also suits his preferences.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach legal translation and its impact on client relationships? 3. What challenges have you faced in managing a team of ESL instructors, and how did you overcome them?",
+      "one_line_summary": "ESL Instructor with 15 graduate-level research supervision, native Arabic speaker, and C1 Advanced English proficiency. Strong fit for remote English Language Instructor position."
+    },
+    "ai_insight": "ESL Instructor with 15 graduate-level research supervision, native Arabic speaker, and C1 Advanced English proficiency. Strong fit for remote English Language Instructor position.",
+    "ai_overall_score": 86,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Legal Translation"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or development"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the English Language Instructor position at 4level1. His ability to teach ESL, supervise academic studies, and translate legal documents makes him a strong fit for the role. The remote nature of the position also suits his preferences.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach legal translation and its impact on client relationships? 3. What challenges have you faced in managing a team of ESL instructors, and how did you overcome them?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "4level1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-19T19:10:37.611210+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/4level1_English Language Instructor_20261019.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/4level1_English Language Instructor_20261019.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-19T19:11:23.016706+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -15247,6 +15356,213 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-19T10:38:26.087832+00:00"
+  },
+  {
+    "title": "Slovenian Proofreading and Verification",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/slovenian-translator/Slovenian-Proofreading-Verification",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-19T18:30:55+00:00",
+    "description": "I need a native Slovenian speaker to proofread approximately 3,000 Slovenian words and expressions, checking only that they are spelled correctly and that the translations are accurate. This is not a translation project, but a proofreading and verification task. The use of AI is not permitted. Only native Slovenian speakers will be considered. Applicants of other nationalities will not be accepted for this project.",
+    "salary": "30.0-250.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-19T18:30:55+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.5935411233333333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Matches Slovenian proofreading and verification, which is a language and writing task."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in academic supervision and proofreading, aligning with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible schedule, and academic environment align well with the candidate's goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide locations are compatible with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards senior translator or academic coordinator role, aligning with the candidate's career goals."
+      },
+      "overall_score": 90,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Slovenian speaker",
+        "Strong academic background"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's strong background in academic supervision and Slovenian proofreading aligns well with the job requirements. He is well-suited for this remote role.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and proofreading? 2. How do you approach proofreading tasks to ensure accuracy and clarity? 3. What strategies do you use to maintain a high level of professionalism in remote work?",
+      "one_line_summary": "Waleed Ballag's strong academic background and native Slovenian language skills make him a strong fit for the Slovenian proofreading role."
+    },
+    "ai_insight": "Waleed Ballag's strong academic background and native Slovenian language skills make him a strong fit for the Slovenian proofreading role.",
+    "ai_overall_score": 90,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Slovenian speaker",
+      "Strong academic background"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong background in academic supervision and Slovenian proofreading aligns well with the job requirements. He is well-suited for this remote role.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and proofreading? 2. How do you approach proofreading tasks to ensure accuracy and clarity? 3. What strategies do you use to maintain a high level of professionalism in remote work?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Slovenian Proofreading and Verification_20261019.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Slovenian Proofreading and Verification_20261019.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-19T19:11:23.016706+00:00"
+  },
+  {
+    "title": "Multilingual Video Translation QA",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/Multilingual-Video-Translation-fix.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Mon, 19 Oct 2026 14:28:06 -0400",
+    "description": "I have five short MP4 training videos (each no longer than seven minutes) that have already been translated from English into Spanish, Portuguese, Arabic, Mandarin Chinese, French, Italian and Korean.... (Budget: \u20b9600 - \u20b91500 INR, Jobs: Arabic Translator, Canadian French Translator, Italian Translator, Portuguese Translator, Simplified Chinese Translator, Spanish Translator, Translation)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-10-19T14:28:06-04:00",
+    "score": 97,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic translator translation interpreter linguist editor proofreader content writer qa tester localis (description)",
+      "translator translation specialist staff translator freelance translator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.6406620861111112,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires Arabic-English translation and academic supervision, which aligns with the candidate's background and skills."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's skills and experience align well with the remote, academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which matches the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirements for stable remote work and academic services."
+      },
+      "overall_score": 86,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Translation skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate's skills and experience make them a strong fit for this job, especially for their career goals of secure remote work and academic services.",
+      "interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach translating legal documents? 3. Can you walk us through a process of creating an academic thesis?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Multilingual Video Translation QA job due to their extensive experience in ESL teaching, academic supervision, and translation."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Multilingual Video Translation QA job due to their extensive experience in ESL teaching, academic supervision, and translation.",
+    "ai_overall_score": 86,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Translation skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate's skills and experience make them a strong fit for this job, especially for their career goals of secure remote work and academic services.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach translating legal documents? 3. Can you walk us through a process of creating an academic thesis?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "No native QA, backlog of Arabic content; Translation backlog / scaling",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Multilingual Video Translation QA_20261019.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Multilingual Video Translation QA_20261019.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-19T19:11:23.016706+00:00"
   },
   {
     "title": "Casual Home Page Copywriting",
