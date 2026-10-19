@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-09-15T13:22:44.872637+00:00",
-    "matched_count": 5,
-    "all_count": 4719,
-    "jobs": [
-      {
-        "title": "Beginner Grammar & Proofreading - 15/09/2026 07:01 EDT",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/canva/Beginner-Grammar-Proofreading-EDT-40712780",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Executive Personal Assistant Needed",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/administrative-support/Executive-Personal-Assistant-Needed-40712647",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Creative Translator & Copywriter (Arabic)",
-        "company": "Salt",
-        "url": "https://eg.linkedin.com/jobs/view/creative-translator-copywriter-arabic-at-salt-4465524922",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "linkedin"
-      },
-      {
-        "title": "General English Instructor",
-        "company": "4level1",
-        "url": "https://eg.linkedin.com/jobs/view/general-english-instructor-at-4level1-4467707934",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Online English Teachers (Telugu)",
-        "company": "instrucko",
-        "url": "https://in.linkedin.com/jobs/view/online-english-teachers-telugu-at-instrucko-4466507288",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-15T20:22:04.862115+00:00",
     "matched_count": 2,
     "all_count": 4647,
@@ -3580,6 +3533,53 @@
         "score": 100,
         "category": "Editing",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-19T10:38:39.379255+00:00",
+    "matched_count": 5,
+    "all_count": 4563,
+    "jobs": [
+      {
+        "title": "Content Creator & Virtual Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-creation/Content-Creator-Virtual-Assistant.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofread Poetry for Spelling",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/word-processing/Proofread-Poetry-for-Spelling.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Remote Virtual Assistant - Local Business Marketing Support (Part-Time)",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Remote-Virtual-Assistant-Local-Business",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "YouTube Entertainment Video Editing ARABIC EDITOR",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Entertainment-Video-Editing-40775556",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Let's Play Content Creation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-creation/Game-Streaming-Content-Creation",
+        "score": 67,
+        "category": "Editing",
+        "source": "freelancer"
       }
     ]
   }
