@@ -15565,6 +15565,113 @@
     "scan_date": "2026-10-19T19:11:23.016706+00:00"
   },
   {
+    "title": "Resume Update & Enhancement",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/proofreading/Resume-Update-Enhancement.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Mon, 19 Oct 2026 19:03:15 -0400",
+    "description": "I have several new roles and accomplishments that are not yet reflected in my current r\u00e9sum\u00e9, so I need it rewritten to showcase my most recent experience clearly and convincingly. The focus is on refreshing... (Budget: \u20ac12 - \u20ac18 EUR, Jobs: Business Writing, Career Coaching, Content Writing, Copywriting, Editing, Proofreading, Resumes, Technical Writing, Word Processing)",
+    "salary": "\u20ac12",
+    "source": "freelancer",
+    "postedISO": "2026-10-19T19:03:15-04:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (description)",
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.42751726472222223,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires translation, ESL teaching, and academic supervision, matching all criteria."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in translation, ESL teaching, and academic supervision, fully matching the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment, aligning with the job's remote and worldwide nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's global nature."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligning with the job's focus on remote work and academic services."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Translation/ESL/EFL instruction",
+        "Academic supervision & research guidance",
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is highly aligned with the job requirements and has a strong fit for the role. His background and skills make him an excellent candidate for the Freelancer.com position.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and bidirectional communication? 3. Can you describe a time when you successfully managed a graduate-level research study?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Freelancer.com position due to his extensive experience in academic supervision, translation, and native language skills."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Freelancer.com position due to his extensive experience in academic supervision, translation, and native language skills.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Translation/ESL/EFL instruction",
+      "Academic supervision & research guidance",
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is highly aligned with the job requirements and has a strong fit for the role. His background and skills make him an excellent candidate for the Freelancer.com position.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and bidirectional communication? 3. Can you describe a time when you successfully managed a graduate-level research study?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Resume Update & Enhancement_20261020.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Resume Update & Enhancement_20261020.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-19T23:29:59.592843+00:00"
+  },
+  {
     "title": "Casual Home Page Copywriting",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/seo-writing/Casual-Home-Page-Copywriting",
