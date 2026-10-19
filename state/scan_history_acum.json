@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-09-15T20:22:04.862115+00:00",
-    "matched_count": 2,
-    "all_count": 4647,
-    "jobs": [
-      {
-        "title": "Appointment Coordination Virtual Assistant",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/administrative-support/Appointment-Coordination-Virtual.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Business Coordinator and Executive Virtual Assistant",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/crm/Business-Coordinator-Executive-Virtual",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-09-16T05:18:56.467267+00:00",
     "matched_count": 3,
     "all_count": 4726,
@@ -3580,6 +3557,37 @@
         "score": 67,
         "category": "Editing",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-19T19:11:42.785141+00:00",
+    "matched_count": 3,
+    "all_count": 4448,
+    "jobs": [
+      {
+        "title": "Slovenian Proofreading and Verification",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/slovenian-translator/Slovenian-Proofreading-Verification",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Multilingual Video Translation QA",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/Multilingual-Video-Translation-fix.html",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Language Instructor",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/english-language-instructor-at-4level1-4480985789",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
       }
     ]
   }
