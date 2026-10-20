@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-09-16T20:19:39.428138+00:00",
-    "matched_count": 3,
-    "all_count": 4767,
-    "jobs": [
-      {
-        "title": "Bilingual RN Field Care Manager (Arabic or Chaldean) HCBS/LTSS",
-        "company": "Humana",
-        "url": "https://www.remote1stjobs.com/jobs/bilingual-rn-field-care-manager-arabic-or-chaldean-hcbs-ltss-humana-mu4izn91?utm_source=jobs_json&utm_medium=rss&utm_campaign=latest_jobs_feed",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "remote1stjobs"
-      },
-      {
-        "title": "Virtual Assistant \u2013 WordPress, SEO & Digital Marketing",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/digital-marketing/Virtual-Assistant-WordPress-SEO-Digital",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "English Teacher (GST/SEA)",
-        "company": "King's InterHigh",
-        "url": "https://ae.linkedin.com/jobs/view/english-teacher-gst-sea-at-king-s-interhigh-4468282305",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-17T05:18:31.609874+00:00",
     "matched_count": 5,
     "all_count": 4754,
@@ -3541,5 +3510,44 @@
     "matched_count": 0,
     "all_count": 4492,
     "jobs": []
+  },
+  {
+    "date": "2026-10-20T17:54:01.514691+00:00",
+    "matched_count": 4,
+    "all_count": 4509,
+    "jobs": [
+      {
+        "title": "Data-Focused Executive Assistant Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-analysis/Data-Focused-Executive-Assistant-Needed",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "APA Dissertation Editing & Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/academic-writing/APA-Dissertation-Editing-Proofreading",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
+        "company": "Kreyco",
+        "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4481240984",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Executive Assistant",
+        "company": "IsDB - Islamic Development Bank",
+        "url": "https://www.impactpool.org/jobs/1242651",
+        "score": 100,
+        "category": "Admin",
+        "source": "impactpool"
+      }
+    ]
   }
 ]
