@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Let's tour Afghanistan Agency": {
-    "name": "Let's tour Afghanistan Agency",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-20T13:18:51.597114+00:00"
-  },
   "Private Business": {
     "name": "Private Business",
     "legitimacy_score": 60,
@@ -1047,5 +1035,27 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-19T19:10:37.611210+00:00"
+  },
+  "Kreyco": {
+    "name": "Kreyco",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-20T17:52:43.149504+00:00"
+  },
+  "IsDB - Islamic Development Bank": {
+    "name": "IsDB - Islamic Development Bank",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-10-20T17:52:43.150700+00:00"
   }
 }
