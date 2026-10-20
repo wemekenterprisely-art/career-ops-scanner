@@ -8045,6 +8045,114 @@
     "scan_date": "2026-10-20T17:53:42.714274+00:00"
   },
   {
+    "title": "Virtual High School English Teacher",
+    "company": "ACCEL Schools",
+    "url": "https://www.linkedin.com/jobs/view/virtual-high-school-english-teacher-at-accel-schools-4481791020",
+    "location": "Remote \u2014 Kissimmee, FL",
+    "posted": "2026-10-20",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-20T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 23.059518886944446,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 30,
+        "reason": "Requires language skills and academic work, but no specific translation or engineering skills."
+      },
+      "experience_match": {
+        "score": 50,
+        "reason": "Related experience in language services and academic supervision, but not direct experience."
+      },
+      "behavioral_fit": {
+        "score": 60,
+        "reason": "Remote, flexible, academic environment, but some friction with sales quotas."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward translation/teaching/academic career, aligns well with goals."
+      },
+      "overall_score": 76,
+      "verdict": "Good Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Data Analysis"
+      ],
+      "gaps": [
+        "No direct experience in engineering or development"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Virtual High School English Teacher role. His background in ESL/EFL instruction and academic supervision aligns well with the job requirements, and he has the potential to grow into a senior translator or academic coordinator role. Given the strong fit, there are no significant gaps in his skills or experience that would prevent him from excelling in this position.",
+      "interview_prep": "1. Can you describe a time when you had to supervise a complex research study? 2. How do you approach translating legal documents for a diverse audience? 3. Can you share an experience where you had to adapt your teaching methods to meet the needs of a student with a specific learning disability?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Virtual High School English Teacher role with his background in ESL/EFL instruction and academic supervision, and potential for growth in a senior translator or academic coordinator role."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Virtual High School English Teacher role with his background in ESL/EFL instruction and academic supervision, and potential for growth in a senior translator or academic coordinator role.",
+    "ai_overall_score": 76,
+    "ai_verdict": "Good Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Data Analysis"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or development"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Virtual High School English Teacher role. His background in ESL/EFL instruction and academic supervision aligns well with the job requirements, and he has the potential to grow into a senior translator or academic coordinator role. Given the strong fit, there are no significant gaps in his skills or experience that would prevent him from excelling in this position.",
+    "ai_interview_prep": "1. Can you describe a time when you had to supervise a complex research study? 2. How do you approach translating legal documents for a diverse audience? 3. Can you share an experience where you had to adapt your teaching methods to meet the needs of a student with a specific learning disability?",
+    "ai_technical_skills": 30,
+    "ai_experience_match": 50,
+    "ai_behavioral_fit": 60,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "ACCEL Schools",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-09-28T20:22:47.548227+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/ACCEL Schools_Virtual High School English Teacher_20261021.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/ACCEL Schools_Virtual High School English Teacher_20261021.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-20T23:06:17.096816+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -16092,6 +16200,111 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-20T17:53:42.714274+00:00"
+  },
+  {
+    "title": "Commercial Finishes Specification writer",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/technical-documentation/Commercial-Finishes-Specification-writer.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Tue, 20 Oct 2026 18:32:10 -0400",
+    "description": "We are a manufacturer of specialty plaster finishes and need a seasoned architectural technical or specification writer to update our MSDS, SDS, TDS and other similar documents. Document consolidation and updating to current standards is the focus... (Budget: $30 - $250 USD, Jobs: Building Architecture, Business Requirement Documentation, Compliance Auditing, Copywriting, Editing, Proofreading, Research, Technical Documentation, Technical Writing, Word Processing)",
+    "salary": "$30",
+    "source": "freelancer",
+    "postedISO": "2026-10-20T18:32:10-04:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (description)",
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.523626585,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires language skills, writing, and academic work, which aligns with the candidate's experience and skills."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Candidate has extensive experience in ESL teaching, academic supervision, and research guidance, which are directly applicable to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic supervision and research guidance suggests a strong fit for the role, especially in the context of academic writing and proposal development."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the role, including securing stable remote work, building client relationships, and growing into senior roles."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Research guidance capabilities"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's strong background in ESL teaching, academic supervision, and research guidance makes him a strong fit for the Commercial Finishes Specification writer role. His ability to adapt to remote work and build long-term client relationships aligns well with the job requirements.",
+      "interview_prep": "1. Can you describe a time when you successfully guided a graduate-level research study? 2. How do you approach the process of updating MSDS, SDS, and TDS documents to current standards? 3. Can you share an example of a complex academic writing task you've handled?",
+      "one_line_summary": "Waleed Ballag's strong background in ESL teaching, academic supervision, and research guidance makes him a strong fit for the Commercial Finishes Specification writer role."
+    },
+    "ai_insight": "Waleed Ballag's strong background in ESL teaching, academic supervision, and research guidance makes him a strong fit for the Commercial Finishes Specification writer role.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Research guidance capabilities"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong background in ESL teaching, academic supervision, and research guidance makes him a strong fit for the Commercial Finishes Specification writer role. His ability to adapt to remote work and build long-term client relationships aligns well with the job requirements.",
+    "ai_interview_prep": "1. Can you describe a time when you successfully guided a graduate-level research study? 2. How do you approach the process of updating MSDS, SDS, and TDS documents to current standards? 3. Can you share an example of a complex academic writing task you've handled?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Commercial Finishes Specification writer_20261021.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Commercial Finishes Specification writer_20261021.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-20T23:06:17.096816+00:00"
   },
   {
     "title": "Casual Home Page Copywriting",
