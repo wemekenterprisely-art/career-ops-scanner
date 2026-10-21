@@ -1033,5 +1033,29 @@
     "red_flags": [],
     "positive_signals": [],
     "last_updated": "2026-10-20T17:52:43.150700+00:00"
+  },
+  "Upedia Academy": {
+    "name": "Upedia Academy",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-21T09:58:20.275401+00:00"
+  },
+  "Doon Digital Learning": {
+    "name": "Doon Digital Learning",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-21T09:58:20.276499+00:00"
   }
 }
