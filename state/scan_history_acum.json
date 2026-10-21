@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-09-18T05:15:42.747618+00:00",
-    "matched_count": 1,
-    "all_count": 4754,
-    "jobs": [
-      {
-        "title": "Data Entry & Excel Maintenance",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/data-management/Data-Entry-Excel-Maintenance.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-09-18T13:18:43.633615+00:00",
     "matched_count": 1,
     "all_count": 4752,
@@ -3459,6 +3444,21 @@
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-21T23:08:40.524752+00:00",
+    "matched_count": 1,
+    "all_count": 4506,
+    "jobs": [
+      {
+        "title": "Virtual Assistant for Daily Job Submissions",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
       }
     ]
   }
