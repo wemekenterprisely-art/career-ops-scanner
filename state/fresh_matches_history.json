@@ -8369,6 +8369,114 @@
     "scan_date": "2026-10-21T09:59:05.555957+00:00"
   },
   {
+    "title": "Online english Teacher",
+    "company": "Speak Up Egypt",
+    "url": "https://eg.linkedin.com/jobs/view/online-english-teacher-at-speak-up-egypt-4482090158",
+    "location": "Remote \u2014 Egypt",
+    "posted": "2026-10-21",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-21T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 17.959524232222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills, aligns with the job description."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Has experience in ESL teaching, academic supervision, and legal translation, which are relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work, flexible schedule, and academic environment align well with the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligns with the job's goals."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Strong fit. Suitable for the job as it requires language skills, academic work, and remote work, which aligns well with the candidate's profile.",
+      "interview_prep": "1. Can you provide examples of how you have supervised graduate-level research studies? 2. How do you approach legal translation and ensuring accuracy in legal documents? 3. Can you discuss your experience in academic editing and thesis review?",
+      "one_line_summary": "Strong fit for the job, aligning with the candidate's skills and career goals."
+    },
+    "ai_insight": "Strong fit for the job, aligning with the candidate's skills and career goals.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Strong fit. Suitable for the job as it requires language skills, academic work, and remote work, which aligns well with the candidate's profile.",
+    "ai_interview_prep": "1. Can you provide examples of how you have supervised graduate-level research studies? 2. How do you approach legal translation and ensuring accuracy in legal documents? 3. Can you discuss your experience in academic editing and thesis review?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Speak Up Egypt",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-21T18:02:50.724096+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Speak Up Egypt_Online english Teacher_20261021.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Speak Up Egypt_Online english Teacher_20261021.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-21T18:03:21.000084+00:00"
+  },
+  {
     "title": "Bulgarian Proofreader needed (Long term)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
@@ -17152,6 +17260,113 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-18T09:28:48.639362+00:00"
+  },
+  {
+    "title": "English Learning App Content Creator",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/english-tutoring/English-Learning-App-Content-Creator",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-21T12:33:24+00:00",
+    "description": "I\u2019m expanding the content library inside my English-learning mobile app and need an experienced English-language specialist to take charge of the next batch of material. The immediate focus is on adding brand-new content and reviewing what already exists. Here\u2019s what I need you to dive into first: \u2022 Fresh, well-structured grammar lessons that follow a logical progression from beginner through advanced. \u2022 A curated selection of public-domain or properly licensed English books, formatted so users can read them comfortably in-app. You will be working directly in our internal content-management backend, so familiarity with web-based CMS tools will help you move quickly. Simply put, you\u2019ll log in, craft each grammar lesson (text explanations, examples, short practice items), upload or format the books, set the correct metadata, and publish. If you see minor issues in existing lessons while you\u2019re inside the system, feel free to correct them, but the bulk of your time should be spent pushing out brand-new material. Deliverables I will look for: 1. An agreed number of completed grammar lessons, fully entered and published in the CMS. 2. A set of English e-books live in the reader section, each with a short description and level tag. I\u2019ll check that each lesson is error-free, clearly explained, and that every book opens properly on both iOS and web versions of the app.",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-21T12:33:24+00:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.402877755,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, aligning with the job description."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Related experience in language services and academic supervision, aligning with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment, aligning with the job description."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible, aligning with the job requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligning with the job description."
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "Language skills",
+        "Academic supervision experience",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's profile aligns well with the English Learning App Content Creator role. His experience in ESL teaching and academic supervision, combined with his language skills and ability to work remotely, make him a strong fit for this position.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the creation of grammar lessons and book curations in the content management backend? 3. Can you share an example of a well-structured grammar lesson you have created?",
+      "one_line_summary": "Waleed Ballag's profile is a strong fit for the English Learning App Content Creator role due to his language skills, academic supervision experience, and ability to work remotely.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "Waleed Ballag's profile is a strong fit for the English Learning App Content Creator role due to his language skills, academic supervision experience, and ability to work remotely.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "Language skills",
+      "Academic supervision experience",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's profile aligns well with the English Learning App Content Creator role. His experience in ESL teaching and academic supervision, combined with his language skills and ability to work remotely, make him a strong fit for this position.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the creation of grammar lessons and book curations in the content management backend? 3. Can you share an example of a well-structured grammar lesson you have created?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_English Learning App Content Creator_20261021.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_English Learning App Content Creator_20261021.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-21T18:03:21.000084+00:00"
   },
   {
     "title": "Penulisan Deskripsi 51-100 Produk - 15/10/2026 05:08 EDT",
