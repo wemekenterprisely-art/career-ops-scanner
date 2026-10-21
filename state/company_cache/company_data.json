@@ -2,42 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Letuelezioni": {
-    "name": "Letuelezioni",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-21T13:19:37.965799+00:00"
-  },
-  "Yaxley Global \"Overseas Education Consultants\"": {
-    "name": "Yaxley Global \"Overseas Education Consultants\"",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-21T13:19:37.967186+00:00"
-  },
-  "Nachhilfepro": {
-    "name": "Nachhilfepro",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-21T13:19:37.968366+00:00"
-  },
   "Third Bridge Group": {
     "name": "Third Bridge Group",
     "legitimacy_score": 65,
@@ -1057,5 +1021,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-21T09:58:20.276499+00:00"
+  },
+  "Speak Up Egypt": {
+    "name": "Speak Up Egypt",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-21T18:02:50.724096+00:00"
   }
 }
