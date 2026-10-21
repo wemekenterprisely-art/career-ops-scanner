@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-09-17T20:24:54.952384+00:00",
-    "matched_count": 5,
-    "all_count": 4759,
-    "jobs": [
-      {
-        "title": "Saudi Arabic Editor & Designer",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/editing/Saudi-Arabic-Editor-Designer",
-        "score": 97,
-        "category": "Arabic Translation",
-        "source": "freelancer"
-      },
-      {
-        "title": "Cultural Creative Collaborator",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/video-editing/Cultural-Creative-Collaborator.html",
-        "score": 82,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Arabic Linguist",
-        "company": "eClerx",
-        "url": "https://in.linkedin.com/jobs/view/arabic-linguist-at-eclerx-4468609974",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "linkedin"
-      },
-      {
-        "title": "Copy Editor",
-        "company": "Mars United Commerce",
-        "url": "https://www.linkedin.com/jobs/view/copy-editor-at-mars-united-commerce-4448582172",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      },
-      {
-        "title": "Copy Editor",
-        "company": "Mars United Commerce",
-        "url": "https://www.linkedin.com/jobs/view/copy-editor-at-mars-united-commerce-4449321010",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-18T05:15:42.747618+00:00",
     "matched_count": 1,
     "all_count": 4754,
@@ -3480,6 +3433,29 @@
         "title": "Mathematics & English Tutor",
         "company": "Doon Digital Learning",
         "url": "https://in.linkedin.com/jobs/view/mathematics-english-tutor-at-doon-digital-learning-4480772973",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-21T18:03:45.280959+00:00",
+    "matched_count": 2,
+    "all_count": 4417,
+    "jobs": [
+      {
+        "title": "English Learning App Content Creator",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/english-tutoring/English-Learning-App-Content-Creator",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Online english Teacher",
+        "company": "Speak Up Egypt",
+        "url": "https://eg.linkedin.com/jobs/view/online-english-teacher-at-speak-up-egypt-4482090158",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
