@@ -1,21 +1,12 @@
 {
-  "total_scans": 153,
-  "total_matches": 540,
+  "total_scans": 154,
+  "total_matches": 542,
   "streak_days": 47,
   "last_scan_date": "2026-10-21",
-  "total_jobs_scanned": 714137,
+  "total_jobs_scanned": 718554,
   "best_day_matches": 12,
   "best_day_date": "2026-09-09",
   "daily_history": [
-    {
-      "date": "2026-09-21",
-      "total_fetched": 4739,
-      "matches": 3,
-      "old_verified": 0,
-      "near_misses": 0,
-      "sources": 21,
-      "fresh_count": 1441
-    },
     {
       "date": "2026-09-21",
       "total_fetched": 4734,
@@ -816,6 +807,15 @@
       "near_misses": 0,
       "sources": 19,
       "fresh_count": 1441
+    },
+    {
+      "date": "2026-10-21",
+      "total_fetched": 4417,
+      "matches": 2,
+      "old_verified": 1,
+      "near_misses": 0,
+      "sources": 17,
+      "fresh_count": 1320
     }
   ],
   "category_trends": {
@@ -824,11 +824,11 @@
       "last_seen": "2026-10-19"
     },
     "Editing": {
-      "count": 183,
+      "count": 184,
       "last_seen": "2026-10-21"
     },
     "ESL": {
-      "count": 140,
+      "count": 141,
       "last_seen": "2026-10-21"
     },
     "Admin": {
@@ -838,7 +838,7 @@
   },
   "source_trends": {
     "freelancer": {
-      "matches": 286,
+      "matches": 287,
       "last_seen": "2026-10-21"
     },
     "gotranscript": {
@@ -886,7 +886,7 @@
       "last_seen": "2026-09-06"
     },
     "linkedin": {
-      "matches": 205,
+      "matches": 206,
       "last_seen": "2026-10-21"
     },
     "impactpool": {
