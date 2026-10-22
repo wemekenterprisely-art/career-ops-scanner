@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-09-18T13:18:43.633615+00:00",
-    "matched_count": 1,
-    "all_count": 4752,
-    "jobs": [
-      {
-        "title": "AI Video Content Creator for Social Media",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/ai-video-editing/Video-Content-Creator-for-Social",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-09-18T20:22:26.848580+00:00",
     "matched_count": 5,
     "all_count": 4594,
@@ -3458,6 +3443,29 @@
         "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
         "score": 97,
         "category": "Admin",
+        "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-22T09:56:09.000440+00:00",
+    "matched_count": 2,
+    "all_count": 4497,
+    "jobs": [
+      {
+        "title": "Arabic Ecommerce Translation & Copywriting",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/ecommerce/Arabic-Ecommerce-Translation-Copywriting",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English-Arabic Legal Translation Certification",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/legal-translation/English-Arabic-Legal-Translation-40780507",
+        "score": 97,
+        "category": "Arabic Translation",
         "source": "freelancer"
       }
     ]
