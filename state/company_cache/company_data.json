@@ -2,19 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Third Bridge Group": {
-    "name": "Third Bridge Group",
-    "legitimacy_score": 65,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board",
-      "Appears to be registered business"
-    ],
-    "last_updated": "2026-09-22T20:19:33.690705+00:00"
-  },
   "American Egyptian Academy": {
     "name": "American Egyptian Academy",
     "legitimacy_score": 60,
