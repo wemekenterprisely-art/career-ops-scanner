@@ -1,5 +1,119 @@
 [
   {
+    "title": "Proofreader (Mathematics & Science)",
+    "company": "Cure Organics",
+    "url": "https://in.linkedin.com/jobs/view/proofreader-mathematics-science-at-cure-organics-4481605021",
+    "location": "Remote \u2014 Noida, Uttar Pradesh, India",
+    "posted": "2026-10-22",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-10-22T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 23.094888973611113,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in academic supervision and research guidance"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, and academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 86,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker with C1 Advanced English proficiency",
+        "Awarded English Language Trainer of the Year"
+      ],
+      "gaps": [
+        "No experience in engineering or development roles"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Proofreader role at Cure Organics. He is a strong fit for the job and can contribute effectively to the company's academic services.",
+      "interview_prep": [
+        "Can you describe a time when you supervised a research study and its impact on student learning?",
+        "How do you approach translating legal documents for academic purposes?",
+        "Can you share an experience where you had to manage client expectations in a remote setting?"
+      ],
+      "one_line_summary": "Waleed Ballag's proven track record in academic supervision and translation makes him a strong fit for the Proofreader role at Cure Organics."
+    },
+    "ai_insight": "Waleed Ballag's proven track record in academic supervision and translation makes him a strong fit for the Proofreader role at Cure Organics.",
+    "ai_overall_score": 86,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker with C1 Advanced English proficiency",
+      "Awarded English Language Trainer of the Year"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or development roles"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Proofreader role at Cure Organics. He is a strong fit for the job and can contribute effectively to the company's academic services.",
+    "ai_interview_prep": [
+      "Can you describe a time when you supervised a research study and its impact on student learning?",
+      "How do you approach translating legal documents for academic purposes?",
+      "Can you share an experience where you had to manage client expectations in a remote setting?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Cure Organics",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-08T11:54:28.687546+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Cure Organics_Proofreader (Mathematics & Science)_20261023.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Cure Organics_Proofreader (Mathematics & Science)_20261023.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-22T23:08:05.762947+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -528,5 +642,108 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-22T17:57:37.917623+00:00"
+  },
+  {
+    "title": "Bilingual U.S. Insurance Virtual Assistant",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/insurance/Bilingual-Insurance-Virtual-Assistant",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-22T20:49:36+00:00",
+    "description": "Assistant to support a U.S.-based insurance agency. We prefer candidates who speak Mandarin Chinese and English and have hands-on experience with U.S. group health insurance and life insurance. Position Details Position: Insurance Virtual Assistant Employment Type: Full-Time Work Setup: 100% Remote Industry: U.S. Health and Life Insurance Key Responsibilities Assist with day-to-day administrative tasks related to group health and life insurance. Support policy applications, enrollment, renewals, and policy servicing. Manage client information, insurance documents, and records. Communicate with clients, insurance carriers, and other stakeholders. Follow up on pending applications, requirements, and policy updates. Provide administrative support to ensure smooth insurance operations. Qualifications Previous experience with U.S. group health insurance and life insurance is strongly preferred. Mandarin Chinese and English communication skills are preferred. Familiarity with U.S. insurance terminology, enrollment processes, and policy documentation. Strong organizational skills and attention to detail. Good written and verbal communication skills. Ability to work independently and meet deadlines. Must have a reliable internet connection, backup power and internet options, a headset, and a dual-monitor setup. Why Join All Virtual Staffing? Work remotely with a U.S.-based insurance agency. Build your career in the U.S. insurance industry. Enjoy the opportunity to work with an international team. How to Apply Interested candidates are encouraged to submit their updated resume highlighting their experience in U.S. group health insurance and life insurance, along with their Mandarin language proficiency. Apply today and become part of the All Virtual Staffing team!",
+    "salary": "750.0-1500.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-22T20:49:36+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.2682416291666665,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 60,
+        "reason": "Requires some language skills but not exclusively translation or teaching"
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Related experience in ESL teaching and academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 75,
+        "reason": "Remote environment and academic focus"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide location compatible"
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds towards academic supervision and research roles"
+      },
+      "overall_score": 78,
+      "verdict": "Good Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills"
+      ],
+      "gaps": [
+        "No direct experience in insurance virtual assistant"
+      ],
+      "recommendation": "Waleed Ballag's background in ESL and academic supervision aligns well with the Bilingual U.S. Insurance Virtual Assistant role. His skills in language translation and academic supervision can be beneficial in supporting insurance operations and client communication.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you handle client communication in a virtual environment? 3. Can you walk us through a typical day in your role as an ESL instructor?",
+      "one_line_summary": "Waleed Ballag's background in ESL and academic supervision makes him a strong fit for the Bilingual U.S. Insurance Virtual Assistant role."
+    },
+    "ai_insight": "Waleed Ballag's background in ESL and academic supervision makes him a strong fit for the Bilingual U.S. Insurance Virtual Assistant role.",
+    "ai_overall_score": 78,
+    "ai_verdict": "Good Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills"
+    ],
+    "ai_gaps": [
+      "No direct experience in insurance virtual assistant"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in ESL and academic supervision aligns well with the Bilingual U.S. Insurance Virtual Assistant role. His skills in language translation and academic supervision can be beneficial in supporting insurance operations and client communication.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you handle client communication in a virtual environment? 3. Can you walk us through a typical day in your role as an ESL instructor?",
+    "ai_technical_skills": 60,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 75,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Bilingual U.S. Insurance Virtual Assistant_20261023.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Bilingual U.S. Insurance Virtual Assistant_20261023.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-22T23:08:05.762947+00:00"
   }
 ]
