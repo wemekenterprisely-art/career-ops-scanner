@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-09-19T05:17:31.810481+00:00",
-    "matched_count": 2,
-    "all_count": 4695,
-    "jobs": [
-      {
-        "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
-        "company": "Kreyco",
-        "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4469225283",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "ESL Instructor (63536)",
-        "company": "Aurora Mental Health & Recovery",
-        "url": "https://www.linkedin.com/jobs/view/esl-instructor-63536-at-aurora-mental-health-recovery-4467841444",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-19T13:22:26.431568+00:00",
     "matched_count": 5,
     "all_count": 4741,
@@ -3443,6 +3420,29 @@
         "score": 97,
         "category": "Editing",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-22T23:08:29.604605+00:00",
+    "matched_count": 2,
+    "all_count": 4461,
+    "jobs": [
+      {
+        "title": "Bilingual U.S. Insurance Virtual Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/insurance/Bilingual-Insurance-Virtual-Assistant",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofreader (Mathematics & Science)",
+        "company": "Cure Organics",
+        "url": "https://in.linkedin.com/jobs/view/proofreader-mathematics-science-at-cure-organics-4481605021",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
       }
     ]
   }
