@@ -114,6 +114,228 @@
     "scan_date": "2026-10-22T23:08:05.762947+00:00"
   },
   {
+    "title": "ESL Tutor",
+    "company": "Next Gen Academy",
+    "url": "https://za.linkedin.com/jobs/view/esl-tutor-at-next-gen-academy-4480647130",
+    "location": "Remote \u2014 Durban, KwaZulu-Natal, South Africa",
+    "posted": "2026-10-23",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-23T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 9.793249394166667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "ESL teaching, academic supervision, and bidirectional translation skills align well with the job requirements."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in ESL teaching and academic supervision, which is relevant to the job description."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work environment and academic focus align well with the job requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide location, compatible with the job requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligning well with the job description."
+      },
+      "overall_score": 87,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Bidirectional translation"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Strong fit for ESL Tutor position. Aligns well with career goals and job requirements.",
+      "interview_prep": [
+        "What is your experience in academic supervision and research guidance?",
+        "Can you describe a time when you translated legal documents for an academic project?"
+      ],
+      "one_line_summary": "Strong fit for ESL Tutor position with relevant skills and career alignment."
+    },
+    "ai_insight": "Strong fit for ESL Tutor position with relevant skills and career alignment.",
+    "ai_overall_score": 87,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Bidirectional translation"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Strong fit for ESL Tutor position. Aligns well with career goals and job requirements.",
+    "ai_interview_prep": [
+      "What is your experience in academic supervision and research guidance?",
+      "Can you describe a time when you translated legal documents for an academic project?"
+    ],
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@za.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@za.linkedin.com",
+      "hr@za.linkedin.com",
+      "jobs@za.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Next Gen Academy",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-23T09:51:15.504634+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Next Gen Academy_ESL Tutor_20261023.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Next Gen Academy_ESL Tutor_20261023.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-23T09:52:00.876529+00:00"
+  },
+  {
+    "title": "IME Report Proofreader",
+    "company": "Seaview Orthopaedic & Medical Associates",
+    "url": "https://www.linkedin.com/jobs/view/ime-report-proofreader-at-seaview-orthopaedic-medical-associates-4482778043",
+    "location": "Remote \u2014 Ocean, NJ",
+    "posted": "2026-10-22",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-10-22T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 33.793249985833334,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 60,
+        "reason": "Requires some language skills and writing, but not exclusively in translation or academic supervision."
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote work environment, flexible schedule, and academic focus."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns well with the candidate's goals."
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "No direct experience in engineering or development"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the IME Report Proofreader position. His ability to work remotely and in a flexible environment makes him a strong fit for the role.",
+      "interview_prep": "1. Can you describe a time when you translated legal documents for a client? 2. How do you handle academic writing and proposal development in your role? 3. Can you share an experience where you supervised a graduate-level research study?",
+      "one_line_summary": "Waleed Ballag's skills and experience make him a strong fit for the IME Report Proofreader position."
+    },
+    "ai_insight": "Waleed Ballag's skills and experience make him a strong fit for the IME Report Proofreader position.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or development"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the IME Report Proofreader position. His ability to work remotely and in a flexible environment makes him a strong fit for the role.",
+    "ai_interview_prep": "1. Can you describe a time when you translated legal documents for a client? 2. How do you handle academic writing and proposal development in your role? 3. Can you share an experience where you supervised a graduate-level research study?",
+    "ai_technical_skills": 60,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Seaview Orthopaedic & Medical Associates",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-23T09:51:15.506042+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Seaview Orthopaedic & Medical _IME Report Proofreader_20261023.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Seaview Orthopaedic & Medical _IME Report Proofreader_20261023.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-23T09:52:00.876529+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -745,5 +967,108 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-22T23:08:05.762947+00:00"
+  },
+  {
+    "title": "English Article Translation to Arabic -- 2",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/english-translation/English-Article-Translation-Arabic",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-23T00:40:06+00:00",
+    "description": "I have a general-interest article written in English that I\u2019d like rendered into clear, natural-sounding Arabic. It is not technical, academic, business or legal in nature\u2014simply a personal or general-purpose piece\u2014so style and readability matter more than formal jargon. What I need from you: \u2022 A faithful Arabic version that preserves the tone and flow of the original text. \u2022 The same basic formatting (headings, paragraphs, any italics or bold) so I can drop it straight back into place. \u2022 A brief note on any expressions or cultural references that required adaptation rather than word-for-word substitution. Please deliver the translated document in an editable file (Word or Google Docs preferred) and give it a quick self-review for spelling and grammar before sending.",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-23T00:40:06+00:00",
+    "score": 97,
+    "category": "Arabic Translation",
+    "why": [
+      "translator translation interpreter linguist editor proofreader localisation specialist .{0,40}arabic (title)"
+    ],
+    "is_fresh": false,
+    "age_hours": 9.124920709166666,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires Arabic-English translation, which is a perfect match for Waleed's background and skills."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Waleed has extensive experience in ESL teaching and academic supervision, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The job environment is remote and flexible, which aligns well with Waleed's preferred working style."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with Waleed's preferences."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "The job aligns with Waleed's career goals of securing stable remote work in translation or ESL teaching, and contributing to graduate-level research supervision."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation skills",
+        "Experienced ESL and academic supervisor"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed's background in ESL teaching and academic supervision makes him an excellent fit for this translation job. His ability to handle general-interest articles and maintain a clear, natural-sounding Arabic translation is a strong match for the job requirements.",
+      "interview_prep": "1. Can you describe a time when you translated an academic paper into Arabic? 2. How do you ensure the tone and flow of the original text are preserved in your translations? 3. Can you share an example of a cultural reference or expression that required adaptation in your translations?",
+      "one_line_summary": "Waleed Ballag's strong fit for the job due to his background in ESL and academic supervision, ensuring a perfect match for the translation and academic supervision requirements."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the job due to his background in ESL and academic supervision, ensuring a perfect match for the translation and academic supervision requirements.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation skills",
+      "Experienced ESL and academic supervisor"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed's background in ESL teaching and academic supervision makes him an excellent fit for this translation job. His ability to handle general-interest articles and maintain a clear, natural-sounding Arabic translation is a strong match for the job requirements.",
+    "ai_interview_prep": "1. Can you describe a time when you translated an academic paper into Arabic? 2. How do you ensure the tone and flow of the original text are preserved in your translations? 3. Can you share an example of a cultural reference or expression that required adaptation in your translations?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "No native QA, backlog of Arabic content; Translation backlog / scaling",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_English Article Translation to Arabic -- 2_20261023.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_English Article Translation to Arabic -- 2_20261023.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-23T09:52:00.876529+00:00"
   }
 ]
