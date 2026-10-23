@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-09-19T20:21:37.709466+00:00",
-    "matched_count": 4,
-    "all_count": 4743,
-    "jobs": [
-      {
-        "title": "Romanian Audio Lecture Transcription",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/proofreading/Romanian-Audio-Lecture-Transcription.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Elevate Beauty Salon Instagram Account",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/instagram-marketing/Elevate-Beauty-Salon-Instagram-Account",
-        "score": 82,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "English Tutor WFH (flexible)",
-        "company": "GALAXINO EDUCATION TECHNOLOGY- FZCO",
-        "url": "https://in.linkedin.com/jobs/view/english-tutor-wfh-flexible-at-galaxino-education-technology-fzco-4467302090",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
-        "company": "Kreyco",
-        "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4469562115",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-20T05:17:47.800053+00:00",
     "matched_count": 4,
     "all_count": 4738,
@@ -3427,6 +3388,37 @@
         "score": 97,
         "category": "Arabic Translation",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-23T17:48:48.198905+00:00",
+    "matched_count": 3,
+    "all_count": 4532,
+    "jobs": [
+      {
+        "title": "Inventory Data Entry in Sheets -- 2",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/google-sheets/Inventory-Data-Entry-Sheets-40783120",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofreader (Science)",
+        "company": "Cure Organics",
+        "url": "https://in.linkedin.com/jobs/view/proofreader-science-at-cure-organics-4481920524",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      },
+      {
+        "title": "Senior Content Writer Proofreader | Fact Checker - US News Team",
+        "company": "iOPEX Technologies Philippines Inc.",
+        "url": "https://ph.linkedin.com/jobs/view/senior-content-writer-proofreader-fact-checker-us-news-team-at-iopex-technologies-philippines-inc-4481688119",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
       }
     ]
   }
