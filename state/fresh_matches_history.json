@@ -557,6 +557,114 @@
     "scan_date": "2026-10-23T17:48:34.599904+00:00"
   },
   {
+    "title": "Proofreader",
+    "company": "Ogilvy Canada",
+    "url": "https://ca.linkedin.com/jobs/view/proofreader-at-ogilvy-canada-4480696247",
+    "location": "Remote \u2014 Toronto, Ontario, Canada",
+    "posted": "2026-10-23",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-10-23T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 22.986588209166666,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires language skills, writing, and academic work, aligning with the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment, flexible schedule, and academic setting are compatible with the candidate's skills and experience."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills and experience."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligning with the candidate's goals and experience."
+      },
+      "overall_score": 87,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Legal translation experience"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's qualifications and experience make him a strong fit for the Proofreader position at Ogilvy Canada. His ability to translate, supervise academic work, and provide legal translation services align perfectly with the job requirements, making it a promising career move.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a legal translation you've worked on? 3. How do you approach data analysis using SPSS?",
+      "one_line_summary": "Waleed Ballag's strong background in ESL teaching, academic supervision, and legal translation makes him an excellent fit for the Proofreader position at Ogilvy Canada."
+    },
+    "ai_insight": "Waleed Ballag's strong background in ESL teaching, academic supervision, and legal translation makes him an excellent fit for the Proofreader position at Ogilvy Canada.",
+    "ai_overall_score": 87,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Legal translation experience"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's qualifications and experience make him a strong fit for the Proofreader position at Ogilvy Canada. His ability to translate, supervise academic work, and provide legal translation services align perfectly with the job requirements, making it a promising career move.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a legal translation you've worked on? 3. How do you approach data analysis using SPSS?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@ca.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ca.linkedin.com",
+      "hr@ca.linkedin.com",
+      "jobs@ca.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Ogilvy Canada",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-23T23:02:24.929456+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Ogilvy Canada_Proofreader_20261024.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Ogilvy Canada_Proofreader_20261024.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-23T23:02:55.212539+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -1401,5 +1509,109 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-23T17:48:34.599904+00:00"
+  },
+  {
+    "title": "Precise Document Proofreading & Entry",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/data-entry/Precise-Document-Proofreading-Entry",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-23T22:47:24+00:00",
+    "description": "I have a batch of Word and a few exported-to-PDF files that now need a careful second set of eyes before they go out to clients. Your task is straightforward: open each document, proofread it for spelling, grammar, and overall formatting consistency, then apply the corrections directly inside the original Word files. The source text is already typed, so no transcription from handwriting is required\u2014just meticulous proofreading and clean data entry of the fixes. I\u2019ll supply the Word versions for every PDF, so you can work natively in .docx and preserve styles, tables, and headers while adjusting line-spacing, bullet alignment, or any other small layout glitches you spot. Final hand-off: the same Word documents returned with Track Changes accepted and a brief comment on anything that looked ambiguous or required clarification. If this sounds like your kind of detail-oriented work, let\u2019s get started.",
+    "salary": "25.0-50.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-23T22:47:24+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.1966111325,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Job requires proofreading and proofreading skills, which are closely aligned with the candidate's experience and certifications."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Candidate has extensive experience in ESL teaching, academic supervision, and proofreading, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and proofreading aligns well with the job's need for meticulous proofreading and clean data entry."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirements for stable remote work and long-term client relationships in academic services."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Meticulous proofreading skills",
+        "Experience in academic supervision",
+        "Strong communication skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience perfectly align with the Precise Document Proofreading & Entry job. His ability to proofread and maintain formatting consistency is a perfect match for the job's requirements, making it a strong fit. He can contribute to the company's academic services and build long-term relationships with clients, aligning with his career goals. The remote work option is a perfect fit for his preference for remote work, and there are no gaps in his experience that would make this a poor fit. The job's requirements are well-aligned with his career goals, making it a strong fit.",
+      "interview_prep": "1. What is your experience in proofreading and maintaining formatting consistency in academic documents? 2. How do you handle ambiguous or unclear text in your proofreading work? 3. Can you provide an example of a time when you had to adjust the layout of a document to improve readability?",
+      "one_line_summary": "Waleed Ballag's strong fit for the Precise Document Proofreading & Entry job due to his extensive experience in academic supervision, proofreading, and maintaining formatting consistency."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the Precise Document Proofreading & Entry job due to his extensive experience in academic supervision, proofreading, and maintaining formatting consistency.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Meticulous proofreading skills",
+      "Experience in academic supervision",
+      "Strong communication skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience perfectly align with the Precise Document Proofreading & Entry job. His ability to proofread and maintain formatting consistency is a perfect match for the job's requirements, making it a strong fit. He can contribute to the company's academic services and build long-term relationships with clients, aligning with his career goals. The remote work option is a perfect fit for his preference for remote work, and there are no gaps in his experience that would make this a poor fit. The job's requirements are well-aligned with his career goals, making it a strong fit.",
+    "ai_interview_prep": "1. What is your experience in proofreading and maintaining formatting consistency in academic documents? 2. How do you handle ambiguous or unclear text in your proofreading work? 3. Can you provide an example of a time when you had to adjust the layout of a document to improve readability?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Precise Document Proofreading & Entry_20261024.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Precise Document Proofreading & Entry_20261024.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-23T23:02:55.212539+00:00"
   }
 ]
