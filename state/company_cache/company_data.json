@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "American Egyptian Academy": {
-    "name": "American Egyptian Academy",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-23T05:16:28.791506+00:00"
-  },
   "Polly English": {
     "name": "Polly English",
     "legitimacy_score": 50,
@@ -1020,5 +1008,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-21T18:02:50.724096+00:00"
+  },
+  "Next Gen Academy": {
+    "name": "Next Gen Academy",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-23T09:51:15.504634+00:00"
+  },
+  "Seaview Orthopaedic & Medical Associates": {
+    "name": "Seaview Orthopaedic & Medical Associates",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-23T09:51:15.506042+00:00"
   }
 }
