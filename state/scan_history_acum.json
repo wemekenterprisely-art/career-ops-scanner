@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-09-20T05:17:47.800053+00:00",
-    "matched_count": 4,
-    "all_count": 4738,
-    "jobs": [
-      {
-        "title": "Handwritten Notes to Plain Text",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/proofreading/Handwritten-Notes-Plain-Text-40722134.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Philippine Virtual Assistant Needed",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/google-docs/Philippine-Virtual-Assistant-Needed",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Research Paper Finalization",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/academic-writing/Research-Paper-Finalization",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Entry-Level English Teacher",
-        "company": "English 1",
-        "url": "https://ca.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4469580441",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-20T13:20:01.419663+00:00",
     "matched_count": 3,
     "all_count": 4742,
@@ -3416,6 +3377,29 @@
         "title": "Senior Content Writer Proofreader | Fact Checker - US News Team",
         "company": "iOPEX Technologies Philippines Inc.",
         "url": "https://ph.linkedin.com/jobs/view/senior-content-writer-proofreader-fact-checker-us-news-team-at-iopex-technologies-philippines-inc-4481688119",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-23T23:03:19.797411+00:00",
+    "matched_count": 2,
+    "all_count": 4511,
+    "jobs": [
+      {
+        "title": "Precise Document Proofreading & Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-entry/Precise-Document-Proofreading-Entry",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofreader",
+        "company": "Ogilvy Canada",
+        "url": "https://ca.linkedin.com/jobs/view/proofreader-at-ogilvy-canada-4480696247",
         "score": 100,
         "category": "Editing",
         "source": "linkedin"
