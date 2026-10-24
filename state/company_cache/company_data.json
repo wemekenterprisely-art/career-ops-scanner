@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Fisher Investments UK": {
-    "name": "Fisher Investments UK",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-24T13:25:45.564187+00:00"
-  },
   "Hi-Q Academy": {
     "name": "Hi-Q Academy",
     "legitimacy_score": 60,
@@ -1037,5 +1025,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-24T09:22:52.610408+00:00"
+  },
+  "I CAN READ Indonesia": {
+    "name": "I CAN READ Indonesia",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-24T16:29:42.846045+00:00"
   }
 }
