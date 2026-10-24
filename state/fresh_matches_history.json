@@ -1835,5 +1835,110 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-23T23:02:55.212539+00:00"
+  },
+  {
+    "title": "Virtual Assistant for Online Business (long term)",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/sales/Virtual-Assistant-for-Online-Business-40785096",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-24T19:47:23+00:00",
+    "description": "I\u2019m looking for a reliable, self-motivated virtual assistant to help with a mix of small business and personal projects. No two weeks look the same, so you\u2019ll need to be comfortable juggling several things at once and staying calm while you do it. What you'll do: - Assist with simple online business setup tasks - Attend a few short online meetings when needed - Help with occasional business-related activities - Following up on billing discrepancies with vendors and companies - Other small projects as they come up You\u2019re a great fit if you: Have a good sense of humor (it really helps) Good English, since you\u2019ll be writing listings and following up with companies on my behalf Monthly payment preferred. Can get high rewards as the business grows.",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-24T19:47:23+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.55750176,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires language skills, writing, and academic work, which aligns with the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has direct experience in ESL teaching, academic supervision, and language translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's skills and experience are well-suited for a remote, academic environment, and the job description fits their personality well."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirements, and the job is a natural progression for their skills."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Experience in academic supervision",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's background in ESL teaching and academic supervision makes them an excellent fit for the Freelancer.com job. Their strong language skills and experience in academic supervision will be well-suited to the job's requirements.",
+      "interview_prep": "1. What is your experience in academic supervision and how does it relate to the job requirements? 2. Can you describe a time when you had to follow up on billing discrepancies with vendors and companies? 3. How do you handle unexpected projects and changes in workload?",
+      "one_line_summary": "Waleed Ballag's strong language skills and experience in academic supervision make them a strong fit for the Freelancer.com job."
+    },
+    "ai_insight": "Waleed Ballag's strong language skills and experience in academic supervision make them a strong fit for the Freelancer.com job.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Experience in academic supervision",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in ESL teaching and academic supervision makes them an excellent fit for the Freelancer.com job. Their strong language skills and experience in academic supervision will be well-suited to the job's requirements.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and how does it relate to the job requirements? 2. Can you describe a time when you had to follow up on billing discrepancies with vendors and companies? 3. How do you handle unexpected projects and changes in workload?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Virtual Assistant for Online Business (long term)_20261025.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Virtual Assistant for Online Business (long term)_20261025.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-24T22:23:23.227512+00:00"
   }
 ]
