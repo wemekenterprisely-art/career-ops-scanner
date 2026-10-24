@@ -773,6 +773,120 @@
     "scan_date": "2026-10-24T09:23:07.825673+00:00"
   },
   {
+    "title": "English Teacher",
+    "company": "I CAN READ Indonesia",
+    "url": "https://id.linkedin.com/jobs/view/english-teacher-at-i-can-read-indonesia-4482603671",
+    "location": "Remote \u2014 Tangerang, Banten, Indonesia",
+    "posted": "2026-10-24",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-24T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 16.485760989166668,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches the job description for ESL teaching, academic supervision, and legal translation."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote and academic environment, mostly compatible with the candidate's background."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns well with the candidate's skills."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's background in ESL teaching, academic supervision, and legal translation aligns well with the job requirements. The candidate's skills in these areas make them a strong fit for the English Teacher position at I CAN READ Indonesia.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a research project you supervised? 3. How do you approach legal translation in your teaching and professional work?",
+      "one_line_summary": "Waleed Ballag's strong background in ESL teaching and academic supervision makes them a strong fit for the English Teacher position at I CAN READ Indonesia."
+    },
+    "ai_insight": "Waleed Ballag's strong background in ESL teaching and academic supervision makes them a strong fit for the English Teacher position at I CAN READ Indonesia.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in ESL teaching, academic supervision, and legal translation aligns well with the job requirements. The candidate's skills in these areas make them a strong fit for the English Teacher position at I CAN READ Indonesia.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a research project you supervised? 3. How do you approach legal translation in your teaching and professional work?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@id.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@id.linkedin.com",
+      "hr@id.linkedin.com",
+      "jobs@id.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "I CAN READ Indonesia",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-24T16:29:42.846045+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am excited about the opportunity to contribute to the growth of the English language education in Indonesia. My MA in Applied Linguistics and BA in English Language along with extensive experience in ESL teaching positions make me a strong candidate for this role.",
+      "experience": "In my previous roles as an ESL Teacher & Secondary Supervisor at Higher Institute of Science and Technology and an ESL Teacher & Partner at Al-Safwa Smart School, I have honed my skills in curriculum development, academic supervision, and in-person teaching. My experience aligns perfectly with the requirements of this position.",
+      "skills": "I bring a combination of academic supervision and research guidance, thesis writing and development, and in-depth knowledge of ESL/EFL instruction. My proficiency in Microsoft Office Suite, Adobe Photoshop, SPSS statistical analysis, and language skills in both Arabic and English make me a versatile asset to the team.",
+      "closing": "I am eager to discuss how my qualifications and experience can contribute to the success of your team. Please schedule a time to interview me at your earliest convenience. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/I CAN READ Indonesia_English Teacher_20261024.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/I CAN READ Indonesia_English Teacher_20261024.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-24T16:29:55.149688+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
