@@ -665,6 +665,114 @@
     "scan_date": "2026-10-23T23:02:55.212539+00:00"
   },
   {
+    "title": "Senior Content Editor - Academic Writing",
+    "company": "Kanan.co",
+    "url": "https://in.linkedin.com/jobs/view/senior-content-editor-academic-writing-at-kanan-co-4481024983",
+    "location": "Remote \u2014 Vadodara, Gujarat, India",
+    "posted": "2026-10-24",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-10-24T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 9.349303132222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 60,
+        "reason": "Job requires some language skills and writing, but no direct translation or academic supervision."
+      },
+      "experience_match": {
+        "score": 55,
+        "reason": "Some experience in ESL teaching and academic supervision, but not in the specific roles of the job description."
+      },
+      "behavioral_fit": {
+        "score": 70,
+        "reason": "Remote work and academic environment align well, but there are some aspects that could be a slight mismatch."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide locations are compatible."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds towards translation/teaching/academic career, aligns well with the job description."
+      },
+      "overall_score": 75,
+      "verdict": "Good Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision experience",
+        "Remote work flexibility"
+      ],
+      "gaps": [
+        "No direct experience in translation or academic supervision roles"
+      ],
+      "recommendation": "Strong fit for the job. The candidate has relevant experience in ESL teaching and academic supervision, which aligns well with the job requirements. The ability to work remotely and in a flexible environment is a strong match.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach language translation for legal documents? 3. Can you share an experience where you had to edit a thesis for APA formatting?",
+      "one_line_summary": "Strong fit for the Senior Content Editor role with Kanan.co, aligning well with the candidate's experience in ESL teaching and academic supervision."
+    },
+    "ai_insight": "Strong fit for the Senior Content Editor role with Kanan.co, aligning well with the candidate's experience in ESL teaching and academic supervision.",
+    "ai_overall_score": 75,
+    "ai_verdict": "Good Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision experience",
+      "Remote work flexibility"
+    ],
+    "ai_gaps": [
+      "No direct experience in translation or academic supervision roles"
+    ],
+    "ai_recommendation": "Strong fit for the job. The candidate has relevant experience in ESL teaching and academic supervision, which aligns well with the job requirements. The ability to work remotely and in a flexible environment is a strong match.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach language translation for legal documents? 3. Can you share an experience where you had to edit a thesis for APA formatting?",
+    "ai_technical_skills": 60,
+    "ai_experience_match": 55,
+    "ai_behavioral_fit": 70,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Kanan.co",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-24T09:22:52.610408+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Kanan.co_Senior Content Editor - Academic Writing_20261024.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Kanan.co_Senior Content Editor - Academic Writing_20261024.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-24T09:23:07.825673+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
