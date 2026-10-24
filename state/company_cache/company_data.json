@@ -1025,5 +1025,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-23T23:02:24.929456+00:00"
+  },
+  "Kanan.co": {
+    "name": "Kanan.co",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-24T09:22:52.610408+00:00"
   }
 }
