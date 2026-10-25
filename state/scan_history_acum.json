@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-09-21T13:21:17.420129+00:00",
-    "matched_count": 5,
-    "all_count": 4734,
-    "jobs": [
-      {
-        "title": "Excel Book - Data Entry",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/proofreading/Excel-Book-Data-Entry",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Instagram Content Creation Internship",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/social-media-management/Instagram-Content-Creation-Internship.html",
-        "score": 87,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Language Teacher - Full Remote",
-        "company": "Letuelezioni",
-        "url": "https://it.linkedin.com/jobs/view/language-teacher-full-remote-at-letuelezioni-4467963153",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "English Second Language Tutor",
-        "company": "Yaxley Global \"Overseas Education Consultants\"",
-        "url": "https://in.linkedin.com/jobs/view/english-second-language-tutor-at-yaxley-global-overseas-education-consultants-4468710352",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "English as a Foreign Language (EFL) Tutor | Flexible Schedule",
-        "company": "Nachhilfepro",
-        "url": "https://at.linkedin.com/jobs/view/english-as-a-foreign-language-efl-tutor-flexible-schedule-at-nachhilfepro-4467730611",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-21T20:24:41.421442+00:00",
     "matched_count": 5,
     "all_count": 4754,
@@ -3307,6 +3260,53 @@
         "score": 97,
         "category": "Admin",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25T09:45:04.775467+00:00",
+    "matched_count": 5,
+    "all_count": 4566,
+    "jobs": [
+      {
+        "title": "Social Content Creator for Parenting Brand",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/social-media-management/Social-Content-Creator-for-Parenting",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Content Creator | Instagram, YouTube , Facebook",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-creation/Content-Creator-Instagram-YouTube",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Translation into English and Arabic",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/article-rewriting/Translation-into-English-Arabic",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Educational Content Copywriter Wanted",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Educational-Content-Copywriter-Wanted",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://ca.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4483338554",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
       }
     ]
   }
