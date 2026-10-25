@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Koimoi.com": {
-    "name": "Koimoi.com",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-25T13:19:33.383613+00:00"
-  },
   "ICC - International Criminal Court": {
     "name": "ICC - International Criminal Court",
     "legitimacy_score": 50,
@@ -1012,5 +1000,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-24T16:29:42.846045+00:00"
+  },
+  "LeadInTop": {
+    "name": "LeadInTop",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-25T17:05:02.103183+00:00"
   }
 }
