@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-09-21T20:24:41.421442+00:00",
-    "matched_count": 5,
-    "all_count": 4754,
-    "jobs": [
-      {
-        "title": "Easy writing text",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/proofreading/Easy-writing-text.html",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Resume Education Data Entry",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/word-processing/Resume-Education-Data-Entry",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Healthcare Pro Blog Writer",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/health-care-management/Healthcare-Pro-Blog-Writer.html",
-        "score": 87,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Recruiting U.S. Educators for Online Tutoring Platform",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/recruitment/Recruiting-Educators-for-Online-Tutoring",
-        "score": 67,
-        "category": "ESL",
-        "source": "freelancer"
-      },
-      {
-        "title": "Entry-Level English Teacher",
-        "company": "English 1",
-        "url": "https://au.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4469961154",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-22T05:16:32.548467+00:00",
     "matched_count": 1,
     "all_count": 4752,
@@ -3304,6 +3257,45 @@
         "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
         "company": "English 1",
         "url": "https://ca.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4483338554",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25T17:06:21.481612+00:00",
+    "matched_count": 4,
+    "all_count": 4575,
+    "jobs": [
+      {
+        "title": "Full-Time Online English Instructor",
+        "company": "LeadInTop",
+        "url": "https://eg.linkedin.com/jobs/view/full-time-online-english-instructor-at-leadintop-4482687457",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Teachers (Part-Time / Full-Time)",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/english-teachers-part-time-full-time-at-4level1-4483371725",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://ie.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4483380521",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://ie.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4483376631",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
