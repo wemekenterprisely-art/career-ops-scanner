@@ -2,16 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "ICC - International Criminal Court": {
-    "name": "ICC - International Criminal Court",
-    "legitimacy_score": 50,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [],
-    "last_updated": "2026-09-25T20:17:42.879310+00:00"
-  },
   "CHRISTUS Health": {
     "name": "CHRISTUS Health",
     "legitimacy_score": 60,
