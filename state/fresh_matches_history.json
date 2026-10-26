@@ -1440,6 +1440,113 @@
     "scan_date": "2026-10-25T17:05:56.412256+00:00"
   },
   {
+    "title": "Proofreader",
+    "company": "Signal Theory Inc.",
+    "url": "https://www.linkedin.com/jobs/view/proofreader-at-signal-theory-inc-4483515164",
+    "location": "Remote \u2014 Kansas City, MO",
+    "posted": "2026-10-26",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-10-26T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 10.82941476138889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 70,
+        "reason": "Requires some language skills and writing, but primarily focuses on academic supervision and research guidance."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Has experience in academic supervision and research guidance, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work and flexible schedule align well with the job's remote nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's remote location."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards academic roles, including translation and ESL teaching."
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision & Research Guidance",
+        "Remote Work Experience"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is well-suited for the Proofreader role at Signal Theory Inc. with a strong fit in remote work and academic supervision. His background in academic supervision and research guidance aligns well with the job requirements, and his experience in remote work will be beneficial for the role.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you stay updated with the latest research in your field? 3. Can you share a project you supervised that resulted in significant research outcomes?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Proofreader role with a background in academic supervision and research guidance, making him a valuable asset to Signal Theory Inc."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Proofreader role with a background in academic supervision and research guidance, making him a valuable asset to Signal Theory Inc.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision & Research Guidance",
+      "Remote Work Experience"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is well-suited for the Proofreader role at Signal Theory Inc. with a strong fit in remote work and academic supervision. His background in academic supervision and research guidance aligns well with the job requirements, and his experience in remote work will be beneficial for the role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you stay updated with the latest research in your field? 3. Can you share a project you supervised that resulted in significant research outcomes?",
+    "ai_technical_skills": 70,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Signal Theory Inc.",
+      "legitimacy_score": 65,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board",
+        "Appears to be registered business"
+      ],
+      "last_updated": "2026-10-26T10:52:46.403486+00:00"
+    },
+    "company_legitimacy": 65,
+    "company_summary": "2 positive signals",
+    "score_adjustment": 4,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Signal Theory Inc._Proofreader_20261026.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Signal Theory Inc._Proofreader_20261026.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-26T10:53:01.619553+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
