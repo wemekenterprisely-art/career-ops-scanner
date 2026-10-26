@@ -1002,5 +1002,18 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-25T17:05:02.103183+00:00"
+  },
+  "Signal Theory Inc.": {
+    "name": "Signal Theory Inc.",
+    "legitimacy_score": 65,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board",
+      "Appears to be registered business"
+    ],
+    "last_updated": "2026-10-26T10:52:46.403486+00:00"
   }
 }
