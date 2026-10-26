@@ -3082,5 +3082,126 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-26T19:10:16.971842+00:00"
+  },
+  {
+    "title": "Arabic Translation, Writing & Programming Support",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/arabic-translator/Arabic-Translation-Writing-Programming",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-26T21:36:26+00:00",
+    "description": "Professional Freelance Services I am a dedicated and detail-oriented freelancer offering a range of professional services, including English\u2013Arabic translation, article writing and editing, and programming and software development projects. I provide accurate, high-quality translations between English and Arabic, ensuring that the original meaning, tone, and context are preserved. I also specialize in writing, proofreading, and editing articles and other written content to ensure clarity, professionalism, and grammatical accuracy. In addition, I work on programming projects, helping clients develop solutions, solve technical problems, and improve their existing code according to their specific requirements. My Services Include: Translation: English to Arabic and Arabic to English. Article Writing: Creating clear, engaging, and well-structured articles. Editing and Proofreading: Improving grammar, spelling, readability, and overall content quality. Programming: Developing code, solving programming problems, and assisting with software and technical projects. My goal is to deliver reliable, high-quality work, meet deadlines, and ensure client satisfaction. I value clear communication, attention to detail, and continuous improvement, and I am committed to providing professional results tailored to each client's needs. If you are looking for a reliable freelancer for translation, writing, editing, or programming tasks, I would be happy to work with you and help bring your ideas to life.",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-26T21:36:26+00:00",
+    "score": 97,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic translator translation interpreter linguist editor proofreader content writer qa tester localis (title+description)",
+      "translator translation interpreter linguist editor proofreader localisation specialist .{0,40}arabic (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.0803123519444444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Matches Arabic-English translation, ESL teaching, and academic supervision."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching and academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "Arabic-English translation",
+        "ESL teaching",
+        "Academic supervision"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Strong fit for the job. Aligns well with career goals and skills.",
+      "interview_prep": [
+        "What is your experience in academic supervision and research guidance?",
+        "Can you provide examples of how you have translated legal, academic, and technical documents?"
+      ],
+      "one_line_summary": "Strong fit for the job, aligning well with career goals.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "Strong fit for the job, aligning well with career goals.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "Arabic-English translation",
+      "ESL teaching",
+      "Academic supervision"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Strong fit for the job. Aligns well with career goals and skills.",
+    "ai_interview_prep": [
+      "What is your experience in academic supervision and research guidance?",
+      "Can you provide examples of how you have translated legal, academic, and technical documents?"
+    ],
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare); Translation backlog / scaling",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am excited about the opportunity to contribute my skills in Arabic translation, writing, and programming support to Freelancer.com, where I have the potential to enhance my proficiency in these areas and bring value to the company.",
+      "experience": "In my previous roles as an ESL teacher and supervisor at higher institutions, I have honed my ability to provide effective translation, writing, and programming support, which perfectly aligns with the requirements of this position.",
+      "skills": "I possess the skills to undertake academic supervision, research guidance, thesis writing, and development, as well as academic editing and thesis review. My experience in ESL/EFL instruction, online and in-person teaching, and curriculum development further demonstrates my ability to meet the qualifications for this role.",
+      "closing": "I am eager to bring my expertise in Arabic and English language skills, as well as my proficiency in academic writing and programming, to Freelancer.com. I am available for an interview at your earliest convenience and look forward to discussing how I can contribute to your team."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Arabic Translation, Writing & Programming Support_20261027.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Arabic Translation, Writing & Programming Support_20261027.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-26T23:42:48.323986+00:00"
   }
 ]
