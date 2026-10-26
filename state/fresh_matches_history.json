@@ -2972,5 +2972,115 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-25T09:44:39.942084+00:00"
+  },
+  {
+    "title": "Proofread Final 38k-Word PDF - OOL",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/adobe-acrobat/Proofread-Final-Word-PDF-OOL",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-26T11:45:02+00:00",
+    "description": "I have a 38,000-word PDF that\u2019s already been through a professional proofread, yet a fresh set of eyes keeps spotting the occasional slip. The text is a collection of short lessons and anecdotes, and the publisher now works exclusively from this locked layout, so all work must be done directly on the PDF\u2014no Word conversions. Your task is to comb through the pdf file in US English, catch anything still lurking\u2014spelling, grammar, punctuation, plus any phrasing that feels unclear or awkward\u2014and mark it for me to review. I don\u2019t need you to rewrite; simply highlight the problem area and leave an in-context comment suggesting the fix. The underlying text should remain untouched. Deliverables \u2022 The same PDF returned with every suspected error highlighted and annotated in comment boxes. \u2022 A brief summary page (optional) if you notice any recurring patterns I should know about. That\u2019s it. If you\u2019re meticulous, comfortable working solely inside Acrobat or similar PDF-annotation tools, and can turn this around promptly, I\u2019d love your help.",
+    "salary": "30.0-250.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-26T11:45:02+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 7.348026905277778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires proofreading a 38,000-word PDF, which is a language and academic editing task, matching the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and proofreading, which aligns perfectly with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background and skills are well-suited for a remote, academic, and language-focused role."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate's skills and experience match the requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job's requirements, focusing on translation, teaching, and academic services."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Experienced in academic supervision",
+        "Versatile in proofreading"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "This candidate is well-suited for the job, with a strong background in language services and academic supervision, making it a strong fit for the role.",
+      "interview_prep": [
+        "Can you describe a time when you had to proofread a large document and identify and correct errors?",
+        "How do you approach proofreading academic papers or writing assignments to ensure clarity and coherence?"
+      ],
+      "one_line_summary": "A strong fit for a remote academic proofreading role."
+    },
+    "ai_insight": "A strong fit for a remote academic proofreading role.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Experienced in academic supervision",
+      "Versatile in proofreading"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "This candidate is well-suited for the job, with a strong background in language services and academic supervision, making it a strong fit for the role.",
+    "ai_interview_prep": [
+      "Can you describe a time when you had to proofread a large document and identify and correct errors?",
+      "How do you approach proofreading academic papers or writing assignments to ensure clarity and coherence?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Proofread Final 38k-Word PDF - OOL_20261026.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Proofread Final 38k-Word PDF - OOL_20261026.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-26T19:10:16.971842+00:00"
   }
 ]
