@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-09-23T20:22:28.432348+00:00",
-    "matched_count": 2,
-    "all_count": 4790,
-    "jobs": [
-      {
-        "title": "Indian UGC Content Creator- spokesperson Needed",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/content-creation/Indian-UGC-Content-Creator-spokesperson",
-        "score": 87,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "HR and Admin Assistant",
-        "company": "DRC - Danish Refugee Council",
-        "url": "https://www.impactpool.org/jobs/1238193",
-        "score": 100,
-        "category": "Admin",
-        "source": "impactpool"
-      }
-    ]
-  },
-  {
     "date": "2026-09-24T05:16:50.222779+00:00",
     "matched_count": 2,
     "all_count": 4792,
@@ -3193,6 +3170,45 @@
         "url": "https://id.linkedin.com/jobs/view/english-teacher-for-young-learners-at-i-can-read-indonesia-4483298352",
         "score": 100,
         "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-27T18:40:45.665620+00:00",
+    "matched_count": 4,
+    "all_count": 4564,
+    "jobs": [
+      {
+        "title": "Quick 1,000-Word Essay Proofread",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/editing/Quick-Word-Essay-Proofread",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Multilingual Website Localization Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/ai-content-editing/Multilingual-Website-Localization",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Teacher (Part-Time - Full-Time)",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/english-teacher-part-time-full-time-at-4level1-4484070909",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Bulgarian Localization QA Tester / Proofreader",
+        "company": "Welocalize",
+        "url": "https://fr.linkedin.com/jobs/view/bulgarian-localization-qa-tester-proofreader-at-welocalize-4480456212",
+        "score": 100,
+        "category": "Editing",
         "source": "linkedin"
       }
     ]
