@@ -1547,6 +1547,362 @@
     "scan_date": "2026-10-26T10:53:01.619553+00:00"
   },
   {
+    "title": "English Online teacher",
+    "company": "Time to Study",
+    "url": "https://il.linkedin.com/jobs/view/english-online-teacher-at-time-to-study-4481457265",
+    "location": "Remote \u2014 Israel",
+    "posted": "2026-10-26",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-26T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 34.26132714861111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches ESL teaching, academic supervision, and legal translation."
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "Related experience in language services and academic supervision, with 15 graduate-level studies supervised."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment, and compatible with the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "Builds toward translation/teaching/academic career, with a focus on graduate-level research supervision."
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Legal Translation"
+      ],
+      "gaps": [
+        "No experience in engineering or development"
+      ],
+      "recommendation": "This candidate is well-suited for the job as they have relevant experience in translation and academic supervision, and the role aligns well with their career goals. They are a strong fit for the position.",
+      "interview_prep": [
+        "What is your experience in academic supervision and research guidance?",
+        "Can you describe a time when you had to translate legal documents and how it was handled?"
+      ],
+      "one_line_summary": "Waleed Ballag is a strong fit for the English Online teacher position due to their extensive experience in ESL/EFL instruction and academic supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the English Online teacher position due to their extensive experience in ESL/EFL instruction and academic supervision.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Legal Translation"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or development"
+    ],
+    "ai_recommendation": "This candidate is well-suited for the job as they have relevant experience in translation and academic supervision, and the role aligns well with their career goals. They are a strong fit for the position.",
+    "ai_interview_prep": [
+      "What is your experience in academic supervision and research guidance?",
+      "Can you describe a time when you had to translate legal documents and how it was handled?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@il.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@il.linkedin.com",
+      "hr@il.linkedin.com",
+      "jobs@il.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Time to Study",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-27T10:17:11.111206+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "Dear Hiring Manager at Time to Study, I am writing to express my enthusiastic interest in the English Online Teacher position at your esteemed company. As a highly qualified and experienced educator with a strong background in both academic supervision and online teaching, I am eager to contribute to the mission of Time to Study.",
+      "experience": "In my previous roles as an ESL Teacher & Secondary Supervisor at Higher Institute of Science and Technology and ESL Teacher & Partner at Al-Safwa Smart School for Private Education, I have honed my skills in academic supervision, research guidance, and curriculum development. My ability to deliver effective online and in-person teaching and create engaging lesson plans has been recognized through my achievements, including being named the Laureate of Linguistic Excellence: English Language Trainer of the Year (2024). Additionally, my experience in Arabic-English bidirectional translation and my proficiency in English (C1 Advanced) are assets that I bring to the table.",
+      "skills": "I am proficient in Microsoft Office Suite (Expert), Adobe Photoshop, SPSS Statistical Analysis, and Adobe Photoshop. My strong skills in Academic Supervision & Research Guidance, Academic Editing & Thesis Review, Thesis Writing & Development, ESL/EFL Instruction, Online & In-person Teaching, Curriculum Development, Arabic-English Bidirectional Translation, Academic Translation, Legal Translation, and Cross-cultural Communication make me a versatile and reliable candidate for this role.",
+      "closing": "I am available for an interview at your earliest convenience and look forward to the opportunity to discuss how my skills and experience can contribute to the success of your English Online Teacher program. Thank you for considering my application. I am excited about the possibility of working with Time to Study and making a meaningful impact on language learning and education."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Time to Study_English Online teacher_20261027.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Time to Study_English Online teacher_20261027.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-27T10:17:43.763350+00:00"
+  },
+  {
+    "title": "English Second Language Teacher- Vietnam",
+    "company": "English 1",
+    "url": "https://vn.linkedin.com/jobs/view/english-second-language-teacher-vietnam-at-english-1-4479590744",
+    "location": "Remote \u2014 Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+    "posted": "2026-10-26",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-26T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 34.26132738416667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires Arabic-English translation, ESL teaching, academic supervision, and data analysis skills."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment, academic focus, and career alignment towards translation/teaching/academic."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds toward senior translator or academic coordinator role, contributing to graduate-level research supervision."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "US/EU citizenship or visa sponsorship"
+      ],
+      "recommendation": "The candidate is highly aligned with the job requirements and has the necessary skills to excel in the role.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach legal translation in a professional setting? 3. What is your experience with data analysis and SPSS?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the English Second Language Teacher- Vietnam role due to his extensive experience in ESL teaching and academic supervision, as well as his proficiency in legal translation and data analysis."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the English Second Language Teacher- Vietnam role due to his extensive experience in ESL teaching and academic supervision, as well as his proficiency in legal translation and data analysis.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "US/EU citizenship or visa sponsorship"
+    ],
+    "ai_recommendation": "The candidate is highly aligned with the job requirements and has the necessary skills to excel in the role.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach legal translation in a professional setting? 3. What is your experience with data analysis and SPSS?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@vn.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@vn.linkedin.com",
+      "hr@vn.linkedin.com",
+      "jobs@vn.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "English 1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-08T11:54:28.686396+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "Dear Hiring Manager,\n\nI am writing to express my enthusiastic interest in the English Second Language Teacher position at English 1, as advertised on LinkedIn. My qualifications align perfectly with the requirements for this role, especially the emphasis on teaching Vietnamese students in a remote setting.",
+      "experience": "As an ESL teacher with a Master's degree in Applied Linguistics, I have extensive experience in both online and in-person instruction, including teaching secondary students at higher institutes and private schools. My expertise in academic supervision, research guidance, and curriculum development has been instrumental in enhancing my teaching capabilities.",
+      "skills": "In line with the job requirements, my skills include the ability to translate between Arabic and English, perform academic editing, thesis review, and develop thesis writing. I am proficient in using Microsoft Office Suite, Adobe Photoshop, and SPSS Statistical Analysis, and I hold a Master's degree in Applied Linguistics and a Bachelor's degree in English Language.",
+      "closing": "I am confident that my qualifications and experience make me a perfect fit for this position. I am eager to discuss my qualifications and availability for an interview. Please feel free to contact me at 0123456789 for further information. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/English 1_English Second Language Teacher- Vietnam_20261027.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/English 1_English Second Language Teacher- Vietnam_20261027.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-27T10:17:43.763350+00:00"
+  },
+  {
+    "title": "English Teacher for Young Learners",
+    "company": "I CAN READ Indonesia",
+    "url": "https://id.linkedin.com/jobs/view/english-teacher-for-young-learners-at-i-can-read-indonesia-4483298352",
+    "location": "Remote \u2014 Tangerang, Banten, Indonesia",
+    "posted": "2026-10-27",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-27T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 10.261327491666666,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires Arabic-English translation, academic supervision, and ESL teaching, which aligns with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background is highly compatible with a remote, academic, and writing-oriented job, with a focus on language instruction and supervision."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is flexible and can work remotely, which is compatible with the job's remote nature."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the job, focusing on translation, teaching, and academic services."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the English Teacher for Young Learners position. He can contribute to the job's goals of building long-term client relationships and growing into a senior translator or academic coordinator role.",
+      "interview_prep": [
+        "What is your experience in academic supervision and research guidance?",
+        "Can you describe a time when you had to translate legal documents for a client?",
+        "How do you approach the development of a curriculum in language instruction?"
+      ],
+      "one_line_summary": "Waleed Ballag's extensive experience in ESL teaching, academic supervision, and legal translation make him a strong fit for the English Teacher for Young Learners position."
+    },
+    "ai_insight": "Waleed Ballag's extensive experience in ESL teaching, academic supervision, and legal translation make him a strong fit for the English Teacher for Young Learners position.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the English Teacher for Young Learners position. He can contribute to the job's goals of building long-term client relationships and growing into a senior translator or academic coordinator role.",
+    "ai_interview_prep": [
+      "What is your experience in academic supervision and research guidance?",
+      "Can you describe a time when you had to translate legal documents for a client?",
+      "How do you approach the development of a curriculum in language instruction?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@id.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@id.linkedin.com",
+      "hr@id.linkedin.com",
+      "jobs@id.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "I CAN READ Indonesia",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-24T16:29:42.846045+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am excited about the opportunity to contribute to the continued success of I CAN READ Indonesia as an English Teacher for Young Learners. My extensive experience in teaching English to young learners, coupled with my native proficiency in both Arabic and English, makes me a strong candidate for this position. With a Master's degree in Applied Linguistics and a Bachelor's degree in English Language, I bring a comprehensive understanding of language acquisition and pedagogical methods that I am eager to share with your school.",
+      "experience": "I have been involved in various roles at private education institutions, including teaching ESL and secondary supervising students in an institute of science and technology and a private school. My experience has honed my ability to develop and implement effective teaching strategies, as well as to manage and supervise a team of teachers. My skills in curriculum development, academic editing, and thesis review have also been instrumental in my professional journey.",
+      "skills": "My skills in academic supervision, research guidance, thesis writing, and development, online and in-person teaching, and curriculum development align perfectly with the requirements of the English Teacher for Young Learners position at I CAN READ Indonesia. Additionally, my native proficiency in Arabic and English, coupled with my ability to provide Arabic-English bidirectional translation and legal translation, make me an ideal candidate for this role.",
+      "closing": "I am available for an interview at your convenience and look forward to the possibility of contributing my skills and enthusiasm to your esteemed institution. Please feel free to contact me at [Your Email] or [Your Phone] to schedule an interview. Thank you for considering my application. I am eager to bring my dedication to the English Education and your students' success."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/I CAN READ Indonesia_English Teacher for Young Learners_20261027.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/I CAN READ Indonesia_English Teacher for Young Learners_20261027.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-27T10:17:43.763350+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
