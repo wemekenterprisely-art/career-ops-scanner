@@ -4008,5 +4008,110 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-27T18:40:32.027666+00:00"
+  },
+  {
+    "title": "Accurate Furniture Bill Data Entry",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/google-sheets/Accurate-Furniture-Bill-Data-Entry",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-27T18:53:23+00:00",
+    "description": "Project Title: Data Entry of 1500-2000 Furniture Bills into Excel/Google Sheets Description: I have a furniture shop and I need an experienced data entry freelancer to type out approximately 1500 to 2000 old manual furniture bills into a simple, structured format (Excel or Google Sheets). Scope of Work: Read the information from the provided bill images/scans and type it accurately. The columns should include: Bill Number, Date, Customer Name, Item Name, Quantity, Rate, Total Amount, and any other relevant fields available on the bill. Ensure the data is clean, well-organized, and free of typing errors. Requirements: High accuracy and attention to detail (this is very important). Ability to read handwritten or old typed Hindi/English bills. Good typing speed. Deliverable: A completed Excel file or Google Sheet with all the data. Additional Notes: I will provide clear images/scans of the bills. I will provide a small sample task (10-20 bills) first to check the quality of your work. If the work is good, I will have more projects in the future.",
+    "salary": "1500.0-12500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-10-27T18:53:23+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.767541896944444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matched with ESL/EFL instruction, academic supervision, and legal translation"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in academic supervision and research guidance"
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote work and academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide, compatible with the job's requirements"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards senior translator or academic coordinator role"
+      },
+      "overall_score": 86,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Strong fit for the Accurate Furniture Bill Data Entry job. Aligns well with career goals and offers a good fit for remote work and academic environments.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure accuracy in data entry for old manual bills? 3. Can you share an experience where you used SPSS for data analysis?",
+      "one_line_summary": "Strong fit for Accurate Furniture Bill Data Entry, aligning with career goals and remote work opportunities."
+    },
+    "ai_insight": "Strong fit for Accurate Furniture Bill Data Entry, aligning with career goals and remote work opportunities.",
+    "ai_overall_score": 86,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Strong fit for the Accurate Furniture Bill Data Entry job. Aligns well with career goals and offers a good fit for remote work and academic environments.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure accuracy in data entry for old manual bills? 3. Can you share an experience where you used SPSS for data analysis?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Accurate Furniture Bill Data Entry_20261028.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Accurate Furniture Bill Data Entry_20261028.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-27T23:43:12.621673+00:00"
   }
 ]
