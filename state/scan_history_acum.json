@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-09-23T13:24:16.497688+00:00",
-    "matched_count": 5,
-    "all_count": 4783,
-    "jobs": [
-      {
-        "title": "Start Today: Mixed Data Entry -- 2",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/data-processing/Start-Today-Mixed-Data-Entry-40729132.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Italy-Based Virtual Assistant Support",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/email-handling/Italy-Based-Virtual-Assistant-Support",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Looking For Online ESL Teachers - Remote- Joining Rewards of up to USD $100",
-        "company": "Polly English",
-        "url": "https://www.workingnomads.com/job/go/1884997/",
-        "score": 100,
-        "category": "ESL",
-        "source": "workingnomads"
-      },
-      {
-        "title": "Superbike Instagram Content Editor Needed",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Superbike-Instagram-Content-Editor",
-        "score": 87,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Proofreader",
-        "company": "Navneet Education Limited",
-        "url": "https://in.linkedin.com/jobs/view/proofreader-at-navneet-education-limited-4468988848",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-23T20:22:28.432348+00:00",
     "matched_count": 2,
     "all_count": 4790,
@@ -3210,6 +3163,37 @@
         "score": 97,
         "category": "Arabic Translation",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-27T10:17:57.637131+00:00",
+    "matched_count": 3,
+    "all_count": 4551,
+    "jobs": [
+      {
+        "title": "English Online teacher",
+        "company": "Time to Study",
+        "url": "https://il.linkedin.com/jobs/view/english-online-teacher-at-time-to-study-4481457265",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Second Language Teacher- Vietnam",
+        "company": "English 1",
+        "url": "https://vn.linkedin.com/jobs/view/english-second-language-teacher-vietnam-at-english-1-4479590744",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Teacher for Young Learners",
+        "company": "I CAN READ Indonesia",
+        "url": "https://id.linkedin.com/jobs/view/english-teacher-for-young-learners-at-i-can-read-indonesia-4483298352",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
       }
     ]
   }
