@@ -2,30 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "University of North Florida": {
-    "name": "University of North Florida",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-27T13:18:22.890859+00:00"
-  },
-  "Berlitz Pakistan": {
-    "name": "Berlitz Pakistan",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-27T13:18:22.892631+00:00"
-  },
   "Motion Box": {
     "name": "Motion Box",
     "legitimacy_score": 60,
@@ -967,5 +943,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-27T10:17:11.111206+00:00"
+  },
+  "Welocalize": {
+    "name": "Welocalize",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-27T18:39:46.661111+00:00"
   }
 }
