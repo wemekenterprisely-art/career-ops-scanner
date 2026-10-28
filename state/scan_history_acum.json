@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-09-24T13:27:06.834080+00:00",
-    "matched_count": 4,
-    "all_count": 4791,
-    "jobs": [
-      {
-        "title": "Printed Text to Excel Conversion",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/data-management/Printed-Text-Excel-Conversion.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Seeking Dependable Virtual Assistant For Ongoing Support",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/administrative-support/Seeking-Dependable-Virtual-Assistant-For",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Creative Piece Proofreading Needed",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/creative-writing/Creative-Piece-Proofreading-Needed",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Financial Arabic Translator",
-        "company": "Fisher Investments UK",
-        "url": "https://uk.linkedin.com/jobs/view/financial-arabic-translator-at-fisher-investments-uk-4458640915",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-24T20:22:48.483090+00:00",
     "matched_count": 2,
     "all_count": 4769,
@@ -3202,6 +3163,85 @@
         "score": 97,
         "category": "Admin",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-28T11:13:31.920831+00:00",
+    "matched_count": 9,
+    "all_count": 4548,
+    "jobs": [
+      {
+        "title": "Simple Health Blog Writing",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/blog-writing/Simple-Health-Blog-Writing.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "US Data Entry from Scans",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/google-sheets/Data-Entry-from-Scans.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Transcribe Indonesian PDF to Word",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copy-typing/Transcribe-Indonesian-PDF-Word.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofread & Format 6x9 Novel",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/book-design/Proofread-Format-Novel",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofread Word Document Before PDF",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copy-editing/Proofread-Word-Document-Before-PDF",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "WordPress Full Arabic Localization",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/translation/WordPress-Full-Arabic-Localization",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Web Content Writer Needed (beginners can also contact)",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/blog-writing/Web-Content-Writer-Needed-beginners",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://au.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4484424709",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://au.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4484427497",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
       }
     ]
   }
