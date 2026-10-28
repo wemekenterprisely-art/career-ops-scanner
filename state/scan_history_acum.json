@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-09-24T20:22:48.483090+00:00",
-    "matched_count": 2,
-    "all_count": 4769,
-    "jobs": [
-      {
-        "title": "Online English Instructor for Kids and Teens",
-        "company": "Hi-Q Academy",
-        "url": "https://eg.linkedin.com/jobs/view/online-english-instructor-for-kids-and-teens-at-hi-q-academy-4469674775",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Proofreader",
-        "company": "The Forum Group",
-        "url": "https://www.linkedin.com/jobs/view/proofreader-at-the-forum-group-4471623844",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-25T05:16:53.006701+00:00",
     "matched_count": 2,
     "all_count": 4781,
@@ -3242,6 +3219,29 @@
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-28T18:47:43.255905+00:00",
+    "matched_count": 2,
+    "all_count": 4549,
+    "jobs": [
+      {
+        "title": "Nationwide Real Estate & Auto Contacts Scrape",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-scraping/Nationwide-Real-Estate-Auto-Contacts.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Operations Assistant: Organize Tasks & Files",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/asana/Operations-Assistant-Organize-Tasks.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
       }
     ]
   }
