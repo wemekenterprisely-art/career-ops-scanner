@@ -4913,6 +4913,221 @@
     "scan_date": "2026-10-28T11:13:07.014059+00:00"
   },
   {
+    "title": "Nationwide Real Estate & Auto Contacts Scrape",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/data-scraping/Nationwide-Real-Estate-Auto-Contacts.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Wed, 28 Oct 2026 14:19:42 -0400",
+    "description": "I need a clean, well-structured spreadsheet that combines two distinct lead pools: apartment locator / rental real-estate agents and car sales professionals. For every contact, include the full name, company, phone number, and website exactly in separate columns... (Budget: $30 - $250 USD, Jobs: Data Analysis, Data Annotation, Data Entry, Data Management, Data Scraping, Excel, Web Scraping, Web Search)",
+    "salary": "$30",
+    "source": "freelancer",
+    "postedISO": "2026-10-28T14:19:42-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "data annotation data labeling data labeler data entry specialist clerk operator agent (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.37181209805555554,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, but no specific technical skills"
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "Direct experience in ESL teaching and academic supervision, but not in data scraping"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote and academic environment, but some friction with the specific job requirements"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills"
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward translation/teaching/academic career, but not exclusively"
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Supervised 15 graduate-level research studies"
+      ],
+      "gaps": [
+        "No direct experience in data scraping",
+        "Needs to be flexible and adaptable"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the job requirements, but there are some areas where additional training or experience would be beneficial.",
+      "interview_prep": "1. Can you provide examples of how you've used your language skills to supervise research studies? 2. How do you approach data management and cleaning in your work? 3. Can you describe a time when you had to adapt to a new project's requirements?",
+      "one_line_summary": "Waleed Ballag's skills make him a strong fit for the job, but additional training in data management is recommended."
+    },
+    "ai_insight": "Waleed Ballag's skills make him a strong fit for the job, but additional training in data management is recommended.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Supervised 15 graduate-level research studies"
+    ],
+    "ai_gaps": [
+      "No direct experience in data scraping",
+      "Needs to be flexible and adaptable"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the job requirements, but there are some areas where additional training or experience would be beneficial.",
+    "ai_interview_prep": "1. Can you provide examples of how you've used your language skills to supervise research studies? 2. How do you approach data management and cleaning in your work? 3. Can you describe a time when you had to adapt to a new project's requirements?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Nationwide Real Estate & Auto Contacts Scrape_20261028.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Nationwide Real Estate & Auto Contacts Scrape_20261028.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-28T18:47:18.750482+00:00"
+  },
+  {
+    "title": "Operations Assistant: Organize Tasks & Files",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/asana/Operations-Assistant-Organize-Tasks.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Wed, 28 Oct 2026 14:16:12 -0400",
+    "description": "I\u2019m looking for a U.S.-based virtual assistant who can take the swirl of projects, notes, and loose ends in my business and turn them into a clear, trackable system. What I need first My top priority... (Budget: \u20b9600 - \u20b91500 INR, Jobs: Asana, Data Entry, Data Processing, Documentation, Excel, Google Sheets, Project Management, Virtual Assistant)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-10-28T14:16:12-04:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "virtual assistant administrative assistant admin assistant executive assistant (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.4301459136111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 60,
+        "reason": "Job requires some language skills and academic work, but not exclusively."
+      },
+      "experience_match": {
+        "score": 50,
+        "reason": "Direct experience in ESL teaching and academic supervision, but not exclusively."
+      },
+      "behavioral_fit": {
+        "score": 60,
+        "reason": "Remote work and academic environment, but some friction in career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills."
+      },
+      "career_alignment": {
+        "score": 50,
+        "reason": "Builds toward academic career, but not exclusively."
+      },
+      "overall_score": 54,
+      "verdict": "Moderate Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Remote work"
+      ],
+      "gaps": [
+        "Translation/teaching/academic skills",
+        "Senior leadership experience"
+      ],
+      "recommendation": "Waleed Ballag's skills align well with the job requirements, but there are gaps in translation/teaching/academic experience, which could be addressed through additional training or projects.",
+      "interview_prep": "1. Can you provide examples of how you've supervised graduate-level research studies? 2. How do you approach data analysis using SPSS and thematic coding? 3. Can you describe a time when you had to translate legal documents for academic purposes?",
+      "one_line_summary": "Wade Ballag's skills align well with the job, but there are gaps in translation/teaching/academic experience."
+    },
+    "ai_insight": "Wade Ballag's skills align well with the job, but there are gaps in translation/teaching/academic experience.",
+    "ai_overall_score": 54,
+    "ai_verdict": "Moderate Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "Translation/teaching/academic skills",
+      "Senior leadership experience"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills align well with the job requirements, but there are gaps in translation/teaching/academic experience, which could be addressed through additional training or projects.",
+    "ai_interview_prep": "1. Can you provide examples of how you've supervised graduate-level research studies? 2. How do you approach data analysis using SPSS and thematic coding? 3. Can you describe a time when you had to translate legal documents for academic purposes?",
+    "ai_technical_skills": 60,
+    "ai_experience_match": 50,
+    "ai_behavioral_fit": 60,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 50,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Operations Assistant- Organize Tasks & Files_20261028.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Operations Assistant- Organize Tasks & Files_20261028.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-28T18:47:18.750482+00:00"
+  },
+  {
     "title": "Web Content Writer Needed (beginners can also contact)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/blog-writing/Web-Content-Writer-Needed-beginners",
