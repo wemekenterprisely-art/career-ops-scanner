@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-09-25T05:16:53.006701+00:00",
-    "matched_count": 2,
-    "all_count": 4781,
-    "jobs": [
-      {
-        "title": "PDF Text to Excel Transfer",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/data-entry/PDF-Text-Excel-Transfer-40730391.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Virtual Assistant for Business Operations",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/administrative-support/Virtual-Assistant-for-Business-40732096",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-09-25T13:20:28.242897+00:00",
     "matched_count": 2,
     "all_count": 4780,
@@ -3242,6 +3219,37 @@
         "score": 97,
         "category": "Admin",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-29T00:02:13.071759+00:00",
+    "matched_count": 3,
+    "all_count": 4545,
+    "jobs": [
+      {
+        "title": "Academic Proofreading: Grammar & Spelling",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/academic-writing/Academic-Proofreading-Grammar-Spelling",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Bookkeeping & Administrative Assistant",
+        "company": "Freelance Latin America",
+        "url": "https://himalayas.app/companies/freelance-latin-america/jobs/bookkeeping-administrative-assistant?utm_source=api",
+        "score": 100,
+        "category": "Admin",
+        "source": "himalayas"
+      },
+      {
+        "title": "Spoken English Tutor",
+        "company": "EnglishReady",
+        "url": "https://in.linkedin.com/jobs/view/spoken-english-tutor-at-englishready-4483841302",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
       }
     ]
   }
