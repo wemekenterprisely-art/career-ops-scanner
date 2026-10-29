@@ -2,42 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "We Learn English School": {
-    "name": "We Learn English School",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-28T20:22:47.546583+00:00"
-  },
-  "ACCEL Schools": {
-    "name": "ACCEL Schools",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-28T20:22:47.548227+00:00"
-  },
-  "FLY Experience Idiomas": {
-    "name": "FLY Experience Idiomas",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-28T20:22:47.549616+00:00"
-  },
   "Resonanz Career": {
     "name": "Resonanz Career",
     "legitimacy_score": 60,
@@ -943,5 +907,27 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-27T18:39:46.661111+00:00"
+  },
+  "Freelance Latin America": {
+    "name": "Freelance Latin America",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-10-29T00:01:03.699324+00:00"
+  },
+  "EnglishReady": {
+    "name": "EnglishReady",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-29T00:01:03.700578+00:00"
   }
 }
