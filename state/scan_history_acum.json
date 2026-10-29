@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-09-25T20:18:36.310990+00:00",
-    "matched_count": 2,
-    "all_count": 4643,
-    "jobs": [
-      {
-        "title": "Fast Copy-Paste Data Entry",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/data-entry/Fast-Copy-Paste-Data-Entry.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Internship - Public Information and Outreach Section, Registry (Arabic Speaker)",
-        "company": "ICC - International Criminal Court",
-        "url": "https://www.impactpool.org/jobs/1238383",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "impactpool"
-      }
-    ]
-  },
-  {
     "date": "2026-09-26T05:15:03.900100+00:00",
     "matched_count": 4,
     "all_count": 4652,
@@ -3263,6 +3240,53 @@
         "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
         "company": "English 1",
         "url": "https://ca.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4484776798",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-29T18:57:38.426203+00:00",
+    "matched_count": 5,
+    "all_count": 4529,
+    "jobs": [
+      {
+        "title": "Arabic to English Translator Needed -- 2",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/language-tutoring/Arabic-English-Translator-Needed",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "About Pages Copywriter",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/seo-writing/About-Pages-Copywriter",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Bilingual SaaS Video Presenter Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-creation/Bilingual-SaaS-Video-Presenter-Needed",
+        "score": 82,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Teachers (Online - Offline)",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/english-teachers-online-offline-at-4level1-4484981064",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Teachers (Part-Time - Full-Time)",
+        "company": "Private Business",
+        "url": "https://eg.linkedin.com/jobs/view/english-teachers-part-time-full-time-at-private-business-4484973284",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
