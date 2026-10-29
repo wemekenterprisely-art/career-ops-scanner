@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-09-25T13:20:28.242897+00:00",
-    "matched_count": 2,
-    "all_count": 4780,
-    "jobs": [
-      {
-        "title": "Handwritten Pages to PDF Transcription",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/pdf/Handwritten-Pages-PDF-Transcription",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Content Editor",
-        "company": "Koimoi.com",
-        "url": "https://in.linkedin.com/jobs/view/content-editor-at-koimoi-com-4471899432",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-25T20:18:36.310990+00:00",
     "matched_count": 2,
     "all_count": 4643,
@@ -3247,6 +3224,45 @@
         "title": "Spoken English Tutor",
         "company": "EnglishReady",
         "url": "https://in.linkedin.com/jobs/view/spoken-english-tutor-at-englishready-4483841302",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-29T11:25:22.651199+00:00",
+    "matched_count": 4,
+    "all_count": 4487,
+    "jobs": [
+      {
+        "title": "Banking Partnership Pitch Deck Design",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/graphic-design/Banking-Partnership-Pitch-Deck-Design",
+        "score": 92,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Graphics & Video Content Creation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/video-editing/Graphics-Video-Content-Creation",
+        "score": 67,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Full-Time Online ESL Instructor",
+        "company": "LeadInTop",
+        "url": "https://www.linkedin.com/jobs/view/full-time-online-esl-instructor-at-leadintop-4484791470",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://ca.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4484776798",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
