@@ -2569,6 +2569,223 @@
     "scan_date": "2026-10-29T00:01:49.073471+00:00"
   },
   {
+    "title": "Full-Time Online ESL Instructor",
+    "company": "LeadInTop",
+    "url": "https://www.linkedin.com/jobs/view/full-time-online-esl-instructor-at-leadintop-4484791470",
+    "location": "Remote \u2014 New York, NY",
+    "posted": "2026-10-29",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-29T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 11.354282259444444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires Arabic-English translation, academic supervision, and ESL teaching, which are all transferable skills from the candidate's background."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and translation, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background is well-suited for a remote, academic environment, and they have experience in related fields."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate has a global location, making it compatible."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "The candidate's career goals align well with the job, focusing on translation, teaching, and academic services."
+      },
+      "overall_score": 89,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Translation skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Full-Time Online ESL Instructor position at LeadInTop. Their extensive experience in ESL teaching, academic supervision, and translation aligns well with the job requirements, and their career goals are directly aligned with the role.",
+      "interview_prep": "1. What are your strengths and how do they match the job requirements? 2. How do you handle challenging academic supervision tasks? 3. Can you provide examples of successful translation projects you've worked on?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Full-Time Online ESL Instructor position at LeadInTop."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Full-Time Online ESL Instructor position at LeadInTop.",
+    "ai_overall_score": 89,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Translation skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Full-Time Online ESL Instructor position at LeadInTop. Their extensive experience in ESL teaching, academic supervision, and translation aligns well with the job requirements, and their career goals are directly aligned with the role.",
+    "ai_interview_prep": "1. What are your strengths and how do they match the job requirements? 2. How do you handle challenging academic supervision tasks? 3. Can you provide examples of successful translation projects you've worked on?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "LeadInTop",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-25T17:05:02.103183+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/LeadInTop_Full-Time Online ESL Instructor_20261029.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/LeadInTop_Full-Time Online ESL Instructor_20261029.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-29T11:24:57.598055+00:00"
+  },
+  {
+    "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+    "company": "English 1",
+    "url": "https://ca.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4484776798",
+    "location": "Remote \u2014 Trail, British Columbia, Canada",
+    "posted": "2026-10-29",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-29T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 11.35428274861111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "ESL teaching, academic supervision, legal translation, and academic editing align with the job requirements."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work, flexible schedule, and academic environment align well with the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds towards translation/teaching/academic career, aligns with the job's requirements."
+      },
+      "overall_score": 87,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "academic supervision",
+        "legal translation"
+      ],
+      "gaps": [
+        "no direct experience in engineering or development"
+      ],
+      "recommendation": "Ideal for someone looking to transition into a career in translation or academic services.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a legal translation you've worked on?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the ESL position with a background in academic supervision, legal translation, and experience in remote work."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the ESL position with a background in academic supervision, legal translation, and experience in remote work.",
+    "ai_overall_score": 87,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "academic supervision",
+      "legal translation"
+    ],
+    "ai_gaps": [
+      "no direct experience in engineering or development"
+    ],
+    "ai_recommendation": "Ideal for someone looking to transition into a career in translation or academic services.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a legal translation you've worked on?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 30,
+    "desperation_index": 10,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@ca.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ca.linkedin.com",
+      "hr@ca.linkedin.com",
+      "jobs@ca.linkedin.com"
+    ],
+    "opportunity_score": 43,
+    "company_research": {
+      "name": "English 1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-08T11:54:28.686396+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/English 1_Hiring Now! Entry-Level English Teacher (ESL) - No_20261029.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/English 1_Hiring Now! Entry-Level English Teacher (ESL) - No_20261029.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-29T11:24:57.598055+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -5442,6 +5659,111 @@
     "scan_date": "2026-10-29T00:01:49.073471+00:00"
   },
   {
+    "title": "Banking Partnership Pitch Deck Design",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/graphic-design/Banking-Partnership-Pitch-Deck-Design",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-29T09:43:26+00:00",
+    "description": "have great expertise in this, and I assure you that I will deliver 100% accurate results on time.\"am very skilled in this type of work and I can guarantee 100% quality and accuracy for your project.\"\"I am experienced in this work. I will do this job 100% accurately for you.\"I need a high-quality pitch deck to present our product to large banks for building relationships and partnerships. This deck is crucial for securing strategic collaborations. Key Requirements: - Professional design and layout - Clear, compelling content - Focus on clear showcase of our product, use case and benefits - Suitable for banking and lending executives Ideal Skills and Experience: - Proven experience with pitch decks - Strong understanding of banking industry - Excellent design and content creation skills - Ability to work quickly and efficiently Please include past work in your application. I need this completed ASAP.\"I am highly skilled in document conversion, OCR, proofreading, and formatting PDFs into fully editable Word files without losing the original layout.\"have extensive experience in PDF to Word and Word to PDF conversions, ensuring 100% accuracy, clean formatting, and proper spacing.\"",
+    "salary": "12500.0-37500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-10-29T09:43:26+00:00",
+    "score": 92,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (description)",
+      "content creation (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.6304191972222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches the job's requirement for pitch deck design, which is related to language and design skills."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in academic supervision and language instruction, which are relevant to the job's requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible environment, and alignment with the job's need for quality and accuracy."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide locations are compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards senior translator or academic coordinator role, aligning with the job's need for strategic collaborations."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Proven experience in academic supervision",
+        "Expertise in pitch deck design"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Banking Partnership Pitch Deck Design role. His expertise in language instruction, academic supervision, and pitch deck design make him a suitable candidate for the job.",
+      "interview_prep": "1. Can you describe a time when you successfully completed a pitch deck for a large client? 2. How do you ensure the accuracy and quality of your translations? 3. Can you provide examples of your experience in academic supervision and research guidance?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Banking Partnership Pitch Deck Design role due to his language skills, academic experience, and pitch deck design expertise."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Banking Partnership Pitch Deck Design role due to his language skills, academic experience, and pitch deck design expertise.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Proven experience in academic supervision",
+      "Expertise in pitch deck design"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Banking Partnership Pitch Deck Design role. His expertise in language instruction, academic supervision, and pitch deck design make him a suitable candidate for the job.",
+    "ai_interview_prep": "1. Can you describe a time when you successfully completed a pitch deck for a large client? 2. How do you ensure the accuracy and quality of your translations? 3. Can you provide examples of your experience in academic supervision and research guidance?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 50,
+    "desperation_index": 16,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 50,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Banking Partnership Pitch Deck Design_20261029.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Banking Partnership Pitch Deck Design_20261029.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-29T11:24:57.598055+00:00"
+  },
+  {
     "title": "Web Content Writer Needed (beginners can also contact)",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/blog-writing/Web-Content-Writer-Needed-beginners",
@@ -5550,5 +5872,105 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-28T11:13:07.014059+00:00"
+  },
+  {
+    "title": "Graphics & Video Content Creation",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/video-editing/Graphics-Video-Content-Creation",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-29T09:58:53+00:00",
+    "description": "I manage several brands across very different industries and need a versatile creator who can keep the visual output consistent, polished, and conversion-focused. Day to day, you\u2019ll be preparing social media posts and graphics, cutting short-form videos for Reels and TikTok, and refreshing website banners or promo clips\u2014always with the clear objective of driving leads, enquiries, and sales. How we work \u2022 Engagement model is flexible: either a full-time commitment of roughly eight hours a day on a fixed monthly salary, or on a per-project basis with rapid turnarounds. Whichever route we choose, payment is released only when the task is complete; I have been burned before and need that safeguard in place. \u2022 I\u2019ll supply detailed briefs for every deliverable, along with brand guidelines when available. You may be juggling assets for multiple brand voices on the same day, so an eye for style shifts is essential. \u2022 Clear, fluent English\u2014written and spoken\u2014is mandatory because we collaborate heavily via chat and quick calls. Skill set I expect Photoshop for intricate edits, Canva for rapid templated work, and a modern video editor (Premiere Pro, Final Cut, DaVinci, CapCut\u2014your choice) for snappy, on-trend edits. Trend awareness is fine, but sound composition, typography, colour balance, and storytelling must come first. Before we start Please share one sample image or a short video clip that proves your quality meets or exceeds the standards above. If we decide to proceed on a full-time basis, I\u2019ll set a short paid trial to confirm speed and consistency; for project work, I\u2019ll judge by the initial sample and a small starter task. Deliverables per brief (typical) \u2022 2\u20133 platform-ready social posts (Insta/Facebook/LinkedIn dimensions) \u2022 1 vertical video (15\u201345 sec) cut for Reels/TikTok \u2022 1 website banner or hero image/video in the required resolution If you\u2019re comfortable switching brand styles quickly, thrive on tight deadlines, and can back up your vibe with solid design fu",
+    "salary": "20.0-250.0 GBP",
+    "source": "freelancer",
+    "postedISO": "2026-10-29T09:58:53+00:00",
+    "score": 67,
+    "category": "Editing",
+    "why": [
+      "content creation (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.3729089183333334,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires graphics and video content creation, which is a skill that can be transferred from the candidate's previous experience in ESL teaching and academic supervision."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and legal translation, which aligns well with the job requirements of graphics and video content creation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and language skills make them a strong fit for the remote, flexible, and academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which matches the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "The candidate's career goals align well with the job's role in graphics and video content creation, and the candidate's skills and experience make them a good fit for the role."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong background in language and academic services",
+        "Versatile skills in graphic and video content creation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's strong background in language and academic services, combined with their experience in graphic and video content creation, makes them a strong fit for this job. Their skills and experience are well-aligned with the remote, flexible, and academic environment of the Freelancer.com position.",
+      "interview_prep": "1. What are your strengths and how do they align with the job requirements? 2. Can you describe a time when you had to translate legal documents and how it prepared you for this role? 3. How do you approach data analysis and how does it relate to the job's need to refresh website banners?",
+      "one_line_summary": "Waleed Ballag's strong background in language and academic services makes them a strong fit for Freelancer.com's graphics and video content creation role."
+    },
+    "ai_insight": "Waleed Ballag's strong background in language and academic services makes them a strong fit for Freelancer.com's graphics and video content creation role.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong background in language and academic services",
+      "Versatile skills in graphic and video content creation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong background in language and academic services, combined with their experience in graphic and video content creation, makes them a strong fit for this job. Their skills and experience are well-aligned with the remote, flexible, and academic environment of the Freelancer.com position.",
+    "ai_interview_prep": "1. What are your strengths and how do they align with the job requirements? 2. Can you describe a time when you had to translate legal documents and how it prepared you for this role? 3. How do you approach data analysis and how does it relate to the job's need to refresh website banners?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 21,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Graphics & Video Content Creation_20261029.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-10-29T11:24:57.598055+00:00"
   }
 ]
