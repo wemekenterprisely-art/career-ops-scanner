@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "TP": {
-    "name": "TP",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-29T13:22:51.853606+00:00"
-  },
   "Notified": {
     "name": "Notified",
     "legitimacy_score": 60,
@@ -917,5 +905,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-29T00:01:03.700578+00:00"
+  },
+  "Private Business": {
+    "name": "Private Business",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-29T18:55:58.037957+00:00"
   }
 }
