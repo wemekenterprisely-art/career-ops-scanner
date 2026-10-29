@@ -2786,6 +2786,222 @@
     "scan_date": "2026-10-29T11:24:57.598055+00:00"
   },
   {
+    "title": "English Teachers (Online - Offline)",
+    "company": "4level1",
+    "url": "https://eg.linkedin.com/jobs/view/english-teachers-online-offline-at-4level1-4484981064",
+    "location": "Remote \u2014 Cairo, Egypt",
+    "posted": "2026-10-29",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-29T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 18.8398910175,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 70,
+        "reason": "Requires language skills and academic work, but not exclusively translation or teaching"
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Related experience in language services and education, but not direct teaching or academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 70,
+        "reason": "Remote, flexible, academic environment, but not exclusively translation or teaching"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 70,
+        "reason": "Builds toward translation/teaching/academic career, but not exclusively"
+      },
+      "overall_score": 70,
+      "verdict": "Good Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision & Research Guidance"
+      ],
+      "gaps": [
+        "Legal Translation",
+        "Senior Leadership Role"
+      ],
+      "recommendation": "Waleed Ballag has a strong background in language instruction and academic supervision, which aligns well with the remote, academic environment of 4level1. His experience in legal translation and academic supervision is a significant strength, but the need for senior leadership roles and legal translation may be a gap.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the translation of legal documents? 3. Can you share an example of a thesis review you've conducted?",
+      "one_line_summary": "Waleed Ballag has a strong background in language instruction and academic supervision, making him a strong fit for the 4level1 remote job."
+    },
+    "ai_insight": "Waleed Ballag has a strong background in language instruction and academic supervision, making him a strong fit for the 4level1 remote job.",
+    "ai_overall_score": 70,
+    "ai_verdict": "Good Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision & Research Guidance"
+    ],
+    "ai_gaps": [
+      "Legal Translation",
+      "Senior Leadership Role"
+    ],
+    "ai_recommendation": "Waleed Ballag has a strong background in language instruction and academic supervision, which aligns well with the remote, academic environment of 4level1. His experience in legal translation and academic supervision is a significant strength, but the need for senior leadership roles and legal translation may be a gap.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the translation of legal documents? 3. Can you share an example of a thesis review you've conducted?",
+    "ai_technical_skills": 70,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 70,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 70,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "4level1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-19T19:10:37.611210+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/4level1_English Teachers (Online - Offline)_20261029.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/4level1_English Teachers (Online - Offline)_20261029.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-29T18:57:13.570496+00:00"
+  },
+  {
+    "title": "English Teachers (Part-Time - Full-Time)",
+    "company": "Private Business",
+    "url": "https://eg.linkedin.com/jobs/view/english-teachers-part-time-full-time-at-private-business-4484973284",
+    "location": "Remote \u2014 Cairo, Cairo, Egypt",
+    "posted": "2026-10-29",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-29T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 18.83989133472222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation",
+        "ESL teaching",
+        "Academic supervision"
+      ],
+      "gaps": [
+        "No specific programming languages required"
+      ],
+      "recommendation": "Strong fit for a remote English teaching position that aligns with the candidate's career goals.",
+      "interview_prep": "1. Can you explain your experience in academic supervision and research guidance? 2. How do you approach legal translation in your teaching? 3. What is your experience in curriculum development?",
+      "one_line_summary": "Strong fit for remote English teaching position with strong alignment towards career goals."
+    },
+    "ai_insight": "Strong fit for remote English teaching position with strong alignment towards career goals.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation",
+      "ESL teaching",
+      "Academic supervision"
+    ],
+    "ai_gaps": [
+      "No specific programming languages required"
+    ],
+    "ai_recommendation": "Strong fit for a remote English teaching position that aligns with the candidate's career goals.",
+    "ai_interview_prep": "1. Can you explain your experience in academic supervision and research guidance? 2. How do you approach legal translation in your teaching? 3. What is your experience in curriculum development?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Private Business",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-29T18:55:58.037957+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Private Business_English Teachers (Part-Time - Full-Time)_20261029.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Private Business_English Teachers (Part-Time - Full-Time)_20261029.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-29T18:57:13.570496+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -5659,6 +5875,110 @@
     "scan_date": "2026-10-29T00:01:49.073471+00:00"
   },
   {
+    "title": "Arabic to English Translator Needed -- 2",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/language-tutoring/Arabic-English-Translator-Needed",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-29T18:30:24+00:00",
+    "description": "Arabic to English Translator Required for translation",
+    "salary": "40.0-60.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-29T18:30:24+00:00",
+    "score": 97,
+    "category": "Arabic Translation",
+    "why": [
+      "translator translation specialist staff translator freelance translator (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.33322523277777777,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, or compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's CV aligns well with the Arabic to English Translator position at Freelancer.com. His experience and skills make him a strong fit for the role, particularly in the areas of ESL teaching, academic supervision, and legal translation. He is well-suited for remote work and can contribute to the academic services of the company.",
+      "interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach translating legal documents? 3. What is your experience with academic editing and thesis review?",
+      "one_line_summary": "Waleed Ballag's CV is a strong fit for the Arabic to English Translator position at Freelancer.com, with experience in ESL teaching, academic supervision, and legal translation."
+    },
+    "ai_insight": "Waleed Ballag's CV is a strong fit for the Arabic to English Translator position at Freelancer.com, with experience in ESL teaching, academic supervision, and legal translation.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's CV aligns well with the Arabic to English Translator position at Freelancer.com. His experience and skills make him a strong fit for the role, particularly in the areas of ESL teaching, academic supervision, and legal translation. He is well-suited for remote work and can contribute to the academic services of the company.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach translating legal documents? 3. What is your experience with academic editing and thesis review?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare); Translation backlog / scaling",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Arabic to English Translator Needed -- 2_20261029.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Arabic to English Translator Needed -- 2_20261029.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-29T18:57:13.570496+00:00"
+  },
+  {
     "title": "Banking Partnership Pitch Deck Design",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/graphic-design/Banking-Partnership-Pitch-Deck-Design",
@@ -5872,6 +6192,214 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-28T11:13:07.014059+00:00"
+  },
+  {
+    "title": "About Pages Copywriter",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/seo-writing/About-Pages-Copywriter",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-29T14:51:00+00:00",
+    "description": "I need clear, engaging copy for my new website. The priority is to explain what my business does and the value we offer without sounding sales-y or jargon-heavy. For this first phase I need six pages written, editorial style: \u2022 About Us page cover \u2013 a compelling brand story that builds credibility and gives people a reason to trust and work with us. \u2022 5 inter pages about our work and materials \u2013 Each page should flow naturally, reflect a friendly yet professional tone, and be structured for easy reading on both desktop and mobile. If you\u2019re comfortable weaving light on-page SEO (headings, meta description suggestions, internal link prompts) into the draft, that\u2019s a plus, but clarity always comes first. This project involves editing existing materials to match our brand voice and website design requirements. All materials will be provided upon starting. One round of revisions is expected so the voice matches our brand perfectly. Timeline: 3 weeks",
+    "salary": "200.0-250.0 EUR",
+    "source": "freelancer",
+    "postedISO": "2026-10-29T14:51:00+00:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.989924357777778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 70,
+        "reason": "Job requires editing existing materials and writing clear, engaging copy, which aligns with the candidate's experience and skills."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services and experience with writing and editing align well with the job's requirements, especially in crafting compelling brand stories and engaging copy."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, which aligns with the candidate's preference for remote work and the candidate's ability to work globally."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job's requirements, including secure stable remote work, building client relationships, and contributing to research supervision."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong background in ESL teaching and academic supervision",
+        "Excellent experience with editing and writing clear, engaging copy"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the job requirements, but there is a slight gap in the candidate's direct experience in translation or academic supervision. The remote work environment and ability to build client relationships in academic services make this a strong fit for the job.",
+      "interview_prep": "1. Can you describe a time when you had to balance clear communication with the tone of a brand story? 2. How do you approach the editing of existing materials to ensure they match your brand voice and website design requirements? 3. Can you share an example of how you have used SPSS for data analysis in your work?",
+      "one_line_summary": "Waleed Ballag's background in ESL teaching, academic supervision, and legal translation makes her a strong fit for the About Pages Copywriter role, especially for her ability to craft compelling brand stories and engaging copy."
+    },
+    "ai_insight": "Waleed Ballag's background in ESL teaching, academic supervision, and legal translation makes her a strong fit for the About Pages Copywriter role, especially for her ability to craft compelling brand stories and engaging copy.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong background in ESL teaching and academic supervision",
+      "Excellent experience with editing and writing clear, engaging copy"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the job requirements, but there is a slight gap in the candidate's direct experience in translation or academic supervision. The remote work environment and ability to build client relationships in academic services make this a strong fit for the job.",
+    "ai_interview_prep": "1. Can you describe a time when you had to balance clear communication with the tone of a brand story? 2. How do you approach the editing of existing materials to ensure they match your brand voice and website design requirements? 3. Can you share an example of how you have used SPSS for data analysis in your work?",
+    "ai_technical_skills": 70,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_About Pages Copywriter_20261029.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_About Pages Copywriter_20261029.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-29T18:57:13.570496+00:00"
+  },
+  {
+    "title": "Bilingual SaaS Video Presenter Needed",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-creation/Bilingual-SaaS-Video-Presenter-Needed",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-29T16:20:40+00:00",
+    "description": "Project Title On-Camera Content Creator Needed for SaaS Product Videos (English & Hindi) Project Description We are looking for a professional, camera-confident content creator to create promotional and educational videos for a SaaS (Software as a Service) product in the IT industry. The ideal candidate should be comfortable standing in front of the camera, explaining software features, and presenting information in an engaging, clear, and professional manner. Requirements - Must be comfortable speaking directly in front of the camera. - Good command of both English and Hindi. - Professional appearance, presentation, and communication skills. - Previous experience in content creation, video presentations, product promotions, or similar projects. - Ability to understand a script and deliver it naturally and confidently. - Must be a real person appearing on camera. AI-generated presenters will not be accepted. Who Should Apply? This opportunity is particularly suitable for budding content creators who want to gain experience in the SaaS and IT industry and build their professional portfolio with software-related content. If you are looking to expand your portfolio and explore opportunities in the technology industry, we would love to connect with you! Budget \u20b9600 per video. Please note that this is a fixed budget. If your expected payment is higher than \u20b9600 per video, kindly do not apply or express interest in this project. We appreciate your time and professionalism and want to ensure that the budget is clear before we begin discussions. Interested? If you meet the requirements and are comfortable with the stated budget, please share: 1. Your introduction and location. 2. Links to your previous videos or portfolio. 3. Your experience in on-camera content creation. 4. Whether you are comfortable presenting in both English and Hindi. We look forward to connecting with enthusiastic creators who are ready to grow their portfolios while exploring the SaaS industry.",
+    "salary": "600.0-1500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-10-29T16:20:40+00:00",
+    "score": 82,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)",
+      "content creation (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.4954652341666668,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires both Arabic-English translation and ESL teaching, which aligns with the candidate's background and skills."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL teaching and academic supervision, which is relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's skills and experience align well with the remote and academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, worldwide, and the candidate is flexible, making it a good fit."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "The candidate's career goals align with the job, including securing stable remote work and contributing to graduate-level research supervision."
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Translation skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's background and skills make him a strong fit for the Bilingual SaaS Video Presenter role. His experience in ESL teaching and academic supervision, combined with his proficiency in Arabic-English translation, positions him well for the job.",
+      "interview_prep": "1. What is your experience in ESL teaching and academic supervision? 2. How do you approach translating legal and academic documents? 3. Can you describe a time when you had to present software features to a camera in front of an audience?",
+      "one_line_summary": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him a strong fit for the Bilingual SaaS Video Presenter role.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him a strong fit for the Bilingual SaaS Video Presenter role.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Translation skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's background and skills make him a strong fit for the Bilingual SaaS Video Presenter role. His experience in ESL teaching and academic supervision, combined with his proficiency in Arabic-English translation, positions him well for the job.",
+    "ai_interview_prep": "1. What is your experience in ESL teaching and academic supervision? 2. How do you approach translating legal and academic documents? 3. Can you describe a time when you had to present software features to a camera in front of an audience?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 26,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Bilingual SaaS Video Presenter Needed_20261029.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-10-29T18:57:13.570496+00:00"
   },
   {
     "title": "Graphics & Video Content Creation",
