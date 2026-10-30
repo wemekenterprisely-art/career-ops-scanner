@@ -3002,6 +3002,228 @@
     "scan_date": "2026-10-29T18:57:13.570496+00:00"
   },
   {
+    "title": "English Teacher (Online)",
+    "company": "NovaTova",
+    "url": "https://eg.linkedin.com/jobs/view/english-teacher-online-at-novatova-4482775580",
+    "location": "Remote \u2014 Egypt",
+    "posted": "2026-10-30",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-30T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 11.223475141944444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches ESL teaching, academic supervision, and bidirectional translation skills"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching and academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Bidirectional Translation"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the English Teacher (Online) position at NovaTova. His background in ESL instruction and academic supervision aligns well with the job requirements, and his skills in bidirectional translation and academic supervision make him a valuable asset to the team.",
+      "interview_prep": "1. Can you discuss an experience where you supervised a graduate-level research study? 2. How do you approach legal translation in a professional setting? 3. What strategies do you use to ensure plagiarism-free academic work?",
+      "one_line_summary": "Waleed Ballag's strong fit for the English Teacher (Online) position at NovaTova aligns with his expertise in ESL/EFL instruction, academic supervision, and bidirectional translation, making him an ideal candidate for the role."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the English Teacher (Online) position at NovaTova aligns with his expertise in ESL/EFL instruction, academic supervision, and bidirectional translation, making him an ideal candidate for the role.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Bidirectional Translation"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the English Teacher (Online) position at NovaTova. His background in ESL instruction and academic supervision aligns well with the job requirements, and his skills in bidirectional translation and academic supervision make him a valuable asset to the team.",
+    "ai_interview_prep": "1. Can you discuss an experience where you supervised a graduate-level research study? 2. How do you approach legal translation in a professional setting? 3. What strategies do you use to ensure plagiarism-free academic work?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "NovaTova",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-30T11:17:55.301236+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/NovaTova_English Teacher (Online)_20261030.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/NovaTova_English Teacher (Online)_20261030.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-30T11:18:40.664406+00:00"
+  },
+  {
+    "title": "Proofreader (Science k-6)",
+    "company": "Cure Organics",
+    "url": "https://in.linkedin.com/jobs/view/proofreader-science-k-6-at-cure-organics-4484818123",
+    "location": "Remote \u2014 Noida, Uttar Pradesh, India",
+    "posted": "2026-10-30",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-10-30T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 11.2234758025,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires Arabic-English translation and academic supervision, aligns with the job description."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in academic supervision and research guidance, partially matches the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work environment, flexible schedule, and academic focus align well with the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job location."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward a senior translator or academic coordinator role, aligns well with the job."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision",
+        "Remote Work Environment",
+        "Strong Language Skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Proofreader (Science k-6) role at Cure Organics. His background in academic supervision and research guidance, combined with his remote work experience, makes him a valuable asset to the company.",
+      "interview_prep": [
+        "Can you describe a time when you supervised a research study and its impact on the project's outcome?",
+        "What is your experience with academic editing and thesis review, and how do you ensure the accuracy of the work?"
+      ],
+      "one_line_summary": "Waleed Ballag's academic background and remote work experience make him a strong fit for the Proofreader (Science k-6) role at Cure Organics."
+    },
+    "ai_insight": "Waleed Ballag's academic background and remote work experience make him a strong fit for the Proofreader (Science k-6) role at Cure Organics.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision",
+      "Remote Work Environment",
+      "Strong Language Skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Proofreader (Science k-6) role at Cure Organics. His background in academic supervision and research guidance, combined with his remote work experience, makes him a valuable asset to the company.",
+    "ai_interview_prep": [
+      "Can you describe a time when you supervised a research study and its impact on the project's outcome?",
+      "What is your experience with academic editing and thesis review, and how do you ensure the accuracy of the work?"
+    ],
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Cure Organics",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-08T11:54:28.687546+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Cure Organics_Proofreader (Science k-6)_20261030.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Cure Organics_Proofreader (Science k-6)_20261030.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-30T11:18:40.664406+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -6294,6 +6516,110 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-29T18:57:13.570496+00:00"
+  },
+  {
+    "title": "Personal Portfolio Bio Copywriter",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/article-writing/Personal-Portfolio-Bio-Copywriter",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-10-30T07:34:13+00:00",
+    "description": "I want an experienced word-smith to turn my raw notes and r\u00e9sum\u00e9 into a compelling professional profile for my personal website/portfolio. The goal is to give visitors an instant, genuine sense of who I am, what I do, and why they should remember the name Jo\u00e3o Pedro Baltazar. You will receive: \u2022 My current CV, a brief chronology of key projects, and a few lines describing my values and vision. I need you to: \u2022 Shape this material into an engaging \u201cAbout\u201d section (roughly 250-300 words) and a concise elevator-pitch bio (50-70 words) suitable for the site\u2019s header and social previews. \u2022 Keep the tone professional yet approachable\u2014story-driven, not buzzword-heavy. \u2022 Highlight achievements and skills without exaggeration, and write in clear, natural English that can later be localised if needed. Acceptance criteria: \u2022 Final copy delivered in editable text format (Google Doc or Word). \u2022 Readability score in the upper B2-C1 range (Grammarly/Flesch). \u2022 No AI-generated clich\u00e9s or obvious template phrases; the voice must feel personal to me. If this sounds like your craft, let me see a brief sample of similar work and your proposed timeline.",
+    "salary": "100000.0- USD",
+    "source": "freelancer",
+    "postedISO": "2026-10-30T07:34:13+00:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.653217416666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Matches the job requirements for translation, ESL teaching, and academic supervision."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in translation, ESL teaching, and academic supervision aligns well with the job."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible schedule, and academic environment fit the job description."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligning with the job's goals."
+      },
+      "overall_score": 87,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Translation experience",
+        "ESL teaching experience",
+        "Academic supervision experience"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Strong fit for the job. Recommended for a remote position that aligns well with her career goals.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach language translation and editing? 3. Can you describe a time when you had to adapt to a remote work environment?",
+      "one_line_summary": "Strong fit for the job, aligning with her career goals and skills."
+    },
+    "ai_insight": "Strong fit for the job, aligning with her career goals and skills.",
+    "ai_overall_score": 87,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Translation experience",
+      "ESL teaching experience",
+      "Academic supervision experience"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Strong fit for the job. Recommended for a remote position that aligns well with her career goals.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach language translation and editing? 3. Can you describe a time when you had to adapt to a remote work environment?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Personal Portfolio Bio Copywriter_20261030.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Personal Portfolio Bio Copywriter_20261030.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-30T11:18:40.664406+00:00"
   },
   {
     "title": "Bilingual SaaS Video Presenter Needed",
