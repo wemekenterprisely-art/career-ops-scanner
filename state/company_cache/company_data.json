@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "International Committee of the Red Cross - ICRC": {
-    "name": "International Committee of the Red Cross - ICRC",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-09-30T13:20:10.562689+00:00"
-  },
   "ICRC - International Committee of the Red Cross": {
     "name": "ICRC - International Committee of the Red Cross",
     "legitimacy_score": 50,
@@ -917,5 +905,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-30T11:17:55.301236+00:00"
+  },
+  "Mora Health": {
+    "name": "Mora Health",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-30T18:30:51.609747+00:00"
+  },
+  "Ruvimo": {
+    "name": "Ruvimo",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-30T18:30:51.610668+00:00"
   }
 }
