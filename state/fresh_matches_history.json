@@ -3224,6 +3224,354 @@
     "scan_date": "2026-10-30T11:18:40.664406+00:00"
   },
   {
+    "title": "English Teacher (Remote)",
+    "company": "Mora Health",
+    "url": "https://mx.linkedin.com/jobs/view/english-teacher-remote-at-mora-health-4484861055",
+    "location": "Remote \u2014 Mexico City, Mexico",
+    "posted": "2026-10-30",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-30T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 18.48975754583333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work, flexible schedule, and academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation",
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "No specific programming languages or engineering experience"
+      ],
+      "recommendation": "Strong fit for the job. The candidate's skills and experience align well with the requirements, making it a strong fit for the position.",
+      "interview_prep": [
+        "Can you describe a time when you supervised a research study?",
+        "How do you approach translating legal documents for academic purposes?"
+      ],
+      "one_line_summary": "Strong fit with skills and experience matching the job requirements."
+    },
+    "ai_insight": "Strong fit with skills and experience matching the job requirements.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation",
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "No specific programming languages or engineering experience"
+    ],
+    "ai_recommendation": "Strong fit for the job. The candidate's skills and experience align well with the requirements, making it a strong fit for the position.",
+    "ai_interview_prep": [
+      "Can you describe a time when you supervised a research study?",
+      "How do you approach translating legal documents for academic purposes?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@mx.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@mx.linkedin.com",
+      "hr@mx.linkedin.com",
+      "jobs@mx.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Mora Health",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-30T18:30:51.609747+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my strong interest in the English Teacher (Remote) position at Mora Health. As an experienced ESL teacher and educator with a focus on academic supervision and research guidance, I am particularly excited about the opportunity to contribute to your esteemed organization. Your remote work option aligns perfectly with my flexible schedule and professional needs.",
+      "experience": "During my tenure as an ESL Teacher & Secondary Supervisor at Higher Institute of Science and Technology, I successfully guided and supervised students, ensuring academic excellence. Additionally, I have held the position of ESL Teacher & Partner at Al-Safwa Smart School for Private Education, where I provided comprehensive support and helped launch new school programs.",
+      "skills": "My skills in academic supervision, research guidance, and teaching methodologies make me a valuable asset to your team. I am proficient in Microsoft Office Suite, Adobe Photoshop, and SPSS Statistical Analysis, enhancing my ability to deliver high-quality educational materials and research projects. My native Arabic and advanced English proficiency, coupled with cross-cultural communication skills, allow me to effectively interact with students and colleagues from diverse backgrounds.",
+      "closing": "I am eager to contribute my passion for teaching and educational excellence to Mora Health. I am available for an interview at your convenience. Please find my contact information enclosed for further discussion. Thank you for your consideration."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Mora Health_English Teacher (Remote)_20261030.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Mora Health_English Teacher (Remote)_20261030.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-30T18:31:23.793057+00:00"
+  },
+  {
+    "title": "Remote Online Higher Grades (6-12) English Tutors for US Students| Grades 8-12",
+    "company": "Ruvimo",
+    "url": "https://in.linkedin.com/jobs/view/remote-online-higher-grades-6-12-english-tutors-for-us-students-grades-8-12-at-ruvimo-4483460515",
+    "location": "Remote \u2014 India",
+    "posted": "2026-10-30",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-30T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 18.489757830277778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 45,
+        "reason": "Job requires some language skills and writing, but no direct translation or academic supervision."
+      },
+      "experience_match": {
+        "score": 55,
+        "reason": "Direct experience in ESL teaching and academic supervision, but not in the specific roles of the job listing."
+      },
+      "behavioral_fit": {
+        "score": 60,
+        "reason": "Remote work, flexible schedule, and academic environment align well with the candidate's goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's location and citizenship requirements."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward translation/teaching/academic career, with potential for senior roles."
+      },
+      "overall_score": 76,
+      "verdict": "Good Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Remote work"
+      ],
+      "gaps": [
+        "Legal translation skills",
+        "US/EU citizenship requirement"
+      ],
+      "recommendation": "Waleed Ballag's background in ESL and academic supervision makes him a strong fit for the remote online tutoring role. His skills and experience align well with the job's requirements, and he has the potential to grow into a senior translator or academic coordinator role.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and how it relates to the specific role of an ESL tutor? 2. How do you handle the translation of legal documents in academic settings? 3. Can you describe a time when you had to work with a diverse group of students and how you adapted your teaching approach?",
+      "one_line_summary": "Waleed Ballag's strong background in ESL and academic supervision makes him a strong fit for the remote tutoring role, with potential for growth."
+    },
+    "ai_insight": "Waleed Ballag's strong background in ESL and academic supervision makes him a strong fit for the remote tutoring role, with potential for growth.",
+    "ai_overall_score": 76,
+    "ai_verdict": "Good Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "Legal translation skills",
+      "US/EU citizenship requirement"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in ESL and academic supervision makes him a strong fit for the remote online tutoring role. His skills and experience align well with the job's requirements, and he has the potential to grow into a senior translator or academic coordinator role.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and how it relates to the specific role of an ESL tutor? 2. How do you handle the translation of legal documents in academic settings? 3. Can you describe a time when you had to work with a diverse group of students and how you adapted your teaching approach?",
+    "ai_technical_skills": 45,
+    "ai_experience_match": 55,
+    "ai_behavioral_fit": 60,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Ruvimo",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-30T18:30:51.610668+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiasm for the Remote Online Higher Grades (6-12) English Tutors for US Students| Grades 8-12 job at Ruvimo. This opportunity aligns perfectly with my qualifications and experience in ESL teaching, particularly in the academic and professional development of high school students.",
+      "experience": "I hold a Master of Arts in Applied Linguistics from the University of Zawia and a Bachelor of Arts in English Language from the University of Sabratha. My experience includes serving as an ESL Teacher & Secondary Supervisor at the Higher Institute of Science and Technology, an ESL Teacher & Partner at Al-Safwa Smart School for Private Education, and an ESL Teacher at Anwar Al-Hayat School for Private Education. These roles have honed my skills in academic supervision, research guidance, and curriculum development, all of which are essential for the responsibilities of this job.",
+      "skills": "My skills include Academic Supervision & Research Guidance, Academic Editing & Thesis Review, Thesis Writing & Development, ESL/EFL Instruction, Online & In-person Teaching, Curriculum Development, Arabic-English Bidirectional Translation, Academic Translation, Legal Translation, Microsoft Office Suite (Expert), Adobe Photoshop, SPSS Statistical Analysis, and a native proficiency in both Arabic and English. My experience in teaching has also equipped me with the ability to handle cross-cultural communication effectively.",
+      "closing": "I am eager to contribute to the Ruvimo team and would greatly appreciate the opportunity to discuss how my qualifications and skills align with the requirements of this position. Please let me know if there is a convenient time for an interview. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Ruvimo_Remote Online Higher Grades (6-12) English Tutors _20261030.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Ruvimo_Remote Online Higher Grades (6-12) English Tutors _20261030.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-30T18:31:23.793057+00:00"
+  },
+  {
+    "title": "Local English Teacher",
+    "company": "I CAN READ Indonesia",
+    "url": "https://id.linkedin.com/jobs/view/local-english-teacher-at-i-can-read-indonesia-4484810880",
+    "location": "Remote \u2014 Tangerang, Banten, Indonesia",
+    "posted": "2026-10-30",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-30T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 18.489757961388886,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Direct experience in translation, ESL teaching, and academic supervision"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in language services and education"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, or compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Direct experience in translation, ESL teaching, and academic supervision"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the job requirements. He can contribute effectively to the translation and ESL teaching field.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you handle legal translation in your previous roles?",
+      "one_line_summary": "Waleed Ballag's skills and experience make him a strong fit for the Local English Teacher position."
+    },
+    "ai_insight": "Waleed Ballag's skills and experience make him a strong fit for the Local English Teacher position.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Direct experience in translation, ESL teaching, and academic supervision"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the job requirements. He can contribute effectively to the translation and ESL teaching field.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you handle legal translation in your previous roles?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@id.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@id.linkedin.com",
+      "hr@id.linkedin.com",
+      "jobs@id.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "I CAN READ Indonesia",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-24T16:29:42.846045+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my strong interest in the Local English Teacher position at I CAN READ Indonesia. The ability to work remotely aligns perfectly with my current lifestyle, and I am excited about the opportunity to contribute to the growth of the company.",
+      "experience": "In my previous roles as an ESL Teacher & Secondary Supervisor at Higher Institute of Science and Technology and ESL Teacher & Partner at Al-Safwa Smart School for Private Education, I have honed my skills in academic supervision, research guidance, and curriculum development. My experience at Anwar Al-Hayat School for Private Education has further enhanced my ability to teach and tutor students, as well as develop lesson plans and instructional materials.",
+      "skills": "I am proficient in skills such as academic editing, thesis writing, online teaching, and curriculum development. My strong background in Arabic-English bidirectional translation, as well as my expertise in Microsoft Office Suite, Adobe Photoshop, SPSS Statistical Analysis, and Adobe Illustrator, further demonstrate my versatility and capability to meet the demands of this position.",
+      "closing": "I am eager to join I CAN READ Indonesia and contribute to its mission of providing quality education in the English language. I am available for an interview to discuss how my skills and experience align with the requirements of this position. Please let me know a convenient time for an appointment."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/I CAN READ Indonesia_Local English Teacher_20261030.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/I CAN READ Indonesia_Local English Teacher_20261030.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-30T18:31:23.793057+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
