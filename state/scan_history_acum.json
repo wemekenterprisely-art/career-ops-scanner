@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-09-26T20:22:09.809958+00:00",
-    "matched_count": 4,
-    "all_count": 4738,
-    "jobs": [
-      {
-        "title": "VIRTUAL ASSISTANT",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/internet-marketing/VIRTUAL-ASSISTANT-40735334.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Product Data Entry Assistant",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/google-sheets/Product-Data-Entry-Assistant-40735181",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Multi-Lingual Online Language Tutors Needed BUDGET SENSITIVE",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/language-tutoring/Multi-Lingual-Online-Language-Tutors",
-        "score": 97,
-        "category": "ESL",
-        "source": "freelancer"
-      },
-      {
-        "title": "Brand Content Editor - Marketing",
-        "company": "CHRISTUS Health",
-        "url": "https://www.linkedin.com/jobs/view/brand-content-editor-marketing-at-christus-health-4461423178",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-27T05:20:17.279077+00:00",
     "matched_count": 5,
     "all_count": 4731,
@@ -3256,6 +3217,37 @@
         "url": "https://in.linkedin.com/jobs/view/proofreader-science-k-6-at-cure-organics-4484818123",
         "score": 100,
         "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-30T18:31:37.793670+00:00",
+    "matched_count": 3,
+    "all_count": 4442,
+    "jobs": [
+      {
+        "title": "English Teacher (Remote)",
+        "company": "Mora Health",
+        "url": "https://mx.linkedin.com/jobs/view/english-teacher-remote-at-mora-health-4484861055",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Remote Online Higher Grades (6-12) English Tutors for US Students| Grades 8-12",
+        "company": "Ruvimo",
+        "url": "https://in.linkedin.com/jobs/view/remote-online-higher-grades-6-12-english-tutors-for-us-students-grades-8-12-at-ruvimo-4483460515",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Local English Teacher",
+        "company": "I CAN READ Indonesia",
+        "url": "https://id.linkedin.com/jobs/view/local-english-teacher-at-i-can-read-indonesia-4484810880",
+        "score": 100,
+        "category": "ESL",
         "source": "linkedin"
       }
     ]
