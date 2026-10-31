@@ -919,5 +919,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-31T17:34:56.258072+00:00"
+  },
+  "TikTok": {
+    "name": "TikTok",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-31T23:15:24.331722+00:00"
+  },
+  "Soliant": {
+    "name": "Soliant",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-31T23:15:24.333220+00:00"
   }
 }
