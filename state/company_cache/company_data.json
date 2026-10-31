@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Revolut": {
-    "name": "Revolut",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-01T13:22:01.234566+00:00"
-  },
   "Widya Bakti Nusa": {
     "name": "Widya Bakti Nusa",
     "legitimacy_score": 60,
@@ -919,5 +907,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-30T18:30:51.610668+00:00"
+  },
+  "Kawartha Pine Ridge District School Board": {
+    "name": "Kawartha Pine Ridge District School Board",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-10-31T17:34:56.258072+00:00"
   }
 }
