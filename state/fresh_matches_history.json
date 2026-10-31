@@ -3680,6 +3680,330 @@
     "scan_date": "2026-10-31T17:35:41.540325+00:00"
   },
   {
+    "title": "Rapid Response Analyst (Bilingual Arabic) - Trust and Safety",
+    "company": "TikTok",
+    "url": "https://www.linkedin.com/jobs/view/rapid-response-analyst-bilingual-arabic-trust-and-safety-at-tiktok-4485164674",
+    "location": "Remote \u2014 San Jose, CA",
+    "posted": "2026-10-31",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic linguist",
+    "postedISO": "2026-10-31T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "bilingual.*arabic arabic.*bilingual (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 23.198593323333334,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires Arabic-English translation, ESL teaching, and academic supervision skills."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Translation skills"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Rapid Response Analyst (Bilingual Arabic) role at TikTok. His ability to teach ESL, supervise academic studies, and translate between Arabic and English makes him a strong fit for the position.",
+      "interview_prep": "1. What is your experience with academic supervision and research guidance? 2. Can you share an example of a research study you supervised? 3. How do you approach translation between Arabic and English?",
+      "one_line_summary": "Waleed Ballag's skills make him a strong fit for TikTok's Rapid Response Analyst role."
+    },
+    "ai_insight": "Waleed Ballag's skills make him a strong fit for TikTok's Rapid Response Analyst role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Translation skills"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Rapid Response Analyst (Bilingual Arabic) role at TikTok. His ability to teach ESL, supervise academic studies, and translate between Arabic and English makes him a strong fit for the position.",
+    "ai_interview_prep": "1. What is your experience with academic supervision and research guidance? 2. Can you share an example of a research study you supervised? 3. How do you approach translation between Arabic and English?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "TikTok",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-31T23:15:24.331722+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/TikTok_Rapid Response Analyst (Bilingual Arabic) - Trust _20261101.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/TikTok_Rapid Response Analyst (Bilingual Arabic) - Trust _20261101.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-31T23:16:09.700052+00:00"
+  },
+  {
+    "title": "Technical Rapid Response Analyst (Bilingual Arabic) - Trust and Safety",
+    "company": "TikTok",
+    "url": "https://www.linkedin.com/jobs/view/technical-rapid-response-analyst-bilingual-arabic-trust-and-safety-at-tiktok-4485163758",
+    "location": "Remote \u2014 San Jose, CA",
+    "posted": "2026-10-31",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic linguist",
+    "postedISO": "2026-10-31T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "bilingual.*arabic arabic.*bilingual (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 23.198593748055558,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, with some transferable skills from previous roles."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment, and compatible with the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds toward translation/teaching/academic career, with a strong focus on academic services."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "No specific experience in engineering or programming"
+      ],
+      "recommendation": "Waleed Ballag's background aligns well with the technical skills required for the TikTok Technical Rapid Response Analyst position. His experience in ESL teaching and academic supervision, combined with his language skills and academic writing abilities, makes him a strong fit for this role.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study in an academic setting? 2. How do you approach translating legal documents for a client? 3. Can you share an example of a thesis review you've conducted?",
+      "one_line_summary": "Waleed Ballag's comprehensive background in ESL teaching, academic supervision, and legal translation makes him an excellent fit for the TikTok Technical Rapid Response Analyst position."
+    },
+    "ai_insight": "Waleed Ballag's comprehensive background in ESL teaching, academic supervision, and legal translation makes him an excellent fit for the TikTok Technical Rapid Response Analyst position.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "No specific experience in engineering or programming"
+    ],
+    "ai_recommendation": "Waleed Ballag's background aligns well with the technical skills required for the TikTok Technical Rapid Response Analyst position. His experience in ESL teaching and academic supervision, combined with his language skills and academic writing abilities, makes him a strong fit for this role.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study in an academic setting? 2. How do you approach translating legal documents for a client? 3. Can you share an example of a thesis review you've conducted?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "TikTok",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-31T23:15:24.331722+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/TikTok_Technical Rapid Response Analyst (Bilingual Arabic_20261101.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/TikTok_Technical Rapid Response Analyst (Bilingual Arabic_20261101.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-31T23:16:09.700052+00:00"
+  },
+  {
+    "title": "English as a Second Language (ESL) Gen Ed Teacher - Burlington, North Carolina",
+    "company": "Soliant",
+    "url": "https://www.linkedin.com/jobs/view/english-as-a-second-language-esl-gen-ed-teacher-burlington-north-carolina-at-soliant-4485656549",
+    "location": "Remote \u2014 Burlington, NC",
+    "posted": "2026-10-31",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-10-31T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 23.198594379722223,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "ESL teaching, academic supervision, and legal translation skills align well with the job requirements."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation aligns with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible schedule, and academic environment align well with the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job requirements."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds towards translation/teaching/academic career, with potential for senior roles."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "academic supervision",
+        "legal translation"
+      ],
+      "gaps": [
+        "no specific gaps identified"
+      ],
+      "recommendation": "Strong fit for the job. A remote work arrangement would be ideal for both the candidate and the company.",
+      "interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach legal translation in the context of academic documents? 3. What is your experience with data analysis using SPSS?",
+      "one_line_summary": "Strong fit for the remote ESL teacher role, aligning with career goals."
+    },
+    "ai_insight": "Strong fit for the remote ESL teacher role, aligning with career goals.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "academic supervision",
+      "legal translation"
+    ],
+    "ai_gaps": [
+      "no specific gaps identified"
+    ],
+    "ai_recommendation": "Strong fit for the job. A remote work arrangement would be ideal for both the candidate and the company.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach legal translation in the context of academic documents? 3. What is your experience with data analysis using SPSS?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Soliant",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-31T23:15:24.333220+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Soliant_English as a Second Language (ESL) Gen Ed Teacher _20261101.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Soliant_English as a Second Language (ESL) Gen Ed Teacher _20261101.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-10-31T23:16:09.700052+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
