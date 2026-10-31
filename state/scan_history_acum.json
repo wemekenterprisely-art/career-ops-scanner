@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-09-27T20:19:30.254496+00:00",
-    "matched_count": 1,
-    "all_count": 4735,
-    "jobs": [
-      {
-        "title": "English Language Instructor",
-        "company": "Motion Box",
-        "url": "https://bd.linkedin.com/jobs/view/english-language-instructor-at-motion-box-4470814649",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-28T05:19:22.227713+00:00",
     "matched_count": 3,
     "all_count": 4718,
@@ -3184,6 +3169,37 @@
         "score": 97,
         "category": "Editing",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31T17:36:00.135193+00:00",
+    "matched_count": 3,
+    "all_count": 4379,
+    "jobs": [
+      {
+        "title": "Artificial Plant Content Writer",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/seo-writing/Artificial-Plant-Content-Writer",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "US or UK native English Writer - Medical Content Writer",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/medical-writing/native-English-Writer-Medical-Content",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Second Language Instructor",
+        "company": "Kawartha Pine Ridge District School Board",
+        "url": "https://ca.linkedin.com/jobs/view/english-second-language-instructor-at-kawartha-pine-ridge-district-school-board-4484890825",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
       }
     ]
   }
