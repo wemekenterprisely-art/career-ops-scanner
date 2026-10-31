@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-09-28T05:19:22.227713+00:00",
-    "matched_count": 3,
-    "all_count": 4718,
-    "jobs": [
-      {
-        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
-        "company": "English 1",
-        "url": "https://ca.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4472490083",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Entry-Level English Teacher",
-        "company": "English 1",
-        "url": "https://au.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4472467979",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Arabic Text Entry Specialist",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/typing/Arabic-Text-Entry-Specialist",
-        "score": 62,
-        "category": "Arabic Translation",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-09-28T13:24:22.663143+00:00",
     "matched_count": 6,
     "all_count": 4733,
@@ -3197,6 +3166,37 @@
         "title": "English Second Language Instructor",
         "company": "Kawartha Pine Ridge District School Board",
         "url": "https://ca.linkedin.com/jobs/view/english-second-language-instructor-at-kawartha-pine-ridge-district-school-board-4484890825",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31T23:16:33.699834+00:00",
+    "matched_count": 3,
+    "all_count": 4385,
+    "jobs": [
+      {
+        "title": "Rapid Response Analyst (Bilingual Arabic) - Trust and Safety",
+        "company": "TikTok",
+        "url": "https://www.linkedin.com/jobs/view/rapid-response-analyst-bilingual-arabic-trust-and-safety-at-tiktok-4485164674",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Technical Rapid Response Analyst (Bilingual Arabic) - Trust and Safety",
+        "company": "TikTok",
+        "url": "https://www.linkedin.com/jobs/view/technical-rapid-response-analyst-bilingual-arabic-trust-and-safety-at-tiktok-4485163758",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "English as a Second Language (ESL) Gen Ed Teacher - Burlington, North Carolina",
+        "company": "Soliant",
+        "url": "https://www.linkedin.com/jobs/view/english-as-a-second-language-esl-gen-ed-teacher-burlington-north-carolina-at-soliant-4485656549",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
