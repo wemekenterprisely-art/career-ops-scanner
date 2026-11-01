@@ -7305,6 +7305,216 @@
     "scan_date": "2026-10-31T17:35:41.540325+00:00"
   },
   {
+    "title": "virtual assistant for admin tasks",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/administrative-support/virtual-assistant-for-admin-tasks-40796994",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-01T08:11:00+00:00",
+    "description": "looking for a reliable, organized ENGLISH virtual assistant to help w admin work. america and latin america is preferred. the tasks may include data entry and updating info, managing emails and basic communication, organizing files and documents, scheduling and calendar management, and basic online research, plus other admin stuff as needed. good communication, attention to detail, and basic knowledge of microsoft excel and google workspace are preferred. it's flexible, workload and hours can be discussed based on your availability.",
+    "salary": "2.0-8.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-01T08:11:00+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.5451099280555556,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Matches language skills, academic supervision, and translation."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 87,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "15 graduate-level research studies supervision"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's profile aligns well with the virtual assistant role on Freelancer.com. His language skills, academic experience, and ability to work remotely make him a strong fit for this position.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach managing and updating information in a remote environment? 3. Can you share an example of a project you supervised that required a high level of attention to detail?",
+      "one_line_summary": "Native Arabic speaker with 15 graduate-level research studies supervision and C1 Advanced English proficiency aligns well with the virtual assistant role on Freelancer.com."
+    },
+    "ai_insight": "Native Arabic speaker with 15 graduate-level research studies supervision and C1 Advanced English proficiency aligns well with the virtual assistant role on Freelancer.com.",
+    "ai_overall_score": 87,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "15 graduate-level research studies supervision"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's profile aligns well with the virtual assistant role on Freelancer.com. His language skills, academic experience, and ability to work remotely make him a strong fit for this position.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach managing and updating information in a remote environment? 3. Can you share an example of a project you supervised that required a high level of attention to detail?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_virtual assistant for admin tasks_20261101.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_virtual assistant for admin tasks_20261101.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-01T11:47:19.499766+00:00"
+  },
+  {
+    "title": "Proofread English Word Document",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/microsoft-word/Proofread-English-Word-Document",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-01T06:47:28+00:00",
+    "description": "I have a Word document that was drafted quickly and it shows\u2014typos, missed commas, and a few grammar slips have crept in. I need someone to open the existing .docx in Microsoft Word and run through it line by line, correcting spelling and grammar only. Please do not re-write sentences, change wording for style, or adjust the layout; all I\u2019m after is a clean, error-free version of the same text. Use Word\u2019s Track Changes so I can see exactly what you fixed, then supply the updated .docx back to me. I\u2019ll consider the job complete when the file opens with no remaining spelling or grammar flags and the edits are clearly marked.",
+    "salary": "750.0-1250.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-11-01T06:47:28+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.937333451388889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 100,
+        "reason": "Matches the job description for proofreading and editing English documents."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Has direct experience in academic supervision and research guidance."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote work and academic environment align well with the candidate's skills."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career with potential for senior roles."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Experience in academic supervision and research guidance"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Proofread English Word Document job at Freelancer.com. He is a strong fit for the role, especially considering his background in academic supervision and research guidance, which is highly relevant to the job requirements.",
+      "interview_prep": "1. Can you provide an example of a time when you corrected grammar and spelling in a document? 2. How do you approach the process of proofreading and editing for accuracy and clarity? 3. What is your experience with Microsoft Word and its Track Changes feature?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Proofread English Word Document job at Freelancer.com due to his native Arabic speaker and C1 Advanced English proficiency, as well as his experience in academic supervision and research guidance."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Proofread English Word Document job at Freelancer.com due to his native Arabic speaker and C1 Advanced English proficiency, as well as his experience in academic supervision and research guidance.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Experience in academic supervision and research guidance"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Proofread English Word Document job at Freelancer.com. He is a strong fit for the role, especially considering his background in academic supervision and research guidance, which is highly relevant to the job requirements.",
+    "ai_interview_prep": "1. Can you provide an example of a time when you corrected grammar and spelling in a document? 2. How do you approach the process of proofreading and editing for accuracy and clarity? 3. What is your experience with Microsoft Word and its Track Changes feature?",
+    "ai_technical_skills": 100,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Proofread English Word Document_20261101.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Proofread English Word Document_20261101.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-01T11:47:19.499766+00:00"
+  },
+  {
     "title": "Banking Partnership Pitch Deck Design",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/graphic-design/Banking-Partnership-Pitch-Deck-Design",
@@ -7826,6 +8036,58 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-10-31T17:35:41.540325+00:00"
+  },
+  {
+    "title": "Instagram Content Creator for Growth",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-creation/Instagram-Content-Creator-for-Growth",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-01T06:25:23+00:00",
+    "description": "I run a growing brand on Instagram and I\u2019m ready to hand over content production so I can focus on the bigger picture. The primary objective is clear: grow our follower count and extend our reach among new, relevant audiences. Here\u2019s what I need from you each week: \u2022 3-5 feed posts designed to match the current visual identity \u2022 2 engaging Reels with trending audio and smooth, on-brand edits \u2022 Captions for every asset, written in our tone and optimised with researched hashtags You\u2019ll receive brand guidelines, product photos, and any raw video clips; I\u2019ll count on you for concepting, editing, and packaging the content so it\u2019s upload-ready. Familiarity with tools like Adobe Creative Cloud, CapCut, or InShot is useful as long as the final work feels polished and consistent. When you reply, focus on your experience creating posts and short-form videos that have successfully boosted reach or follower growth for other accounts. Links to live examples or a concise portfolio are ideal\u2014I\u2019m less interested in long proposals and more in proven results. If this sounds like a fit, let\u2019s talk timing and workflow so we can start building momentum together.",
+    "salary": "1500.0-12500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-11-01T06:25:23+00:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.305400292777778,
+    "ai_insight": "Waleed Ballag's ESL teaching experience and academic supervision skills make him an ideal candidate for the Instagram Content Creator role. His ability to effectively communicate and teach language, combined with his experience in academic supervision, allows him to understand the nuances of tone an",
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Instagram Content Creator for Growth_20261101.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Instagram Content Creator for Growth_20261101.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-01T11:47:19.499766+00:00"
   },
   {
     "title": "Bilingual SaaS Video Presenter Needed",
