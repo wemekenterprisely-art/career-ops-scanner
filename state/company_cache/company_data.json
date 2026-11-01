@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Widya Bakti Nusa": {
-    "name": "Widya Bakti Nusa",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-02T13:19:08.931964+00:00"
-  },
   "Gen Academy.net": {
     "name": "Gen Academy.net",
     "legitimacy_score": 60,
@@ -943,5 +931,31 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-10-31T23:15:24.333220+00:00"
+  },
+  "SR Edu Technologies Pvt Ltd": {
+    "name": "SR Edu Technologies Pvt Ltd",
+    "legitimacy_score": 65,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board",
+      "Appears to be registered business"
+    ],
+    "last_updated": "2026-11-01T18:22:50.241903+00:00"
+  },
+  "SHARDA CONSULTANCY SERVICES": {
+    "name": "SHARDA CONSULTANCY SERVICES",
+    "legitimacy_score": 65,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board",
+      "Appears to be registered business"
+    ],
+    "last_updated": "2026-11-01T18:22:50.243235+00:00"
   }
 }
