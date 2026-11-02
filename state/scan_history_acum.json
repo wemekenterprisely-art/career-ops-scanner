@@ -1,76 +1,5 @@
 [
   {
-    "date": "2026-09-29T13:25:17.485909+00:00",
-    "matched_count": 8,
-    "all_count": 4717,
-    "jobs": [
-      {
-        "title": "Lecture Audio Transcription Specialists",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/microsoft-word/Lecture-Audio-Transcription-Specialists",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Excel Financial Data Entry & Reports",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/financial-analysis/Excel-Financial-Data-Entry-Reports",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Virtual Assistant for Cold Calling, Lead Generation, Outreach & Appointment Setting",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/cold-calling/Virtual-Assistant-for-Cold-Calling",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Elementary Math Educational Content Creation -- 2",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/content-creation/Elementary-Math-Educational-Content",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Rapid Poetry Proofreading Needed",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/creative-writing/Rapid-Poetry-Proofreading-Needed",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "LinkedIn Post Design Specialist",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/canva/LinkedIn-Post-Design-Specialist",
-        "score": 92,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Moroccan Arabic Interpreter (Remote in UAE)",
-        "company": "TP",
-        "url": "https://ae.linkedin.com/jobs/view/moroccan-arabic-interpreter-remote-in-uae-at-tp-4471733337",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "linkedin"
-      },
-      {
-        "title": "Online English Language Teacher",
-        "company": "Speak Up Egypt",
-        "url": "https://eg.linkedin.com/jobs/view/online-english-language-teacher-at-speak-up-egypt-4473096183",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-29T20:28:13.224576+00:00",
     "matched_count": 6,
     "all_count": 4731,
@@ -3137,5 +3066,52 @@
     "matched_count": 0,
     "all_count": 4325,
     "jobs": []
+  },
+  {
+    "date": "2026-11-02T13:18:33.308279+00:00",
+    "matched_count": 5,
+    "all_count": 4338,
+    "jobs": [
+      {
+        "title": "PDF to Excel Conversion",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-management/PDF-Excel-Conversion-40798980.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Verbatim Letter Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-entry/Verbatim-Letter-Transcription.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Saudi Arabic Marketing Translator",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/marketing/Saudi-Arabic-Marketing-Translator",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Handwritten Letter Transcription With Notes",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/word-processing/Handwritten-Letter-Transcription-With",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Hiring a Remote Data Entry Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/google-sheets/Hiring-Remote-Data-Entry-Assistant",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
