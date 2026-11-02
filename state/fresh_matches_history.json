@@ -7841,6 +7841,483 @@
     "scan_date": "2026-11-01T11:47:19.499766+00:00"
   },
   {
+    "title": "PDF to Excel Conversion",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/data-management/PDF-Excel-Conversion-40798980.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Mon, 02 Nov 2026 07:56:51 -0500",
+    "description": "I have a PDF that needs to be turned into an editable Excel spreadsheet. Accuracy is critical\u2014I want every table, figure, and piece of data mirrored in rows and columns so I can work with the numbers immediately after import... (Budget: min \u20b92500 INR, Jobs: Data Annotation, Data Cleansing, Data Entry, Data Extraction, Data Management, Data Processing, Excel, PDF)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-11-02T07:56:51-05:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "data annotation data labeling data labeler data entry specialist clerk operator agent (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.2465482038888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, aligns with the job's need for PDF to Excel conversion and data management."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Has experience in academic supervision and research guidance, which is relevant to the job's data management and thesis review."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment and flexible schedule align well with the job's flexibility and data processing."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide, fits the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards academic supervision and research roles, aligns with the job's data management and thesis review."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision & Research Guidance",
+        "Remote Work Environment"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the PDF to Excel Conversion job. He can contribute to data management and thesis review, which are key aspects of the job. The remote work environment and flexible schedule are a strong match, and the job's need for data management and thesis review aligns with his experience in academic supervision and research guidance. Overall, Waleed is a strong fit for this role.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? How do you apply that to data management and thesis review tasks? 2. Can you describe a time when you had to manage and clean large datasets? How did you approach the challenge? 3. How do you ensure accuracy in your data processing tasks?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the PDF to Excel Conversion job due to his academic supervision experience and remote work capabilities."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the PDF to Excel Conversion job due to his academic supervision experience and remote work capabilities.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision & Research Guidance",
+      "Remote Work Environment"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the PDF to Excel Conversion job. He can contribute to data management and thesis review, which are key aspects of the job. The remote work environment and flexible schedule are a strong match, and the job's need for data management and thesis review aligns with his experience in academic supervision and research guidance. Overall, Waleed is a strong fit for this role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? How do you apply that to data management and thesis review tasks? 2. Can you describe a time when you had to manage and clean large datasets? How did you approach the challenge? 3. How do you ensure accuracy in your data processing tasks?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 20,
+    "desperation_index": 6,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 38,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_PDF to Excel Conversion_20261102.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_PDF to Excel Conversion_20261102.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-02T13:18:08.887244+00:00"
+  },
+  {
+    "title": "Verbatim Letter Transcription",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/data-entry/Verbatim-Letter-Transcription.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Mon, 02 Nov 2026 07:47:54 -0500",
+    "description": "I have a single PDF that contains scanned pages of several handwritten letters. I need every page transcribed word-for-word into a typed document, preserving all original spelling, punctuation, line breaks and quirks exactly as they appear... (Budget: \u20b912500 - \u20b937500 INR, Jobs: Copy Typing, Data Entry, Editing, Proofreading, Transcription, Typing, Word, Word Processing)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-11-02T07:47:54-05:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "typist transcription transcribing transcriber (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.3957160691666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 70,
+        "reason": "Requires Arabic-English translation and ESL teaching skills, but not exclusively."
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Has experience in ESL teaching, academic supervision, and translation, but not exclusively."
+      },
+      "behavioral_fit": {
+        "score": 70,
+        "reason": "Remote work and flexible environment, but some friction in academic supervision."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 70,
+        "reason": "Builds toward ESL teaching and academic supervision, but not exclusively."
+      },
+      "overall_score": 70,
+      "verdict": "Good Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Translation skills"
+      ],
+      "gaps": [
+        "US/EU citizenship",
+        "Senior leadership roles"
+      ],
+      "recommendation": "This candidate would benefit from additional experience in senior leadership roles and US/EU citizenship to better align with the career goals.",
+      "interview_prep": [
+        "Can you discuss your experience in academic supervision and how it relates to the job requirements?",
+        "How do you approach proofreading and editing in the context of academic writing?"
+      ],
+      "one_line_summary": "Waleed Ballag has strong experience in ESL teaching and academic supervision, but lacks senior leadership and US/EU citizenship, making this a good fit for the Verbatim Letter Transcription job."
+    },
+    "ai_insight": "Waleed Ballag has strong experience in ESL teaching and academic supervision, but lacks senior leadership and US/EU citizenship, making this a good fit for the Verbatim Letter Transcription job.",
+    "ai_overall_score": 70,
+    "ai_verdict": "Good Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Translation skills"
+    ],
+    "ai_gaps": [
+      "US/EU citizenship",
+      "Senior leadership roles"
+    ],
+    "ai_recommendation": "This candidate would benefit from additional experience in senior leadership roles and US/EU citizenship to better align with the career goals.",
+    "ai_interview_prep": [
+      "Can you discuss your experience in academic supervision and how it relates to the job requirements?",
+      "How do you approach proofreading and editing in the context of academic writing?"
+    ],
+    "ai_technical_skills": 70,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 70,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 70,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Verbatim Letter Transcription_20261102.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Verbatim Letter Transcription_20261102.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-02T13:18:08.887244+00:00"
+  },
+  {
+    "title": "Saudi Arabic Marketing Translator",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/marketing/Saudi-Arabic-Marketing-Translator",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-02T10:37:35+00:00",
+    "description": "I have a steady flow of English marketing copy\u2014mainly short social-media ads, with occasional web pages and product descriptions\u2014that needs to sound natural and engaging to customers across Saudi Arabia. Your job is to reshape each piece into Arabic that feels friendly and conversational while preserving the persuasive intent of the original message. Because the campaigns target the whole Kingdom, you\u2019ll need a firm grasp of regional nuances in Najdi, Hijazi, and Gulf dialects so the wording never alienates one audience over another. At the same time, consistency in brand voice is critical, so I expect accurate terminology, correct grammar, and a light, sales-oriented flair. What you can expect from me: \u2022 Clear source text, reference assets, and brief context for every task \u2022 A collaborative review loop in Google Docs/Sheets or directly inside our CMS \u2022 Regular, part-time assignments\u2014usually a batch of 10\u201320 ad lines per week\u2014with room to grow if we click What I need from you: \u2022 Proven experience translating or copy-writing ads and website content for Saudi brands \u2022 Quick turnaround without sacrificing quality \u2022 Availability for ongoing work and responsiveness during Saudi business hours If you can take an English headline like \u201cSummer starts here\u201d and instantly craft an Arabic version that a shopper in Riyadh, Jeddah, or Dhahran will want to click, let\u2019s talk.",
+    "salary": "8.0-15.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-02T10:37:35+00:00",
+    "score": 97,
+    "category": "Arabic Translation",
+    "why": [
+      "translator translation specialist staff translator freelance translator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.5675451994444445,
+    "ai_insight": "Waleed Ballag's ESL teaching experience and academic supervision skills make him well-suited for the Saudi Arabic Marketing Translator role. His ability to translate and supervise language education will enable him to accurately convey the persuasive intent of the original English marketing copy int",
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "No native QA, backlog of Arabic content; Translation backlog / scaling",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Saudi Arabic Marketing Translator_20261102.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Saudi Arabic Marketing Translator_20261102.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-02T13:18:08.887244+00:00"
+  },
+  {
+    "title": "Handwritten Letter Transcription With Notes",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/word-processing/Handwritten-Letter-Transcription-With",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-02T10:16:32+00:00",
+    "description": "I need a clean, accurate transcription of a short English handwritten letter\u2014no more than five pages in total. The final file should be fully typed and include brief bracketed notes wherever a word is uncertain or unreadable so I can review those spots easily. The handwriting is generally clear, but precision matters; please match spelling, punctuation, and any emphatic styling that appears in the original. A simple Word doc or Google Docs file works fine for delivery, as long as the text is left-aligned and readable. Once I receive the document, I\u2019ll cross-check it against the scans and let you know if anything needs tweaking. That should be it\u2014straightforward, quick, and focused on accuracy.",
+    "salary": "10.0-30.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-02T10:16:32+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.9183936783333335,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Matches the job description for English-translation and academic supervision skills."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in academic supervision and research guidance, closely aligned with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment, flexible schedule, and academic-focused role."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote work worldwide, compatible with the candidate's preference."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards senior translator or academic coordinator role, aligns with long-term career goals."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Awarded English Language Trainer of the Year"
+      ],
+      "gaps": [
+        "No experience in engineering or development"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the job requirements, making this a strong fit for the position. His ability to work remotely and his strong academic background make him a valuable asset to the Freelancer.com team.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and editing tasks? 3. Can you share an example of a successful project you've supervised?",
+      "one_line_summary": "Waleed Ballag's strong fit for Freelancer.com's Handwritten Letter Transcription With Notes job due to his academic background and remote work experience."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for Freelancer.com's Handwritten Letter Transcription With Notes job due to his academic background and remote work experience.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Awarded English Language Trainer of the Year"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or development"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the job requirements, making this a strong fit for the position. His ability to work remotely and his strong academic background make him a valuable asset to the Freelancer.com team.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and editing tasks? 3. Can you share an example of a successful project you've supervised?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Handwritten Letter Transcription With Notes_20261102.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Handwritten Letter Transcription With Notes_20261102.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-02T13:18:08.887244+00:00"
+  },
+  {
+    "title": "Hiring a Remote Data Entry Assistant",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/google-sheets/Hiring-Remote-Data-Entry-Assistant",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-02T09:08:27+00:00",
+    "description": "I need help keeping my customer contact and account details spotless. Most of the updates will be made directly through our online forms and company website, with the occasional spreadsheet in Excel or Google Sheets for cross-checking. Here\u2019s how the workflow looks from my side: I pass you raw data or point you to the source, you enter it quickly yet accurately, then double-check account status, notes, and customer history before you hit save. When you spot an error or a duplicate, you correct it on the spot so the master record always stays clean. A good typing speed, basic written English, and an eye for detail are essential. The hours are flexible, the position is fully remote, and we\u2019ll start on a part-time basis; if everything runs smoothly there\u2019s plenty more work to hand over. We\u2019ll jump on a short video call before I confirm the hire\u2014please apply only if that\u2019s fine with you. If this fits your skill set, send a brief note about yourself along with your hourly rate, and we can take it from there.",
+    "salary": "15.0-25.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-02T09:08:27+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.0531181683333335,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Matches the job requirements for remote data entry assistant."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Has experience in academic supervision and data entry, which is relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Flexible hours, remote work, and academic environment align well with the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and flexible hours align with the job requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligning with the job's requirements."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Flexible hours",
+        "Remote work",
+        "Academic environment"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Remote Data Entry Assistant job. He can contribute effectively to the team and build a strong career in translation or teaching.",
+      "interview_prep": "1. Can you discuss a time when you had to double-check and correct data in a project? 2. How do you approach handling errors and duplicates in customer records? 3. Can you describe a project where you had to manage a team of data entry assistants?",
+      "one_line_summary": "Waleed Ballag's skills and experience make him a strong fit for the Remote Data Entry Assistant job."
+    },
+    "ai_insight": "Waleed Ballag's skills and experience make him a strong fit for the Remote Data Entry Assistant job.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Flexible hours",
+      "Remote work",
+      "Academic environment"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Remote Data Entry Assistant job. He can contribute effectively to the team and build a strong career in translation or teaching.",
+    "ai_interview_prep": "1. Can you discuss a time when you had to double-check and correct data in a project? 2. How do you approach handling errors and duplicates in customer records? 3. Can you describe a project where you had to manage a team of data entry assistants?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Hiring a Remote Data Entry Assistant_20261102.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Hiring a Remote Data Entry Assistant_20261102.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-02T13:18:08.887244+00:00"
+  },
+  {
     "title": "Banking Partnership Pitch Deck Design",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/graphic-design/Banking-Partnership-Pitch-Deck-Design",
