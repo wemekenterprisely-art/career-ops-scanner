@@ -2,16 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "UNOG - United Nations Office at Geneva": {
-    "name": "UNOG - United Nations Office at Geneva",
-    "legitimacy_score": 50,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [],
-    "last_updated": "2026-10-03T18:28:22.471717+00:00"
-  },
   "Appen": {
     "name": "Appen",
     "legitimacy_score": 50,
@@ -945,5 +935,17 @@
       "Appears to be registered business"
     ],
     "last_updated": "2026-11-01T18:22:50.243235+00:00"
+  },
+  "TEFL UK": {
+    "name": "TEFL UK",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-02T22:14:05.135997+00:00"
   }
 }
