@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Gen Academy.net": {
-    "name": "Gen Academy.net",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-03T05:15:14.064996+00:00"
-  },
   "UNOG - United Nations Office at Geneva": {
     "name": "UNOG - United Nations Office at Geneva",
     "legitimacy_score": 50,
