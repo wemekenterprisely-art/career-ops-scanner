@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-09-30T20:23:42.676502+00:00",
-    "matched_count": 4,
-    "all_count": 4840,
-    "jobs": [
-      {
-        "title": "Academic Research Virtual Assistant Needed",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/academic-research/Academic-Research-Virtual-Assistant",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Skilled Virtual Assistant & Copywriter",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/content-writing/Skilled-Virtual-Assistant-Copywriter",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "PDF to Plain Text Transcription",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/content-writing/PDF-Plain-Text-Transcription",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Arabic Interpreter",
-        "company": "ICRC - International Committee of the Red Cross",
-        "url": "https://www.impactpool.org/jobs/1239048",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "impactpool"
-      }
-    ]
-  },
-  {
     "date": "2026-10-01T05:17:14.521263+00:00",
     "matched_count": 0,
     "all_count": 4905,
@@ -3069,6 +3030,61 @@
         "company": "Freelancer.com",
         "url": "https://www.freelancer.com/projects/content-creation/YouTube-Vlog-Event-Videography",
         "score": 82,
+        "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-03T20:07:39.434510+00:00",
+    "matched_count": 6,
+    "all_count": 4438,
+    "jobs": [
+      {
+        "title": "Document Annotation Specialist (Northern Europe)",
+        "company": "Lifted (an Upwork Company)",
+        "url": "https://himalayas.app/companies/lifted-an-upwork-company/jobs/document-annotation-specialist-northern-europe-1751860028?utm_source=api",
+        "score": 100,
+        "category": "Admin",
+        "source": "himalayas"
+      },
+      {
+        "title": "YouTube Transcription & Thumbnail Creation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/graphic-design/YouTube-Transcription-Thumbnail-Creation",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Academic Paper Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/academic-writing/Academic-Paper-Proofreading-40800942",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Creative Writer for Couples' Quiz App Questions",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/article-writing/Creative-Writer-for-Couples-Quiz.html",
+        "score": 82,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "YouTube Vlog/Event Videography -- 2",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/video-services/YouTube-Vlog-Event-Videography",
+        "score": 82,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "AI-Driven AEO Content Creation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/ai-content-creation/Driven-AEO-Content-Creation",
+        "score": 67,
         "category": "Editing",
         "source": "freelancer"
       }
