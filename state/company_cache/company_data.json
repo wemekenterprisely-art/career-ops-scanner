@@ -2,40 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Appen": {
-    "name": "Appen",
-    "legitimacy_score": 50,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [],
-    "last_updated": "2026-10-04T11:07:26.564169+00:00"
-  },
-  "British Council": {
-    "name": "British Council",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-04T11:07:26.565920+00:00"
-  },
-  "English Academy by Ruangguru": {
-    "name": "English Academy by Ruangguru",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-04T11:07:26.567152+00:00"
-  },
   "Nafham - \u0646\u0641\u0647\u0645": {
     "name": "Nafham - \u0646\u0641\u0647\u0645",
     "legitimacy_score": 60,
@@ -947,5 +913,15 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-02T22:14:05.135997+00:00"
+  },
+  "Lifted (an Upwork Company)": {
+    "name": "Lifted (an Upwork Company)",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-11-03T12:46:51.071842+00:00"
   }
 }
