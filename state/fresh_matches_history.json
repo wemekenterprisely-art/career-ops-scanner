@@ -4552,6 +4552,112 @@
     "scan_date": "2026-11-02T22:14:34.858078+00:00"
   },
   {
+    "title": "Document Annotation Specialist (Africa)",
+    "company": "Lifted (an Upwork Company)",
+    "url": "https://himalayas.app/companies/lifted-an-upwork-company/jobs/document-annotation-specialist-africa-1396369325?utm_source=api",
+    "location": "Madagascar",
+    "posted": 1793707003,
+    "description": "Review and annotate document images to accurately identify text, paragraphs, tables, and other document elements. Correct Optical Character Recognition (OCR) errors, including spelling mistakes, missing characters, formatting inconsistencies, and transcription inaccuracies. Create, review, and adjust bounding boxes to precisely capture text blocks, paragraphs, tables, and other document regions. Transcribe text exactly as it appears in source documents, preserving original characters, symbols, punctuation, diacritics, and formatting. Review and annotate tables, mathematical expressions, and LaTeX equations while maintaining structural and textual accuracy. Apply Markdown formatting consistently to represent document structures, including headings, lists, tables, and other elements. Process multilingual documents while preserving language-specific characters, writing systems, and special symbols. Follow project guidelines and annotation standards to ensure consistent, accurate, and reliable outputs. Identify discrepancies in annotated data and make corrections in accordance with established instructions. Maintain high levels of transcription accuracy and data quality while meeting project deadlines. Review complex document layouts and technical content to ensure the integrity of digitized information. Collaborate with project stakeholders and follow quality requirements throughout the document annotation process. Native or near-native proficiency in Afrikaans, Amharic, Kinyarwanda, Malagasy, Swahili, Xhosa, or Zulu. Strong attention to detail and the ability to identify minor errors in text, formatting, and document layouts. Demonstrated ability to transcribe text accurately and reproduce exact characters, punctuation, symbols, tables, and mathematical expressions. Familiarity with OCR text correction, document annotation, bounding box adjustment, or related data quality tasks. Understanding of Markdown formatting and structured document representation. Ability to review multilingual text while preserving special characters, diacritics, and language-specific writing conventions. Strong reading comprehension and the ability to follow detailed instructions and annotation guidelines. Ability to work independently, maintain consistent quality, and meet project deadlines. Strong analytical and problem-solving skills, particularly when identifying discrepancies in document data. Ability to work with complex document layouts, scanned images, tables, mathematical notation, and technical content. Preferred Qualifications Previous experience in data annotation, OCR correction, document digitization, transcription, or data quality review. Familiarity with scanned documents, complex layouts, tables, mathematical notation, and LaTeX equations. Experience working with multiple languages, multilingual documents, or non-Latin scripts. Experience following structured quality assurance procedures and annotation guidelines. Ability to maintain high accuracy and consistency when processing large volumes of document data. An enterprise client is seeking detail-oriented and quality-focused specialists to support document digitization and data accuracy initiatives. The role involves reviewing, annotating, and transcribing text and document regions from scanned images, ensuring accurate representation of written content through OCR correction, bounding box adjustment, and consistent Markdown formatting. The organization is looking for candidates with native or near-native proficiency in Afrikaans, Amharic, Kinyarwanda, Malagasy, Swahili, Xhosa, or Zulu, strong attention to detail, and the ability to accurately process complex document layouts, tables, mathematical expressions, and multilingual text. Originally posted on Himalayas",
+    "salary": "",
+    "source": "himalayas",
+    "postedISO": "2026-11-03T11:56:43+00:00",
+    "score": 100,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (description)",
+      "data annotation data labeling data labeler data entry specialist clerk operator agent (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.7237415138888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 60,
+        "reason": "Requires some language skills and academic work, but not exclusively translation or ESL teaching."
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Direct experience in ESL teaching and academic supervision, with related language skills and academic work."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote work environment, flexible schedule, and academic setting align well with the candidate's goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide location, compatible with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards senior translator or academic coordinator role, aligns with the candidate's career goals."
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Language skills",
+        "Remote work"
+      ],
+      "gaps": [
+        "US/EU citizenship",
+        "Senior leadership roles"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Document Annotation Specialist role in Madagascar. He can contribute effectively to the translation and academic services provided by Lifted.",
+      "one_line_summary": "Strong fit for Document Annotation Specialist role with ESL teaching and academic supervision experience."
+    },
+    "ai_insight": "Strong fit for Document Annotation Specialist role with ESL teaching and academic supervision experience.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Language skills",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "US/EU citizenship",
+      "Senior leadership roles"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Document Annotation Specialist role in Madagascar. He can contribute effectively to the translation and academic services provided by Lifted.",
+    "ai_interview_prep": "",
+    "ai_technical_skills": 60,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@himalayas.app",
+    "email_verified": false,
+    "all_emails": [
+      "careers@himalayas.app",
+      "hr@himalayas.app",
+      "jobs@himalayas.app"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Lifted (an Upwork Company)",
+      "legitimacy_score": 50,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [],
+      "last_updated": "2026-11-03T12:46:51.071842+00:00"
+    },
+    "company_legitimacy": 50,
+    "company_summary": "",
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Lifted (an Upwork Company)_Document Annotation Specialist (Africa)_20261103.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Lifted (an Upwork Company)_Document Annotation Specialist (Africa)_20261103.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-03T12:48:51.793340+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -8760,6 +8866,630 @@
     "scan_date": "2026-11-03T02:07:49.989307+00:00"
   },
   {
+    "title": "Versatile Design & Content Creation",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/adobe-creative-cloud/Versatile-Design-Content-Creation.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Tue, 03 Nov 2026 07:20:41 -0500",
+    "description": "I\u2019m looking for a freelance partner who can step in and handle design or content creation work for me from start to finish. The exact deliverables are still flexible\u2014logo work, brand assets, social media... (Budget: \u20b912500 - \u20b937500 INR, Jobs: Adobe Creative Cloud, Branding, Content Writing, Figma, Graphic Design, Illustrator, Logo Design, Photoshop)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-11-03T07:20:41-05:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "content creation (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.3244721538888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Requires language skills, writing, and academic work"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in translation, ESL teaching, and academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, or compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Awarded English Language Trainer of the Year"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Versatile Design & Content Creation job. His strong language skills and academic background make him a suitable candidate for this role.",
+      "interview_prep": "1. Can you provide examples of how you've supervised graduate-level research studies? 2. How do you ensure the accuracy of academic papers and the quality of translations?",
+      "one_line_summary": "Waleed Ballag's strong language skills and academic background make him a strong fit for the Versatile Design & Content Creation role."
+    },
+    "ai_insight": "Waleed Ballag's strong language skills and academic background make him a strong fit for the Versatile Design & Content Creation role.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Awarded English Language Trainer of the Year"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Versatile Design & Content Creation job. His strong language skills and academic background make him a suitable candidate for this role.",
+    "ai_interview_prep": "1. Can you provide examples of how you've supervised graduate-level research studies? 2. How do you ensure the accuracy of academic papers and the quality of translations?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Versatile Design & Content Creation_20261103.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Versatile Design & Content Creation_20261103.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-03T12:48:51.793340+00:00"
+  },
+  {
+    "title": "British English Book Proofreading",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/microsoft-word/British-English-Book-Proofreading",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-03T12:02:17+00:00",
+    "description": "I have a complete manuscript in Microsoft Word and I need every spelling, grammar, and punctuation issue corrected in strict British English. Nothing else needs changing\u2014no re-structuring or stylistic rewrites\u2014just a meticulous, line-by-line proofread that leaves the voice intact while eliminating typos and mechanical errors. Please work directly in Word using Track Changes so I can see every edit. A second, clean version with all changes accepted will help me move straight into formatting once your review is finished. Deliverables \u2022 Word file with Track Changes \u2022 Final clean Word file, error-free in British English If you have a sharp eye for detail and extensive experience proofreading long-form text, I\u2019m ready to send the document as soon as we agree on the timeline.",
+    "salary": "30.0-250.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-03T12:02:17+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.6309864630555555,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job title is for British English book proofreading, which aligns with the candidate's expertise in academic supervision and proofreading long-form text."
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "The candidate has experience in academic supervision and proofreading, which are relevant skills for the job."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "The candidate's background in ESL teaching and academic supervision aligns well with the remote, flexible, and academic environment required for the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "The candidate's career goals align with the role, as it involves secure stable remote work in translation or ESL teaching, and the potential for long-term client relationships in academic services."
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Expertise in proofreading and academic supervision",
+        "Experience in ESL teaching and academic supervision"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate's strong skills in proofreading and academic supervision make them a strong fit for the job. They can contribute to the role effectively and align with career goals.",
+      "interview_prep": "1. What is your experience in proofreading long-form text and academic supervision? 2. How do you ensure the voice of the author is preserved during proofreading?",
+      "one_line_summary": "A strong fit for the British English book proofreading job with relevant skills and career alignment."
+    },
+    "ai_insight": "A strong fit for the British English book proofreading job with relevant skills and career alignment.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Expertise in proofreading and academic supervision",
+      "Experience in ESL teaching and academic supervision"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate's strong skills in proofreading and academic supervision make them a strong fit for the job. They can contribute to the role effectively and align with career goals.",
+    "ai_interview_prep": "1. What is your experience in proofreading long-form text and academic supervision? 2. How do you ensure the voice of the author is preserved during proofreading?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_British English Book Proofreading_20261103.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_British English Book Proofreading_20261103.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-03T12:48:51.793340+00:00"
+  },
+  {
+    "title": "Ebook Proofreading (US English)",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-writing/Ebook-Proofreading-English",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-03T12:02:16+00:00",
+    "description": "I\u2019m looking for a careful proofreader to scan my ebook\u2014currently a Microsoft Word document\u2014for spelling and grammar errors only. Please keep the voice, structure, and style exactly as they are; all I need is a clean, error-free manuscript that meets US English conventions. Kindly work with Track Changes switched on so I can review every correction, and provide a second, final version with all edits accepted. If you have questions about ambiguous wording, flag them in a comment rather than rewriting the text. The file is ready to send as soon as we agree on timing. Let me know your expected turnaround and any experience you have catching those last-minute typos in book-length projects.",
+    "salary": "30.0-250.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-03T12:02:16+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.6312646688888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires proofreading, which is a language and writing skill, and the candidate has experience in academic supervision and proofreading."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in academic supervision and proofreading, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate has experience in academic supervision and proofreading, which suggests a strong fit for a role that requires similar skills and a remote, flexible environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, and the candidate has experience in remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the role, as it involves proofreading and academic supervision, which are skills the candidate has experience in."
+      },
+      "overall_score": 86,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Experience in academic supervision"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate has strong language skills and experience in academic supervision, making them a strong fit for the proofreading role. They would excel in a remote, flexible environment and align well with the academic supervision goals.",
+      "interview_prep": "1. What is your experience in proofreading and academic supervision? 2. How do you approach proofreading in a remote environment? 3. What is your experience with Microsoft Word and Track Changes?",
+      "one_line_summary": "A strong fit for proofreading with experience in academic supervision and remote work."
+    },
+    "ai_insight": "A strong fit for proofreading with experience in academic supervision and remote work.",
+    "ai_overall_score": 86,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Experience in academic supervision"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate has strong language skills and experience in academic supervision, making them a strong fit for the proofreading role. They would excel in a remote, flexible environment and align well with the academic supervision goals.",
+    "ai_interview_prep": "1. What is your experience in proofreading and academic supervision? 2. How do you approach proofreading in a remote environment? 3. What is your experience with Microsoft Word and Track Changes?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Ebook Proofreading (US English)_20261103.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Ebook Proofreading (US English)_20261103.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-03T12:48:51.793340+00:00"
+  },
+  {
+    "title": "Malayalam & English Title Copywriting",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/english-translation/Malayalam-English-Title-Copywriting",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-03T10:06:59+00:00",
+    "description": "I\u2019m looking for a creative copywriter who can supply snappy, scroll-stopping titles in both Malayalam and English. Right now my priority is pure content writing\u2014specifically concise, attention-grabbing headlines that can top social media graphics, Reels, or any other visual I create. If you have a flair for bilingual wordplay and understand how to keep language tight while still conveying emotion and context, you\u2019re the right fit. Deliverables \u2022 A batch of fresh titles in Malayalam and their matching English versions (exact quantity agreed once we start). \u2022 Each pair should be punchy, easy to read, and ready to drop into my designs without additional editing. \u2022 Final hand-off in a simple text document or spreadsheet so I can copy-paste directly into Canva, Illustrator, or my social platforms. Please include 2-3 samples that show your bilingual range, along with a short note on how you approach keyword relevance and cultural nuance. I\u2019m keen to kick this off quickly, so let me know your turnaround time for an initial set.",
+    "salary": "600.0-2500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-11-03T10:06:59+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.552656164444444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires Malayalam and English title copywriting, which aligns with the candidate's language skills and experience in academic services."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has experience in academic supervision and research guidance, which is relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in ESL teaching and academic supervision suggests a strong fit for the creative copywriting role."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, which is compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the translation and ESL teaching roles, which can be built upon."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Language skills",
+        "Academic experience",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate has a strong fit for the Malayalam & English Title Copywriting role. They possess the necessary language skills, academic experience, and a preference for remote work, making them a strong candidate for this position.",
+      "interview_prep": "1. Can you provide examples of your experience in academic supervision and research guidance? 2. How do you approach keyword relevance and cultural nuance in your bilingual work? 3. Can you share a sample of your bilingual range that demonstrates your skills and experience?",
+      "one_line_summary": "A strong fit for the Malayalam & English Title Copywriting role with relevant academic experience and a preference for remote work."
+    },
+    "ai_insight": "A strong fit for the Malayalam & English Title Copywriting role with relevant academic experience and a preference for remote work.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Language skills",
+      "Academic experience",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate has a strong fit for the Malayalam & English Title Copywriting role. They possess the necessary language skills, academic experience, and a preference for remote work, making them a strong candidate for this position.",
+    "ai_interview_prep": "1. Can you provide examples of your experience in academic supervision and research guidance? 2. How do you approach keyword relevance and cultural nuance in your bilingual work? 3. Can you share a sample of your bilingual range that demonstrates your skills and experience?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Malayalam & English Title Copywriting_20261103.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Malayalam & English Title Copywriting_20261103.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-03T12:48:51.793340+00:00"
+  },
+  {
+    "title": "Lockbox Data Entry",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/data-processing/Lockbox-Data-Entry",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-03T09:16:26+00:00",
+    "description": "I receive a batch of lockbox check images every 8 to 10 days and need the key details captured quickly and accurately in Excel. You will work with my own predefined spreadsheet template, entering the information exactly where it belongs so each file is ready for upload to our accounting software without additional clean-up. This project will be a good fit for someone with accounting background. The workload is consistent but varies in volume (in some weeks it may take you only 15 to 30 minutes or an hour and in some weeks it may even take 1 to 4 hours) \u2014 new images arrive every 8 to 10 days and I need the completed Excel file returned within 24 to 48 hours or earlier from the time I send it to you. Accuracy is critical because these figures feed straight into our audit system. A careful eye for typos, correct number formatting, and date consistency is essential. You may use any method you like\u2014manual entry, keyboard shortcuts, or an OCR tool followed by proofreading\u2014as long as the final sheet matches the template and is error-free. I am happy to start with a small test batch this week; if all looks good we will roll straight into the ongoing schedule. I have created a process document for you to follow and there is spreadsheet template with key fields that I want entered. For reference I am sharing here files that have already been completed in the excel spreadsheet for you to follow as a guide apart from the process document. Once you have reviewed the work that has already completed in the Tab - 10-15 to 10-23 (Toledo) for clarity and confirm you understand the project clearly. I will share a couple of current data files to do as sample entries and check for accuracy before awarding you the project. This will be a long-term ongoing simple task for anyone doing it accurately and promptly. Do bid your best hourly rates for this project. Deliverable each cycle: \u2022 One fully populated Excel file following my template, named with that Month\u2019s date. You can replicate a n",
+    "salary": "100.0-110.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-11-03T09:16:26+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.395165951388889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires Arabic-English translation and academic supervision, which aligns with Waleed's experience and certifications."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Waleed has extensive experience in ESL teaching, academic supervision, and translation, making the job a good fit for his background."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The job is remote and requires academic skills, which aligns with Waleed's career goals and experience."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with Waleed's preference."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The job aligns with Waleed's career goals of securing stable remote work and contributing to academic services."
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "ESL teaching",
+        "academic supervision",
+        "translation"
+      ],
+      "gaps": [
+        "no specific gaps noted"
+      ],
+      "recommendation": "Waleed's background in ESL teaching, academic supervision, and translation makes him a strong fit for this remote data entry job. His ability to work remotely and his passion for academic services align well with the job's requirements.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation tasks? 3. Can you describe a time when you had to proofread and correct data in an Excel file?",
+      "one_line_summary": "Waleed's strong fit for the job due to his extensive experience in ESL teaching, academic supervision, and translation.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "Waleed's strong fit for the job due to his extensive experience in ESL teaching, academic supervision, and translation.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "academic supervision",
+      "translation"
+    ],
+    "ai_gaps": [
+      "no specific gaps noted"
+    ],
+    "ai_recommendation": "Waleed's background in ESL teaching, academic supervision, and translation makes him a strong fit for this remote data entry job. His ability to work remotely and his passion for academic services align well with the job's requirements.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation tasks? 3. Can you describe a time when you had to proofread and correct data in an Excel file?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 15,
+    "desperation_index": 5,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 36,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Lockbox Data Entry_20261103.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Lockbox Data Entry_20261103.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-03T12:48:51.793340+00:00"
+  },
+  {
+    "title": "Find 100 Gulf Arabic Education Creators",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/instagram-marketing/Find-Gulf-Arabic-Education-Creators",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-03T07:59:17+00:00",
+    "description": "Research task: find 100 Arabic Instagram accounts in these niches: teachers, trainers, coaches, lecturers, self-development. This is a first task. There is ongoing work for whoever delivers quality and meets deadlines. Native Arabic speaker only (you will judge Arabic content, dialects and comments). ##=IMPORTANT : Criteria for each account: - Posts in Arabic. - Based in Saudi Arabia, Kuwait, UAE, Qatar, Bahrain or Oman, or an Arab living in Europe. - 2,000\u201350,000 followers (prefer under 10,000). - Posted within the last 14 days. - Real engagement: genuine comments, no giveaways, no fake comments. - No brands, shops, repost pages or giveaway accounts. Deliver in Google Sheets, per account: Name \u00b7 Instagram link \u00b7 country \u00b7 followers \u00b7 niche \u00b7 average likes and comments on the last 9 posts \u00b7 date of last post \u00b7 link in bio (yes/no, and what it links to) \u00b7 public contact from the bio if available \u00b7 short note. Public information only. No automated scraping tools.",
+    "salary": "30.0-35.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-03T07:59:17+00:00",
+    "score": 97,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic translator translation interpreter linguist editor proofreader content writer qa tester localis (description)",
+      "arabic speaker native fluent bilingual .{0,40} translator editor content localis translation localization (description)",
+      "arabic speaker native fluent bilingual (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.680975821111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches job description for translation and ESL teaching."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching and academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, or compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency"
+      ],
+      "gaps": [
+        "No experience in engineering or related technical roles"
+      ],
+      "recommendation": "Strong fit for the job. Focus on maintaining the remote and academic environment to align with career goals.",
+      "interview_prep": "1. Can you provide examples of how you've supervised graduate-level research studies? 2. How do you ensure the authenticity of comments on your Instagram accounts? 3. What strategies do you use to ensure engagement on your posts?",
+      "one_line_summary": "Strong fit for the job, aligning with career goals."
+    },
+    "ai_insight": "Strong fit for the job, aligning with career goals.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or related technical roles"
+    ],
+    "ai_recommendation": "Strong fit for the job. Focus on maintaining the remote and academic environment to align with career goals.",
+    "ai_interview_prep": "1. Can you provide examples of how you've supervised graduate-level research studies? 2. How do you ensure the authenticity of comments on your Instagram accounts? 3. What strategies do you use to ensure engagement on your posts?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "No native QA, backlog of Arabic content",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Find 100 Gulf Arabic Education Creators_20261103.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Find 100 Gulf Arabic Education Creators_20261103.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-03T12:48:51.793340+00:00"
+  },
+  {
     "title": "Banking Partnership Pitch Deck Design",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/graphic-design/Banking-Partnership-Pitch-Deck-Design",
@@ -9439,6 +10169,109 @@
     "cover_letter_ai": false,
     "interview_prep_generated": false,
     "scan_date": "2026-10-29T18:57:13.570496+00:00"
+  },
+  {
+    "title": "YouTube Vlog/Event Videography",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-creation/YouTube-Vlog-Event-Videography",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-03T10:08:15+00:00",
+    "description": "Female Videographer & On-Camera Content Creator Required \u2013 Mumbai Looking for a female videographer based in Mumbai, preferably around the Central Line, who can both shoot and participate in videos as an on-camera creator. The work involves creating engaging social media content, reels, and short-form videos. Must be confident on camera, creative, comfortable with video shooting and basic editing, and interested in collaborating on regular content creation. Please share your portfolio or sample work along with your location and charges.",
+    "salary": "600.0-1500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-11-03T10:08:15+00:00",
+    "score": 82,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)",
+      "content creation (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.5315536516666666,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Job involves video production, content creation, and on-camera work, which aligns with the candidate's skills in videography, photography, and video editing."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "The candidate has experience in video production, content creation, and on-camera work, which is relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate is comfortable with remote work, flexible work arrangements, and an academic environment, which aligns well with the job's remote and worldwide nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is flexible with remote work and can work from anywhere in the world, which is compatible with the job's remote and worldwide nature."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's skills and experience align well with the job's requirements, particularly in video production and content creation, which can lead to a career in videography or video production."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Video Production Skills",
+        "Content Creation Expertise",
+        "Remote Work Flexibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate would be a strong fit for the YouTube Vlog/Event Videography position due to their skills in videography, content creation, and remote work flexibility.",
+      "interview_prep": "1. What is your experience in video production and content creation? 2. How do you handle on-camera work and video editing? 3. Can you share an example of a video you've created?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the YouTube Vlog/Event Videography position due to their skills in videography, content creation, and remote work flexibility."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the YouTube Vlog/Event Videography position due to their skills in videography, content creation, and remote work flexibility.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Video Production Skills",
+      "Content Creation Expertise",
+      "Remote Work Flexibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate would be a strong fit for the YouTube Vlog/Event Videography position due to their skills in videography, content creation, and remote work flexibility.",
+    "ai_interview_prep": "1. What is your experience in video production and content creation? 2. How do you handle on-camera work and video editing? 3. Can you share an example of a video you've created?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 26,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_YouTube Vlog-Event Videography_20261103.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-11-03T12:48:51.793340+00:00"
   },
   {
     "title": "Graphics & Video Content Creation",
