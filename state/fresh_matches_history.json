@@ -4658,6 +4658,107 @@
     "scan_date": "2026-11-03T12:48:51.793340+00:00"
   },
   {
+    "title": "Document Annotation Specialist (Northern Europe)",
+    "company": "Lifted (an Upwork Company)",
+    "url": "https://himalayas.app/companies/lifted-an-upwork-company/jobs/document-annotation-specialist-northern-europe-1751860028?utm_source=api",
+    "location": "Sweden",
+    "posted": 1793730461,
+    "description": "Review and annotate document images to accurately identify text, paragraphs, tables, and other document elements. Correct Optical Character Recognition (OCR) errors, including spelling mistakes, missing characters, formatting inconsistencies, and transcription inaccuracies. Create, review, and adjust bounding boxes to precisely capture text blocks, paragraphs, tables, and other document regions. Transcribe text exactly as it appears in source documents, preserving original characters, symbols, punctuation, diacritics, and formatting. Review and annotate tables, mathematical expressions, and LaTeX equations while maintaining structural and textual accuracy. Apply Markdown formatting consistently to represent document structures, including headings, lists, tables, and other elements. Process multilingual documents while preserving language-specific characters, writing systems, and special symbols. Follow project guidelines and annotation standards to ensure consistent, accurate, and reliable outputs. Identify discrepancies in annotated data and make corrections in accordance with established instructions. Maintain high levels of transcription accuracy and data quality while meeting project deadlines. Review complex document layouts and technical content to ensure the integrity of digitized information. Collaborate with project stakeholders and follow quality requirements throughout the document annotation process. Native or near-native proficiency in Danish, Finnish, Icelandic, Luxembourgish, Norwegian, Norwegian Bokm\u00e5l, Norwegian Nynorsk, or Swedish. Strong attention to detail and the ability to identify minor errors in text, formatting, and document layouts. Demonstrated ability to transcribe text accurately and reproduce exact characters, punctuation, symbols, tables, and mathematical expressions. Familiarity with OCR text correction, document annotation, bounding box adjustment, or related data quality tasks. Understanding of Markdown formatting and structured document representation. Ability to review multilingual text while preserving special characters, diacritics, and language-specific writing conventions. Strong reading comprehension and the ability to follow detailed instructions and annotation guidelines. Ability to work independently, maintain consistent quality, and meet project deadlines. Strong analytical and problem-solving skills, particularly when identifying discrepancies in document data. Ability to work with complex document layouts, scanned images, tables, mathematical notation, and technical content. Preferred Qualifications Previous experience in data annotation, OCR correction, document digitization, transcription, or data quality review. Familiarity with scanned documents, complex layouts, tables, mathematical notation, and LaTeX equations. Experience working with multiple languages, multilingual documents, or non-Latin scripts. Experience following structured quality assurance procedures and annotation guidelines. Ability to maintain high accuracy and consistency when processing large volumes of document data. An enterprise client is seeking detail-oriented and quality-focused specialists to support document digitization and data accuracy initiatives. The role involves reviewing, annotating, and transcribing text and document regions from scanned images, ensuring accurate representation of written content through OCR correction, bounding box adjustment, and consistent Markdown formatting. The organization is looking for candidates with native or near-native proficiency in Danish, Finnish, Icelandic, Luxembourgish, Norwegian, Norwegian Bokm\u00e5l, Norwegian Nynorsk, or Swedish, strong attention to detail, and the ability to accurately process complex document layouts, tables, mathematical expressions, and multilingual text. Originally posted on Himalayas",
+    "salary": "",
+    "source": "himalayas",
+    "postedISO": "2026-11-03T18:27:41+00:00",
+    "score": 100,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (description)",
+      "data annotation data labeling data labeler data entry specialist clerk operator agent (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.5371720436111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 40,
+        "reason": "Job requires document annotation, which is not explicitly linked to translation or ESL teaching, but still partially matches the candidate's experience."
+      },
+      "experience_match": {
+        "score": 60,
+        "reason": "Direct experience in academic supervision and language teaching, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 70,
+        "reason": "Remote work environment and academic setting align well with the candidate's skills and career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's background and skills."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds towards senior translator or academic coordinator role, aligning with the candidate's long-term aspirations."
+      },
+      "overall_score": 76,
+      "verdict": "Good Fit",
+      "strengths": [
+        "Strong language skills",
+        "Experience in academic supervision and teaching"
+      ],
+      "gaps": [
+        "Need for translation/teaching/academic experience"
+      ],
+      "recommendation": "Waleed Ballag's skills and background align well with the Document Annotation Specialist role. While the job is not a perfect fit, it offers opportunities for growth and development in his field of expertise.",
+      "interview_prep": "1. Can you discuss a time when you had to correct OCR errors in a document? 2. How do you approach creating and adjusting bounding boxes for text blocks and tables? 3. Can you share an example of a thesis review you've done?",
+      "one_line_summary": "Waleed Ballag's background in ESL and academic supervision makes him a strong fit for the Document Annotation Specialist role, despite the need for more translation/teaching/academic experience."
+    },
+    "ai_insight": "Waleed Ballag's background in ESL and academic supervision makes him a strong fit for the Document Annotation Specialist role, despite the need for more translation/teaching/academic experience.",
+    "ai_overall_score": 76,
+    "ai_verdict": "Good Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Experience in academic supervision and teaching"
+    ],
+    "ai_gaps": [
+      "Need for translation/teaching/academic experience"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and background align well with the Document Annotation Specialist role. While the job is not a perfect fit, it offers opportunities for growth and development in his field of expertise.",
+    "ai_interview_prep": "1. Can you discuss a time when you had to correct OCR errors in a document? 2. How do you approach creating and adjusting bounding boxes for text blocks and tables? 3. Can you share an example of a thesis review you've done?",
+    "ai_technical_skills": 40,
+    "ai_experience_match": 60,
+    "ai_behavioral_fit": 70,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@himalayas.app",
+    "email_verified": false,
+    "all_emails": [
+      "careers@himalayas.app",
+      "hr@himalayas.app",
+      "jobs@himalayas.app"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Lifted (an Upwork Company)",
+      "legitimacy_score": 50,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [],
+      "last_updated": "2026-11-03T12:46:51.071842+00:00"
+    },
+    "company_legitimacy": 50,
+    "company_summary": "",
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Lifted (an Upwork Company)_Document Annotation Specialist (Northern Europe)_20261103.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Lifted (an Upwork Company)_Document Annotation Specialist (Northern Europe)_20261103.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-03T20:07:15.091657+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -9490,6 +9591,213 @@
     "scan_date": "2026-11-03T12:48:51.793340+00:00"
   },
   {
+    "title": "YouTube Transcription & Thumbnail Creation",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/graphic-design/YouTube-Transcription-Thumbnail-Creation",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-03T18:07:58+00:00",
+    "description": "I need help turning several YouTube videos into clean, well-formatted text while also giving each video a fresh, click-worthy thumbnail. The task is two-fold: first, watch or listen to the videos and produce accurate English transcripts; second, design custom thumbnails that stop the scroll and match the tone of each clip. For the transcripts, correctness is key\u2014please capture every spoken word and clearly mark speaker changes or time stamps if you find it useful for readability. For the thumbnails, the standard 1280 \u00d7 720 size works best. I\u2019m flexible on style as long as the final image looks sharp on both desktop and mobile and instantly tells viewers what the video is about. Deliverables \u2022 A separate transcript file (DOCX, TXT or similar) for each video \u2022 A finished thumbnail in PNG or JPG plus the editable source file (PSD/AI) Let me know how soon you can start and how many minutes of footage you can realistically handle per day. Accuracy in transcription and creativity in design are the two things that matter most.",
+    "salary": "1500.0-12500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-11-03T18:07:58+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.8658184033333332,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches the job's requirement for language skills, writing, and academic work"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and research guidance"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment aligns with the candidate's skills and goals"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote work is compatible with the candidate's location and skills"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns with the candidate's goals"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "Awarded English Language Trainer of the Year",
+        "Expert in academic supervision and research guidance"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's background and skills align well with the YouTube Transcription & Thumbnail Creation job. His experience in ESL teaching and academic supervision, combined with his native Arabic and C1 Advanced English proficiency, make him a strong fit for this role. He can contribute to the translation and academic services of the company, potentially leading to further growth in his career.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach legal translation tasks? 3. Can you provide an example of a project you have successfully completed in academic writing?",
+      "one_line_summary": "Waleed Ballag's native language skills and academic background make him a strong fit for the YouTube Transcription & Thumbnail Creation job."
+    },
+    "ai_insight": "Waleed Ballag's native language skills and academic background make him a strong fit for the YouTube Transcription & Thumbnail Creation job.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "Awarded English Language Trainer of the Year",
+      "Expert in academic supervision and research guidance"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's background and skills align well with the YouTube Transcription & Thumbnail Creation job. His experience in ESL teaching and academic supervision, combined with his native Arabic and C1 Advanced English proficiency, make him a strong fit for this role. He can contribute to the translation and academic services of the company, potentially leading to further growth in his career.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach legal translation tasks? 3. Can you provide an example of a project you have successfully completed in academic writing?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_YouTube Transcription & Thumbnail Creation_20261103.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_YouTube Transcription & Thumbnail Creation_20261103.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-03T20:07:15.091657+00:00"
+  },
+  {
+    "title": "Academic Paper Proofreading",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/academic-writing/Academic-Paper-Proofreading-40800942",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-03T14:33:29+00:00",
+    "description": "Philosophical Review and Academic Editing of an Ethics Charter We are seeking a philosopher with excellent academic writing skills to review and refine the foundational ethics charter of an international think tank focused on AI safety and governance. The work involves critically examining our philosophical arguments, ethical principles, and reasoning framework, identifying conceptual weaknesses, inconsistencies, or unsupported claims, and suggesting improvements where necessary. More importantly, we need someone who can substantially improve the writing, making it more academically rigorous, precise, coherent, elegant, and professionally articulated while preserving our intended meaning. The document is approximately 13 pages. We expect a critically reviewed and thoroughly edited Word document with tracked changes and comments explaining significant revisions. Applicants should have a strong background in philosophy, preferably ethics or political philosophy, along with demonstrated experience in academic writing and substantive editing.",
+    "salary": "12500.0-37500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-11-03T14:33:29+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "academic editor editing copy editor (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.4405518525000005,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 60,
+        "reason": "Requires language skills, writing, and academic work, but not exclusively translation or ESL teaching"
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Direct experience in academic supervision and research guidance, and related experience in language services"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment, and mostly compatible with the job"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job"
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward translation/teaching/academic career, with potential for senior roles"
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Excellent academic writing skills",
+        "Strong background in philosophy"
+      ],
+      "gaps": [
+        "Needs more experience in translation or ESL teaching"
+      ],
+      "recommendation": "Waleed Ballag is highly qualified for the Academic Paper Proofreading role. His expertise in academic supervision, research guidance, and language skills make him a strong fit. He can contribute to the job by critically reviewing and improving the ethical charter, which is a valuable addition to the team.",
+      "interview_prep": "1. What are your strengths and how do you plan to apply them to this role? 2. Can you provide examples of how you have improved academic writing and editing in the past? 3. How do you stay updated with the latest research in AI safety and governance?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Academic Paper Proofreading role due to his academic background, language skills, and experience in academic supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Academic Paper Proofreading role due to his academic background, language skills, and experience in academic supervision.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Excellent academic writing skills",
+      "Strong background in philosophy"
+    ],
+    "ai_gaps": [
+      "Needs more experience in translation or ESL teaching"
+    ],
+    "ai_recommendation": "Waleed Ballag is highly qualified for the Academic Paper Proofreading role. His expertise in academic supervision, research guidance, and language skills make him a strong fit. He can contribute to the job by critically reviewing and improving the ethical charter, which is a valuable addition to the team.",
+    "ai_interview_prep": "1. What are your strengths and how do you plan to apply them to this role? 2. Can you provide examples of how you have improved academic writing and editing in the past? 3. How do you stay updated with the latest research in AI safety and governance?",
+    "ai_technical_skills": 60,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Academic Paper Proofreading_20261103.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Academic Paper Proofreading_20261103.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-03T20:07:15.091657+00:00"
+  },
+  {
     "title": "Banking Partnership Pitch Deck Design",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/graphic-design/Banking-Partnership-Pitch-Deck-Design",
@@ -10274,6 +10582,212 @@
     "scan_date": "2026-11-03T12:48:51.793340+00:00"
   },
   {
+    "title": "Creative Writer for Couples' Quiz App Questions",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/article-writing/Creative-Writer-for-Couples-Quiz.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Tue, 03 Nov 2026 14:26:02 -0500",
+    "description": "Writer needed: playful, creative questions for a couples' quiz app I'm building a quiz game for adult couples. Both partners answer the same questions separately on their own phones, then the app shows where they match and where they differ... (Budget: $30 - $250 CAD, Jobs: Article Writing, Content Creation, Content Writing, Copywriting, Creative Writing, Fiction, Game Design, Ghostwriting, Psychology)",
+    "salary": "$30",
+    "source": "freelancer",
+    "postedISO": "2026-11-03T14:26:02-05:00",
+    "score": 82,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)",
+      "content creation (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.5649153619444445,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires C1 Advanced English proficiency and experience in academic supervision, which aligns with the job description."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Has experience in ESL teaching and academic supervision, which is relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work and flexible environment align with the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote work globally is compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligning with the job's content and writing focus."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Experienced in ESL teaching and academic supervision"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the creative writing for a couples' quiz app job. Focus on the creative writing and ensure the remote work compatibility.",
+      "interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you ensure the accuracy of the content in your writing? 3. Can you share an example of a creative question you've written for a quiz app?",
+      "one_line_summary": "Waleed Ballag's strong fit for the creative writing job due to his native Arabic and advanced English skills, aligning with the job's content and writing focus."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the creative writing job due to his native Arabic and advanced English skills, aligning with the job's content and writing focus.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Experienced in ESL teaching and academic supervision"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the creative writing for a couples' quiz app job. Focus on the creative writing and ensure the remote work compatibility.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you ensure the accuracy of the content in your writing? 3. Can you share an example of a creative question you've written for a quiz app?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 26,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Creative Writer for Couples' Quiz App Questions_20261103.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-11-03T20:07:15.091657+00:00"
+  },
+  {
+    "title": "YouTube Vlog/Event Videography -- 2",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/video-services/YouTube-Vlog-Event-Videography",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-03T14:36:04+00:00",
+    "description": "Female Videographer & On-Camera Content Creator Required \u2013 Mumbai Looking for a female videographer based in Mumbai, preferably around the Central Line, who can both shoot and participate in videos as an on-camera creator. The work involves creating engaging social media content, reels, and short-form videos. Must be confident on camera, creative, comfortable with video shooting and basic editing, and interested in collaborating on regular content creation. Please share your portfolio or sample work along with your location and charges.",
+    "salary": "1500.0-12500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-11-03T14:36:04+00:00",
+    "score": 82,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)",
+      "content creation (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.3974958511111115,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires language skills, writing, and academic work, which are all transferable from the candidate's background."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and research guidance aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment, flexible schedule, and academic focus are well-matched with the candidate's skills and career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and the candidate is located worldwide, which is compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The job aligns with the candidate's career goals of securing stable remote work in translation or ESL teaching."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Creative Content Creator"
+      ],
+      "gaps": [
+        "No significant gaps identified"
+      ],
+      "recommendation": "The candidate is well-suited for the YouTube Vlog/Event Videography role as it aligns with their skills and career aspirations.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you handle creative content creation on camera? 3. What are your thoughts on the remote work environment?",
+      "one_line_summary": "Strong Fit for YouTube Vlog/Event Videography Role"
+    },
+    "ai_insight": "Strong Fit for YouTube Vlog/Event Videography Role",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Creative Content Creator"
+    ],
+    "ai_gaps": [
+      "No significant gaps identified"
+    ],
+    "ai_recommendation": "The candidate is well-suited for the YouTube Vlog/Event Videography role as it aligns with their skills and career aspirations.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you handle creative content creation on camera? 3. What are your thoughts on the remote work environment?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 26,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_YouTube Vlog-Event Videography -- 2_20261103.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-11-03T20:07:15.091657+00:00"
+  },
+  {
     "title": "Graphics & Video Content Creation",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/video-editing/Graphics-Video-Content-Creation",
@@ -10372,5 +10886,108 @@
     "cover_letter_ai": false,
     "interview_prep_generated": false,
     "scan_date": "2026-10-29T11:24:57.598055+00:00"
+  },
+  {
+    "title": "AI-Driven AEO Content Creation",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/ai-content-creation/Driven-AEO-Content-Creation",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-03T17:05:30+00:00",
+    "description": "We are looking for someone to work with our team writing AEO content for our specific audience which we will teach you the content style we\u2019re looking for. We will also need the creation of several social media posts per client. AI ChatGPT and Claude are welcome to be used. We will train you on our systems and software dashboard. Looking for 20 hours a week to start. The applicant should not exceed $6 per hour and must speak English. The opportunity to go to 40 hours per week may be available as well. .",
+    "salary": "2.0-8.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-03T17:05:30+00:00",
+    "score": 67,
+    "category": "Editing",
+    "why": [
+      "content creation (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.906932126666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires AI-driven content creation, which aligns with the candidate's skills in academic writing, proposal development, and survey design."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic writing, proposal development, and survey design makes them a strong fit for the job's behavioral requirements, especially in the context of AI-driven content creation."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is remotely located and can work worldwide, which is compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the job's opportunity to secure stable remote work in translation or ESL teaching, and grow into a senior translator or academic coordinator role."
+      },
+      "overall_score": 39,
+      "verdict": "Poor Fit",
+      "strengths": [
+        "Strong experience in academic writing and proposal development",
+        "Good fit for AI-driven content creation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate is well-suited for this role, as their background in academic services and language skills align perfectly with the job requirements. They have the potential to contribute significantly to the team and build a successful career in the field of translation and ESL teaching.",
+      "interview_prep": "1. Can you share an example of a successful proposal you've developed for a client? 2. How do you approach creating social media posts for clients? 3. Can you describe a time when you had to translate legal documents and what challenges you faced?",
+      "one_line_summary": "A strong fit for the AI-driven content creation role with a proven background in academic writing and proposal development.",
+      "_rules_applied": [
+        "engineering cap (<40)"
+      ]
+    },
+    "ai_insight": "A strong fit for the AI-driven content creation role with a proven background in academic writing and proposal development.",
+    "ai_overall_score": 39,
+    "ai_verdict": "Poor Fit",
+    "ai_strengths": [
+      "Strong experience in academic writing and proposal development",
+      "Good fit for AI-driven content creation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate is well-suited for this role, as their background in academic services and language skills align perfectly with the job requirements. They have the potential to contribute significantly to the team and build a successful career in the field of translation and ESL teaching.",
+    "ai_interview_prep": "1. Can you share an example of a successful proposal you've developed for a client? 2. How do you approach creating social media posts for clients? 3. Can you describe a time when you had to translate legal documents and what challenges you faced?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 21,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_AI-Driven AEO Content Creation_20261103.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-11-03T20:07:15.091657+00:00"
   }
 ]
