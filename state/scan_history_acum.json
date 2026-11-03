@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-09-30T05:21:18.048655+00:00",
-    "matched_count": 4,
-    "all_count": 4736,
-    "jobs": [
-      {
-        "title": "Accurate Arabic Audio Transcription",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/proofreading/Accurate-Arabic-Audio-Transcription",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Elevate Company Report with MS Word Formatting",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/microsoft-word/Elevate-Company-Report-with-Word",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Bilingual (EN/FR) Proofreader",
-        "company": "Notified",
-        "url": "https://ca.linkedin.com/jobs/view/bilingual-en-fr-proofreader-at-notified-4473551617",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      },
-      {
-        "title": "Bilingual (EN/FR) Proofreader",
-        "company": "Notified",
-        "url": "https://ca.linkedin.com/jobs/view/bilingual-en-fr-proofreader-at-notified-4473548601",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-09-30T13:21:52.852630+00:00",
     "matched_count": 7,
     "all_count": 4694,
@@ -3079,6 +3040,29 @@
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-03T02:08:03.684305+00:00",
+    "matched_count": 2,
+    "all_count": 4350,
+    "jobs": [
+      {
+        "title": "Write Baby Bedtime Story",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Write-Baby-Bedtime-Story.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Beginner-Friendly How-To Blog Posts",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/blog-writing/Beginner-Friendly-How-Blog-Posts.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
       }
     ]
   }
