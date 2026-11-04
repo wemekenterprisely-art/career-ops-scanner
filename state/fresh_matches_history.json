@@ -4759,6 +4759,120 @@
     "scan_date": "2026-11-03T20:07:15.091657+00:00"
   },
   {
+    "title": "English Second Language Teacher",
+    "company": "4level1",
+    "url": "https://eg.linkedin.com/jobs/view/english-second-language-teacher-at-4level1-4484696151",
+    "location": "Remote \u2014 Cairo, Egypt",
+    "posted": "2026-11-03",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-03T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 24.50013886888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches 100% with Arabic-English translation, ESL teaching, and academic supervision."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment, and compatible with the job title."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job listing."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligns with the job title."
+      },
+      "overall_score": 86,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation",
+        "ESL teaching",
+        "Academic supervision"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience perfectly align with the job requirements. His ability to translate, supervise, and provide academic guidance makes him an excellent fit for this position. He is well-suited for remote work and can contribute to graduate-level research supervision.",
+      "interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach academic editing and thesis review? 3. Can you share an example of legal translation you've done?",
+      "one_line_summary": "Waleed Ballag's comprehensive skills and experience make him a strong fit for the English Second Language Teacher position."
+    },
+    "ai_insight": "Waleed Ballag's comprehensive skills and experience make him a strong fit for the English Second Language Teacher position.",
+    "ai_overall_score": 86,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation",
+      "ESL teaching",
+      "Academic supervision"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience perfectly align with the job requirements. His ability to translate, supervise, and provide academic guidance makes him an excellent fit for this position. He is well-suited for remote work and can contribute to graduate-level research supervision.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach academic editing and thesis review? 3. Can you share an example of legal translation you've done?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "4level1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-19T19:10:37.611210+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am excited to apply for the English Second Language Teacher position at 4level1. I am eager to bring my extensive experience and skills in language instruction and academic supervision to this role, which aligns perfectly with the requirements of teaching and curriculum development.",
+      "experience": "My experience as an ESL Teacher & Partner at Al-Safwa Smart School for Private Education and ESL Teacher at Anwar Al-Hayat School for Private Education has equipped me with the necessary skills to effectively teach English language skills and develop educational programs.",
+      "skills": "My proficiency in teaching English as a Second Language, curriculum development, academic translation, and expertise in Microsoft Office Suite, Adobe Photoshop, SPSS Statistical Analysis, and Arabic-English bidirectional translation, among others, make me a strong candidate for this position.",
+      "closing": "I am available to discuss this opportunity further and look forward to the possibility of an interview. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/4level1_English Second Language Teacher_20261104.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/4level1_English Second Language Teacher_20261104.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-04T00:33:25.761586+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -9796,6 +9910,214 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-11-03T20:07:15.091657+00:00"
+  },
+  {
+    "title": "Professional Business Writing Support",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/business-writing/Professional-Business-Writing-Support-40801604.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Tue, 03 Nov 2026 19:04:50 -0500",
+    "description": "I have the core information for an important business document and need it shaped into clear, polished, professional copy. The exact format\u2014whether a concise report, a persuasive proposal, or formal company... (Budget: min $50 USD, Jobs: Business Writing, Content Writing, Copywriting, Editing, Proofreading, Proposal Writing, Report Writing, Technical Writing)",
+    "salary": "$50",
+    "source": "freelancer",
+    "postedISO": "2026-11-03T19:04:50-05:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (description)",
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.41979379138888884,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires clear, polished, professional copy, which aligns with the candidate's skills in ESL/EFL instruction, academic supervision, and language editing."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and legal translation, which are relevant skills for the job."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and remote work aligns well with the flexible, academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's remote work experience and location."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the role of professional business writing support, with potential for growth into senior translator or academic coordinator roles."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Experience in academic supervision and research guidance"
+      ],
+      "gaps": [
+        "No experience in engineering or development roles"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Professional Business Writing Support role. His ability to translate and supervise academic research is a perfect match for the job requirements.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the process of translating and editing academic documents for clarity and professionalism?",
+      "one_line_summary": "Waleed Ballag's strong background in academic supervision and research guidance makes him a strong fit for the Professional Business Writing Support role."
+    },
+    "ai_insight": "Waleed Ballag's strong background in academic supervision and research guidance makes him a strong fit for the Professional Business Writing Support role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Experience in academic supervision and research guidance"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or development roles"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Professional Business Writing Support role. His ability to translate and supervise academic research is a perfect match for the job requirements.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the process of translating and editing academic documents for clarity and professionalism?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Professional Business Writing Support_20261104.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Professional Business Writing Support_20261104.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-04T00:33:25.761586+00:00"
+  },
+  {
+    "title": "Email Response Virtual Assistant",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/email-handling/Email-Response-Virtual-Assistant-40801444",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-03T20:45:38+00:00",
+    "description": "My client inbox has grown well beyond what I can answer promptly each day, so I need a careful virtual assistant who can step in and take ownership of all incoming email. You\u2019ll read every new message, draft or send a professional, formally-worded reply that mirrors the tone I already use, and flag anything that needs my personal attention. Typical flow: \u2022 Open the shared inbox Monday-Friday (roughly 1\u20132 hours spread across the day). \u2022 Triage and categorise each email, applying pre-set labels. \u2022 Respond with clear, courteous language that reflects our brand guidelines and uses correct grammar at all times. \u2022 Create short summaries of key threads for me so I can stay in the loop. Right now the workload is limited to email replies only, but if this works well there is scope to expand into scheduling follow-ups, basic customer support, or social-media correspondence in future. Please be comfortable working with Gmail (or Outlook if we migrate), collaborative tools such as Google Docs, and a simple ticketing spreadsheet for tracking unresolved queries. Strong written English and an eye for detail are essential; prior experience in client communications is a plus. Deliverables will be accepted when all daily emails are replied to or filed, no message waits more than 24 hours for a response, and weekly activity reports are sent every Friday.",
+    "salary": "8.0-15.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-03T20:45:38+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.739599088888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Matches the job's requirement for Arabic-English translation and ESL teaching."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Has direct experience in ESL teaching and academic supervision, which is relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work and flexible environment align well with the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward a senior translator or academic coordinator role, aligning with the career goals."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills in Arabic and English",
+        "Direct experience in ESL teaching and academic supervision"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Email Response Virtual Assistant role. His skills and experience align well with the job requirements, and the remote nature of the position suits his preferences.",
+      "interview_prep": "1. Can you describe your experience in academic supervision and research guidance? 2. How do you approach translating legal documents for academic purposes? 3. What is your experience with Microsoft Office Suite and Google Docs?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Email Response Virtual Assistant role due to his relevant experience and skills."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Email Response Virtual Assistant role due to his relevant experience and skills.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills in Arabic and English",
+      "Direct experience in ESL teaching and academic supervision"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Email Response Virtual Assistant role. His skills and experience align well with the job requirements, and the remote nature of the position suits his preferences.",
+    "ai_interview_prep": "1. Can you describe your experience in academic supervision and research guidance? 2. How do you approach translating legal documents for academic purposes? 3. What is your experience with Microsoft Office Suite and Google Docs?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Email Response Virtual Assistant_20261104.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Email Response Virtual Assistant_20261104.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-04T00:33:25.761586+00:00"
   },
   {
     "title": "Banking Partnership Pitch Deck Design",
