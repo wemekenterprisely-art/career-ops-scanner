@@ -2,30 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "International Royal Academy": {
-    "name": "International Royal Academy",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-05T13:22:36.614105+00:00"
-  },
-  "Roarke Regenerative": {
-    "name": "Roarke Regenerative",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-05T13:22:36.616017+00:00"
-  },
   "Tata Consultancy Services": {
     "name": "Tata Consultancy Services",
     "legitimacy_score": 65,
@@ -899,5 +875,17 @@
     "red_flags": [],
     "positive_signals": [],
     "last_updated": "2026-11-03T12:46:51.071842+00:00"
+  },
+  "EduBloom Talent Solutions": {
+    "name": "EduBloom Talent Solutions",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-04T20:24:18.663935+00:00"
   }
 }
