@@ -4873,6 +4873,114 @@
     "scan_date": "2026-11-04T00:33:25.761586+00:00"
   },
   {
+    "title": "High School English Teacher",
+    "company": "EduBloom Talent Solutions",
+    "url": "https://in.linkedin.com/jobs/view/high-school-english-teacher-at-edubloom-talent-solutions-4485072389",
+    "location": "Remote \u2014 Noida, Uttar Pradesh, India",
+    "posted": "2026-11-04",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-04T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.353836511666668,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "ESL teaching, academic supervision, bidirectional translation, research guidance, and language proficiency"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and research guidance"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work, flexible schedule, academic environment, and career alignment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's qualifications"
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "Builds toward translation/teaching/academic career, with potential for senior roles"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "academic supervision",
+        "language proficiency"
+      ],
+      "gaps": [
+        "none"
+      ],
+      "recommendation": "Waleed Ballag's qualifications and experience align well with the job requirements, making this a strong fit. He can contribute to the company's academic services and potentially advance into senior translator or academic coordinator roles.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach translating legal documents for academic purposes? 3. What steps do you take to ensure plagiarism-free work in your academic services?",
+      "one_line_summary": "Waleed Ballag's qualifications make him a strong fit for the High School English Teacher role, aligning well with the company's academic services."
+    },
+    "ai_insight": "Waleed Ballag's qualifications make him a strong fit for the High School English Teacher role, aligning well with the company's academic services.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "academic supervision",
+      "language proficiency"
+    ],
+    "ai_gaps": [
+      "none"
+    ],
+    "ai_recommendation": "Waleed Ballag's qualifications and experience align well with the job requirements, making this a strong fit. He can contribute to the company's academic services and potentially advance into senior translator or academic coordinator roles.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach translating legal documents for academic purposes? 3. What steps do you take to ensure plagiarism-free work in your academic services?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "EduBloom Talent Solutions",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-04T20:24:18.663935+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/EduBloom Talent Solutions_High School English Teacher_20261104.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/EduBloom Talent Solutions_High School English Teacher_20261104.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-04T20:24:48.859129+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -11689,5 +11797,107 @@
     "cover_letter_ai": false,
     "interview_prep_generated": false,
     "scan_date": "2026-11-03T20:07:15.091657+00:00"
+  },
+  {
+    "title": "AI Content Creation Platform",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/ai-content-creation/Content-Creation-Platform",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-04T20:01:42+00:00",
+    "description": "I want to build a web-based platform that lets users generate three kinds of content on demand\u2014written copy (articles, posts, emails), marketing graphics and illustrations, and short-form videos\u2014through a single, intuitive interface powered by generative AI. Here is the vision in plain terms: \u2022 A clean dashboard where a user selects \u201cText\u201d, \u201cImage\u201d, or \u201cVideo\u201d, enters a brief prompt, chooses a style or template, and receives usable output within seconds. \u2022 Modern generative models behind the scenes (e.g., GPT-style LLMs for text, diffusion or image-first models for graphics, and an API-driven video generator) stitched together under one authentication, billing, and analytics layer. \u2022 Real-time preview and lightweight editing tools so users can polish the AI\u2019s result before downloading or exporting. \u2022 Project history stored per account, allowing re-generation or fine-tuning of previous work. \u2022 Scalable cloud architecture that can add new model endpoints without disrupting existing users. Deliverables I need from you: 1. A functioning MVP deployed to a cloud host (AWS, GCP, or similar) with user sign-up, credit/usage tracking, and the three generation pipelines live. 2. Source code with clean documentation covering model calls, front-end components, and infrastructure scripts. 3. A brief technical read-me outlining how to extend the system with additional models or languages. Acceptance criteria: \u2022 A new user can register, generate at least one sample text, image, and video, edit the output, and download the result without errors. \u2022 Average generation time for each content type stays within reasonable limits (text <10 s, image <20 s, video <60 s) under nominal load. \u2022 Codebase follows clear modular structure and installs cleanly from scratch on a fresh cloud instance. If this sounds like the kind of build you enjoy\u2014mixing front-end polish with back-end AI orchestration\u2014let\u2019s talk about timelines and preferred stacks so we can move quickly from concept to launch.",
+    "salary": "30.0-250.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-04T20:01:42+00:00",
+    "score": 67,
+    "category": "Editing",
+    "why": [
+      "content creation (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.32551832583333334,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 60,
+        "reason": "Requires some programming skills and AI/ML knowledge, but not exclusively in translation or teaching."
+      },
+      "experience_match": {
+        "score": 70,
+        "reason": "Has experience in ESL teaching, academic supervision, and legal translation, which are relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote work, flexible schedule, and academic environment align well with the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote location and worldwide availability are compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward senior translator or academic coordinator role, aligning with the career goals."
+      },
+      "overall_score": 78,
+      "verdict": "Good Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Legal translation experience"
+      ],
+      "gaps": [
+        "No direct experience with AI/ML or programming"
+      ],
+      "recommendation": "Waleed Ballag's background in ESL teaching, academic supervision, and legal translation makes him a strong fit for the AI Content Creation Platform. His remote work experience and ability to build long-term client relationships in academic services align well with the job's requirements.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation? 3. What are your thoughts on the project history feature in the platform?",
+      "one_line_summary": "Waleed Ballag's strong fit for the AI Content Creation Platform due to his diverse background in ESL teaching, academic supervision, and legal translation."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the AI Content Creation Platform due to his diverse background in ESL teaching, academic supervision, and legal translation.",
+    "ai_overall_score": 78,
+    "ai_verdict": "Good Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Legal translation experience"
+    ],
+    "ai_gaps": [
+      "No direct experience with AI/ML or programming"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in ESL teaching, academic supervision, and legal translation makes him a strong fit for the AI Content Creation Platform. His remote work experience and ability to build long-term client relationships in academic services align well with the job's requirements.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation? 3. What are your thoughts on the project history feature in the platform?",
+    "ai_technical_skills": 60,
+    "ai_experience_match": 70,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 21,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_AI Content Creation Platform_20261104.pdf",
+    "cover_letter_type": "marketing",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-11-04T20:24:48.859129+00:00"
   }
 ]
