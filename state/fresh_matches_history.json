@@ -5323,6 +5323,328 @@
     "scan_date": "2026-11-05T13:03:55.400897+00:00"
   },
   {
+    "title": "Linguist II (Arabic/Dutch) | AI, NLP & Language Data Specialist",
+    "company": "ALOIS Solutions",
+    "url": "https://pl.linkedin.com/jobs/view/linguist-ii-arabic-dutch-ai-nlp-language-data-specialist-at-alois-solutions-4487753816",
+    "location": "Remote \u2014 Warsaw, Mazowieckie, Poland",
+    "posted": "2026-11-05",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic linguist",
+    "postedISO": "2026-11-05T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "translator translation interpreter linguist editor proofreader localisation specialist .{0,40}arabic (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.514032844722223,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 65,
+        "reason": "Requires some transferable skills in language instruction and research supervision, but lacks direct translation or academic supervision experience."
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "Has direct experience in ESL teaching, academic supervision, and research guidance, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 75,
+        "reason": "Remote work environment, flexible schedule, and academic-oriented work environment align well with the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "Builds toward translation/teaching/academic career, aligning well with the job's requirements."
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills"
+      ],
+      "gaps": [
+        "No direct translation or academic supervision experience"
+      ],
+      "recommendation": "This candidate has strong transferable skills in language instruction and research supervision, making them a strong fit for the Linguist II position. They can easily adapt to the remote work environment and align well with the academic-oriented nature of the job.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and bidirectional communication between Arabic and English? 3. Can you discuss a time when you had to manage a research project with a diverse team?",
+      "one_line_summary": "Strong fit with strong transferable skills and potential for academic career growth."
+    },
+    "ai_insight": "Strong fit with strong transferable skills and potential for academic career growth.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills"
+    ],
+    "ai_gaps": [
+      "No direct translation or academic supervision experience"
+    ],
+    "ai_recommendation": "This candidate has strong transferable skills in language instruction and research supervision, making them a strong fit for the Linguist II position. They can easily adapt to the remote work environment and align well with the academic-oriented nature of the job.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and bidirectional communication between Arabic and English? 3. Can you discuss a time when you had to manage a research project with a diverse team?",
+    "ai_technical_skills": 65,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 75,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@pl.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@pl.linkedin.com",
+      "hr@pl.linkedin.com",
+      "jobs@pl.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "ALOIS Solutions",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-05T20:39:49.556164+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/ALOIS Solutions_Linguist II (Arabic-Dutch) - AI, NLP & Language Da_20261105.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/ALOIS Solutions_Linguist II (Arabic-Dutch) - AI, NLP & Language Da_20261105.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-05T20:42:05.378889+00:00"
+  },
+  {
+    "title": "CELTA-Holders - English Teachers",
+    "company": "4level1",
+    "url": "https://eg.linkedin.com/jobs/view/celta-holders-english-teachers-at-4level1-4487733848",
+    "location": "Remote \u2014 El Maadi El Gadida, Cairo, Egypt",
+    "posted": "2026-11-05",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-05T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.514033379166666,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work, flexible schedule, and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 86,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Strong fit for a remote ESL teaching or academic supervision role.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation?",
+      "one_line_summary": "Strong fit for remote ESL teaching or academic supervision."
+    },
+    "ai_insight": "Strong fit for remote ESL teaching or academic supervision.",
+    "ai_overall_score": 86,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Strong fit for a remote ESL teaching or academic supervision role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "4level1",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-19T19:10:37.611210+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/4level1_CELTA-Holders - English Teachers_20261105.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/4level1_CELTA-Holders - English Teachers_20261105.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-05T20:42:05.378889+00:00"
+  },
+  {
+    "title": "English Second Language Instructor",
+    "company": "Recro.Hive",
+    "url": "https://eg.linkedin.com/jobs/view/english-second-language-instructor-at-recro-hive-4488013811",
+    "location": "Remote \u2014 Qesm 1st Nasser City, Cairo, Egypt",
+    "posted": "2026-11-05",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-05T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.514033498333333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Primary skills match: ESL/EFL Instruction, Academic Supervision, Translation, Editing, Data Analysis, Curriculum Development, Legal Translation"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and translation"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Translation Skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Strong fit for the English Second Language Instructor role. Waleed Ballag's background and skills align well with the job requirements, making this a strong fit for the position.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you provide examples of your translation work in legal and academic contexts? 3. How do you approach the development of curricula and teaching materials?",
+      "one_line_summary": "Strong fit for English Second Language Instructor role with extensive experience in ESL, academic supervision, and translation."
+    },
+    "ai_insight": "Strong fit for English Second Language Instructor role with extensive experience in ESL, academic supervision, and translation.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Translation Skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Strong fit for the English Second Language Instructor role. Waleed Ballag's background and skills align well with the job requirements, making this a strong fit for the position.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you provide examples of your translation work in legal and academic contexts? 3. How do you approach the development of curricula and teaching materials?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Recro.Hive",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-05T20:39:49.557566+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Recro.Hive_English Second Language Instructor_20261105.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Recro.Hive_English Second Language Instructor_20261105.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-05T20:42:05.378889+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -11060,6 +11382,647 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-11-05T13:03:55.400897+00:00"
+  },
+  {
+    "title": "Slovenian proofread of AI Website Localisation",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-writing/Slovenian-proofread-Website-Localisation",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-05T20:24:16+00:00",
+    "description": "I have 1 900 individual website sentences already run through AI translation. You will receive: \u2022 the current Slovenian output, \u2022 the original English source, \u2022 and a link to the live site for context. Your job is to revise each sentence so it reads naturally to users in Slovenia while maintaining a consistently professional, polished tone. Think of it as the final linguistic pass before we publish: no literal calques, no awkward structures \u2014 just smooth, idiomatic Slovenian that feels as though it was written locally. Deliverables \u2022 The Slovenian file i sent you with every sentence refined. The CMS supports simple copy-paste, so please keep HTML tags and placeholders intact where they appear. CAT tools such as Trados, memoQ, or even a well-structured Google Sheet are fine as long as the final output preserves original IDs/order.",
+    "salary": "8.0-30.0 EUR",
+    "source": "freelancer",
+    "postedISO": "2026-11-05T20:24:16+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.10958982972222223,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, aligning with the job description."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Related experience in language services and academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's background."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 86,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Language skills",
+        "Academic background",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's strong fit aligns perfectly with the Slovenian proofreading job listing. His background in ESL teaching and academic supervision, coupled with his language skills, makes him an ideal candidate for this role.",
+      "interview_prep": [
+        "Can you describe a time when you had to revise a sentence to make it feel more natural in a different language?",
+        "How do you approach the editing process when translating academic papers?"
+      ],
+      "one_line_summary": "Waleed Ballag's strong fit with the Slovenian proofreading job listing aligns perfectly with his language skills and academic background."
+    },
+    "ai_insight": "Waleed Ballag's strong fit with the Slovenian proofreading job listing aligns perfectly with his language skills and academic background.",
+    "ai_overall_score": 86,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Language skills",
+      "Academic background",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong fit aligns perfectly with the Slovenian proofreading job listing. His background in ESL teaching and academic supervision, coupled with his language skills, makes him an ideal candidate for this role.",
+    "ai_interview_prep": [
+      "Can you describe a time when you had to revise a sentence to make it feel more natural in a different language?",
+      "How do you approach the editing process when translating academic papers?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Slovenian proofread of AI Website Localisation_20261105.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Slovenian proofread of AI Website Localisation_20261105.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-05T20:42:05.378889+00:00"
+  },
+  {
+    "title": "Ukrainian proofread of AI Website Localisation",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-writing/Ukrainian-proofread-Website-Localisation",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-05T20:17:50+00:00",
+    "description": "I have around 1 900 individual website sentences already run through AI translation. You will receive: \u2022 the current Ukrainian output, \u2022 the original English source, \u2022 and a link to the live site for context. Your job is to revise each sentence so it reads naturally to users in Ukraine while maintaining a consistently professional, polished tone. Think of it as the final linguistic pass before we publish: no literal calques, no awkward structures \u2014 just smooth, idiomatic Ukrainian that feels as though it was written locally. Deliverables \u2022 The Ukraine file i sent you with every sentence refined. The CMS supports simple copy-paste, so please keep HTML tags and placeholders intact where they appear. CAT tools such as Trados, memoQ, or even a well-structured Google Sheet are fine as long as the final output preserves original IDs/order.",
+    "salary": "8.0-30.0 EUR",
+    "source": "freelancer",
+    "postedISO": "2026-11-05T20:17:50+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.2168125463888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Matches the job description for Ukrainian proofreading and localization, which involves language skills and writing."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Has experience in ESL teaching and academic supervision, which is relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote work and flexible schedule aligns well with the job's requirements."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide locations are compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, aligning with the job's requirements."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision experience"
+      ],
+      "gaps": [
+        "No experience in AI localization"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Ukrainian proofreading job at Freelancer.com. His skills in ESL teaching and academic supervision make him a suitable candidate for the position. While he lacks experience in AI localization, this job does not require such skills, and his background in language instruction and academic supervision aligns well with the job's requirements.",
+      "interview_prep": [
+        "Can you describe a time when you used CAT tools like Trados or memoQ in your work?",
+        "How do you approach proofreading and ensuring smooth, idiomatic Ukrainian translations?"
+      ],
+      "one_line_summary": "Waleed Ballag is a strong fit for the Ukrainian proofreading job at Freelancer.com with his background in ESL teaching and academic supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Ukrainian proofreading job at Freelancer.com with his background in ESL teaching and academic supervision.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision experience"
+    ],
+    "ai_gaps": [
+      "No experience in AI localization"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Ukrainian proofreading job at Freelancer.com. His skills in ESL teaching and academic supervision make him a suitable candidate for the position. While he lacks experience in AI localization, this job does not require such skills, and his background in language instruction and academic supervision aligns well with the job's requirements.",
+    "ai_interview_prep": [
+      "Can you describe a time when you used CAT tools like Trados or memoQ in your work?",
+      "How do you approach proofreading and ensuring smooth, idiomatic Ukrainian translations?"
+    ],
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Ukrainian proofread of AI Website Localisation_20261105.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Ukrainian proofread of AI Website Localisation_20261105.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-05T20:42:05.378889+00:00"
+  },
+  {
+    "title": "Professional Resume Enhancement",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/career-coaching/Professional-Resume-Enhancement.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Thu, 05 Nov 2026 15:06:04 -0500",
+    "description": "I have a solid draft of my resume, but the language and layout still feel amateur. I want every line to project a polished, results-driven image that catches a recruiter\u2019s eye and clears any ATS scan without trouble... (Budget: $15 - $25 USD, Jobs: Business Writing, Career Coaching, Content Writing, Copywriting, Creative Writing, Editing, Marketing, Proofreading, Resumes, Technical Writing)",
+    "salary": "$15",
+    "source": "freelancer",
+    "postedISO": "2026-11-05T15:06:04-05:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (description)",
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.41314065194444444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches the requirement for ESL/EFL instruction, academic supervision, and bidirectional translation, with additional skills in legal translation and data analysis."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation, aligning with the job description."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work environment, flexible schedule, and academic focus, with some potential for senior roles in translation or academic services."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide locations, compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "Builds towards translation/teaching/academic career, with potential for senior roles."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Legal translation",
+        "Data analysis"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "This candidate is well-suited for the Freelancer.com position, particularly in roles that involve translation, ESL teaching, and academic supervision. The ability to work remotely and the potential for senior roles in translation and academic services make this a strong fit.",
+      "interview_prep": [
+        "Can you discuss your experience in academic supervision and how it relates to the job requirements?",
+        "How do you approach legal translation and bidirectional communication in your work?",
+        "Can you describe a project where you developed a thesis review or edited an academic paper?"
+      ],
+      "one_line_summary": "ESL instructor with academic supervision and legal translation skills, well-suited for Freelancer.com's Professional Resume Enhancement position."
+    },
+    "ai_insight": "ESL instructor with academic supervision and legal translation skills, well-suited for Freelancer.com's Professional Resume Enhancement position.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Legal translation",
+      "Data analysis"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "This candidate is well-suited for the Freelancer.com position, particularly in roles that involve translation, ESL teaching, and academic supervision. The ability to work remotely and the potential for senior roles in translation and academic services make this a strong fit.",
+    "ai_interview_prep": [
+      "Can you discuss your experience in academic supervision and how it relates to the job requirements?",
+      "How do you approach legal translation and bidirectional communication in your work?",
+      "Can you describe a project where you developed a thesis review or edited an academic paper?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Professional Resume Enhancement_20261105.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Professional Resume Enhancement_20261105.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-05T20:42:05.378889+00:00"
+  },
+  {
+    "title": "Indian OCR Dataset Needed",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/optical-character-recognition/Indian-OCR-Dataset-Needed.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Thu, 05 Nov 2026 14:59:11 -0500",
+    "description": "I\u2019m lining up an opportunity that hinges on finding a high-quality, off-the-shelf OCR dataset covering multiple Indian languages and scripts. If you already curate such data, I\u2019d like to understand exactly what you have and see a representative sample this week so I can move the deal forward... (Budget: $10 - $11 USD, Jobs: Data Annotation, Data Collection, Data Entry, Data Processing, Dataset Curation, Excel, OCR, Translation)",
+    "salary": "$10",
+    "source": "freelancer",
+    "postedISO": "2026-11-05T14:59:11-05:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "data annotation data labeling data labeler data entry specialist clerk operator agent (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.5278640425,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires OCR dataset, which is related to language processing and data analysis, which Waleed has experience in."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Waleed has experience in ESL teaching, academic supervision, legal translation, and data analysis, which are all relevant skills for the job."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The job is remote and flexible, aligning well with Waleed's remote work preference and flexible lifestyle."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with Waleed's preferences and the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The job aligns with Waleed's career goals of securing stable remote work in translation or ESL teaching, building long-term client relationships, and contributing to graduate-level research supervision."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Remote work preference",
+        "Transferable skills in language and data analysis"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed's experience in language instruction, academic supervision, and data analysis make him a strong fit for this job. His remote work preference and ability to handle data collection and processing align well with the job's requirements.",
+      "interview_prep": "1. Can you share an example of a time when you supervised a graduate-level research study? 2. How do you approach data annotation tasks? 3. Can you describe a project where you translated legal documents and how you ensured accuracy?",
+      "one_line_summary": "Waleed is a strong fit for the job due to his experience in language instruction, academic supervision, and data analysis, making him a suitable candidate for remote work in translation and ESL teaching."
+    },
+    "ai_insight": "Waleed is a strong fit for the job due to his experience in language instruction, academic supervision, and data analysis, making him a suitable candidate for remote work in translation and ESL teaching.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Remote work preference",
+      "Transferable skills in language and data analysis"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed's experience in language instruction, academic supervision, and data analysis make him a strong fit for this job. His remote work preference and ability to handle data collection and processing align well with the job's requirements.",
+    "ai_interview_prep": "1. Can you share an example of a time when you supervised a graduate-level research study? 2. How do you approach data annotation tasks? 3. Can you describe a project where you translated legal documents and how you ensured accuracy?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 15,
+    "desperation_index": 5,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 36,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Indian OCR Dataset Needed_20261105.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Indian OCR Dataset Needed_20261105.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-05T20:42:05.378889+00:00"
+  },
+  {
+    "title": "Long-Term Legal Research and Proofreading Support",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/proofreading/Long-Term-Legal-Research-Proofreading",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-05T17:30:13+00:00",
+    "description": "I am seeking ongoing opportunities to assist with legal research and proofreading across all areas of law. While I am new to professional legal work, I have hands-on experience supporting research for college projects, helping teachers, and assisting friends in law enforcement. I am committed to confidentiality and strict privacy standards, and I am available 3-4 hours daily during late-night Indian time (11pm to 5am). I am adaptable, detail-oriented, and eager to support long-term projects. Ideal clients value reliability, discretion, and a strong work ethic.",
+    "salary": "1500.0-6500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-11-05T17:30:13+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.0104479166666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Job requires legal research and proofreading, which aligns with the candidate's experience and skills in academic supervision and legal translation."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in academic supervision and research guidance, which is highly relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic supervision and research guidance aligns well with the job's need for long-term project support and confidentiality."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is available for late-night work and can work remotely, which is compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job's offering of long-term support and research supervision."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Legal Research and Proofreading Experience",
+        "Academic Supervision Skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's strong background in legal research, academic supervision, and translation skills makes him a strong fit for the Long-Term Legal Research and Proofreading Support role. His ability to work independently and provide reliable support aligns perfectly with the job's requirements. He is well-suited for the position and can contribute significantly to the company's needs.",
+      "interview_prep": "1. Can you describe a time when you assisted with legal research for a college project? 2. How do you ensure confidentiality and strict privacy standards in your work? 3. What are your thoughts on the importance of reliability, discretion, and a strong work ethic in your job?",
+      "one_line_summary": "Waleed Ballag's strong academic background and legal research experience make him a strong fit for the Long-Term Legal Research and Proofreading Support role."
+    },
+    "ai_insight": "Waleed Ballag's strong academic background and legal research experience make him a strong fit for the Long-Term Legal Research and Proofreading Support role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Legal Research and Proofreading Experience",
+      "Academic Supervision Skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong background in legal research, academic supervision, and translation skills makes him a strong fit for the Long-Term Legal Research and Proofreading Support role. His ability to work independently and provide reliable support aligns perfectly with the job's requirements. He is well-suited for the position and can contribute significantly to the company's needs.",
+    "ai_interview_prep": "1. Can you describe a time when you assisted with legal research for a college project? 2. How do you ensure confidentiality and strict privacy standards in your work? 3. What are your thoughts on the importance of reliability, discretion, and a strong work ethic in your job?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Long-Term Legal Research and Proofreading Support_20261105.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Long-Term Legal Research and Proofreading Support_20261105.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-05T20:42:05.378889+00:00"
+  },
+  {
+    "title": "Part-Time Virtual Assistant \u2013 Social Media, Dating Profiles & Business Operations",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/social-media-management/Part-Time-Virtual-Assistant-Social",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-05T16:58:42+00:00",
+    "description": "Part-Time Virtual Assistant \u2013 Social Media, Dating Profiles & Business Operations Position: Part-Time Virtual Assistant Work Arrangement: 100% Remote / Home-Based Employment Type: Freelance / Contract Initial Period: Trial Basis, with Potential for Full-Time Employment About the Role I am looking for a reliable, proactive, and highly organized Virtual Assistant to help manage my personal online presence and business operations. This is a completely home-based position. I need someone who can take ownership of daily responsibilities, stay organized, communicate effectively, and ensure that nothing falls through the cracks. The position will initially be part-time on a trial basis. If we establish a successful working relationship and performance meets expectations, there will be an opportunity to transition into a full-time position. Key Responsibilities 1. Social Media Management Manage and maintain multiple social media profiles. Schedule and publish posts, stories, and updates. Respond to comments, direct messages, and inquiries. Maintain consistent engagement and online activity. 2. Personal Dating Profile Management Manage and organize dating app profiles. Monitor incoming messages and notifications. Help draft and manage conversations while maintaining my personality and communication style. Keep profiles active, organized, and updated. 3. Email Marketing & Business Support Create, schedule, and manage email marketing campaigns. Manage email lists and customer communications. Follow up with prospects, leads, and existing customers. Ensure customer inquiries receive timely responses. 4. Contract Applications & Lead Generation Research relevant freelance contracts and business opportunities. Apply for suitable contracts on platforms such as Upwork. Prepare application responses and proposals. Follow up with potential clients and track application progress. 5. Customer Support & Daily Operations Monitor business inboxes and communication channels. Respond to custo",
+    "salary": "2.0-8.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-05T16:58:42+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 3.5357163516666668,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches part-time virtual assistant job description in terms of language skills and remote work requirements."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in academic supervision and language instruction aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work, flexible schedule, and academic environment fit well with the candidate's skills and goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide location is compatible with the candidate's skills and career goals."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards senior translator or academic coordinator role, aligns with the candidate's career goals."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills and academic background",
+        "Proven experience in academic supervision and language instruction"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Part-Time Virtual Assistant position. His ability to manage social media, create dating profiles, and support business operations aligns well with the job's requirements.",
+      "interview_prep": "1. Can you describe a time when you managed a social media profile? 2. How do you ensure that client work stays organized and meets deadlines? 3. Can you walk us through a typical day in your role as a virtual assistant?",
+      "one_line_summary": "Waleed Ballag's strong language skills and academic background make him a strong fit for the Part-Time Virtual Assistant position."
+    },
+    "ai_insight": "Waleed Ballag's strong language skills and academic background make him a strong fit for the Part-Time Virtual Assistant position.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills and academic background",
+      "Proven experience in academic supervision and language instruction"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Part-Time Virtual Assistant position. His ability to manage social media, create dating profiles, and support business operations aligns well with the job's requirements.",
+    "ai_interview_prep": "1. Can you describe a time when you managed a social media profile? 2. How do you ensure that client work stays organized and meets deadlines? 3. Can you walk us through a typical day in your role as a virtual assistant?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-10-06T20:20:08.909274+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "",
+    "cover_letter_type": "error",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Part-Time Virtual Assistant \u2013 Social Media, Dating_20261105.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-05T20:42:05.378889+00:00"
   },
   {
     "title": "Banking Partnership Pitch Deck Design",
