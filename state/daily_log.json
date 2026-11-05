@@ -1,16 +1,6 @@
 [
   {
     "date": "2026-10-02",
-    "slot": "Afternoon (1 PM)",
-    "scanned": 4765,
-    "matches": 5,
-    "old_verified": 2,
-    "near_misses": 0,
-    "sources": 21,
-    "time": "03:20 PM"
-  },
-  {
-    "date": "2026-10-02",
     "slot": "Night (8 PM)",
     "scanned": 4764,
     "matches": 3,
@@ -998,5 +988,15 @@
     "near_misses": 0,
     "sources": 20,
     "time": "02:51 AM"
+  },
+  {
+    "date": "2026-11-05",
+    "slot": "Afternoon (1 PM)",
+    "scanned": 4441,
+    "matches": 5,
+    "old_verified": 3,
+    "near_misses": 0,
+    "sources": 20,
+    "time": "03:03 PM"
   }
 ]
