@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-10-02T20:19:44.254172+00:00",
-    "matched_count": 3,
-    "all_count": 4764,
-    "jobs": [
-      {
-        "title": "Nigeria-Based Part-Time Virtual Assistant",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/administrative-support/Nigeria-Based-Part-Time-Virtual",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "E-commerce Virtual Assistant Needed!",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/seo/commerce-Virtual-Assistant-Needed",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Technical Documentation Copywriting",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/documentation/Technical-Documentation-Copywriting",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-03T05:16:11.507743+00:00",
     "matched_count": 3,
     "all_count": 4759,
@@ -3044,6 +3013,85 @@
         "title": "English Tutor",
         "company": "Private Business",
         "url": "https://eg.linkedin.com/jobs/view/english-tutor-at-private-business-4485828222",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05T20:42:30.784413+00:00",
+    "matched_count": 9,
+    "all_count": 4434,
+    "jobs": [
+      {
+        "title": "Slovenian proofread of AI Website Localisation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Slovenian-proofread-Website-Localisation",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Ukrainian proofread of AI Website Localisation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Ukrainian-proofread-Website-Localisation",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Professional Resume Enhancement",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/career-coaching/Professional-Resume-Enhancement.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Indian OCR Dataset Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/optical-character-recognition/Indian-OCR-Dataset-Needed.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Long-Term Legal Research and Proofreading Support",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/proofreading/Long-Term-Legal-Research-Proofreading",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Part-Time Virtual Assistant \u2013 Social Media, Dating Profiles & Business Operations",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/social-media-management/Part-Time-Virtual-Assistant-Social",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Linguist II (Arabic/Dutch) | AI, NLP & Language Data Specialist",
+        "company": "ALOIS Solutions",
+        "url": "https://pl.linkedin.com/jobs/view/linguist-ii-arabic-dutch-ai-nlp-language-data-specialist-at-alois-solutions-4487753816",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "CELTA-Holders - English Teachers",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/celta-holders-english-teachers-at-4level1-4487733848",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Second Language Instructor",
+        "company": "Recro.Hive",
+        "url": "https://eg.linkedin.com/jobs/view/english-second-language-instructor-at-recro-hive-4488013811",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
