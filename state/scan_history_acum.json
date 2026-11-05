@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-10-02T13:20:21.402433+00:00",
-    "matched_count": 5,
-    "all_count": 4765,
-    "jobs": [
-      {
-        "title": "Executive Assistant Needed for Long-Term Role",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/project-management/Executive-Assistant-Needed-for-Long",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Long-Term Editor and Writer for Lubricants Magazine",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/editing/Long-Term-Editor-Writer-for",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Engaging Product Description Copywriting",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/content-creation/Engaging-Product-Description-Copywriting-40746230",
-        "score": 87,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Entry-Level English Teacher",
-        "company": "English 1",
-        "url": "https://uk.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4474711440",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Proofreader and Copyedit",
-        "company": "Widya Bakti Nusa",
-        "url": "https://id.linkedin.com/jobs/view/proofreader-and-copyedit-at-widya-bakti-nusa-4472887570",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-02T20:19:44.254172+00:00",
     "matched_count": 3,
     "all_count": 4764,
@@ -3049,5 +3002,52 @@
     "matched_count": 0,
     "all_count": 4434,
     "jobs": []
+  },
+  {
+    "date": "2026-11-05T13:04:09.883646+00:00",
+    "matched_count": 5,
+    "all_count": 4441,
+    "jobs": [
+      {
+        "title": "Undergrad Paper Proofreading Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/academic-writing/Undergrad-Paper-Proofreading-Needed",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Build Long-Term Digital Collaborations",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/video-editing/Build-Long-Term-Digital-Collaborations",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Data Linguistic (Arabic and Dutch)",
+        "company": "PRACYVA",
+        "url": "https://pl.linkedin.com/jobs/view/data-linguistic-arabic-and-dutch-at-pracyva-4485823326",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Quality Expert Reviewer - Iraqi Arabic Speaker",
+        "company": "TP",
+        "url": "https://ie.linkedin.com/jobs/view/quality-expert-reviewer-iraqi-arabic-speaker-at-tp-4486731386",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Tutor",
+        "company": "Private Business",
+        "url": "https://eg.linkedin.com/jobs/view/english-tutor-at-private-business-4485828222",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
