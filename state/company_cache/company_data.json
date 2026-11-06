@@ -2,19 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "URBAN HEALTH PLAN, INC.": {
-    "name": "URBAN HEALTH PLAN, INC.",
-    "legitimacy_score": 65,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board",
-      "Appears to be registered business"
-    ],
-    "last_updated": "2026-10-07T13:21:14.093905+00:00"
-  },
   "FKH for iron and steel": {
     "name": "FKH for iron and steel",
     "legitimacy_score": 60,
@@ -897,5 +884,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-06T12:57:59.861064+00:00"
+  },
+  "Dallas Independent School District": {
+    "name": "Dallas Independent School District",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-06T19:54:20.982866+00:00"
   }
 }
