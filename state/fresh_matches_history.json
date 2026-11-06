@@ -5865,6 +5865,118 @@
     "scan_date": "2026-11-06T13:00:00.569770+00:00"
   },
   {
+    "title": "Anticipated: ESL Teacher (Grades: 5-6)",
+    "company": "Dallas Independent School District",
+    "url": "https://www.linkedin.com/jobs/view/anticipated-esl-teacher-grades-5-6-at-dallas-independent-school-district-4486944196",
+    "location": "Remote \u2014 Dallas, TX",
+    "posted": "2026-11-06",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-06T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "esl efl tesol tefl (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 19.884905491388892,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires Arabic-English translation and academic supervision, aligning with the candidate's expertise."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Candidate has experience in ESL teaching and academic supervision, which is relevant to the job."
+      },
+      "behavioral_fit": {
+        "score": 70,
+        "reason": "Remote work and academic environment align well with the candidate's skills and experience."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote location and worldwide availability are compatible with the candidate's background."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Job aligns with the candidate's career goals of secure remote work and academic services."
+      },
+      "overall_score": 82,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision & Research Guidance"
+      ],
+      "gaps": [
+        "No direct experience in engineering or development roles"
+      ],
+      "recommendation": "Waleed Ballag's background in ESL/EFL instruction, academic supervision, and legal translation makes him a strong fit for the ESL Teacher position in Dallas Independent School District. His expertise in language skills and academic experience align well with the job requirements, and the remote work option offers stability and flexibility. While the job is not exclusively translation-related, it aligns with his career goals and the candidate's strong fit.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach legal translation in a school setting? 3. How do you ensure the quality of your translations and research outputs?",
+      "one_line_summary": "Waleed Ballag's strong fit for the ESL Teacher position due to his expertise in academic supervision, remote work flexibility, and alignment with the job's requirements."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the ESL Teacher position due to his expertise in academic supervision, remote work flexibility, and alignment with the job's requirements.",
+    "ai_overall_score": 82,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision & Research Guidance"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or development roles"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in ESL/EFL instruction, academic supervision, and legal translation makes him a strong fit for the ESL Teacher position in Dallas Independent School District. His expertise in language skills and academic experience align well with the job requirements, and the remote work option offers stability and flexibility. While the job is not exclusively translation-related, it aligns with his career goals and the candidate's strong fit.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach legal translation in a school setting? 3. How do you ensure the quality of your translations and research outputs?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 70,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Dallas Independent School District",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-06T19:54:20.982866+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am thrilled to apply for the anticipated ESL Teacher (Grades: 5-6) position at Dallas Independent School District. This opportunity aligns perfectly with my extensive experience and skills in ESL/EFL instruction and academic supervision. My native Arabic and C1 Advanced English proficiency, combined with my Masters in Applied Linguistics and BA in English Language, make me an ideal candidate for this role.",
+      "experience": "My experience as an ESL Teacher and Secondary Supervisor at Higher Institute of Science and Technology, and as a Partner at Al-Safwa Smart School for Private Education, has equipped me with the ability to design and develop effective ESL/EFL curricula. Additionally, my experience as an Academic Supervisor and Research Guide has honed my skills in academic editing, thesis review, and guidance, which are vital in this role.",
+      "skills": "My skills include Academic Supervision & Research Guidance, Academic Editing & Thesis Review, Thesis Writing & Development, ESL/EFL Instruction, Online & In-person Teaching, Curriculum Development, Arabic-English Bidirectional Translation, Academic Translation, Legal Translation, Microsoft Office Suite (Expert), Adobe Photoshop, SPSS Statistical Analysis, and proficiency in the languages of instruction and the native language.",
+      "closing": "I am eager to discuss how my qualifications, including my language proficiency and experience in ESL/EFL instruction, can contribute to the success of your ESL program. Please feel free to contact me to arrange an interview at your earliest convenience."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Dallas Independent School Dist_Anticipated- ESL Teacher (Grades- 5-6)_20261106.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Dallas Independent School Dist_Anticipated- ESL Teacher (Grades- 5-6)_20261106.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-06T19:54:55.657504+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -12972,6 +13084,223 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-11-06T13:00:00.569770+00:00"
+  },
+  {
+    "title": "Penulisan Dokumen Bisnis Resmi",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/business-analysis/Penulisan-Dokumen-Bisnis-Resmi.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Fri, 06 Nov 2026 14:14:25 -0500",
+    "description": "Saya membutuhkan bantuan untuk menulis sebuah dokumen bisnis resmi baru dari nol. Dokumen ini akan dipakai secara eksternal, jadi nada dan strukturnya harus profesional, jelas, dan bebas kesalahan. Ruang... (Budget: $50000 - $100000 USD, Jobs: Business Analysis, Business Writing, Content Writing, Copywriting, Editing, Proofreading, Report Writing, Technical Writing)",
+    "salary": "$500",
+    "source": "freelancer",
+    "postedISO": "2026-11-06T14:14:25-05:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (description)",
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.6447533394444444,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires writing a business document, which aligns with the candidate's skills in academic writing, proposal development, and technical writing."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in academic supervision and research guidance, which is relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and remote work aligns well with the job's remote and flexible nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The job aligns with the candidate's career goals of secure stable work in translation or ESL teaching."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Writing & Proposal Development",
+        "Remote Work Experience",
+        "Strong Career Goals"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Penulisan Dokumen Bisnis Resmi job on Freelancer.com. His background in academic services and experience in remote work make him a perfect candidate for this position.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach writing a business document professionally? 3. Can you describe a time when you had to proofread and edit a document?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Penulisan Dokumen Bisnis Resmi job on Freelancer.com with his background in academic supervision and remote work experience."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Penulisan Dokumen Bisnis Resmi job on Freelancer.com with his background in academic supervision and remote work experience.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Writing & Proposal Development",
+      "Remote Work Experience",
+      "Strong Career Goals"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Penulisan Dokumen Bisnis Resmi job on Freelancer.com. His background in academic services and experience in remote work make him a perfect candidate for this position.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and research guidance? 2. How do you approach writing a business document professionally? 3. Can you describe a time when you had to proofread and edit a document?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am excited about the opportunity to contribute to the creation of a professional and well-structured business document for Freelancer.com. My experience as an ESL teacher and supervisor at prestigious educational institutions, combined with my skills in academic editing, translation, and teaching, make me well-suited for this task. My ability to ensure the document's quality and avoid errors is particularly important given the external nature of the document.",
+      "experience": "My work as an ESL teacher and supervisor at Higher Institute of Science and Technology and Anwar Al-Hayat School for Private Education provided me with the hands-on experience needed to write clear and effective business documents. Additionally, my role as an ESL teacher at Al-Safwa Smart School for Private Education allowed me to refine my skills in academic writing and proofreading, which are crucial for this position.",
+      "skills": "In addition to my experience and skills in academic instruction, research guidance, and editing, I possess the ability to translate between Arabic and English, which is essential for this job. My proficiency in Microsoft Office Suite, Adobe Photoshop, SPSS statistical analysis, and cross-cultural communication skills further enhance my capabilities.",
+      "closing": "I am eager to discuss how my skills and experience align with the requirements of this position and am available for an interview to further discuss how I can contribute to Freelancer.com. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Penulisan Dokumen Bisnis Resmi_20261106.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Penulisan Dokumen Bisnis Resmi_20261106.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-06T19:54:55.657504+00:00"
+  },
+  {
+    "title": "Handwritten Pages Transcription Needed",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/data-entry/Handwritten-Pages-Transcription-Needed",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-06T13:34:24+00:00",
+    "description": "I have a set of English pages written by hand that I need turned into clean, editable text. The scans are clear overall, but a few spots may require extra attention where the handwriting drifts or the ink fades. Here is what I expect: \u2022 Every word transferred faithfully, keeping original line breaks only when they aid readability. \u2022 Obvious spelling slips corrected only if the intent is unmistakable; if anything is truly illegible, please flag it with \u201c[unclear]\u201d. \u2022 Final delivery in an editable file\u2014Word (.docx) is ideal, though plain text is fine if that speeds things up. Accuracy matters more than speed, yet I would like the first batch within 48 hours so I can review style consistency before you move on to the rest. I will provide the scans as high-resolution PDFs as soon as we agree terms. Let me know your turnaround time for roughly 30 pages and share any past transcription samples that showcase care with difficult handwriting.",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-06T13:34:24+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 6.311583197222221,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Requires language skills, writing, academic work, and translation skills"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in academic supervision and language instruction"
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Language skills and academic experience"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's qualifications align well with the job requirements. His experience in academic supervision and language instruction make him a strong fit for the transcription job.",
+      "interview_prep": "1. What is your experience in academic supervision and language instruction? 2. How do you approach transcription and translation of handwritten pages? 3. Can you provide examples of your previous work in academic writing and proposal development?",
+      "one_line_summary": "Waleed Ballag's background in academic supervision and language instruction makes him a strong fit for the transcription job."
+    },
+    "ai_insight": "Waleed Ballag's background in academic supervision and language instruction makes him a strong fit for the transcription job.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Language skills and academic experience"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's qualifications align well with the job requirements. His experience in academic supervision and language instruction make him a strong fit for the transcription job.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and language instruction? 2. How do you approach transcription and translation of handwritten pages? 3. Can you provide examples of your previous work in academic writing and proposal development?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am thrilled to apply for the Handwritten Pages Transcription Needed position at Freelancer.com. The job requirements of faithfully transferring every word while maintaining original line breaks, fixing obvious spelling errors, and delivering the text in an editable format are key to my strengths and experience.",
+      "experience": "In my previous roles as an ESL Teacher and Secondary Supervisor at Higher Institute of Science and Technology, and ESL Teacher and Partner at Al-Safwa Smart School for Private Education, I have honed my skills in academic supervision, research guidance, and academic editing. My experience includes teaching Arabic and English, developing curricula, and using various educational tools and technologies, which aligns perfectly with the transcription skills needed for this position.",
+      "skills": "My qualifications include a Master of Arts in Applied Linguistics and a Bachelor of Arts in English Language, both from reputable universities. I have extensive experience in academic editing, thesis writing, and developing educational content. I am proficient in editing and translating from Arabic to English and vice versa, using Adobe Photoshop and Microsoft Office Suite, including Excel, for data management. My native language is Arabic, and my English proficiency is at the highest level (C1 Advanced) with a strong foundation in APA/MLA/Harvard formatting.",
+      "closing": "I am eager to contribute my skills and experience to the Freelancer.com team. Please find me at [Your Email] or [Your Phone Number]. I look forward to the possibility of discussing this opportunity further and discussing my availability for an interview."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Handwritten Pages Transcription Needed_20261106.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Handwritten Pages Transcription Needed_20261106.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-06T19:54:55.657504+00:00"
   },
   {
     "title": "Banking Partnership Pitch Deck Design",
