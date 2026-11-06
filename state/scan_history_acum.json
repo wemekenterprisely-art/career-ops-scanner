@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-10-03T05:16:11.507743+00:00",
-    "matched_count": 3,
-    "all_count": 4759,
-    "jobs": [
-      {
-        "title": "Bulgarian Proofreader needed (Long term)",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/bulgarian-translator/Bulgarian-Proofreader-needed-Long-term.html",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Online English Teacher",
-        "company": "Gen Academy.net",
-        "url": "https://cz.linkedin.com/jobs/view/online-english-teacher-at-gen-academy-net-4473170581",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Sinhala & English Data Entry",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/microsoft-word/Sinhala-English-Data-Entry",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-03T18:29:47.557793+00:00",
     "matched_count": 4,
     "all_count": 4748,
@@ -3094,6 +3063,29 @@
         "url": "https://eg.linkedin.com/jobs/view/english-second-language-instructor-at-recro-hive-4488013811",
         "score": 100,
         "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-06T00:58:09.609119+00:00",
+    "matched_count": 2,
+    "all_count": 4436,
+    "jobs": [
+      {
+        "title": "Lithuanian proofread of AI Website Localisation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copywriting/Polish-Lithuanian-Website-Text",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Regional Brand Protection Analyst - Data Labeling & Enforcement (Arabic Speaker)",
+        "company": "Corsearch",
+        "url": "https://ae.linkedin.com/jobs/view/regional-brand-protection-analyst-data-labeling-enforcement-arabic-speaker-at-corsearch-4488057291",
+        "score": 100,
+        "category": "Arabic Translation",
         "source": "linkedin"
       }
     ]
