@@ -2,43 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "The Rainbow Services": {
-    "name": "The Rainbow Services",
-    "legitimacy_score": 65,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board",
-      "Appears to be registered business"
-    ],
-    "last_updated": "2026-10-07T05:20:46.878492+00:00"
-  },
-  "Siege Media": {
-    "name": "Siege Media",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-07T05:20:46.880128+00:00"
-  },
-  "Flalingo": {
-    "name": "Flalingo",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-07T05:20:46.881823+00:00"
-  },
   "URBAN HEALTH PLAN, INC.": {
     "name": "URBAN HEALTH PLAN, INC.",
     "legitimacy_score": 65,
@@ -922,5 +885,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-06T00:57:14.326122+00:00"
+  },
+  "JaswantSir": {
+    "name": "JaswantSir",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-06T12:57:59.861064+00:00"
   }
 }
