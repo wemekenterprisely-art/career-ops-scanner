@@ -5645,6 +5645,118 @@
     "scan_date": "2026-11-05T20:42:05.378889+00:00"
   },
   {
+    "title": "Regional Brand Protection Analyst - Data Labeling & Enforcement (Arabic Speaker)",
+    "company": "Corsearch",
+    "url": "https://ae.linkedin.com/jobs/view/regional-brand-protection-analyst-data-labeling-enforcement-arabic-speaker-at-corsearch-4488057291",
+    "location": "Remote \u2014 Dubai, Dubai, United Arab Emirates",
+    "posted": "2026-11-05",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic linguist",
+    "postedISO": "2026-11-05T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic speaker native fluent bilingual (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 24.919111448055556,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires language skills, academic supervision, and translation, which aligns with the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and legal translation, which are relevant skills for the job."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background is suitable for a remote, academic environment, and they have experience in survey design and plagiarism checking, which are transferable skills."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and the candidate is comfortable with remote work, which is compatible with the candidate's preference."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the job, including building long-term client relationships and contributing to research supervision."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation",
+        "Survey design",
+        "Plagiarism checking"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate's background and skills make them a strong fit for the job, especially for the role of a regional brand protection analyst.",
+      "interview_prep": "1. How do you handle plagiarism checks in academic writing? 2. Can you provide an example of a legal translation you've translated? 3. How do you approach building long-term client relationships in academic services?",
+      "one_line_summary": "ESL instructor with strong academic background and legal translation experience makes a strong fit for the regional brand protection analyst role."
+    },
+    "ai_insight": "ESL instructor with strong academic background and legal translation experience makes a strong fit for the regional brand protection analyst role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation",
+      "Survey design",
+      "Plagiarism checking"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate's background and skills make them a strong fit for the job, especially for the role of a regional brand protection analyst.",
+    "ai_interview_prep": "1. How do you handle plagiarism checks in academic writing? 2. Can you provide an example of a legal translation you've translated? 3. How do you approach building long-term client relationships in academic services?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@ae.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@ae.linkedin.com",
+      "hr@ae.linkedin.com",
+      "jobs@ae.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Corsearch",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-06T00:57:14.326122+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Corsearch_Regional Brand Protection Analyst - Data Labeling _20261106.pdf",
+    "cover_letter_type": "marketing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Corsearch_Regional Brand Protection Analyst - Data Labeling _20261106.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-06T00:57:44.615782+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -12023,6 +12135,110 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-11-05T20:42:05.378889+00:00"
+  },
+  {
+    "title": "Lithuanian proofread of AI Website Localisation",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/copywriting/Polish-Lithuanian-Website-Text",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-05T22:21:35+00:00",
+    "description": "I have 1 900 individual website sentences already run through AI translation. You will receive: \u2022 the current Lithuanian output, \u2022 the original English source, \u2022 and a link to the live site for context. Your job is to revise each sentence so it reads naturally to users in Lithuania while maintaining a consistently professional, polished tone. Think of it as the final linguistic pass before we publish: no literal calques, no awkward structures \u2014 just smooth, idiomatic Lithuanian that feels as though it was written locally. Deliverables \u2022 The Lithuanian file i sent you with every sentence refined. The CMS supports simple copy-paste, so please keep HTML tags and placeholders intact where they appear. CAT tools such as Trados, memoQ, or even a well-structured Google Sheet are fine as long as the final output preserves original IDs/order.",
+    "salary": "30.0-250.0 EUR",
+    "source": "freelancer",
+    "postedISO": "2026-11-05T22:21:35+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.5593914275,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires Lithuanian proofreading, which aligns with the candidate's experience in academic supervision and language skills."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "The candidate has experience in academic supervision and supervision of graduate-level research studies, which is relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate has experience in remote work and flexible environments, which aligns with the job's remote nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which matches the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirements for stable remote work and long-term client relationships."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Lithuanian proofreading experience",
+        "Academic supervision background",
+        "Remote work flexibility"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the job requirements, making this a strong fit. The candidate's ability to supervise research studies and provide academic guidance would be valuable in this role.",
+      "interview_prep": "1. What are your experiences in academic supervision and research guidance? 2. How do you approach proofreading and ensuring professional tone in Lithuanian translations? 3. Can you describe a time when you had to revise a sentence to make it feel more local while maintaining a polished tone?",
+      "one_line_summary": "Waleed Ballag's strong fit as a Lithuanian proofreader with academic supervision experience makes this job a perfect match."
+    },
+    "ai_insight": "Waleed Ballag's strong fit as a Lithuanian proofreader with academic supervision experience makes this job a perfect match.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Lithuanian proofreading experience",
+      "Academic supervision background",
+      "Remote work flexibility"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the job requirements, making this a strong fit. The candidate's ability to supervise research studies and provide academic guidance would be valuable in this role.",
+    "ai_interview_prep": "1. What are your experiences in academic supervision and research guidance? 2. How do you approach proofreading and ensuring professional tone in Lithuanian translations? 3. Can you describe a time when you had to revise a sentence to make it feel more local while maintaining a polished tone?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Lithuanian proofread of AI Website Localisation_20261106.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Lithuanian proofread of AI Website Localisation_20261106.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-06T00:57:44.615782+00:00"
   },
   {
     "title": "Banking Partnership Pitch Deck Design",
