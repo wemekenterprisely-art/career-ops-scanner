@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-10-04T02:41:29.829884+00:00",
-    "matched_count": 1,
-    "all_count": 4750,
-    "jobs": [
-      {
-        "title": "Book Paragraph Data Entry",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/microsoft-word/Book-Paragraph-Data-Entry",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-04T11:09:14.259639+00:00",
     "matched_count": 7,
     "all_count": 4761,
@@ -3116,6 +3101,37 @@
         "title": "PSAT English Teacher",
         "company": "JaswantSir",
         "url": "https://in.linkedin.com/jobs/view/psat-english-teacher-at-jaswantsir-4486982448",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-06T19:55:09.435636+00:00",
+    "matched_count": 3,
+    "all_count": 4464,
+    "jobs": [
+      {
+        "title": "Penulisan Dokumen Bisnis Resmi",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/business-analysis/Penulisan-Dokumen-Bisnis-Resmi.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Handwritten Pages Transcription Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-entry/Handwritten-Pages-Transcription-Needed",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Anticipated: ESL Teacher (Grades: 5-6)",
+        "company": "Dallas Independent School District",
+        "url": "https://www.linkedin.com/jobs/view/anticipated-esl-teacher-grades-5-6-at-dallas-independent-school-district-4486944196",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
