@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-10-03T18:29:47.557793+00:00",
-    "matched_count": 4,
-    "all_count": 4748,
-    "jobs": [
-      {
-        "title": "Social Media Content Creator & Manager",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/social-media-management/Social-Media-Content-Creator-Manager-40748306",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Rapid AI Reels Content Creation",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/ai-video-editing/Rapid-Reels-Content-Creation",
-        "score": 67,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
-        "company": "Kreyco",
-        "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4475011645",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Part Time Arabic Language Teacher",
-        "company": "UNOG - United Nations Office at Geneva",
-        "url": "https://www.impactpool.org/jobs/1239807",
-        "score": 100,
-        "category": "ESL",
-        "source": "impactpool"
-      }
-    ]
-  },
-  {
     "date": "2026-10-04T02:41:29.829884+00:00",
     "matched_count": 1,
     "all_count": 4750,
@@ -3086,6 +3047,77 @@
         "url": "https://ae.linkedin.com/jobs/view/regional-brand-protection-analyst-data-labeling-enforcement-arabic-speaker-at-corsearch-4488057291",
         "score": 100,
         "category": "Arabic Translation",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-06T13:00:26.009185+00:00",
+    "matched_count": 8,
+    "all_count": 4445,
+    "jobs": [
+      {
+        "title": "Accurate Scanned Contacts Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-annotation/Accurate-Scanned-Contacts-Entry.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Experienced Indian Article Writer for Digital PR Press Releases & Brand Features",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/article-writing/Experienced-Article-Writer-for-Digital",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Virtual Assistant (Sales for Event Venue)",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/lead-generation/Virtual-Assistant-Sales-for-Event",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Web Article Proofreading & Polishing",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Web-Article-Proofreading-Polishing",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Academic Paper Proofreader Needed -- 2",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/proofreading/Academic-Paper-Proofreader-Needed-40805668",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Urgent Arabic-English Court Document Translation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/legal-translation/Urgent-Arabic-English-Court-Document",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Panduan Pendapatan Freelancer",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Panduan-Pendapatan-Freelancer.html",
+        "score": 92,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "PSAT English Teacher",
+        "company": "JaswantSir",
+        "url": "https://in.linkedin.com/jobs/view/psat-english-teacher-at-jaswantsir-4486982448",
+        "score": 100,
+        "category": "ESL",
         "source": "linkedin"
       }
     ]
