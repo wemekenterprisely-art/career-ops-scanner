@@ -898,5 +898,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-05T20:39:49.557566+00:00"
+  },
+  "Freelancer.com": {
+    "name": "Freelancer.com",
+    "legitimacy_score": 40,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [
+      "Freelance platform (may not be full-time)"
+    ],
+    "positive_signals": [],
+    "last_updated": "2026-11-06T00:57:14.324933+00:00"
+  },
+  "Corsearch": {
+    "name": "Corsearch",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-06T00:57:14.326122+00:00"
   }
 }
