@@ -896,5 +896,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-07T00:04:27.849799+00:00"
+  },
+  "Broadridge": {
+    "name": "Broadridge",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-07T11:38:02.186012+00:00"
   }
 }
