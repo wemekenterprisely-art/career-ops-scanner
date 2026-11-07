@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "FKH for iron and steel": {
-    "name": "FKH for iron and steel",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-07T20:22:57.060269+00:00"
-  },
   "Dominislearning": {
     "name": "Dominislearning",
     "legitimacy_score": 60,
@@ -896,5 +884,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-06T19:54:20.982866+00:00"
+  },
+  "The Anglo Foundation": {
+    "name": "The Anglo Foundation",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-07T00:04:27.849799+00:00"
   }
 }
