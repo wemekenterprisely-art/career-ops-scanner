@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-10-04T18:25:35.221858+00:00",
-    "matched_count": 5,
-    "all_count": 4754,
-    "jobs": [
-      {
-        "title": "PDF to Word Data Entry",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/data-entry/PDF-Word-Data-Entry-40749763.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "English Audio Arabic Transcription",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/editing/English-Audio-Arabic-Transcription",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "F&B Website Copywriting",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/seo/Website-Copywriting-40749303",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "IGCSE English Teacher",
-        "company": "Nafham - \u0646\u0641\u0647\u0645",
-        "url": "https://eg.linkedin.com/jobs/view/igcse-english-teacher-at-nafham-%D9%86%D9%81%D9%87%D9%85-4473492135",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "English Second Language Instructor",
-        "company": "Private Business",
-        "url": "https://eg.linkedin.com/jobs/view/english-second-language-instructor-at-private-business-4475365976",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-04T21:32:24.013717+00:00",
     "matched_count": 0,
     "all_count": 4752,
@@ -3087,6 +3040,45 @@
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07T11:39:27.676477+00:00",
+    "matched_count": 4,
+    "all_count": 4437,
+    "jobs": [
+      {
+        "title": "C-Suite Resume Formatting",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-word/Suite-Resume-Formatting.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Customer Support & Admin Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/customer-service/Customer-Support-Admin-Assistant",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofreader - Contract (Remote)",
+        "company": "Broadridge",
+        "url": "https://www.linkedin.com/jobs/view/proofreader-contract-remote-at-broadridge-4488191880",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      },
+      {
+        "title": "American English voice recording for education (book + app) by English Teacher",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/voice-acting/American-English-voice-recording-for",
+        "score": 97,
+        "category": "ESL",
+        "source": "freelancer"
       }
     ]
   }
