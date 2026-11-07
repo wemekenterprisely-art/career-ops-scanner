@@ -6085,6 +6085,114 @@
     "scan_date": "2026-11-07T00:04:43.076224+00:00"
   },
   {
+    "title": "Proofreader - Contract (Remote)",
+    "company": "Broadridge",
+    "url": "https://www.linkedin.com/jobs/view/proofreader-contract-remote-at-broadridge-4488191880",
+    "location": "Remote \u2014 New York, NY",
+    "posted": "2026-11-06",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-11-06T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 35.552501344722224,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires Arabic-English translation, ESL teaching, and academic supervision, which aligns with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation, which are all relevant to the Proofreader role."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, flexible schedule, and academic environment align well with the candidate's career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote work is compatible with the candidate's location and skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The job title and requirements are consistent with the candidate's career goals of securing stable remote work in translation or ESL teaching."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "No experience in engineering or programming"
+      ],
+      "recommendation": "This candidate has strong skills in ESL teaching and academic supervision, making them a strong fit for the Proofreader role. They can easily adapt to the remote work environment and align with the career goals of securing stable remote work in translation or ESL teaching.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a legal translation you have worked on? 3. How do you approach data analysis using SPSS?",
+      "one_line_summary": "Strong Fit: ESL Instructor, Academic Supervisor, and Legal Translator align well with the Proofreader role."
+    },
+    "ai_insight": "Strong Fit: ESL Instructor, Academic Supervisor, and Legal Translator align well with the Proofreader role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or programming"
+    ],
+    "ai_recommendation": "This candidate has strong skills in ESL teaching and academic supervision, making them a strong fit for the Proofreader role. They can easily adapt to the remote work environment and align with the career goals of securing stable remote work in translation or ESL teaching.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a legal translation you have worked on? 3. How do you approach data analysis using SPSS?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Broadridge",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-07T11:38:02.186012+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Broadridge_Proofreader - Contract (Remote)_20261107.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Broadridge_Proofreader - Contract (Remote)_20261107.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-07T11:39:02.653176+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -13409,6 +13517,317 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-11-06T19:54:55.657504+00:00"
+  },
+  {
+    "title": "C-Suite Resume Formatting",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/microsoft-word/Suite-Resume-Formatting.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Sat, 07 Nov 2026 06:16:06 -0500",
+    "description": "I have an executive-level r\u00e9sum\u00e9 that already contains strong content; what it lacks is the visual polish and structural nuance expected for C-suite applications. I need the document reformatted so it projects board-room credibility at first glance yet remains fully ATS-friendly... (Budget: $15 - $25 USD, Jobs: Business Writing, Copywriting, Editing, Graphic Design, Microsoft Word, Proofreading, Resumes, Typography, Word)",
+    "salary": "$15",
+    "source": "freelancer",
+    "postedISO": "2026-11-07T06:16:06-05:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (description)",
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.2844022786111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires strong language skills, academic writing, and research guidance, which are all transferable from the candidate's background."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and research guidance, which aligns perfectly with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and research guidance makes them a strong fit for the C-Suite resume formatting role."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's remote work experience."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the role, focusing on translation, teaching, and academic services."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Extensive academic experience",
+        "Proven ability in research supervision"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's expertise in academic services and research guidance makes them a strong fit for the C-Suite resume formatting role. Their background in ESL teaching and academic supervision aligns perfectly with the job requirements.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the formatting of executive-level resumes? 3. Can you provide an example of a time when you had to manage a research project?",
+      "one_line_summary": "Waleed Ballag's strong background in academic supervision and research guidance makes them an excellent fit for the C-Suite resume formatting role."
+    },
+    "ai_insight": "Waleed Ballag's strong background in academic supervision and research guidance makes them an excellent fit for the C-Suite resume formatting role.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Extensive academic experience",
+      "Proven ability in research supervision"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's expertise in academic services and research guidance makes them a strong fit for the C-Suite resume formatting role. Their background in ESL teaching and academic supervision aligns perfectly with the job requirements.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the formatting of executive-level resumes? 3. Can you provide an example of a time when you had to manage a research project?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_C-Suite Resume Formatting_20261107.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_C-Suite Resume Formatting_20261107.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-07T11:39:02.653176+00:00"
+  },
+  {
+    "title": "Customer Support & Admin Assistant",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/customer-service/Customer-Support-Admin-Assistant",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-07T09:56:58+00:00",
+    "description": "I\u2019m looking for a proactive virtual assistant who can keep my customer communications running smoothly while taking routine admin work off my plate. Each day you\u2019ll dive into the shared inbox, sort incoming mail, and draft or send quick replies to the easy, repeat questions so priority items stay visible for me. When a new lead arrives\u2014or an existing customer needs an update\u2014you\u2019ll step in, follow up promptly, and log the touch-point in our CRM so the conversation never falls through the cracks. Beyond the inbox, occasional light administrative tasks will pop up: updating customer records, organising docs in Drive, or noting action items after a short call. If you\u2019re comfortable juggling Gmail (or Outlook), a simple CRM, and basic spreadsheets while keeping a friendly, brand-aligned tone, we\u2019ll work well together. Deliverables I expect: \u2022 Daily cleared inbox with routine messages handled and flagged items neatly labelled \u2022 Timely follow-ups sent to every new lead or customer query, with status noted in the CRM \u2022 A concise end-of-day summary highlighting completed actions and any items needing my input If you\u2019re organised, write crisp English, and genuinely enjoy keeping customers happy, let\u2019s chat and get started.",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-07T09:56:58+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.6030690972222221,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, aligns with the job's need for customer support and admin assistant."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation, closely matches the job's requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment, aligns well with the job's nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns well with the job's role."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Direct experience in relevant fields"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Customer Support & Admin Assistant role. His experience in ESL teaching, academic supervision, and legal translation aligns well with the job's requirements. The remote, flexible, and academic environment is a perfect match, and his career goals of securing stable remote work in translation or ESL teaching are well-aligned. He is a strong candidate for this position.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you describe a time when you had to follow up on a customer's request promptly? 3. How do you approach data analysis using SPSS?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Customer Support & Admin Assistant role with his relevant experience and alignment with the job's requirements."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Customer Support & Admin Assistant role with his relevant experience and alignment with the job's requirements.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Direct experience in relevant fields"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Customer Support & Admin Assistant role. His experience in ESL teaching, academic supervision, and legal translation aligns well with the job's requirements. The remote, flexible, and academic environment is a perfect match, and his career goals of securing stable remote work in translation or ESL teaching are well-aligned. He is a strong candidate for this position.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you describe a time when you had to follow up on a customer's request promptly? 3. How do you approach data analysis using SPSS?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Customer Support & Admin Assistant_20261107.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Customer Support & Admin Assistant_20261107.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-07T11:39:02.653176+00:00"
+  },
+  {
+    "title": "American English voice recording for education (book + app) by English Teacher",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/voice-acting/American-English-voice-recording-for",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-07T01:07:53+00:00",
+    "description": "I need a clear, neutral American male voice to record 158 irregular verbs. For every verb you will say the base form, past simple, and past participle\u2014each form twice: first at normal conversational speed, then immediately again at a noticeably slower speed. Please leave roughly a three-second pause before moving on to the next form so learners have space to repeat. Technical specs are straightforward: one MP3 file encoded at 320 kbps, 44.1 kHz, clean studio-quality audio with no background noise, room echo, or mouth clicks. If you prefer to supply separate files per verb and it stays within budget, that\u2019s fine; otherwise a single continuous file is perfect and I will handle any slicing. Usage will be fully commercial in a printed and ebook via downloads (after the customer bought the book) and in iOS/Android apps, so make sure all rights are cleared and transferred. Deliverables \u2022 One master MP3 in the format above, containing the verbs in the required order and pacing. \u2022 A short note confirming commercial usage rights. I will check that every verb appears six times in sequence (base-normal, base-slow, past-normal, past-slow, participle-normal, participle-slow) with the correct pause length and that overall word count falls between 500 and 1,000. note: I will NOT use it for any AI-training",
+    "salary": "30.0-120.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-07T01:07:53+00:00",
+    "score": 97,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)"
+    ],
+    "is_fresh": false,
+    "age_hours": 10.421129908333333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Job requires clear, neutral American male voice recording of irregular verbs, which matches the candidate's skills in academic supervision and language instruction."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "The candidate has experience in academic supervision and supervision of graduate-level research studies, which aligns with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services and supervision aligns well with the job's need for clear, neutral voice recording."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is listed as a remote worker, which is compatible with the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirements for secure stable remote work and building long-term client relationships."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Clear, neutral voice recording skills",
+        "Experience in academic supervision and supervision"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills in academic supervision and clear, neutral voice recording make him a strong fit for this job. His ability to supervise 15 graduate-level research studies and his experience in recording clear, neutral voices will be valuable in this role.",
+      "interview_prep": "1. What is your experience in supervising graduate-level research studies? 2. How do you ensure clear, neutral voice recordings for educational materials?",
+      "one_line_summary": "Waleed Ballag's strong fit as a clear, neutral voice recording specialist aligns perfectly with the job's requirements."
+    },
+    "ai_insight": "Waleed Ballag's strong fit as a clear, neutral voice recording specialist aligns perfectly with the job's requirements.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Clear, neutral voice recording skills",
+      "Experience in academic supervision and supervision"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills in academic supervision and clear, neutral voice recording make him a strong fit for this job. His ability to supervise 15 graduate-level research studies and his experience in recording clear, neutral voices will be valuable in this role.",
+    "ai_interview_prep": "1. What is your experience in supervising graduate-level research studies? 2. How do you ensure clear, neutral voice recordings for educational materials?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 20,
+    "desperation_index": 6,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 38,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_American English voice recording for education (bo_20261107.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_American English voice recording for education (bo_20261107.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-07T11:39:02.653176+00:00"
   },
   {
     "title": "Banking Partnership Pitch Deck Design",
