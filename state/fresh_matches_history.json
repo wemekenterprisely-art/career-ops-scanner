@@ -5977,6 +5977,114 @@
     "scan_date": "2026-11-06T19:54:55.657504+00:00"
   },
   {
+    "title": "English Teacher",
+    "company": "The Anglo Foundation",
+    "url": "https://mx.linkedin.com/jobs/view/english-teacher-at-the-anglo-foundation-4488439665",
+    "location": "Remote \u2014 Mexico City, Mexico",
+    "posted": "2026-11-06",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-06T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 24.03732640277778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision, with relevant certifications and experience."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation, with relevant certifications and qualifications."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment, flexible schedule, and academic setting, with previous experience in similar roles."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote location, worldwide availability, and compatible with the candidate's skills."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career, with relevant skills and experience."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Awarded English Language Trainer of the Year"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the English Teacher position at The Anglo Foundation. His ability to work remotely and his strong language skills make him a strong fit for the role.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach translation of legal documents? 3. What is your experience with academic editing and thesis review?",
+      "one_line_summary": "Waleed Ballag's skills and experience make him a strong fit for the English Teacher position at The Anglo Foundation."
+    },
+    "ai_insight": "Waleed Ballag's skills and experience make him a strong fit for the English Teacher position at The Anglo Foundation.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Awarded English Language Trainer of the Year"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the English Teacher position at The Anglo Foundation. His ability to work remotely and his strong language skills make him a strong fit for the role.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach translation of legal documents? 3. What is your experience with academic editing and thesis review?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@mx.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@mx.linkedin.com",
+      "hr@mx.linkedin.com",
+      "jobs@mx.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "The Anglo Foundation",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-07T00:04:27.849799+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/The Anglo Foundation_English Teacher_20261107.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/The Anglo Foundation_English Teacher_20261107.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-07T00:04:43.076224+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
