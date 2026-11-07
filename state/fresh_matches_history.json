@@ -13830,6 +13830,111 @@
     "scan_date": "2026-11-07T11:39:02.653176+00:00"
   },
   {
+    "title": "Marketing Operations Co-Pilot | Virtual Assistant for Business Launch",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-creation/Marketing-Operations-Pilot-Virtual",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-07T16:56:25+00:00",
+    "description": "# Marketing Operations Co-Pilot | Virtual Assistant for Business Launch **Initial Project Budget:** $70 fixed price **Project Type:** Kickstart assignment with potential for long-term collaboration **Preferred Location:** Africa ## About the Opportunity We are building a growing business focused on African artisans, companies and locally made products, with both B2C and B2B audiences. We are looking for a proactive and resourceful Virtual Assistant to become a **Marketing Operations Co-Pilot**, working directly with the founder to help structure, coordinate and execute our marketing activities. This is not simply a social media posting assignment. We are looking for someone who can help turn ideas, existing materials and business priorities into consistent marketing operations. You will initially work on a small kickstart project, with the possibility of becoming a regular part of the team as the business develops. ## Initial Kickstart Project The first assignment will focus on getting our marketing operations moving. **1. Content and social media** - Review and organize existing brand materials, product information, photos and videos on Notion for the editorials then Google Drive folder for assets. - Draft social media posts with captions. - Suggest Story ideas and short-form video concepts. - Adapt communication for B2C and B2B audiences. **2. B2B and email marketing** - Prepare a B2B introduction and outreach template. - Draft an introductory newsletter. - Help organize product highlights and promotional messaging. **3. Marketing operations** - Organize marketing assets in Google Drive. - Improve our existing content-planning workflow using Notion or Google Sheets. - Prepare basic response templates for customer and business enquiries. - Establish a simple process for planning, approvals, follow-ups and tracking. **4. Coordination** - Maintain an overview of ongoing marketing tasks. - Follow up on missing information and pending actions. - Communicate progress an",
+    "salary": "30.0-250.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-07T16:56:25+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.0428015661111112,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 20,
+        "reason": "Requires language skills and academic work, but not specific technical skills"
+      },
+      "experience_match": {
+        "score": 50,
+        "reason": "Related experience in language services and academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 60,
+        "reason": "Remote and academic environment, but some friction with career goals"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 70,
+        "reason": "Builds toward translation/teaching/academic career, but not senior roles"
+      },
+      "overall_score": 62,
+      "verdict": "Moderate Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "Awarded English Language Trainer of the Year"
+      ],
+      "gaps": [
+        "US/EU citizenship required",
+        "Senior leadership requiring 10+ years"
+      ],
+      "recommendation": "Waleed Ballag's background is strong in language skills and academic supervision, making it a good fit for the marketing operations role. While it's not a perfect match for senior leadership, it aligns well with the career goals of securing stable remote work in translation or ESL teaching.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the coordination of marketing activities for a growing business? 3. Can you provide examples of how you have structured and executed marketing operations?",
+      "one_line_summary": "Waleed Ballag's background in academic supervision and language skills makes him a strong fit for the Marketing Operations Co-Pilot role."
+    },
+    "ai_insight": "Waleed Ballag's background in academic supervision and language skills makes him a strong fit for the Marketing Operations Co-Pilot role.",
+    "ai_overall_score": 62,
+    "ai_verdict": "Moderate Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "Awarded English Language Trainer of the Year"
+    ],
+    "ai_gaps": [
+      "US/EU citizenship required",
+      "Senior leadership requiring 10+ years"
+    ],
+    "ai_recommendation": "Waleed Ballag's background is strong in language skills and academic supervision, making it a good fit for the marketing operations role. While it's not a perfect match for senior leadership, it aligns well with the career goals of securing stable remote work in translation or ESL teaching.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the coordination of marketing activities for a growing business? 3. Can you provide examples of how you have structured and executed marketing operations?",
+    "ai_technical_skills": 20,
+    "ai_experience_match": 50,
+    "ai_behavioral_fit": 60,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 70,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Marketing Operations Co-Pilot - Virtual Assistant _20261107.pdf",
+    "cover_letter_type": "virtual_assistant",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Marketing Operations Co-Pilot - Virtual Assistant _20261107.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-07T17:59:58.948895+00:00"
+  },
+  {
     "title": "Banking Partnership Pitch Deck Design",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/graphic-design/Banking-Partnership-Pitch-Deck-Design",
