@@ -1,68 +1,5 @@
 [
   {
-    "date": "2026-10-04T11:09:14.259639+00:00",
-    "matched_count": 7,
-    "all_count": 4761,
-    "jobs": [
-      {
-        "title": "Instagram Commenting & VA Support",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/social-media-management/Instagram-Commenting-Support.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Paper Forms to Online Registration",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/data-cleansing/Paper-Forms-Online-Registration.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "3D & LiDAR Data Annotation Analyst",
-        "company": "Appen",
-        "url": "https://jobicy.com/jobs/154499-3d-lidar-data-annotation-analyst",
-        "score": 100,
-        "category": "Admin",
-        "source": "jobicy"
-      },
-      {
-        "title": "Handwritten Notes Transcription with Embedded Images",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/adobe-acrobat/Handwritten-Notes-Transcription-with",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "English Teacher (Newly Qualified Teacher)",
-        "company": "British Council",
-        "url": "https://eg.linkedin.com/jobs/view/english-teacher-newly-qualified-teacher-at-british-council-4473472600",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "English Teacher",
-        "company": "English Academy by Ruangguru",
-        "url": "https://id.linkedin.com/jobs/view/english-teacher-at-english-academy-by-ruangguru-4474211286",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Promotional Video for Online Tutoring",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/script-writing/Promotional-Video-for-Online-Tutoring",
-        "score": 97,
-        "category": "ESL",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-04T18:25:35.221858+00:00",
     "matched_count": 5,
     "all_count": 4754,
@@ -3132,6 +3069,21 @@
         "title": "Anticipated: ESL Teacher (Grades: 5-6)",
         "company": "Dallas Independent School District",
         "url": "https://www.linkedin.com/jobs/view/anticipated-esl-teacher-grades-5-6-at-dallas-independent-school-district-4486944196",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07T00:05:02.267986+00:00",
+    "matched_count": 1,
+    "all_count": 4442,
+    "jobs": [
+      {
+        "title": "English Teacher",
+        "company": "The Anglo Foundation",
+        "url": "https://mx.linkedin.com/jobs/view/english-teacher-at-the-anglo-foundation-4488439665",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
