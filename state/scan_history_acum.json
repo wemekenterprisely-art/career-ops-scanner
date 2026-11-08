@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-10-05T13:23:44.287040+00:00",
-    "matched_count": 3,
-    "all_count": 4741,
-    "jobs": [
-      {
-        "title": "Financial Data Entry & Formatting",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/database-management/Financial-Data-Entry-Formatting",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "English Teacher",
-        "company": "International Royal Academy",
-        "url": "https://ge.linkedin.com/jobs/view/english-teacher-at-international-royal-academy-4473623606",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Content Editor",
-        "company": "Roarke Regenerative",
-        "url": "https://www.linkedin.com/jobs/view/content-editor-at-roarke-regenerative-4474285153",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-06T05:20:49.129550+00:00",
     "matched_count": 3,
     "all_count": 4771,
@@ -3065,5 +3034,68 @@
     "matched_count": 0,
     "all_count": 4431,
     "jobs": []
+  },
+  {
+    "date": "2026-11-08T11:50:38.219336+00:00",
+    "matched_count": 7,
+    "all_count": 4426,
+    "jobs": [
+      {
+        "title": "Penerjemahan Artikel dan Buku",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/translation/Penerjemahan-Artikel-dan-Buku.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Regional Brand Protection Analyst - Data Labeling & Enforcement (Arabic Speaker)",
+        "company": "Corsearch",
+        "url": "https://himalayas.app/companies/corsearch/jobs/regional-brand-protection-analyst-data-labeling-enforcement-arabic-speaker?utm_source=api",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "himalayas"
+      },
+      {
+        "title": "Proofread Business Proposals & Presentations",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/business-writing/Proofread-Business-Proposals",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofreading & Word Document Formatting \u2013 PDF Conversion",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-word/Proofread-Word-Docs-PDF",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Virtual Assistant Sales",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/lead-generation/Virtual-Assistant-Sales",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Spreadsheet Proofreading & Formatting Consistency",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/google-sheets/Spreadsheet-Proofreading-Formatting",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Grow Premium Wellness Brand Social Media",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/social-media-management/Grow-Premium-Wellness-Brand-Social.html",
+        "score": 82,
+        "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
