@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-10-06T05:20:49.129550+00:00",
-    "matched_count": 3,
-    "all_count": 4771,
-    "jobs": [
-      {
-        "title": "Sr. Legal Proofreader - 1st Shift (Hybrid)",
-        "company": "RRD",
-        "url": "https://www.linkedin.com/jobs/view/sr-legal-proofreader-1st-shift-hybrid-at-rrd-4475872520",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      },
-      {
-        "title": "Proofreader",
-        "company": "Tata Consultancy Services",
-        "url": "https://ie.linkedin.com/jobs/view/proofreader-at-tata-consultancy-services-4474283898",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      },
-      {
-        "title": "Novel Proofreading Specialist",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/content-writing/Novel-Proofreading-Specialist",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-06T13:19:11.074029+00:00",
     "matched_count": 0,
     "all_count": 4773,
@@ -3097,5 +3066,11 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-11-08T18:17:56.491648+00:00",
+    "matched_count": 0,
+    "all_count": 4447,
+    "jobs": []
   }
 ]
