@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-10-06T20:21:33.007208+00:00",
-    "matched_count": 4,
-    "all_count": 4762,
-    "jobs": [
-      {
-        "title": "Technical Proofreading: Space Science PDF",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/technical-documentation/Technical-Proofreading-Space-Science-PDF",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Online English Teacher",
-        "company": "COREnglish",
-        "url": "https://za.linkedin.com/jobs/view/online-english-teacher-at-corenglish-4474095700",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "English Language Instructor",
-        "company": "English for Work and Leisure",
-        "url": "https://am.linkedin.com/jobs/view/english-language-instructor-at-english-for-work-and-leisure-4474076601",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
-        "company": "Kreyco",
-        "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4476375057",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-07T05:22:41.128156+00:00",
     "matched_count": 6,
     "all_count": 4754,
@@ -3078,6 +3039,37 @@
         "url": "https://de.linkedin.com/jobs/view/content-writer-editor-at-esther-schipper-4486683689",
         "score": 100,
         "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-09T13:43:57.117545+00:00",
+    "matched_count": 3,
+    "all_count": 4417,
+    "jobs": [
+      {
+        "title": "Oromo Interview Audio Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/audio-editing/Oromo-Interview-Audio-Transcription",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Online English Teacher Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/teaching-lecturing/Online-English-Teacher-Needed",
+        "score": 97,
+        "category": "ESL",
+        "source": "freelancer"
+      },
+      {
+        "title": "BPO Language Instructor \u2013 English",
+        "company": "ProLingua Bridge",
+        "url": "https://eg.linkedin.com/jobs/view/bpo-language-instructor-%E2%80%93-english-at-prolingua-bridge-4488853918",
+        "score": 100,
+        "category": "ESL",
         "source": "linkedin"
       }
     ]
