@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "FindTutors": {
-    "name": "FindTutors",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-10T17:45:38.293194+00:00"
-  },
   "Language Services Associates": {
     "name": "Language Services Associates",
     "legitimacy_score": 55,
@@ -847,5 +835,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-09T13:42:53.892949+00:00"
+  },
+  "IOM - UN Migration": {
+    "name": "IOM - UN Migration",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-09T22:58:12.192910+00:00"
+  },
+  "Prashanthi Balamandira Trust": {
+    "name": "Prashanthi Balamandira Trust",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-09T22:58:12.193975+00:00"
   }
 }
