@@ -2,19 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Experts Plus Recruitment Services": {
-    "name": "Experts Plus Recruitment Services",
-    "legitimacy_score": 65,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board",
-      "Appears to be registered business"
-    ],
-    "last_updated": "2026-10-10T11:07:25.736290+00:00"
-  },
   "FindTutors": {
     "name": "FindTutors",
     "legitimacy_score": 60,
@@ -848,5 +835,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-08T23:33:30.213558+00:00"
+  },
+  "ProLingua Bridge": {
+    "name": "ProLingua Bridge",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-09T13:42:53.892949+00:00"
   }
 }
