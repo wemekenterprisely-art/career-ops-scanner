@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-10-07T05:22:41.128156+00:00",
-    "matched_count": 6,
-    "all_count": 4754,
-    "jobs": [
-      {
-        "title": "Excel Data Entry from Word",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/data-analysis/Excel-Data-Entry-from-Word-40754533.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Digital Data Entry to Excel -- 2",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/visual-basic/Digital-Data-Entry-Excel.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "IELTS & Academic English Teacher",
-        "company": "The Rainbow Services",
-        "url": "https://vn.linkedin.com/jobs/view/ielts-academic-english-teacher-at-the-rainbow-services-4475166260",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Content Editor",
-        "company": "Siege Media",
-        "url": "https://www.linkedin.com/jobs/view/content-editor-at-siege-media-4476528570",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      },
-      {
-        "title": "Translate Website to UAE Arabic",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/website-localization/Translate-Website-UAE-Arabic",
-        "score": 97,
-        "category": "Arabic Translation",
-        "source": "freelancer"
-      },
-      {
-        "title": "English Tutor (Fully Remote)",
-        "company": "Flalingo",
-        "url": "https://tr.linkedin.com/jobs/view/english-tutor-fully-remote-at-flalingo-4475139229",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-07T13:21:48.081954+00:00",
     "matched_count": 1,
     "all_count": 4767,
@@ -3070,6 +3015,37 @@
         "url": "https://eg.linkedin.com/jobs/view/bpo-language-instructor-%E2%80%93-english-at-prolingua-bridge-4488853918",
         "score": 100,
         "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-09T22:59:15.774727+00:00",
+    "matched_count": 3,
+    "all_count": 4441,
+    "jobs": [
+      {
+        "title": "PDF-to-Word Typing & Data Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-word/PDF-Word-Typing-Data-Entry",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Interpreter (Arabic)",
+        "company": "IOM - UN Migration",
+        "url": "https://gr.linkedin.com/jobs/view/interpreter-arabic-at-iom-un-migration-4488896155",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Telugu Proofreader",
+        "company": "Prashanthi Balamandira Trust",
+        "url": "https://in.linkedin.com/jobs/view/telugu-proofreader-at-prashanthi-balamandira-trust-4488840048",
+        "score": 100,
+        "category": "Editing",
         "source": "linkedin"
       }
     ]
