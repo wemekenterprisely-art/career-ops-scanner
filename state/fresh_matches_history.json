@@ -6468,6 +6468,226 @@
     "scan_date": "2026-11-09T13:43:37.507664+00:00"
   },
   {
+    "title": "Interpreter (Arabic)",
+    "company": "IOM - UN Migration",
+    "url": "https://gr.linkedin.com/jobs/view/interpreter-arabic-at-iom-un-migration-4488896155",
+    "location": "Remote \u2014 Filippoi, Eastern Macedonia and Thrace, Greece",
+    "posted": "2026-11-09",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic translator",
+    "postedISO": "2026-11-09T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "translator translation interpreter linguist editor proofreader localisation specialist .{0,40}arabic (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 22.92148158111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, including academic supervision and research guidance."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in academic supervision and research guidance, aligning with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "Remote, flexible, and academic environment, aligning with the job's remote and worldwide nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's remote location."
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward academic and translation careers, aligning with the job's academic and translation focus."
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "Awarded English Language Trainer of the Year"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Interpreter (Arabic) role at IOM - UN Migration. His extensive experience in academic supervision and research guidance, combined with his native Arabic and advanced English skills, makes him an excellent candidate for this remote position. He is well-suited for the job's remote and worldwide nature, and his career goals of building long-term client relationships in academic services and contributing to graduate-level research supervision align perfectly with the job's requirements.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study in an academic setting? 2. How do you approach translating legal documents for a non-technical audience? 3. Can you share an experience where you had to improve the originality of a thesis without altering its meaning?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Interpreter (Arabic) role at IOM - UN Migration due to his extensive academic experience and native language skills."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Interpreter (Arabic) role at IOM - UN Migration due to his extensive academic experience and native language skills.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "Awarded English Language Trainer of the Year"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Interpreter (Arabic) role at IOM - UN Migration. His extensive experience in academic supervision and research guidance, combined with his native Arabic and advanced English skills, makes him an excellent candidate for this remote position. He is well-suited for the job's remote and worldwide nature, and his career goals of building long-term client relationships in academic services and contributing to graduate-level research supervision align perfectly with the job's requirements.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study in an academic setting? 2. How do you approach translating legal documents for a non-technical audience? 3. Can you share an experience where you had to improve the originality of a thesis without altering its meaning?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@gr.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@gr.linkedin.com",
+      "hr@gr.linkedin.com",
+      "jobs@gr.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "IOM - UN Migration",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-09T22:58:12.192910+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/IOM - UN Migration_Interpreter (Arabic)_20261110.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/IOM - UN Migration_Interpreter (Arabic)_20261110.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-09T22:58:56.491039+00:00"
+  },
+  {
+    "title": "Telugu Proofreader",
+    "company": "Prashanthi Balamandira Trust",
+    "url": "https://in.linkedin.com/jobs/view/telugu-proofreader-at-prashanthi-balamandira-trust-4488840048",
+    "location": "Remote \u2014 Chikkaballapura, Karnataka, India",
+    "posted": "2026-11-09",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-11-09T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 22.92148271027778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, academic environment, and flexible work arrangements"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's skills"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation",
+        "ESL teaching",
+        "Academic supervision"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the Telugu Proofreading position. He can contribute effectively and build a strong career in translation and academic services.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and proofreading in Telugu? 3. Can you discuss your experience in managing procurement and logistics?",
+      "one_line_summary": "Waleed Ballag's strong skills in academic supervision, legal translation, and remote work align perfectly with the Telugu Proofreading position."
+    },
+    "ai_insight": "Waleed Ballag's strong skills in academic supervision, legal translation, and remote work align perfectly with the Telugu Proofreading position.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation",
+      "ESL teaching",
+      "Academic supervision"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the Telugu Proofreading position. He can contribute effectively and build a strong career in translation and academic services.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and proofreading in Telugu? 3. Can you discuss your experience in managing procurement and logistics?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Prashanthi Balamandira Trust",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-09T22:58:12.193975+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am excited about the opportunity to apply for the Telugu Proofreader position at Prashanthi Balamandira Trust. This role aligns perfectly with my extensive experience in academic editing and proofreading, particularly in the field of English and ESL instruction. I am confident in my ability to contribute effectively to the language and educational environment of the Trust.",
+      "experience": "I have held various teaching positions, including ESL Teacher & Secondary Supervisor at Higher Institute of Science and Technology, ESL Teacher & Partner at Al-Safwa Smart School for Private Education, and ESL Teacher at Anwar Al-Hayat School for Private Education. These experiences have equipped me with a strong foundation in academic supervision, research guidance, and the ability to provide effective feedback and instruction.",
+      "skills": "My skills in Academic Supervision & Research Guidance, Academic Editing & Thesis Review, and ESL/EFL Instruction make me well-suited for this role. I am proficient in Microsoft Office Suite (Expert), Adobe Photoshop, SPSS Statistical Analysis, and have native fluency in Arabic and English (C1 Advanced). Furthermore, my experience in Arabic-English Bidirectional Translation and Academic Translation, along with my ability to handle legal translation, enhances my qualifications for this position.",
+      "closing": "I am eager to discuss how my skills and experience align with the Telugu Proofreader role at Prashanthi Balamandira Trust. Please feel free to schedule a time to speak with me about this opportunity. I look forward to the possibility of contributing to your team and contributing to the growth and improvement of language education. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Prashanthi Balamandira Trust_Telugu Proofreader_20261110.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Prashanthi Balamandira Trust_Telugu Proofreader_20261110.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-09T22:58:56.491039+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
@@ -14679,6 +14899,111 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-11-09T13:43:37.507664+00:00"
+  },
+  {
+    "title": "PDF-to-Word Typing & Data Entry",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/microsoft-word/PDF-Word-Typing-Data-Entry",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-09T18:14:36+00:00",
+    "description": "I have a steady stream of text-only PDF documents that need to be faithfully retyped into Microsoft Word, keeping headings, basic styling, and page breaks intact. Accuracy is my top priority, so clean English spelling and punctuation are essential. Alongside the PDF work, I will occasionally ask for simple image-to-text transcription, light data entry or cleanup in Excel, and final touch-ups to the overall document formatting in Word. No complex OCR or form reconstruction is involved\u2014just careful, consistent typing and tidy layouts. When you respond, please include examples of past projects that show you can deliver accurate copy typing or data entry on deadline. A brief note about your turnaround time for an average ten-page PDF would also be helpful. Deliverables I expect: \u2022 A fully formatted Word file for each PDF provided \u2022 Any requested Excel sheets populated and checked for consistency \u2022 Proofread text free of typos and formatting errors I share files and guidelines up front and release milestones as each batch is approved. If you enjoy straightforward typing and value precision, let\u2019s get started.",
+    "salary": "750.0-1250.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-11-09T18:14:36+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title+description)",
+      "typist transcription transcribing transcriber (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.67816229,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job involves PDF-to-Word typing and data entry, which aligns with the candidate's experience in ESL teaching, academic supervision, and data analysis."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and data entry, which are relevant skills for the job."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services and language instruction makes them a good fit for the remote, flexible environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, worldwide, and the candidate is flexible, making it a good fit."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the translation and ESL teaching roles, and they have experience in related fields."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "academic supervision",
+        "data analysis"
+      ],
+      "gaps": [
+        "no specific gaps noted"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make them a strong fit for the PDF-to-Word Typing & Data Entry job. They will likely excel in a remote, flexible environment and contribute positively to the academic services team.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach data analysis and curriculum development? 3. Can you share an example of a project you completed that required proofreading and formatting?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the PDF-to-Word Typing & Data Entry job due to their extensive experience in ESL teaching and academic supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the PDF-to-Word Typing & Data Entry job due to their extensive experience in ESL teaching and academic supervision.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "academic supervision",
+      "data analysis"
+    ],
+    "ai_gaps": [
+      "no specific gaps noted"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make them a strong fit for the PDF-to-Word Typing & Data Entry job. They will likely excel in a remote, flexible environment and contribute positively to the academic services team.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach data analysis and curriculum development? 3. Can you share an example of a project you completed that required proofreading and formatting?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_PDF-to-Word Typing & Data Entry_20261110.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_PDF-to-Word Typing & Data Entry_20261110.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-09T22:58:56.491039+00:00"
   },
   {
     "title": "Banking Partnership Pitch Deck Design",
