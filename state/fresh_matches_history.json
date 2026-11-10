@@ -6688,6 +6688,113 @@
     "scan_date": "2026-11-09T22:58:56.491039+00:00"
   },
   {
+    "title": "Copy Editor",
+    "company": "Information Security Media Group (ISMG)",
+    "url": "https://in.linkedin.com/jobs/view/copy-editor-at-information-security-media-group-ismg-4489176371",
+    "location": "Remote \u2014 Mumbai Metropolitan Region",
+    "posted": "2026-11-09",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-11-09T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "academic editor editing copy editor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 26.62658041555556,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires language skills, writing, and academic work, which aligns with the candidate's expertise in ESL/EFL instruction, academic supervision, and academic writing."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has direct experience in ESL/EFL instruction, academic supervision, and academic writing, which is relevant to the Copy Editor role."
+      },
+      "behavioral_fit": {
+        "score": 80,
+        "reason": "The candidate's background and skills are well-suited for a remote, academic environment, and the job description emphasizes flexibility and academic work."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and the candidate is flexible, making it a good fit for the candidate's skills and preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The job aligns with the candidate's career goals of securing stable remote work in translation or ESL teaching, building long-term client relationships, and contributing to graduate-level research supervision."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills and academic background",
+        "Experience in ESL/EFL instruction and academic supervision"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Copy Editor role. Her skills and experience align well with the job requirements, making her a valuable addition to the team. She can contribute effectively to the company's academic services and build a successful career in translation or ESL teaching.",
+      "interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach data analysis using SPSS? 3. Can you explain the difference between APA, MLA, and Harvard citation styles?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Copy Editor role due to her language skills, academic background, and experience in ESL/EFL instruction and academic supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Copy Editor role due to her language skills, academic background, and experience in ESL/EFL instruction and academic supervision.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills and academic background",
+      "Experience in ESL/EFL instruction and academic supervision"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Copy Editor role. Her skills and experience align well with the job requirements, making her a valuable addition to the team. She can contribute effectively to the company's academic services and build a successful career in translation or ESL teaching.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach data analysis using SPSS? 3. Can you explain the difference between APA, MLA, and Harvard citation styles?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 80,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@in.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@in.linkedin.com",
+      "hr@in.linkedin.com",
+      "jobs@in.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Information Security Media Group (ISMG)",
+      "legitimacy_score": 65,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board",
+        "Appears to be registered business"
+      ],
+      "last_updated": "2026-11-10T02:38:19.308285+00:00"
+    },
+    "company_legitimacy": 65,
+    "company_summary": "2 positive signals",
+    "score_adjustment": 4,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Information Security Media Gro_Copy Editor_20261110.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Information Security Media Gro_Copy Editor_20261110.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-10T02:38:34.460148+00:00"
+  },
+  {
     "title": "Virtual Assistant for Daily Job Submissions",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
