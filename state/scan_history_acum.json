@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-10-08T11:55:42.377962+00:00",
-    "matched_count": 4,
-    "all_count": 4767,
-    "jobs": [
-      {
-        "title": "English Teacher",
-        "company": "Dominislearning",
-        "url": "https://in.linkedin.com/jobs/view/english-teacher-at-dominislearning-4475776566",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Entry-Level English Teacher",
-        "company": "English 1",
-        "url": "https://au.linkedin.com/jobs/view/entry-level-english-teacher-at-english-1-4476725251",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Computer Science Proofreader",
-        "company": "Cure Organics",
-        "url": "https://in.linkedin.com/jobs/view/computer-science-proofreader-at-cure-organics-4475753940",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      },
-      {
-        "title": "Part Time English Language Teacher",
-        "company": "UNOG - United Nations Office at Geneva",
-        "url": "https://www.impactpool.org/jobs/1239784",
-        "score": 100,
-        "category": "ESL",
-        "source": "impactpool"
-      }
-    ]
-  },
-  {
     "date": "2026-10-08T19:19:16.193993+00:00",
     "matched_count": 4,
     "all_count": 4786,
@@ -3054,6 +3015,61 @@
         "url": "https://eg.linkedin.com/jobs/view/english-language-instructor-at-4level1-4489480056",
         "score": 100,
         "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-10T20:27:12.586224+00:00",
+    "matched_count": 6,
+    "all_count": 4426,
+    "jobs": [
+      {
+        "title": "Tutor Pemahaman Bahasa Inggris",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/english-tutoring/Tutor-Pemahaman-Bahasa-Inggris.html",
+        "score": 97,
+        "category": "ESL",
+        "source": "freelancer"
+      },
+      {
+        "title": "Swedish proofread of AI Website Localisation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/swedish-translator/Swedish-proofread-Website-Localisation",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Mongolian Interview Audio Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/audio-editing/Mongolian-Interview-Audio-Transcription",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Second Language Tutor",
+        "company": "Private Business",
+        "url": "https://eg.linkedin.com/jobs/view/english-second-language-tutor-at-private-business-4489605858",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Proofreader",
+        "company": "Tonic3",
+        "url": "https://www.linkedin.com/jobs/view/proofreader-at-tonic3-4488374859",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      },
+      {
+        "title": "Proofreader",
+        "company": "Tonic3",
+        "url": "https://www.linkedin.com/jobs/view/proofreader-at-tonic3-4489493392",
+        "score": 100,
+        "category": "Editing",
         "source": "linkedin"
       }
     ]
