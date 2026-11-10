@@ -836,5 +836,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-10T13:24:01.894591+00:00"
+  },
+  "Tonic3": {
+    "name": "Tonic3",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-10T20:25:16.875855+00:00"
   }
 }
