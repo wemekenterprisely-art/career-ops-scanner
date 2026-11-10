@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-10-07T13:21:48.081954+00:00",
-    "matched_count": 1,
-    "all_count": 4767,
-    "jobs": [
-      {
-        "title": "Medical Assistant/Certified Phlebotomy Technician (Bilingual English/Arabic))",
-        "company": "URBAN HEALTH PLAN, INC.",
-        "url": "https://www.linkedin.com/jobs/view/medical-assistant-certified-phlebotomy-technician-bilingual-english-arabic-at-urban-health-plan-inc-4475416306",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-07T20:24:20.880884+00:00",
     "matched_count": 4,
     "all_count": 4762,
@@ -3044,6 +3029,21 @@
         "title": "Telugu Proofreader",
         "company": "Prashanthi Balamandira Trust",
         "url": "https://in.linkedin.com/jobs/view/telugu-proofreader-at-prashanthi-balamandira-trust-4488840048",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-10T02:38:47.811530+00:00",
+    "matched_count": 1,
+    "all_count": 4412,
+    "jobs": [
+      {
+        "title": "Copy Editor",
+        "company": "Information Security Media Group (ISMG)",
+        "url": "https://in.linkedin.com/jobs/view/copy-editor-at-information-security-media-group-ismg-4489176371",
         "score": 100,
         "category": "Editing",
         "source": "linkedin"
