@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-10-07T20:24:20.880884+00:00",
-    "matched_count": 4,
-    "all_count": 4762,
-    "jobs": [
-      {
-        "title": "Verbatim Hearing Audio Transcription",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/legal-writing/Verbatim-Hearing-Audio-Transcription.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Digital Operations Virtual Assistant",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/social-media-management/Digital-Operations-Virtual-Assistant",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Arabic-Turkish Translator",
-        "company": "FKH for iron and steel",
-        "url": "https://iq.linkedin.com/jobs/view/arabic-turkish-translator-at-fkh-for-iron-and-steel-4474413610",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "linkedin"
-      },
-      {
-        "title": "English Instructor (Full Time - Part Time)",
-        "company": "4level1",
-        "url": "https://eg.linkedin.com/jobs/view/english-instructor-full-time-part-time-at-4level1-4476765433",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-08T11:55:42.377962+00:00",
     "matched_count": 4,
     "all_count": 4767,
@@ -3046,6 +3007,53 @@
         "url": "https://in.linkedin.com/jobs/view/copy-editor-at-information-security-media-group-ismg-4489176371",
         "score": 100,
         "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-10T13:25:42.667465+00:00",
+    "matched_count": 5,
+    "all_count": 4417,
+    "jobs": [
+      {
+        "title": "Proofread & PDF Conversion -2",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-word/Proofread-PDF-Conversion",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Social Media Content Creator for Restaurant Brand",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/social-media-management/Social-Media-Content-Creator-for-40811002",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Celta or Tefl certified teachers",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/celta-or-tefl-certified-teachers-at-4level1-4489454818",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Teacher (Remote)",
+        "company": "Candellar",
+        "url": "https://mm.linkedin.com/jobs/view/english-teacher-remote-at-candellar-4487998326",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Language Instructor",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/english-language-instructor-at-4level1-4489480056",
+        "score": 100,
+        "category": "ESL",
         "source": "linkedin"
       }
     ]
