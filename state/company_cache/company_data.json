@@ -2,30 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Concept EG": {
-    "name": "Concept EG",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-11T11:21:39.889267+00:00"
-  },
-  "EssentiallySports": {
-    "name": "EssentiallySports",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-11T11:21:39.890501+00:00"
-  },
   "RecruitGo": {
     "name": "RecruitGo",
     "legitimacy_score": 50,
@@ -848,5 +824,17 @@
       "Appears to be registered business"
     ],
     "last_updated": "2026-11-10T02:38:19.308285+00:00"
+  },
+  "Candellar": {
+    "name": "Candellar",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-10T13:24:01.894591+00:00"
   }
 }
