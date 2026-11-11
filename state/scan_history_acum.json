@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-10-08T19:19:16.193993+00:00",
-    "matched_count": 4,
-    "all_count": 4786,
-    "jobs": [
-      {
-        "title": "Ayuda Comprensi\u00f3n de Textos Ingleses",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/english-translation/Ayuda-Comprensi-Textos-Ingleses.html",
-        "score": 97,
-        "category": "ESL",
-        "source": "freelancer"
-      },
-      {
-        "title": "Medical Dissertation Revision: Ophthalmology Study",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/biostatistics/Medical-Dissertation-Revision",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Social Media Content Creator for Skincare Brand",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Social-Media-Content-Creator-for",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Excel, Translation, Canva & CapCut Freelance Services",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/excel/Excel-Translation-Canva-CapCut-Freelance",
-        "score": 72,
-        "category": "Arabic Translation",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-09T00:16:01.646475+00:00",
     "matched_count": 2,
     "all_count": 4758,
@@ -3071,6 +3032,29 @@
         "score": 100,
         "category": "Editing",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-11T00:33:10.779853+00:00",
+    "matched_count": 2,
+    "all_count": 4412,
+    "jobs": [
+      {
+        "title": "Rwanda Medical Council Verification",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/photography/Rwanda-Medical-Council-Verification.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Academic Essay Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/proofreading/Academic-Essay-Proofreading-40812307",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
       }
     ]
   }
