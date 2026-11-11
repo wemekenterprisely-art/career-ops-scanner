@@ -848,5 +848,41 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-10T20:25:16.875855+00:00"
+  },
+  "Gambit Search": {
+    "name": "Gambit Search",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-11T12:37:39.755867+00:00"
+  },
+  "51Talk": {
+    "name": "51Talk",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-11T12:37:39.757089+00:00"
+  },
+  "COREnglish": {
+    "name": "COREnglish",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-11T12:37:39.758110+00:00"
   }
 }
