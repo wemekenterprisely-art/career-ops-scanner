@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-10-09T00:16:01.646475+00:00",
-    "matched_count": 2,
-    "all_count": 4758,
-    "jobs": [
-      {
-        "title": "Academic Proofreading for Applied Sciences Publication",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/academic-writing/Academic-Proofreading-for-Applied",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "English Teacher",
-        "company": "Escape Campus Italia",
-        "url": "https://co.linkedin.com/jobs/view/english-teacher-at-escape-campus-italia-4474844739",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-09T11:44:14.389127+00:00",
     "matched_count": 3,
     "all_count": 4774,
@@ -3054,6 +3031,69 @@
         "url": "https://www.freelancer.com/projects/proofreading/Academic-Essay-Proofreading-40812307",
         "score": 97,
         "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-11T12:39:46.265065+00:00",
+    "matched_count": 7,
+    "all_count": 4440,
+    "jobs": [
+      {
+        "title": "Proofread PDF & Notepad Files",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/adobe-acrobat/Proofread-PDF-Notepad-Files",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Full-Time Female Instagram Manager + Content Creator \u2014 Women's Fashion Wholesale (Mumbai Bandra West, In-Office)",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-creation/Full-Time-Female-Instagram-Manager",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Assistant Manager, Corporate Intelligence (Arabic speaker)",
+        "company": "Gambit Search",
+        "url": "https://uk.linkedin.com/jobs/view/assistant-manager-corporate-intelligence-arabic-speaker-at-gambit-search-4489924524",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Online English Teacher (Fixed Shift)",
+        "company": "51Talk",
+        "url": "https://eg.linkedin.com/jobs/view/online-english-teacher-fixed-shift-at-51talk-4489912994",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Online English Tutor",
+        "company": "COREnglish",
+        "url": "https://hr.linkedin.com/jobs/view/online-english-tutor-at-corenglish-4488214212",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Online English Tutor",
+        "company": "COREnglish",
+        "url": "https://ba.linkedin.com/jobs/view/online-english-tutor-at-corenglish-4487898873",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Multilingual Translation, Transcription & Logo Design",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/logo-design/Multilingual-Translation-Transcription",
+        "score": 97,
+        "category": "Admin",
         "source": "freelancer"
       }
     ]
