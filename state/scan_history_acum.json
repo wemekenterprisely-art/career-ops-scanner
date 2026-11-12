@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-10-09T23:56:36.175416+00:00",
-    "matched_count": 1,
-    "all_count": 4781,
-    "jobs": [
-      {
-        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
-        "company": "English 1",
-        "url": "https://au.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4477632771",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-10T11:09:03.111088+00:00",
     "matched_count": 5,
     "all_count": 4785,
@@ -3070,6 +3055,77 @@
         "url": "https://www.freelancer.com/projects/research-writing/Teaching-Statement-Draft-Needed",
         "score": 97,
         "category": "Arabic Translation",
+        "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-12T13:43:28.785157+00:00",
+    "matched_count": 8,
+    "all_count": 4361,
+    "jobs": [
+      {
+        "title": "Online English Teachers Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/language-tutoring/Online-English-Teachers-Needed",
+        "score": 97,
+        "category": "ESL",
+        "source": "freelancer"
+      },
+      {
+        "title": "Compelling Product Description Copywriting",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/seo-writing/Compelling-Product-Description-40814579",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Integrate New Multilingual Homepage",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/json/Integrate-New-Multilingual-Homepage",
+        "score": 62,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "English as a Foreign Language Teacher",
+        "company": "I CAN READ Indonesia",
+        "url": "https://id.linkedin.com/jobs/view/english-as-a-foreign-language-teacher-at-i-can-read-indonesia-4489078760",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Online Tutor ( IB | IGCSE/Cambridge | GCSE | A-Level | US Curriculum",
+        "company": "eQOURSE",
+        "url": "https://in.linkedin.com/jobs/view/online-tutor-ib-igcse-cambridge-gcse-a-level-us-curriculum-at-eqourse-4488507913",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Language Tutor",
+        "company": "Lima Learning",
+        "url": "https://lb.linkedin.com/jobs/view/language-tutor-at-lima-learning-4488298504",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Gulf Arabic Copywriting & VO",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/arabic-translator/Gulf-Arabic-Copywriting",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Engaging Website Copywriting Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/seo-writing/Engaging-Website-Copywriting-Needed-40814453",
+        "score": 97,
+        "category": "Editing",
         "source": "freelancer"
       }
     ]
