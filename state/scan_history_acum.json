@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-10-09T18:47:56.804362+00:00",
-    "matched_count": 4,
-    "all_count": 4772,
-    "jobs": [
-      {
-        "title": "Proofread Sinhala App Strings",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/translation/Proofread-Sinhala-App-Strings",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Website Migration & UAE PPC Specialist",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/ppc-marketing/Website-Migration-UAE-PPC-Specialist",
-        "score": 97,
-        "category": "Arabic Translation",
-        "source": "freelancer"
-      },
-      {
-        "title": "Online English Teacher",
-        "company": "Connect recruiting Agnecy",
-        "url": "https://vn.linkedin.com/jobs/view/online-english-teacher-at-connect-recruiting-agnecy-4477812370",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "BIL (EN/FR) Proofreader",
-        "company": "Notified",
-        "url": "https://ca.linkedin.com/jobs/view/bil-en-fr-proofreader-at-notified-4477832588",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-09T23:56:36.175416+00:00",
     "matched_count": 1,
     "all_count": 4781,
@@ -3095,6 +3056,21 @@
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-12T01:55:47.929457+00:00",
+    "matched_count": 1,
+    "all_count": 4431,
+    "jobs": [
+      {
+        "title": "Teaching Statement Draft Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/research-writing/Teaching-Statement-Draft-Needed",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
       }
     ]
   }
