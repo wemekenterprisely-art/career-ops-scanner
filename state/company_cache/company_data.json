@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Confidential Careers": {
-    "name": "Confidential Careers",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-14T10:01:35.220195+00:00"
-  },
   "goFLUENT": {
     "name": "goFLUENT",
     "legitimacy_score": 60,
@@ -825,5 +813,42 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-12T13:41:03.373321+00:00"
+  },
+  "Saudi Film Commission": {
+    "name": "Saudi Film Commission",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-13T13:03:03.146515+00:00"
+  },
+  "Hoboetech Pvt. Ltd": {
+    "name": "Hoboetech Pvt. Ltd",
+    "legitimacy_score": 65,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board",
+      "Appears to be registered business"
+    ],
+    "last_updated": "2026-11-13T13:03:03.148008+00:00"
+  },
+  "EnglishParrot": {
+    "name": "EnglishParrot",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-13T13:03:03.149276+00:00"
   }
 }
