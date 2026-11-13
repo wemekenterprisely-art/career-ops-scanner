@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-10-10T23:30:35.032733+00:00",
-    "matched_count": 6,
-    "all_count": 4781,
-    "jobs": [
-      {
-        "title": "DTP Operator & Academic Content Writer Wanted",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/academic-writing/DTP-Operator-Academic-Content-Writer",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Humanities Research Proofreading",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/writing/Humanities-Research-Proofreading",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "International Audio/Video Remote Kurdish and Arabic or Persian Interpreter",
-        "company": "Language Services Associates",
-        "url": "https://jobicy.com/jobs/154979-international-audio-video-remote-kurdish-and-arabic-or-persian-interpreter",
-        "score": 77,
-        "category": "Arabic Translation",
-        "source": "jobicy"
-      },
-      {
-        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
-        "company": "English 1",
-        "url": "https://ie.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4478033622",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "2026-2027 Substitute Adult Education Teacher - ESL All Levels",
-        "company": "Torrance Unified School District",
-        "url": "https://ca.linkedin.com/jobs/view/2026-2027-substitute-adult-education-teacher-esl-all-levels-at-torrance-unified-school-district-4476883132",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Social Science Proofreader & Editor",
-        "company": "Cure Organics",
-        "url": "https://in.linkedin.com/jobs/view/social-science-proofreader-editor-at-cure-organics-4477238008",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-11T11:23:23.224524+00:00",
     "matched_count": 6,
     "all_count": 4779,
@@ -3078,6 +3023,69 @@
         "score": 87,
         "category": "Editing",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13T13:05:10.993999+00:00",
+    "matched_count": 7,
+    "all_count": 4396,
+    "jobs": [
+      {
+        "title": "Social Media Content Creator \u2013 Image & Video Content for EdTech Brand",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/graphic-design/Social-Media-Content-Creator-Image",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Scanned Document Data Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-management/Scanned-Document-Data-Entry-40816399",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Beginner Data Entry Typist",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-word/Beginner-Data-Entry-Typist",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Translation Manager / Senior Translator / Arabic Translator / English Translator",
+        "company": "Saudi Film Commission",
+        "url": "https://ae.linkedin.com/jobs/view/translation-manager-senior-translator-arabic-translator-english-translator-at-saudi-film-commission-4488928757",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "French And Arabic Speaker",
+        "company": "Hoboetech Pvt. Ltd",
+        "url": "https://pk.linkedin.com/jobs/view/french-and-arabic-speaker-at-hoboetech-pvt-ltd-4488914366",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Online English Tutor",
+        "company": "COREnglish",
+        "url": "https://mk.linkedin.com/jobs/view/online-english-tutor-at-corenglish-4488937270",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Tutor",
+        "company": "EnglishParrot",
+        "url": "https://in.linkedin.com/jobs/view/english-tutor-at-englishparrot-4489092283",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
       }
     ]
   }
