@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "goFLUENT": {
-    "name": "goFLUENT",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-14T17:56:18.636373+00:00"
-  },
   "Albion Business School": {
     "name": "Albion Business School",
     "legitimacy_score": 60,
@@ -850,5 +838,27 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-13T13:03:03.149276+00:00"
+  },
+  "Who Gives A Crap": {
+    "name": "Who Gives A Crap",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-11-13T20:27:56.292439+00:00"
+  },
+  "LANGUAGE POINT": {
+    "name": "LANGUAGE POINT",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-13T20:27:56.293737+00:00"
   }
 }
