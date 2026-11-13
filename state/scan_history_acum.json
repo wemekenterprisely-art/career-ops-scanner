@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-10-11T11:23:23.224524+00:00",
-    "matched_count": 6,
-    "all_count": 4779,
-    "jobs": [
-      {
-        "title": "Telugu Lecture Transcription Needed",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/audio-editing/Telugu-Lecture-Transcription-Needed",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Online English Instructor",
-        "company": "Hi-Q Academy",
-        "url": "https://eg.linkedin.com/jobs/view/online-english-instructor-at-hi-q-academy-4478301604",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
-        "company": "English 1",
-        "url": "https://ca.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4478086707",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
-        "company": "English 1",
-        "url": "https://ca.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4478096227",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "English Second Language Instructor",
-        "company": "Concept EG",
-        "url": "https://eg.linkedin.com/jobs/view/english-second-language-instructor-at-concept-eg-4478311146",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Sports Content Editor",
-        "company": "EssentiallySports",
-        "url": "https://in.linkedin.com/jobs/view/sports-content-editor-at-essentiallysports-4475618656",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-11T18:00:16.009686+00:00",
     "matched_count": 1,
     "all_count": 4771,
@@ -3083,6 +3028,53 @@
         "title": "English Tutor",
         "company": "EnglishParrot",
         "url": "https://in.linkedin.com/jobs/view/english-tutor-at-englishparrot-4489092283",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13T20:29:29.306965+00:00",
+    "matched_count": 5,
+    "all_count": 4385,
+    "jobs": [
+      {
+        "title": "Content Creator \u2013 Short Form Video & AI Content",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-creation/Content-Creator-Short-Form-Video",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Junior Copywriter",
+        "company": "Who Gives A Crap",
+        "url": "https://jobicy.com/jobs/161948-junior-copywriter",
+        "score": 100,
+        "category": "Editing",
+        "source": "jobicy"
+      },
+      {
+        "title": "Bilingual (Arabic/English) Social Media & Performance Marketer \u2013 Multi-Brand (UAE)",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/social-media-management/Bilingual-Arabic-English-Social-Media",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Virtual Assistant for Marketing Automation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/video-editing/Virtual-Assistant-for-Marketing",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Qualified ESL Teachers for Young Learners",
+        "company": "LANGUAGE POINT",
+        "url": "https://it.linkedin.com/jobs/view/qualified-esl-teachers-for-young-learners-at-language-point-4488237246",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
