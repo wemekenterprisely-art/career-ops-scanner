@@ -860,5 +860,15 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-13T20:27:56.293737+00:00"
+  },
+  "micro1": {
+    "name": "micro1",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-11-14T00:48:54.608424+00:00"
   }
 }
