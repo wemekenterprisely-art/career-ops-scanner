@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-10-12T21:43:59.972484+00:00",
-    "matched_count": 4,
-    "all_count": 4772,
-    "jobs": [
-      {
-        "title": "Resume Writer for Virtual Assistant Roles",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/administrative-support/Resume-Writer-for-Virtual-Assistant",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Language Tutor Student Recruitment Specialist",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/marketing/Language-Tutor-Student-Recruitment",
-        "score": 97,
-        "category": "ESL",
-        "source": "freelancer"
-      },
-      {
-        "title": "Instagram Game Content Creator",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/video-editing/Instagram-Game-Content-Creator",
-        "score": 87,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Copy Editor Senior",
-        "company": "Capital Group",
-        "url": "https://ca.linkedin.com/jobs/view/copy-editor-senior-at-capital-group-4477904839",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-13T01:57:24.961077+00:00",
     "matched_count": 1,
     "all_count": 4767,
@@ -3141,6 +3102,29 @@
         "company": "Freelancer.com",
         "url": "https://www.freelancer.com/projects/script-writing/Full-Service-YouTube-Content-Creation",
         "score": 67,
+        "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-14T23:49:41.910387+00:00",
+    "matched_count": 2,
+    "all_count": 4318,
+    "jobs": [
+      {
+        "title": "Accurate Handwritten Document Typing",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/transcription/Accurate-Handwritten-Document-Typing-40818511.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofreading, Editing, and Cover Design for Seven Books",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/editing/Proofreading-Editing-Cover-Design-for",
+        "score": 97,
         "category": "Editing",
         "source": "freelancer"
       }
