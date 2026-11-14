@@ -1089,6 +1089,120 @@
     "scan_date": "2026-11-14T00:49:05.750104+00:00"
   },
   {
+    "title": "Arabic Linguistic Expert",
+    "company": "Gradient Consulting",
+    "url": "https://no.linkedin.com/jobs/view/arabic-linguistic-expert-at-gradient-consulting-4489311026",
+    "location": "Remote \u2014 Time, Rogaland, Norway",
+    "posted": "2026-11-14",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "arabic translator",
+    "postedISO": "2026-11-14T00:00:00",
+    "score": 100,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic translator translation interpreter linguist editor proofreader content writer qa tester localis (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 11.976063804444445,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills, with some experience in these areas."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in ESL teaching, academic supervision, and language translation, with a strong background in academic services."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work, academic environment, and strong fit with the career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide location, compatible with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward senior translator or academic coordinator role, aligns with career goals."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills in Arabic and English",
+        "Experience in ESL teaching and academic supervision",
+        "Strong career alignment"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag's strong fit for the Arabic Linguistic Expert role at Gradient Consulting aligns perfectly with his background and career aspirations. His skills and experience make him a strong candidate for this position.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation in your work? 3. Can you describe a time when you had to translate a complex document and how did you handle it?",
+      "one_line_summary": "Waleed Ballag's strong fit for the Arabic Linguistic Expert role at Gradient Consulting aligns perfectly with his background and career aspirations."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the Arabic Linguistic Expert role at Gradient Consulting aligns perfectly with his background and career aspirations.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills in Arabic and English",
+      "Experience in ESL teaching and academic supervision",
+      "Strong career alignment"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong fit for the Arabic Linguistic Expert role at Gradient Consulting aligns perfectly with his background and career aspirations. His skills and experience make him a strong candidate for this position.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation in your work? 3. Can you describe a time when you had to translate a complex document and how did you handle it?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare)",
+    "email_guessed": true,
+    "hiring_email": "careers@no.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@no.linkedin.com",
+      "hr@no.linkedin.com",
+      "jobs@no.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Gradient Consulting",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-14T12:00:33.615434+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am thrilled to apply for the Arabic Linguistic Expert position at Gradient Consulting, as I have aligned my skills perfectly with your requirements. My educational background in Applied Linguistics and my experience as an ESL teacher at esteemed institutions provide me with the expertise needed to excel in this role. My commitment to academic integrity and the ability to produce high-quality work are key factors in my application.",
+      "experience": "My experience as an ESL teacher at the Higher Institute of Science and Technology and the Anwar Al-Hayat School for Private Education has honed my ability to deliver effective instruction and manage diverse language learning environments. I have also held the role of Secondary Supervisor and Partner, where I have managed teams and provided academic guidance, showcasing my organizational and leadership skills.",
+      "skills": "I possess a comprehensive set of skills that perfectly match the requirements of an Arabic Linguistic Expert. My proficiency in academic supervision, research guidance, and academic editing is crucial for the position. I can confidently execute online and in-person teaching, contribute to curriculum development, and provide accurate translations, including Arabic-English bidirectional translation and legal translation. My experience with Microsoft Office Suite and Adobe Photoshop, along with my expertise in SPSS Statistical Analysis, further enhances my capabilities.",
+      "closing": "I am eager to discuss how my skills and experience align with the demands of this position and am available for an interview. I look forward to the possibility of contributing to Gradient Consulting\u2019s mission and contributing to the growth of language education."
+    },
+    "cover_letter_path": "",
+    "cover_letter_type": "error",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Gradient Consulting_Arabic Linguistic Expert_20261114.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-14T12:01:14.198672+00:00"
+  },
+  {
     "title": "Teaching Statement Draft Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/research-writing/Teaching-Statement-Draft-Needed",
@@ -2362,6 +2476,174 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-11-13T20:29:10.042700+00:00"
+  },
+  {
+    "title": "Excel Text Proofreading & Correction",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/english-grammar/Excel-Text-Proofreading-Correction",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-14T08:58:57+00:00",
+    "description": "I have several Excel spreadsheets populated with English text that now need a sharp editorial eye. Your job is to open each sheet, read every text-based cell, and correct any spelling errors you spot. Whenever a description sentence feels awkward or ungrammatical, please refine the wording so it reads naturally in standard business English. Because these are working files, I want the edits returned in the same Excel format. Highlight the cells you adjust\u2014either with a light fill colour or an in-cell comment\u2014so I can review your changes at a glance. Nothing else in the file should be altered; keep formulas, numeric data and existing formatting intact. Deliverable \u2022 The original spreadsheets returned with all spelling and grammar fixes clearly marked. If you\u2019re comfortable proofreading directly inside Excel and can turn this around quickly, I\u2019d love to hear from you.",
+    "salary": "750.0-1250.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-11-14T08:58:57+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.9935751594444446,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires proofreading and correction of English text in Excel spreadsheets, which aligns with the candidate's experience in academic supervision and editing. The candidate has also worked in legal translation and procurement, which are relevant skills for this role."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has direct experience in academic supervision and editing, which is relevant to the proofreading and correction task. The candidate has also worked in legal translation, which is a key skill for this job."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic supervision and editing aligns well with the proofreading task. The candidate's experience in legal translation and procurement is also relevant to this job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is comfortable working worldwide. There are no specific country requirements or visa sponsorship needed."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the role, as they aim to secure stable remote work in translation or ESL teaching, and build long-term client relationships in academic services."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Supervision",
+        "Legal Translation",
+        "Proofreading Skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate's strong background in academic supervision, legal translation, and proofreading skills make them a strong fit for this role. They can quickly adapt to the proofreading task and contribute effectively to the team.",
+      "interview_prep": "1. Can you describe a time when you had to proofread and correct academic writing? 2. How do you approach legal translations in a professional setting? 3. Can you share an experience where you had to refine a description sentence to make it sound more natural in standard business English?",
+      "one_line_summary": "A strong fit for a remote proofreading role with proven experience in academic supervision, legal translation, and proofreading."
+    },
+    "ai_insight": "A strong fit for a remote proofreading role with proven experience in academic supervision, legal translation, and proofreading.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Supervision",
+      "Legal Translation",
+      "Proofreading Skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate's strong background in academic supervision, legal translation, and proofreading skills make them a strong fit for this role. They can quickly adapt to the proofreading task and contribute effectively to the team.",
+    "ai_interview_prep": "1. Can you describe a time when you had to proofread and correct academic writing? 2. How do you approach legal translations in a professional setting? 3. Can you share an experience where you had to refine a description sentence to make it sound more natural in standard business English?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am excited to apply for the Excel Text Proofreading & Correction position at Freelancer.com, as this role aligns perfectly with my skills and experience in academic editing, cross-cultural communication, and academic translation. My ability to refine awkward phrases and correct spelling errors in Excel spreadsheets is particularly relevant, and I am eager to contribute to the team's ongoing success.",
+      "experience": "My extensive experience in ESL instruction, including secondary supervision and partner roles, has honed my skills in academic editing and correction. I have also taught Arabic-English translation, further emphasizing my ability to bridge linguistic and cultural barriers, which is crucial for this role.",
+      "skills": "In line with the requirement to return edits in the same Excel format, my skills include academic editing, thesis writing, and ESL/EFL instruction. I possess a deep understanding of cross-cultural communication and am adept at using Microsoft Office Suite, Adobe Photoshop, and SPSS Statistical Analysis.",
+      "closing": "With a strong commitment to academic integrity and a proven track record of excellence, I am eager to contribute to Freelancer.com's team. Please consider scheduling an interview to discuss how my experience and skills can best serve the company\u2019s needs. I look forward to the opportunity to discuss this further."
+    },
+    "cover_letter_path": "",
+    "cover_letter_type": "error",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Excel Text Proofreading & Correction_20261114.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-14T12:01:14.198672+00:00"
+  },
+  {
+    "title": "Handwritten Notes Typist Needed",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/typing/Handwritten-Notes-Typist-Needed",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-14T04:49:21+00:00",
+    "description": "I have a steady stream of handwritten notes that must be turned into clean, accurately typed English documents. The pages you will receive are often difficult to read, so I rely on you to make the best reasonable guess whenever a word or section is unclear. Your focus is purely on fast, precise keyboarding\u2014no translation, design, or complex data work is involved. You\u2019ll regularly receive scans of these notes and return polished Word or Google Docs files ready for immediate use. Strong English spelling and grammar, a reliable computer setup, and the discipline to meet agreed-upon deadlines are essential. If you thrive on detail, enjoy puzzling out tricky handwriting, and can keep a brisk, consistent pace, I\u2019d like to work with you.",
+    "salary": "15.0-25.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-14T04:49:21+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 7.153566111111111,
+    "ai_insight": "Waleed Ballag's ESL teaching experience is a strong fit for this job because he has the practical skills needed to quickly and accurately transcribe handwritten notes into clean, readable English documents. His academic supervision experience is also relevant, as he can manage the complexity of tran",
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am excited to apply for the Handwritten Notes Typist Position at Freelancer.com, as this opportunity aligns perfectly with my skills and experience in academic translation and editing.",
+      "experience": "In my previous roles as an ESL Teacher at various educational institutions, I have honed my ability to translate complex academic texts and provide feedback on student work. My experience has equipped me with the necessary skills to accurately interpret handwritten notes and produce clean, professional documents.",
+      "skills": "My educational background in applied linguistics and teaching English as a second/foreign language, combined with my experience as a secondary supervisor and teacher, have prepared me to excel in the role of a handwritten notes typist. My proficiency in academic editing, translation, and curriculum development is well-suited for the meticulous work required in this position.",
+      "closing": "I am eager to contribute my expertise in academic translation and editing to your team at Freelancer.com. Please find me at your earliest convenience for an interview. I look forward to the opportunity to discuss how my skills can be utilized in this role and how I can bring value to your organization."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Handwritten Notes Typist Needed_20261114.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Handwritten Notes Typist Needed_20261114.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-14T12:01:14.198672+00:00"
   },
   {
     "title": "Social Media Copywriter Needed",
