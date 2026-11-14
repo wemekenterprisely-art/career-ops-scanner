@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-10-11T23:33:16.628590+00:00",
-    "matched_count": 0,
-    "all_count": 4785,
-    "jobs": []
-  },
-  {
     "date": "2026-10-12T12:56:03.946888+00:00",
     "matched_count": 4,
     "all_count": 4765,
@@ -3078,6 +3072,37 @@
         "score": 100,
         "category": "ESL",
         "source": "himalayas"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-14T12:01:33.500450+00:00",
+    "matched_count": 3,
+    "all_count": 4381,
+    "jobs": [
+      {
+        "title": "Excel Text Proofreading & Correction",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/english-grammar/Excel-Text-Proofreading-Correction",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Handwritten Notes Typist Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/typing/Handwritten-Notes-Typist-Needed",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Arabic Linguistic Expert",
+        "company": "Gradient Consulting",
+        "url": "https://no.linkedin.com/jobs/view/arabic-linguistic-expert-at-gradient-consulting-4489311026",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
       }
     ]
   }
