@@ -972,6 +972,123 @@
     "scan_date": "2026-11-13T20:29:10.042700+00:00"
   },
   {
+    "title": "English Language Expert (Ireland)",
+    "company": "micro1",
+    "url": "https://himalayas.app/companies/micro1/jobs/english-language-expert-ireland?utm_source=api",
+    "location": "Ireland",
+    "posted": 1794608438,
+    "description": "Role Title: English Language Expert (Ireland) Role Type: Contractor Location: Ireland, Remote micro1 is engaging English Language Experts (Ireland) to participate in a specialized audio annotation project centered on Irish English for a customer initiative. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Generalists with strong language backgrounds\u2014such as in language teaching, transcription, editing, translation, or journalism\u2014are encouraged to express interest. A background in linguistics is not required, but familiarity with a range of Irish English varieties, from Dublin to Munster, Connacht, Ulster, and beyond, is valued. Scope of Work Listen to and analyze multi-speaker conversational audio with diverse Irish English dialects and accents. Tag and annotate audio and speaker metadata, including quality, noise level, dialect, accent, speaking style, and age. Review and correct automatic speech recognition (ASR) transcript outputs using Irish English spelling, syntax, and idioms. Identify and document unique vocabulary, slang, and grammatical features specific to Irish English variants. Provide detailed feedback and insights to enhance the accuracy of language models and annotation guidelines.. Preferred Qualifications Fluency in Irish English, with comprehensive exposure to various Irish dialects and accents. Background in language teaching, transcription, editing, translation, journalism, or similar language-centric work. Keen ear for phonetic distinctions, regional pronunciation, and Hiberno-English grammatical structures. Experience with transcription or annotation tools is advantageous but not mandatory. Strong command of Irish English vocabulary, idioms, and spelling conventions, including regional slang. Exceptional written and verbal communication skills, with attention to detail and accuracy. Interest in contributing to projects that advance AI and language technology using authentic linguistic expertise. Originally posted on Himalayas",
+    "salary": "",
+    "source": "himalayas",
+    "postedISO": "2026-11-13T22:20:38+00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 2.455785771388889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches ESL/EFL instruction, academic supervision, and language skills"
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "Related to academic supervision and research guidance, but not directly in translation or teaching"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment, and compatible with the job's requirements"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job's requirements"
+      },
+      "career_alignment": {
+        "score": 80,
+        "reason": "Builds toward translation/teaching/academic career, with potential for senior roles"
+      },
+      "overall_score": 80,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Remote work"
+      ],
+      "gaps": [
+        "No direct experience in engineering or development"
+      ],
+      "recommendation": "Waleed Ballag's background in ESL/EFL instruction and academic supervision aligns well with the 'English Language Expert' role. His experience in academic supervision and research guidance, combined with his language skills and expertise in bidirectional translation, make him a strong fit for this position. His ability to work remotely and maintain a flexible work environment will likely be a significant advantage.",
+      "interview_prep": [
+        "Can you describe a time when you supervised a research study in an academic setting?",
+        "How do you approach translating legal documents for a client?",
+        "Can you walk us through a typical day in your role as an ESL instructor?"
+      ],
+      "one_line_summary": "A seasoned ESL instructor and academic supervisor with a strong background in language skills and research supervision is well-suited for the 'English Language Expert' role."
+    },
+    "ai_insight": "A seasoned ESL instructor and academic supervisor with a strong background in language skills and research supervision is well-suited for the 'English Language Expert' role.",
+    "ai_overall_score": 80,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or development"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in ESL/EFL instruction and academic supervision aligns well with the 'English Language Expert' role. His experience in academic supervision and research guidance, combined with his language skills and expertise in bidirectional translation, make him a strong fit for this position. His ability to work remotely and maintain a flexible work environment will likely be a significant advantage.",
+    "ai_interview_prep": [
+      "Can you describe a time when you supervised a research study in an academic setting?",
+      "How do you approach translating legal documents for a client?",
+      "Can you walk us through a typical day in your role as an ESL instructor?"
+    ],
+    "ai_technical_skills": 80,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 80,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@himalayas.app",
+    "email_verified": false,
+    "all_emails": [
+      "careers@himalayas.app",
+      "hr@himalayas.app",
+      "jobs@himalayas.app"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "micro1",
+      "legitimacy_score": 50,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [],
+      "last_updated": "2026-11-14T00:48:54.608424+00:00"
+    },
+    "company_legitimacy": 50,
+    "company_summary": "",
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my strong interest in the English Language Expert (Ireland) role at micro1. This position aligns perfectly with my academic background and professional experience, which I am excited to contribute to the audio annotation project for the customer initiative.",
+      "experience": "In my role as an ESL Teacher & Secondary Supervisor at Higher Institute of Science and Technology, I have honed my skills in teaching and curriculum development. Additionally, my experience as an ESL Teacher & Partner at Al-Safwa Smart School for Private Education has equipped me with the ability to mentor students effectively and manage educational programs. My work at Anwar Al-Hayat School for Private Education has also taught me the importance of online and in-person teaching methods.",
+      "skills": "I am proficient in Academic Supervision & Research Guidance, Academic Editing & Thesis Review, Thesis Writing & Development, ESL/EFL Instruction, Online & In-person Teaching, Curriculum Development, Arabic-English Bidirectional Translation, Academic Translation, Legal Translation, Microsoft Office Suite (Expert), Adobe Photoshop, SPSS Statistical Analysis, and have a native proficiency in Arabic and advanced fluency in English.",
+      "closing": "I am available for an interview at your convenience and look forward to discussing how I can contribute to the English Language Expert (Ireland) role at micro1. Thank you for considering my application. I believe my skills and experiences make me a valuable addition to your team."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/micro1_English Language Expert (Ireland)_20261114.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/micro1_English Language Expert (Ireland)_20261114.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-14T00:49:05.750104+00:00"
+  },
+  {
     "title": "Teaching Statement Draft Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/research-writing/Teaching-Statement-Draft-Needed",
