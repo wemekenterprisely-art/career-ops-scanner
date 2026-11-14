@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-10-12T12:56:03.946888+00:00",
-    "matched_count": 4,
-    "all_count": 4765,
-    "jobs": [
-      {
-        "title": "Executive Assistant (Outreach & Marketing)",
-        "company": "RecruitGo",
-        "url": "https://himalayas.app/companies/recruitgo/jobs/executive-assistant-outreach-marketing",
-        "score": 100,
-        "category": "Admin",
-        "source": "himalayas"
-      },
-      {
-        "title": "JioMart-Meesho Fashion Content Writer",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/fashion-writing/JioMart-Meesho-Fashion-Content-Writer",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Arabic Editor and Language Specialist (National / Regional)",
-        "company": "Chemonics UK",
-        "url": "https://sy.linkedin.com/jobs/view/arabic-editor-and-language-specialist-national-regional-at-chemonics-uk-4477526198",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "linkedin"
-      },
-      {
-        "title": "English ESL Teacher",
-        "company": "Elevate",
-        "url": "https://cn.linkedin.com/jobs/view/english-esl-teacher-at-elevate-4478513025",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-12T21:43:59.972484+00:00",
     "matched_count": 4,
     "all_count": 4772,
@@ -3103,6 +3064,85 @@
         "score": 100,
         "category": "Arabic Translation",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-14T18:41:55.165918+00:00",
+    "matched_count": 9,
+    "all_count": 4327,
+    "jobs": [
+      {
+        "title": "Excel Data Entry Kaam",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-management/Excel-Data-Entry-Kaam.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Romantic Narrative Poem Creation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Romantic-Narrative-Poem-Creation.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Romantic Story Proofreading Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copy-editing/Romantic-Story-Proofreading-Needed",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Hard-to-Read Handwriting Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copy-editing/Hard-Read-Handwriting-Transcription",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Sehyog: Senior English Tutor (UK Curriculum)",
+        "company": "Sehyog",
+        "url": "https://weworkremotely.com/remote-jobs/sehyog-senior-english-tutor-uk-curriculum",
+        "score": 100,
+        "category": "ESL",
+        "source": "weworkremotely"
+      },
+      {
+        "title": "Professional Proofreader Needed for Document Editing and Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/writing/Professional-Proofreader-Needed-for",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofreader Needed for Grammar Corrections",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copy-editing/Proofreader-Needed-for-Grammar",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "ComPsych Corporation: \u0645\u0633\u062a\u0634\u0627\u0631 \u062a\u0648\u062c\u064a\u0647 (Guidance Consultant)",
+        "company": "ComPsych Corporation",
+        "url": "https://weworkremotely.com/remote-jobs/compsych-corporation-guidance-consultant",
+        "score": 72,
+        "category": "Arabic Translation",
+        "source": "weworkremotely"
+      },
+      {
+        "title": "Full-Service YouTube Content Creation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/script-writing/Full-Service-YouTube-Content-Creation",
+        "score": 67,
+        "category": "Editing",
+        "source": "freelancer"
       }
     ]
   }
