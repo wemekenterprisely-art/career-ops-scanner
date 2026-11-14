@@ -870,5 +870,17 @@
     "red_flags": [],
     "positive_signals": [],
     "last_updated": "2026-11-14T00:48:54.608424+00:00"
+  },
+  "Gradient Consulting": {
+    "name": "Gradient Consulting",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-14T12:00:33.615434+00:00"
   }
 }
