@@ -2,30 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Leidos": {
-    "name": "Leidos",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-16T22:43:52.795211+00:00"
-  },
-  "Legal & Teaching Jobs for Foreign Teachers in Vietnam": {
-    "name": "Legal & Teaching Jobs for Foreign Teachers in Vietnam",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-16T22:43:52.796435+00:00"
-  },
   "Elevate": {
     "name": "Elevate",
     "legitimacy_score": 60,
