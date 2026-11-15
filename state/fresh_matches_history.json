@@ -4074,6 +4074,60 @@
     "scan_date": "2026-11-15T19:23:53.838247+00:00"
   },
   {
+    "title": "US/Canada Virtual Assistant Needed",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/social-media-management/Canada-Virtual-Assistant-Needed.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Sun, 15 Nov 2026 17:53:00 -0500",
+    "description": "I run a busy, growing company and want to keep the back-office humming without slipping on customer-facing consistency. The role is long-term and hands-on, centred on three pillars: \u2022 Daily inbox control... (Budget: $250 - $750 USD, Jobs: Content Creation, Customer Service, Data Entry, Data Processing, Excel, Google Sheets, Social Media Management, Virtual Assistant)",
+    "salary": "$250",
+    "source": "freelancer",
+    "postedISO": "2026-11-15T17:53:00-05:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.9966819855555555,
+    "ai_insight": "Waleed Ballag's ESL teaching experience and academic supervision skills make this job a perfect fit for him. His ability to manage a busy company and ensure consistent quality in customer-facing interactions aligns well with the administrative tasks required for the virtual assistant role. Additiona",
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_US-Canada Virtual Assistant Needed_20261116.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_US-Canada Virtual Assistant Needed_20261116.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-15T23:54:13.403847+00:00"
+  },
+  {
     "title": "Social Media Copywriter Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/social-media-marketing/Social-Media-Copywriter-Needed-40815640",
