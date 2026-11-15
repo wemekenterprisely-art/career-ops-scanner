@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-10-13T12:36:26.147515+00:00",
-    "matched_count": 3,
-    "all_count": 4684,
-    "jobs": [
-      {
-        "title": "Customer Service Virtual Assistant",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/customer-service/Customer-Service-Virtual-Assistant-40765136",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Translator (English, French & Arabic)",
-        "company": "Manpower Middle East",
-        "url": "https://ae.linkedin.com/jobs/view/translator-english-french-arabic-at-manpower-middle-east-4476421848",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "linkedin"
-      },
-      {
-        "title": "English Teacher",
-        "company": "Roeya Academy",
-        "url": "https://eg.linkedin.com/jobs/view/english-teacher-at-roeya-academy-4478765868",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-13T19:49:44.811102+00:00",
     "matched_count": 3,
     "all_count": 4745,
@@ -3135,6 +3104,61 @@
         "score": 97,
         "category": "Admin",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-15T19:24:10.824768+00:00",
+    "matched_count": 6,
+    "all_count": 4363,
+    "jobs": [
+      {
+        "title": "Accurate Academic Document Translation and Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/english-us-translator/Accurate-Academic-Document-Translation",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Long Term Virtual Assistant Needed only- Canada & US !",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-office/Long-Term-Virtual-Assistant-Needed",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://au.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4491252373",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://au.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4491251413",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Remote ESL Teacher for Young Learners | Online Teaching Jobs for American Expats",
+        "company": "The Really Great Teacher Company",
+        "url": "https://th.linkedin.com/jobs/view/remote-esl-teacher-for-young-learners-online-teaching-jobs-for-american-expats-at-the-really-great-teacher-company-4489364306",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "SEO Content Editor - Native or Expert English Capability",
+        "company": "Premier Online Marketing",
+        "url": "https://mx.linkedin.com/jobs/view/seo-content-editor-native-or-expert-english-capability-at-premier-online-marketing-4490239398",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
       }
     ]
   }
