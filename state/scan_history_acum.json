@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-10-13T19:49:44.811102+00:00",
-    "matched_count": 3,
-    "all_count": 4745,
-    "jobs": [
-      {
-        "title": "Annual Marketing Communications Proofreader",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/proofreading/Annual-Marketing-Communications",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "EN-IT Marketing Material Translation",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/brochure-design/Marketing-Material-Translation",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Legal Analyst (Bilingual) Arabic & English",
-        "company": "WhiteCrow Research",
-        "url": "https://za.linkedin.com/jobs/view/legal-analyst-bilingual-arabic-english-at-whitecrow-research-4478798780",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-13T23:43:11.311998+00:00",
     "matched_count": 2,
     "all_count": 4740,
@@ -3159,6 +3128,21 @@
         "score": 100,
         "category": "Editing",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-15T23:54:29.408535+00:00",
+    "matched_count": 1,
+    "all_count": 4363,
+    "jobs": [
+      {
+        "title": "US/Canada Virtual Assistant Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/social-media-management/Canada-Virtual-Assistant-Needed.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
       }
     ]
   }
