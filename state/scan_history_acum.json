@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-10-13T01:57:24.961077+00:00",
-    "matched_count": 1,
-    "all_count": 4767,
-    "jobs": [
-      {
-        "title": "Online English Teacher \u2013 Native Speaker | TEFL/TESOL/Qualified Teacher",
-        "company": "Elite Global Academy",
-        "url": "https://uk.linkedin.com/jobs/view/online-english-teacher-%E2%80%93-native-speaker-tefl-tesol-qualified-teacher-at-elite-global-academy-4476042226",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-13T12:36:26.147515+00:00",
     "matched_count": 3,
     "all_count": 4684,
@@ -3126,6 +3111,29 @@
         "url": "https://www.freelancer.com/projects/editing/Proofreading-Editing-Cover-Design-for",
         "score": 97,
         "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-15T12:37:59.295022+00:00",
+    "matched_count": 2,
+    "all_count": 4380,
+    "jobs": [
+      {
+        "title": "Data Entry + Video Edit.",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Data-Entry-Branded-Video-Edits",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Transcribe Handwritten Notes into Word",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-word/Transcribe-Handwritten-Notes-into-Word.html",
+        "score": 97,
+        "category": "Admin",
         "source": "freelancer"
       }
     ]
