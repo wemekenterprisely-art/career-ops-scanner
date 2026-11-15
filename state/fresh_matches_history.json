@@ -3214,6 +3214,213 @@
     "scan_date": "2026-11-14T23:49:24.811382+00:00"
   },
   {
+    "title": "Data Entry + Video Edit.",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Data-Entry-Branded-Video-Edits",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-15T12:30:50+00:00",
+    "description": "I\u2019m looking for one reliable freelancer who can handle two parallel tasks for me: 1. Data entry \u2013 I have a batch of documents, scanned forms, and images that need to be transcribed accurately and organized into a clean spreadsheet. Consistent formatting, correct spelling, and basic data validation matter more to me than sheer speed. I\u2019ll supply the source files and a template; you return a fully populated sheet free of typos. 2. Branded video editing \u2013 Alongside the data work, I need short product- or business-focused videos polished for our website and socials. Typical edits include trimming raw clips, dropping in my logo, adding on-brand text overlays, inserting still images, and balancing audio. Smooth transitions and export in HD (MP4, 1080p) are all I require; advanced motion graphics aren\u2019t necessary. I prefer someone comfortable jumping between Google Sheets or Excel for the data and Premiere Pro, Final Cut, or DaVinci Resolve for the edits. If you can keep file names consistent, follow simple style guidelines I\u2019ll share, and meet agreed deadlines, this should be straightforward. Deliverables: \u2022 Completed spreadsheet with every field filled from the supplied documents \u2022 3\u20135 finished videos per week, ready to publish (title-safe, branded, and properly exported) Accuracy in the data and a professional, cohesive look in the videos will be the benchmarks I use to sign off each milestone.",
+    "salary": "250.0-750.0 CAD",
+    "source": "freelancer",
+    "postedISO": "2026-11-15T12:30:50+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.026414568611111112,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires data entry and video editing, which can be done using Google Sheets and Premiere Pro, respectively, without requiring advanced programming skills."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and video editing, which are relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate is flexible and can work remotely, which aligns well with the job's remote nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preference."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the job's requirements, including stable remote work, client relationships, and academic research supervision."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Remote work flexibility",
+        "Academic background"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Data Entry + Video Edit job. His ability to work remotely and his academic background in linguistics make him well-suited for the role. He can contribute to the data entry and video editing tasks efficiently and effectively.",
+      "one_line_summary": "A strong fit for the Data Entry + Video Edit job due to his remote work flexibility and academic background."
+    },
+    "ai_insight": "A strong fit for the Data Entry + Video Edit job due to his remote work flexibility and academic background.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Remote work flexibility",
+      "Academic background"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Data Entry + Video Edit job. His ability to work remotely and his academic background in linguistics make him well-suited for the role. He can contribute to the data entry and video editing tasks efficiently and effectively.",
+    "ai_interview_prep": "",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Data Entry + Video Edit._20261115.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Data Entry + Video Edit._20261115.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-15T12:37:37.751760+00:00"
+  },
+  {
+    "title": "Transcribe Handwritten Notes into Word",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/microsoft-word/Transcribe-Handwritten-Notes-into-Word.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Sun, 15 Nov 2026 06:26:33 -0500",
+    "description": "I have a stack of handwritten sheets that I need converted into a clean Word document. Every word, abbreviation, and line break must appear exactly as it does on the original pages\u2014no corrections, edits, or re-writes... (Budget: $15 - $25 USD, Jobs: Content Writing, Copy Typing, Data Entry, Editing, Microsoft Word, Proofreading, Transcription, Typing, Word, Word Processing)",
+    "salary": "$15",
+    "source": "freelancer",
+    "postedISO": "2026-11-15T06:26:33-05:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "typist transcription transcribing transcriber (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.0979875366666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires clean Word document conversion, which aligns with the candidate's skills in academic supervision and research guidance."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in academic supervision and research guidance, which is relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services and language skills align well with the job's remote and flexible nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, and the candidate is flexible."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "The candidate's career goals align with the job's potential for senior translator or academic coordinator roles."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "academic supervision",
+        "language skills",
+        "remote work"
+      ],
+      "gaps": [
+        "no specific gaps found"
+      ],
+      "recommendation": "This candidate is well-suited for the job as it aligns with their academic background and skills, offering opportunities for growth in a translation or academic role.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the conversion of handwritten notes into clean Word documents? 3. Can you describe a time when you had to translate legal documents?",
+      "one_line_summary": "A strong fit for the job due to relevant skills and experience in academic supervision and language translation."
+    },
+    "ai_insight": "A strong fit for the job due to relevant skills and experience in academic supervision and language translation.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "academic supervision",
+      "language skills",
+      "remote work"
+    ],
+    "ai_gaps": [
+      "no specific gaps found"
+    ],
+    "ai_recommendation": "This candidate is well-suited for the job as it aligns with their academic background and skills, offering opportunities for growth in a translation or academic role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the conversion of handwritten notes into clean Word documents? 3. Can you describe a time when you had to translate legal documents?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Transcribe Handwritten Notes into Word_20261115.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Transcribe Handwritten Notes into Word_20261115.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-15T12:37:37.751760+00:00"
+  },
+  {
     "title": "Social Media Copywriter Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/social-media-marketing/Social-Media-Copywriter-Needed-40815640",
