@@ -2,42 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Elevate": {
-    "name": "Elevate",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-17T16:15:15.827517+00:00"
-  },
-  "Teacheroo": {
-    "name": "Teacheroo",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-17T16:15:15.828439+00:00"
-  },
-  "OpsArmy Careers": {
-    "name": "OpsArmy Careers",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-17T22:05:16.317690+00:00"
-  },
   "Wenzhou-Kean University": {
     "name": "Wenzhou-Kean University",
     "legitimacy_score": 60,
@@ -846,5 +810,30 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-15T19:22:25.518723+00:00"
+  },
+  "ReliefWeb": {
+    "name": "ReliefWeb",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-16T22:53:12.219302+00:00"
+  },
+  "Witherslack Group": {
+    "name": "Witherslack Group",
+    "legitimacy_score": 65,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board",
+      "Appears to be registered business"
+    ],
+    "last_updated": "2026-11-16T22:53:12.220055+00:00"
   }
 }
