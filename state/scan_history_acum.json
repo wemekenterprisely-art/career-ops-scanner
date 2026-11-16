@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-10-13T23:43:11.311998+00:00",
-    "matched_count": 2,
-    "all_count": 4740,
-    "jobs": [
-      {
-        "title": "Accurate Typing & Proofreading Assistance(entry level)",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/typing/Accurate-Typing-Proofreading-Assistance",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Academic Typing & Proofreading",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/academic-writing/Academic-Typing-Proofreading",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-14T10:02:30.236614+00:00",
     "matched_count": 2,
     "all_count": 4736,
@@ -3142,6 +3119,77 @@
         "url": "https://www.freelancer.com/projects/social-media-management/Canada-Virtual-Assistant-Needed.html",
         "score": 97,
         "category": "Admin",
+        "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-16T13:34:32.061099+00:00",
+    "matched_count": 8,
+    "all_count": 4336,
+    "jobs": [
+      {
+        "title": "Excel Data Entry & Cleanup",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-analysis/Excel-Data-Entry-Cleanup-40820821.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Email Reply Drafting Assistants",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/email-handling/Email-Reply-Drafting-Assistants.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Letter Handwriting Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copy-editing/English-Letter-Handwriting-Transcription",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Contact List Transcription & Cleanup",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/proofreading/Contact-List-Transcription-Cleanup",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Virtual Assistant for Tutoring Business",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/social-media-management/Virtual-Assistant-for-Tutoring-Business",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Transcribe English Handwritten Notes",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/editing/Transcribe-English-Handwritten-Notes",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Quick Academic Proofreading Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-word/Quick-Academic-Proofreading-Needed",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Android App Review Article Writer",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/technical-writing/Android-App-Review-Article-Writer",
+        "score": 87,
+        "category": "Editing",
         "source": "freelancer"
       }
     ]
