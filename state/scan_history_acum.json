@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-10-14T10:02:30.236614+00:00",
-    "matched_count": 2,
-    "all_count": 4736,
-    "jobs": [
-      {
-        "title": "ATC Radio Audio Transcription",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/aviation/ATC-Radio-Audio-Transcription",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Translator(English to Arabic)",
-        "company": "Confidential Careers",
-        "url": "https://ae.linkedin.com/jobs/view/translator-english-to-arabic-at-confidential-careers-4478413623",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-14T17:57:43.814084+00:00",
     "matched_count": 4,
     "all_count": 4753,
@@ -3191,6 +3168,69 @@
         "score": 87,
         "category": "Editing",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-16T22:55:14.690590+00:00",
+    "matched_count": 7,
+    "all_count": 4360,
+    "jobs": [
+      {
+        "title": "Proofread 10k-Word Stage Play",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/script-writing/Proofread-Word-Stage-Play",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Data Entry 400 Records from PDF + Cleaning + Excel Analysis Report",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-analysis/Data-Entry-Records-from-PDF",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Engaging Marketing Content Creation -- 2",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/email-marketing/Engaging-Marketing-Content-Creation",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Lifestyle Video Content Creator",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-creation/Lifestyle-Video-Content-Creator",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Translator (Arabic/English)",
+        "company": "ReliefWeb",
+        "url": "https://cd.linkedin.com/jobs/view/translator-arabic-english-at-reliefweb-4490903650",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Teacher - Online",
+        "company": "Witherslack Group",
+        "url": "https://uk.linkedin.com/jobs/view/english-teacher-online-at-witherslack-group-4490693313",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
+        "company": "English 1",
+        "url": "https://au.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4490125989",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
       }
     ]
   }
