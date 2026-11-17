@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-10-14T17:57:43.814084+00:00",
-    "matched_count": 4,
-    "all_count": 4753,
-    "jobs": [
-      {
-        "title": "Email Chat Support & Admin Assistant",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/customer-service/Email-Chat-Support-Admin-Assistant",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Investment Proposal Writing & Proofreading",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/proposal-bid-writing/Investment-Proposal-Writing-Proofreading",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Executive Assistant for US Construction Company",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/executive-assistant/Executive-Assistant-for-Construction",
-        "score": 67,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "ESL Teacher",
-        "company": "goFLUENT",
-        "url": "https://ph.linkedin.com/jobs/view/esl-teacher-at-gofluent-4478473013",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-14T23:09:58.202583+00:00",
     "matched_count": 3,
     "all_count": 4756,
@@ -3231,6 +3192,21 @@
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-17T02:51:44.776130+00:00",
+    "matched_count": 1,
+    "all_count": 4350,
+    "jobs": [
+      {
+        "title": "PhD Mathematics Thesis Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/academic-writing/PhD-Mathematics-Thesis-Proofreading",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
       }
     ]
   }
