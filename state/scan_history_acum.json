@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-10-14T23:09:58.202583+00:00",
-    "matched_count": 3,
-    "all_count": 4756,
-    "jobs": [
-      {
-        "title": "ATC Audio Transcription Specialist",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/aviation/ATC-Audio-Transcription-Specialist",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Recruitment Campaign Virtual Assistant",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/recruitment/Recruitment-Campaign-Virtual-Assistant",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Expert Academic Editor: Revise AI Report",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/academic-writing/Expert-Academic-Editor-Revise-Report",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-15T09:43:29.999419+00:00",
     "matched_count": 2,
     "all_count": 4731,
@@ -3207,6 +3176,45 @@
         "score": 97,
         "category": "Editing",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-17T14:15:51.243748+00:00",
+    "matched_count": 4,
+    "all_count": 729,
+    "jobs": [
+      {
+        "title": "Exact Handwritten Letter Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/word-processing/Exact-Handwritten-Letter-Transcription",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "sehat sehat orang baik, jangan lupa selalu bersedekah",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/sehat-sehat-orang-baik-jangan.html",
+        "score": 82,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Hiring English Teacher (Remote)",
+        "company": "Candellar",
+        "url": "https://mm.linkedin.com/jobs/view/hiring-english-teacher-remote-at-candellar-4490986409",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Tutor Online (Remote)",
+        "company": "EnglishLab Academy",
+        "url": "https://eg.linkedin.com/jobs/view/english-tutor-online-remote-at-englishlab-academy-4490423243",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
       }
     ]
   }
