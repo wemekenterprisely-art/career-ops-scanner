@@ -2020,6 +2020,228 @@
     "scan_date": "2026-11-16T22:54:57.674733+00:00"
   },
   {
+    "title": "Hiring English Teacher (Remote)",
+    "company": "Candellar",
+    "url": "https://mm.linkedin.com/jobs/view/hiring-english-teacher-remote-at-candellar-4490986409",
+    "location": "Remote \u2014 Myanmar",
+    "posted": "2026-11-17",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-17T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 14.170590893888889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches ESL teaching, academic supervision, and legal translation"
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Direct experience in academic supervision and legal translation"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote and academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Legal Translation"
+      ],
+      "gaps": [
+        "No experience in engineering/developer roles"
+      ],
+      "recommendation": "Waleed Ballag is highly suited for the remote English Teacher role at Candellar. His strong background in ESL/EFL instruction and academic supervision aligns well with the job requirements, and his experience in legal translation is a significant plus. The remote nature of the position suits his skills and preferences.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure the accuracy of legal translations in academic contexts? 3. What challenges have you faced in managing procurement and logistics, and how did you overcome them?",
+      "one_line_summary": "ESL Instructor and Academic Supervisor with strong legal translation experience, well-suited for remote English Teacher role."
+    },
+    "ai_insight": "ESL Instructor and Academic Supervisor with strong legal translation experience, well-suited for remote English Teacher role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Legal Translation"
+    ],
+    "ai_gaps": [
+      "No experience in engineering/developer roles"
+    ],
+    "ai_recommendation": "Waleed Ballag is highly suited for the remote English Teacher role at Candellar. His strong background in ESL/EFL instruction and academic supervision aligns well with the job requirements, and his experience in legal translation is a significant plus. The remote nature of the position suits his skills and preferences.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure the accuracy of legal translations in academic contexts? 3. What challenges have you faced in managing procurement and logistics, and how did you overcome them?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@mm.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@mm.linkedin.com",
+      "hr@mm.linkedin.com",
+      "jobs@mm.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Candellar",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-10T13:24:01.894591+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Candellar_Hiring English Teacher (Remote)_20261117.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Candellar_Hiring English Teacher (Remote)_20261117.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-17T14:15:49.487255+00:00"
+  },
+  {
+    "title": "English Tutor Online (Remote)",
+    "company": "EnglishLab Academy",
+    "url": "https://eg.linkedin.com/jobs/view/english-tutor-online-remote-at-englishlab-academy-4490423243",
+    "location": "Remote \u2014 Egypt",
+    "posted": "2026-11-17",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-17T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 14.170590965555556,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires ESL teaching, academic supervision, and translation skills."
+      },
+      "experience_match": {
+        "score": 75,
+        "reason": "Direct experience in ESL teaching and academic supervision."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work environment and academic focus."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote and worldwide location."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds towards translation/teaching/academic career."
+      },
+      "overall_score": 83,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Remote work"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is highly suited for the English Tutor Online role at EnglishLab Academy. His background in ESL teaching and academic supervision aligns well with the job requirements, and he can build a strong career in translation and academic services.",
+      "interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach legal translation in a multilingual context? 3. What strategies do you use to ensure plagiarism-free work in academic writing?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the English Tutor Online role at EnglishLab Academy due to his extensive experience in ESL teaching and academic supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the English Tutor Online role at EnglishLab Academy due to his extensive experience in ESL teaching and academic supervision.",
+    "ai_overall_score": 83,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is highly suited for the English Tutor Online role at EnglishLab Academy. His background in ESL teaching and academic supervision aligns well with the job requirements, and he can build a strong career in translation and academic services.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach legal translation in a multilingual context? 3. What strategies do you use to ensure plagiarism-free work in academic writing?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 75,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "EnglishLab Academy",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-17T14:14:49.902097+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiastic interest in the English Tutor Online (Remote) position at EnglishLab Academy, as advertised. My background as an ESL teacher with extensive experience in academic supervision and curriculum development makes me a strong candidate for this role.",
+      "experience": "I have held positions as an ESL Teacher & Partner at Al-Safwa Smart School for Private Education and an ESL Teacher at Anwar Al-Hayat School for Private Education, where I have honed my skills in teaching and curriculum development.",
+      "skills": "My skills include academic supervision, research guidance, thesis review, and development, as well as proficiency in Microsoft Office, Adobe Photoshop, SPSS, and the ability to translate between Arabic and English.",
+      "closing": "I am excited about the opportunity to contribute to the EnglishLab Academy and look forward to the possibility of discussing this further. Please feel free to contact me at [Your Email] or [Your Phone Number]. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/EnglishLab Academy_English Tutor Online (Remote)_20261117.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/EnglishLab Academy_English Tutor Online (Remote)_20261117.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-17T14:15:49.487255+00:00"
+  },
+  {
     "title": "Teaching Statement Draft Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/research-writing/Teaching-Statement-Draft-Needed",
@@ -5552,6 +5774,110 @@
     "scan_date": "2026-11-17T02:51:31.336883+00:00"
   },
   {
+    "title": "Exact Handwritten Letter Transcription",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/word-processing/Exact-Handwritten-Letter-Transcription",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-17T08:23:46+00:00",
+    "description": "I have several English-language letters that I need transcribed, word for word, into a clean digital format. The task is simple but demands close attention: copy every detail exactly as it appears\u2014original spelling, punctuation quirks, line breaks, even obvious mistakes. No corrections, edits, or translation are required; fidelity to the source is everything. You\u2019ll receive high-resolution scans or photos of each letter. For the deliverable, please return one Word or Google Docs file per letter, laid out in the same sequence, and add a brief note wherever any section is truly unreadable so I can clarify it later. If you\u2019re comfortable with meticulous, verbatim transcription and can turn the work around promptly, let\u2019s get started.",
+    "salary": "12500.0-37500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-11-17T08:23:46+00:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "typist transcription transcribing transcriber (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 5.774480968611111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires meticulous transcription and attention to detail, which matches the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and language skills aligns well with the remote and flexible nature of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The candidate is remote and can work worldwide, which matches the job's requirements."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the job's requirements for stable remote work and building client relationships."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Meticulous transcription skills",
+        "Extensive experience in academic services",
+        "Remote work capability"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "This candidate would excel in this role, as it aligns well with their skills and career goals.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you describe a time when you had to transcribe a letter word for word? 3. How do you approach handling high-resolution scans for transcription tasks?",
+      "one_line_summary": "A highly skilled ESL instructor and academic supervisor with a strong background in transcription and academic supervision perfectly fits the Freelancer.com job."
+    },
+    "ai_insight": "A highly skilled ESL instructor and academic supervisor with a strong background in transcription and academic supervision perfectly fits the Freelancer.com job.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Meticulous transcription skills",
+      "Extensive experience in academic services",
+      "Remote work capability"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "This candidate would excel in this role, as it aligns well with their skills and career goals.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you describe a time when you had to transcribe a letter word for word? 3. How do you approach handling high-resolution scans for transcription tasks?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Exact Handwritten Letter Transcription_20261117.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Exact Handwritten Letter Transcription_20261117.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-17T14:15:49.487255+00:00"
+  },
+  {
     "title": "Social Media Copywriter Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/social-media-marketing/Social-Media-Copywriter-Needed-40815640",
@@ -5866,6 +6192,107 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-11-16T22:54:57.674733+00:00"
+  },
+  {
+    "title": "sehat sehat orang baik, jangan lupa selalu bersedekah",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-writing/sehat-sehat-orang-baik-jangan.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Tue, 17 Nov 2026 08:57:23 -0500",
+    "description": "Saya membutuhkan satu artikel singkat atau caption media sosial bertema \u201csehat selalu buat semua\u201d. Targetnya masyarakat umum, jadi bahasanya harus ringan, hangat, dan memotivasi. Fokus utamanya adalah menyampaikan ucapan serta menebarkan semangat hidup sehat\u2014bukan panduan teknis atau promosi layanan... (Budget: $15 - $25 USD, Jobs: Article Writing, Blog Writing, Content Creation, Content Writing, Copywriting, Creative Writing, SEO Writing, Social Media Marketing)",
+    "salary": "$15",
+    "source": "freelancer",
+    "postedISO": "2026-11-17T08:57:23-05:00",
+    "score": 82,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (description)",
+      "content creation (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.21427559472222224,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "The job requires writing and content creation, which aligns with the candidate's experience in academic writing, proposal development, and content creation."
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "The candidate has experience in academic supervision and research guidance, which is relevant to the job requirements of academic services."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in academic services and writing skills make them a strong fit for the job, especially in the creative and motivational aspects required."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate can work worldwide, which is compatible with their remote work preference."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirement of building long-term client relationships and contributing to research supervision, which is a good role for their skills and experience."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Writing & Proposal Development",
+        "Content Creation & Motivational Writing"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "This candidate would excel in this role, bringing their expertise in academic services and writing skills to the table.",
+      "interview_prep": "1. Can you describe a time when you helped a student improve their research proposal? 2. How do you approach translating academic documents for a diverse audience? 3. Can you share an example of a project you supervised that involved academic research?",
+      "one_line_summary": "A strong fit for a remote academic writing and content creation role."
+    },
+    "ai_insight": "A strong fit for a remote academic writing and content creation role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Writing & Proposal Development",
+      "Content Creation & Motivational Writing"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "This candidate would excel in this role, bringing their expertise in academic services and writing skills to the table.",
+    "ai_interview_prep": "1. Can you describe a time when you helped a student improve their research proposal? 2. How do you approach translating academic documents for a diverse audience? 3. Can you share an example of a project you supervised that involved academic research?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 26,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_sehat sehat orang baik, jangan lupa selalu bersede_20261117.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_generated": false,
+    "scan_date": "2026-11-17T14:15:49.487255+00:00"
   },
   {
     "title": "ComPsych Corporation: \u0645\u0633\u062a\u0634\u0627\u0631 \u062a\u0648\u062c\u064a\u0647 (Guidance Consultant)",
