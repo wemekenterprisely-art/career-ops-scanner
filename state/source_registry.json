@@ -47,8 +47,16 @@
       "items": 141,
       "added": "2026-09-05T17:28:45.416915+00:00",
       "auto_discovered": true
+    },
+    {
+      "url": "https://www.bayt.com/en/international/jobs/",
+      "source_name": "bayt",
+      "type": "html",
+      "items": 343,
+      "added": "2026-11-17T21:32:36.941235+00:00",
+      "auto_discovered": true
     }
   ],
-  "last_discovery": "2026-09-05T17:28:50.199621+00:00",
-  "total_discoveries": 6
+  "last_discovery": "2026-11-17T21:32:41.470065+00:00",
+  "total_discoveries": 7
 }
