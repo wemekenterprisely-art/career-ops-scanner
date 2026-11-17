@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Wenzhou-Kean University": {
-    "name": "Wenzhou-Kean University",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-18T09:27:35.737815+00:00"
-  },
   "Welo Global": {
     "name": "Welo Global",
     "legitimacy_score": 50,
@@ -835,5 +823,17 @@
       "Appears to be registered business"
     ],
     "last_updated": "2026-11-16T22:53:12.220055+00:00"
+  },
+  "EnglishLab Academy": {
+    "name": "EnglishLab Academy",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-17T14:14:49.902097+00:00"
   }
 }
