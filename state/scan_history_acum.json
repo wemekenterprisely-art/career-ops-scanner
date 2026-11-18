@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-10-15T23:01:59.002328+00:00",
-    "matched_count": 2,
-    "all_count": 4737,
-    "jobs": [
-      {
-        "title": "Online Tutoring Opportunities at Skill-Vista",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/tutoring/Online-Tutoring-Opportunities-Skill",
-        "score": 97,
-        "category": "ESL",
-        "source": "freelancer"
-      },
-      {
-        "title": "English Instructor",
-        "company": "El-Nyroz Tech",
-        "url": "https://eg.linkedin.com/jobs/view/english-instructor-at-el-nyroz-tech-4480125361",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-16T09:35:00.612887+00:00",
     "matched_count": 2,
     "all_count": 4748,
@@ -3160,5 +3137,60 @@
     "matched_count": 0,
     "all_count": 4368,
     "jobs": []
+  },
+  {
+    "date": "2026-11-18T13:53:27.005752+00:00",
+    "matched_count": 6,
+    "all_count": 4383,
+    "jobs": [
+      {
+        "title": "Verbatim Transcription of PDF Notes",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copy-typing/Verbatim-Transcription-PDF-Notes",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Transcription into Microsoft Word / Notes \u2013 Accurate Typing Required",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-word/English-Transcription-into-Microsoft",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Part-Time Online System Data Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/crm/Part-Time-Online-System-Data",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Remote Social Media Marketing",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/graphic-design/Remote-Social-Media-Marketing",
+        "score": 67,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Online Evening English Language Instructor",
+        "company": "Speak Up Egypt",
+        "url": "https://eg.linkedin.com/jobs/view/online-evening-english-language-instructor-at-speak-up-egypt-4492003623",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Content Editor",
+        "company": "Suvidha Holding",
+        "url": "https://np.linkedin.com/jobs/view/content-editor-at-suvidha-holding-4491825805",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
