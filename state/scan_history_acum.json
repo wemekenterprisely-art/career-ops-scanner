@@ -1,84 +1,5 @@
 [
   {
-    "date": "2026-10-15T17:48:25.821274+00:00",
-    "matched_count": 9,
-    "all_count": 4726,
-    "jobs": [
-      {
-        "title": "Accurate Data Entry & Typing",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/microsoft-word/Accurate-Data-Entry-Typing.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Spices Packaging: English-to-Arabic Translator",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/english-translation/Spices-Packaging-English-Arabic",
-        "score": 97,
-        "category": "Arabic Translation",
-        "source": "freelancer"
-      },
-      {
-        "title": "Accurate Text Data Entry",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/optical-character-recognition/Accurate-Text-Data-Entry-40769620",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Content Creator (Social Media)",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/content-creation/Content-Creator-Social-Media-40769503",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "English Audio to Tigrigna Transcription",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/english-translation/English-Audio-Tigrigna-Transcription",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Virtual Assistant / Content Writer \u2013 B2B Local Business, Newsletters & SEO Directory Content",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/seo/Virtual-Assistant-Content-Writer-Local",
-        "score": 67,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Online English Teacher",
-        "company": "Albion Business School",
-        "url": "https://uk.linkedin.com/jobs/view/online-english-teacher-at-albion-business-school-4477078020",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Proofreader",
-        "company": "Jagran New Media",
-        "url": "https://in.linkedin.com/jobs/view/proofreader-at-jagran-new-media-4478855210",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      },
-      {
-        "title": "New job:",
-        "company": "Editorial Assistant (Bilingual with Focus Arabic)",
-        "url": "https://www.impactpool.org/jobs/1242123",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "impactpool"
-      }
-    ]
-  },
-  {
     "date": "2026-10-15T23:01:59.002328+00:00",
     "matched_count": 2,
     "all_count": 4737,
@@ -3233,5 +3154,11 @@
         "source": "freelancer"
       }
     ]
+  },
+  {
+    "date": "2026-11-18T02:16:23.281453+00:00",
+    "matched_count": 0,
+    "all_count": 4368,
+    "jobs": []
   }
 ]
