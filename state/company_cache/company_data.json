@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "4level1": {
-    "name": "4level1",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-19T19:10:37.611210+00:00"
-  },
   "Kreyco": {
     "name": "Kreyco",
     "legitimacy_score": 60,
