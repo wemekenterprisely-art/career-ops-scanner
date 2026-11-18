@@ -800,5 +800,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-17T14:14:49.902097+00:00"
+  },
+  "Suvidha Holding": {
+    "name": "Suvidha Holding",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-18T13:51:31.252512+00:00"
   }
 }
