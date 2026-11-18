@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-10-16T09:35:00.612887+00:00",
-    "matched_count": 2,
-    "all_count": 4748,
-    "jobs": [
-      {
-        "title": "Text Data Entry from Websites",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/google-sheets/Text-Data-Entry-from-Websites",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "LinkedIn Content Creation Specialist",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/article-writing/LinkedIn-Content-Creation-Specialist",
-        "score": 67,
-        "category": "Editing",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-16T17:16:54.619855+00:00",
     "matched_count": 3,
     "all_count": 4610,
@@ -3192,5 +3169,11 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-11-18T21:11:41.731795+00:00",
+    "matched_count": 0,
+    "all_count": 4360,
+    "jobs": []
   }
 ]
