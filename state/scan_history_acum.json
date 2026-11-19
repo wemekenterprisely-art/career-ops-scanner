@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-10-17T09:06:11.930075+00:00",
-    "matched_count": 2,
-    "all_count": 4734,
-    "jobs": [
-      {
-        "title": "Class 5 English Textbook Proofreading",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/adobe-acrobat/Class-English-Textbook-Proofreading",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Hinglish Social Media Copywriting",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/content-writing/Hinglish-Social-Media-Copywriting",
-        "score": 87,
-        "category": "Editing",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-17T16:16:42.860407+00:00",
     "matched_count": 6,
     "all_count": 4551,
@@ -3181,6 +3158,61 @@
         "score": 97,
         "category": "Admin",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-19T21:22:12.876446+00:00",
+    "matched_count": 6,
+    "all_count": 4426,
+    "jobs": [
+      {
+        "title": "Global Outreach Virtual Assistants Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/virtual-assistant/Global-Outreach-Virtual-Assistants.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "AI Training Operations Virtual Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-annotation/Training-Operations-Virtual-Assistant",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Celta certified English Instructors",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/celta-certified-english-instructors-at-4level1-4490879996",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Teachers - (Online - Morning)",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/english-teachers-online-morning-at-4level1-4492457428",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Regional English Teacher",
+        "company": "OneSchool Global",
+        "url": "https://uk.linkedin.com/jobs/view/regional-english-teacher-at-oneschool-global-4492498130",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "3D Data Annotation Specialist",
+        "company": "Jobspresso",
+        "url": "https://jobspresso.co/job/3d-data-annotation-specialist/",
+        "score": 85,
+        "category": "Admin",
+        "source": "jobspresso"
       }
     ]
   }
