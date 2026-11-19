@@ -800,5 +800,27 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-18T13:51:31.252512+00:00"
+  },
+  "4level1": {
+    "name": "4level1",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-19T01:52:36.662225+00:00"
+  },
+  "UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals": {
+    "name": "UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-11-19T01:52:36.663447+00:00"
   }
 }
