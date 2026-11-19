@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-10-16T22:44:38.014316+00:00",
-    "matched_count": 2,
-    "all_count": 4735,
-    "jobs": [
-      {
-        "title": "Arabic Linguist",
-        "company": "Leidos",
-        "url": "https://www.linkedin.com/jobs/view/arabic-linguist-at-leidos-4480549042",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "linkedin"
-      },
-      {
-        "title": "Apollo English Vietnam - ESL teachers hiring 2027",
-        "company": "Legal & Teaching Jobs for Foreign Teachers in Vietnam",
-        "url": "https://vn.linkedin.com/jobs/view/apollo-english-vietnam-esl-teachers-hiring-2027-at-legal-teaching-jobs-for-foreign-teachers-in-vietnam-4479346555",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-17T09:06:11.930075+00:00",
     "matched_count": 2,
     "all_count": 4734,
@@ -3173,6 +3150,37 @@
         "score": 100,
         "category": "Arabic Translation",
         "source": "impactpool"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-19T14:13:04.039588+00:00",
+    "matched_count": 3,
+    "all_count": 4423,
+    "jobs": [
+      {
+        "title": "Virtual assistant - On-Site Company Verification Photos- Lisbon - Portugal",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/image-processing/Virtual-assistant-Site-Company.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "English to Arabic Translation",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/english-translation/English-Arabic-Translation-40826144",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Video Editing Form Data Entry",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-management/Video-Editing-Form-Data-Entry",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
       }
     ]
   }
