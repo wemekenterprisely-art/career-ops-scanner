@@ -2,28 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Kreyco": {
-    "name": "Kreyco",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-20T17:52:43.149504+00:00"
-  },
-  "IsDB - Islamic Development Bank": {
-    "name": "IsDB - Islamic Development Bank",
-    "legitimacy_score": 50,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [],
-    "last_updated": "2026-10-20T17:52:43.150700+00:00"
-  },
   "Upedia Academy": {
     "name": "Upedia Academy",
     "legitimacy_score": 60,
@@ -822,5 +800,27 @@
     "red_flags": [],
     "positive_signals": [],
     "last_updated": "2026-11-19T01:52:36.663447+00:00"
+  },
+  "OneSchool Global": {
+    "name": "OneSchool Global",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-19T21:20:18.802392+00:00"
+  },
+  "Jobspresso": {
+    "name": "Jobspresso",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-11-19T21:20:18.803578+00:00"
   }
 }
