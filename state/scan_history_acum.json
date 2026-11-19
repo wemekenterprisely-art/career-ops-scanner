@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-10-16T17:16:54.619855+00:00",
-    "matched_count": 3,
-    "all_count": 4610,
-    "jobs": [
-      {
-        "title": "Virtual Assistant for Real Estate Team",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/crm/Virtual-Assistant-for-Real-Estate-40771620.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "English Teacher with Native-Level English (remote)",
-        "company": "Dudons",
-        "url": "https://es.linkedin.com/jobs/view/english-teacher-with-native-level-english-remote-at-dudons-4480359770",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Certified English Language Instructor",
-        "company": "mYngle",
-        "url": "https://za.linkedin.com/jobs/view/certified-english-language-instructor-at-myngle-4479364744",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-16T22:44:38.014316+00:00",
     "matched_count": 2,
     "all_count": 4735,
@@ -3175,5 +3144,36 @@
     "matched_count": 0,
     "all_count": 4360,
     "jobs": []
+  },
+  {
+    "date": "2026-11-19T01:53:42.890036+00:00",
+    "matched_count": 3,
+    "all_count": 4455,
+    "jobs": [
+      {
+        "title": "Creative Social Media Content Creator for Mortgage Business",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/article-writing/Creative-Social-Media-Content-Creator",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Teachers - CELTA Certified",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/english-teachers-celta-certified-at-4level1-4492037709",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Officer, Arabic Translation",
+        "company": "UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals",
+        "url": "https://www.impactpool.org/jobs/1248523",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "impactpool"
+      }
+    ]
   }
 ]
