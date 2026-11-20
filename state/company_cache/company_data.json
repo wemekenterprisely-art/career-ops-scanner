@@ -2,30 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Upedia Academy": {
-    "name": "Upedia Academy",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-21T09:58:20.275401+00:00"
-  },
-  "Doon Digital Learning": {
-    "name": "Doon Digital Learning",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-21T09:58:20.276499+00:00"
-  },
   "Speak Up Egypt": {
     "name": "Speak Up Egypt",
     "legitimacy_score": 60,
@@ -832,5 +808,17 @@
     "red_flags": [],
     "positive_signals": [],
     "last_updated": "2026-11-20T01:45:42.807893+00:00"
+  },
+  "WPP Production": {
+    "name": "WPP Production",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-20T13:55:07.213636+00:00"
   }
 }
