@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-10-17T22:06:11.819288+00:00",
-    "matched_count": 4,
-    "all_count": 4552,
-    "jobs": [
-      {
-        "title": "Virtual Assistant: Data & Support",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/customer-service/Virtual-Assistant-Data-Support",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Reliable Virtual Assistant for Admin Tasks/40 -50 hours/wk",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/microsoft-office/Reliable-Virtual-Assistant-for-Admin",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Social Media Buzz: Military Offer",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/graphic-design/Social-Media-Buzz-Military-Offer.html",
-        "score": 82,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Human Transcription Reviewer | Remote | Korea",
-        "company": "OpsArmy Careers",
-        "url": "https://kr.linkedin.com/jobs/view/human-transcription-reviewer-remote-korea-at-opsarmy-careers-4479683590",
-        "score": 100,
-        "category": "Admin",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-18T09:29:07.285784+00:00",
     "matched_count": 5,
     "all_count": 4533,
@@ -3181,6 +3142,29 @@
         "score": 100,
         "category": "Admin",
         "source": "himalayas"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-20T13:56:00.936764+00:00",
+    "matched_count": 2,
+    "all_count": 4379,
+    "jobs": [
+      {
+        "title": "Linguist (Translator and Copyeditor) Arabic",
+        "company": "WPP Production",
+        "url": "https://uk.linkedin.com/jobs/view/linguist-translator-and-copyeditor-arabic-at-wpp-production-4492450940",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Administrative Assistant Resume Revamp",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-365/Administrative-Assistant-Resume-Revamp",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
       }
     ]
   }
