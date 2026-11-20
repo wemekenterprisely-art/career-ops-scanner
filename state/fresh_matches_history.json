@@ -2994,6 +2994,115 @@
     "scan_date": "2026-11-19T21:21:49.222613+00:00"
   },
   {
+    "title": "Virtual Assistant",
+    "company": "Pavago",
+    "url": "https://himalayas.app/companies/pavago/jobs/virtual-assistant-6464655014?utm_source=api",
+    "location": "United Arab Emirates",
+    "posted": 1795136199,
+    "description": "Virtual Assistant (Executive Support / CRM / Operations) \u2013 Remote Position Type: Full-Time, Remote Working Hours: U.S. Business Hours (flexible based on client needs) About the Role We\u2019re hiring a Virtual Assistant (VA) to support daily operations, communication, and execution across multiple business functions. This is not a passive admin role. You\u2019ll act as a reliable execution partner , ensuring tasks are completed on time, communication stays organized, and nothing falls through the cracks. If you\u2019re highly organized, proactive, and comfortable handling multiple responsibilities \u2014 this role fits you well. What You\u2019ll Own Calendar, Inbox & Admin Management (Core) Manage calendars, schedule meetings, and coordinate across time zones Organize inboxes, respond to emails, and flag priorities Draft professional communication (emails, memos, documents) Prepare meeting notes and track follow-ups Data & System Management Maintain records in: Google Sheets Microsoft Excel CRMs like HubSpot / Salesforce Keep data accurate, updated, and well-structured Organize files across: Google Drive Dropbox Microsoft SharePoint Research & Task Execution Conduct research on: Competitors Vendors Market insights Compile findings into structured summaries or presentations Support ad hoc requests and small projects Client, Vendor & Communication Support Respond to client inquiries or route them appropriately Follow up with vendors and track outstanding items Ensure clear, timely communication across stakeholders Operations & Project Support Assist with: Invoicing and expense tracking Light bookkeeping (if required) Maintain project trackers in: Asana Trello Notion Monday.com Keep workflows organized and updated What Makes You a Strong Fit You are highly organized and detail-oriented You take initiative without being asked You communicate clearly and professionally You can manage multiple tasks without losing track You are reliable and follow through consistently Required Experience & Skills 1\u20132 years of Virtual Assistant, admin, or operations support experience Strong proficiency in: Microsoft Office / Google Workspace Excellent written and verbal communication skills Strong time management and organizational ability Reliable internet and ability to work independently Nice to Have (Top Candidates) Experience with CRMs: HubSpot / Salesforce / Zoho Familiarity with: QuickBooks Xero Experience supporting: Founders Startups Remote teams Handling multiple clients or executives simultaneously What a Typical Day Looks Like Manage calendar and inbox, prioritizing urgent tasks Update CRM records and organize documents Prepare reports, documents, or presentations Conduct research for ongoing projects Follow up with vendors and stakeholders Review tasks and prepare next-day priorities In short: You ensure operations run smoothly and nothing slips through the cracks . Key Metrics (KPIs) Tasks completed accurately and on time Zero missed meetings or scheduling errors Fast and professional communication response times Organized and up-to-date records Positive feedback from clients and stakeholders Why This Role Stands Out High ownership and autonomy Exposure to multiple business functions Opportunity to grow into: Operations Manager Executive Assistant Project Coordinator Apply Now If you: Are highly organized Take ownership of tasks Communicate clearly and reliably This role is a strong fit. Originally posted on Himalayas",
+    "salary": "",
+    "source": "himalayas",
+    "postedISO": "2026-11-20T00:56:39+00:00",
+    "score": 100,
+    "category": "Admin",
+    "why": [
+      "virtual assistant administrative assistant admin assistant executive assistant (title+description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.7941190097222222,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job involves virtual assistant duties, CRM, and data management, which align with the candidate's experience and skills."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and legal translation, which are directly related to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "The candidate's background in language education and research supervision aligns well with the virtual assistant role, emphasizing organizational skills and communication."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate's background and skills make them suitable for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's skills and experience in academic supervision and research guidance are aligned with the role of a virtual assistant, which can lead to a senior translator or academic coordinator role."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate's background in academic supervision and research guidance makes them well-suited for the virtual assistant role, which can lead to a senior translator or academic coordinator position.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you manage multiple responsibilities in a virtual environment? 3. Can you share an example of a project you supervised that required close communication and organization? 4. How do you stay organized and ensure tasks are completed on time?",
+      "one_line_summary": "A strong fit for the virtual assistant role with a background in academic supervision and research guidance."
+    },
+    "ai_insight": "A strong fit for the virtual assistant role with a background in academic supervision and research guidance.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate's background in academic supervision and research guidance makes them well-suited for the virtual assistant role, which can lead to a senior translator or academic coordinator position.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you manage multiple responsibilities in a virtual environment? 3. Can you share an example of a project you supervised that required close communication and organization? 4. How do you stay organized and ensure tasks are completed on time?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 50,
+    "desperation_index": 16,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@himalayas.app",
+    "email_verified": false,
+    "all_emails": [
+      "careers@himalayas.app",
+      "hr@himalayas.app",
+      "jobs@himalayas.app"
+    ],
+    "opportunity_score": 51,
+    "company_research": {
+      "name": "Pavago",
+      "legitimacy_score": 50,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [],
+      "last_updated": "2026-11-20T01:45:42.807893+00:00"
+    },
+    "company_legitimacy": 50,
+    "company_summary": "",
+    "ai_cover_letter_content": {
+      "opening": "I am excited about the Virtual Assistant role at Pavago, where I can leverage my skills in academic supervision, research guidance, and effective communication to support daily operations and client communication. My background in teaching and curriculum development will prove highly beneficial in executing tasks and ensuring a seamless client experience.",
+      "experience": "In my previous roles as an ESL teacher and secondary supervisor, I have honed my ability to lead and develop students, ensuring academic excellence. My experience as a partner in a private education institution has also given me the opportunity to manage and organize complex tasks, a skill that is essential for this position.",
+      "skills": "I possess strong skills in academic editing, thesis writing, instructional design, and translation. My proficiency in Microsoft Office Suite, Adobe Photoshop, and SPSS Statistical Analysis will enhance the operational efficiency of the company. My native Arabic and C1 Advanced English proficiency, combined with cross-cultural communication skills, will enable me to effectively collaborate and communicate with clients and team members.",
+      "closing": "I am available for an interview at your convenience and look forward to the opportunity to discuss how my background and skills can contribute to the success of Pavago. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Pavago_Virtual Assistant_20261120.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Pavago_Virtual Assistant_20261120.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-20T01:46:09.083118+00:00"
+  },
+  {
     "title": "Teaching Statement Draft Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/research-writing/Teaching-Statement-Draft-Needed",
@@ -7892,6 +8001,117 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-11-19T21:21:49.222613+00:00"
+  },
+  {
+    "title": "1777 Product Data & Image Scrape",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/data-scraping/Product-Data-Image-Scrape.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Thu, 19 Nov 2026 20:31:10 -0500",
+    "description": "I need the full catalogue of 1,777 live products collected from a public-facing website I\u2019ll share after award. Please capture only items that are currently available for purchase; anything marked out of stock or discontinued can be skipped... (Budget: $10 - $30 AUD, Jobs: Data Annotation, Data Collection, Data Entry, Data Management, Data Processing, Data Scraping, Excel, Web Scraping)",
+    "salary": "$10",
+    "source": "freelancer",
+    "postedISO": "2026-11-19T20:31:10-05:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (description)",
+      "data annotation data labeling data labeler data entry specialist clerk operator agent (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.21892525833333334,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Job requires data scraping and data management, which are transferable skills from the candidate's experience in ESL teaching and academic supervision."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in ESL teaching, academic supervision, and legal translation, which aligns with the job requirements for data scraping and web scraping."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and research supervision is well-suited for the data scraping job, especially as it involves academic writing and proposal development."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate's background is compatible with remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirement for long-term client relationships and contributing to graduate-level research supervision."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "No direct experience in engineering or programming"
+      ],
+      "recommendation": "The candidate's background in academic services and research supervision makes them an excellent fit for this data scraping job. They can quickly adapt to the remote work environment and contribute to long-term client relationships in academic services.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation? 3. Can you describe a time when you had to manage a complex project with multiple stakeholders?",
+      "one_line_summary": "Waleed Ballag's strong background in academic services and research supervision makes them a strong fit for this data scraping job, despite lacking direct engineering experience."
+    },
+    "ai_insight": "Waleed Ballag's strong background in academic services and research supervision makes them a strong fit for this data scraping job, despite lacking direct engineering experience.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or programming"
+    ],
+    "ai_recommendation": "The candidate's background in academic services and research supervision makes them an excellent fit for this data scraping job. They can quickly adapt to the remote work environment and contribute to long-term client relationships in academic services.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation? 3. Can you describe a time when you had to manage a complex project with multiple stakeholders?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am excited to apply for the 1777 Product Data & Image Scrape job at Freelancer.com. The key requirements of capturing live products currently available for purchase, alongside items marked as out of stock or discontinued, align perfectly with my experience and skills.",
+      "experience": "With a Master's degree in Applied Linguistics and a Bachelor's degree in English Language, I have extensive experience in academic supervision and research guidance. I have also served as an ESL teacher and secondary supervisor at higher institutes, providing instruction and guidance to students.",
+      "skills": "My skills include academic supervision, research guidance, thesis writing, teaching English as a second language, and cross-cultural communication. I possess proficiency in Adobe Photoshop, SPSS statistical analysis, and Microsoft Office Suite, including Excel. My native proficiency in Arabic and advanced English (C1) are also highly relevant to this role.",
+      "closing": "I am eager to join your team at Freelancer.com and utilize my expertise in ESL, academic editing, and data collection. Please schedule an interview to discuss how I can contribute effectively to your project. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_1777 Product Data & Image Scrape_20261120.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_1777 Product Data & Image Scrape_20261120.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-20T01:46:09.083118+00:00"
   },
   {
     "title": "Social Media Copywriter Needed",
