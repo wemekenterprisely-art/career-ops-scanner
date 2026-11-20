@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-10-17T16:16:42.860407+00:00",
-    "matched_count": 6,
-    "all_count": 4551,
-    "jobs": [
-      {
-        "title": "Proofread Legal Documents & Convert",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/legal-writing/Proofread-Legal-Documents-Convert",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Manual Data Entry & Email Support",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/google-sheets/Manual-Data-Entry-Email-Support",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "English-to-Arabic Translator Needed for Professional Translation Project",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/english-translation/English-Arabic-Translator-Needed-for",
-        "score": 97,
-        "category": "Arabic Translation",
-        "source": "freelancer"
-      },
-      {
-        "title": "JioMart Beauty Description Update",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/editing/JioMart-Beauty-Description-Update.html",
-        "score": 82,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "English ESL Teacher",
-        "company": "Elevate",
-        "url": "https://cn.linkedin.com/jobs/view/english-esl-teacher-at-elevate-4480826177",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "English as Additional Language Teacher",
-        "company": "Teacheroo",
-        "url": "https://pl.linkedin.com/jobs/view/english-as-additional-language-teacher-at-teacheroo-4480810825",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-17T22:06:11.819288+00:00",
     "matched_count": 4,
     "all_count": 4552,
@@ -3213,6 +3158,29 @@
         "score": 85,
         "category": "Admin",
         "source": "jobspresso"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-20T01:46:26.503168+00:00",
+    "matched_count": 2,
+    "all_count": 4351,
+    "jobs": [
+      {
+        "title": "1777 Product Data & Image Scrape",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-scraping/Product-Data-Image-Scrape.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Virtual Assistant",
+        "company": "Pavago",
+        "url": "https://himalayas.app/companies/pavago/jobs/virtual-assistant-6464655014?utm_source=api",
+        "score": 100,
+        "category": "Admin",
+        "source": "himalayas"
       }
     ]
   }
