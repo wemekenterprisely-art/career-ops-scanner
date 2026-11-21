@@ -3212,6 +3212,571 @@
     "scan_date": "2026-11-20T13:55:37.447760+00:00"
   },
   {
+    "title": "English Teacher",
+    "company": "ENRICHY Academy",
+    "url": "https://eg.linkedin.com/jobs/view/english-teacher-at-enrichy-academy-4492313315",
+    "location": "Remote \u2014 Alexandria, Egypt",
+    "posted": "2026-11-21",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-21T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.285128134166666,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires language skills, writing, and academic work, which aligns with the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and research guidance, which is directly relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background and skills make them well-suited for a remote, academic environment, and they have experience in related fields like academic writing and proposal development."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate is flexible, making it a good fit for the candidate's skills and preferences."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align well with the job, focusing on translation, teaching, and academic services, which are directly related to their expertise."
+      },
+      "overall_score": 86,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Extensive experience in ESL teaching and academic supervision",
+        "Native Arabic and C1 Advanced English proficiency"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "The candidate is well-suited for the job as it aligns with their career goals and skills. They have the necessary language and academic experience to excel in the role.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the translation of legal documents? 3. Can you describe a time when you had to manage a group of graduate students?",
+      "one_line_summary": "Strong fit for the job due to extensive experience in academic supervision and research guidance, and native language skills."
+    },
+    "ai_insight": "Strong fit for the job due to extensive experience in academic supervision and research guidance, and native language skills.",
+    "ai_overall_score": 86,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Extensive experience in ESL teaching and academic supervision",
+      "Native Arabic and C1 Advanced English proficiency"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "The candidate is well-suited for the job as it aligns with their career goals and skills. They have the necessary language and academic experience to excel in the role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach the translation of legal documents? 3. Can you describe a time when you had to manage a group of graduate students?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "ENRICHY Academy",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-21T13:20:24.710646+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my strong interest in the English Teacher position at ENRICHY Academy, a dynamic institution dedicated to fostering global language proficiency and academic excellence. This role aligns perfectly with my academic background, experience, and skills, making me a perfect fit for the esteemed institution.",
+      "experience": "In my current position at Anwar Al-Hayat School for Private Education, I have successfully taught ESL/EFL to students aged 12-18, utilizing online and in-person teaching methods. My proficiency in both Arabic and English, combined with extensive experience in academic supervision and research guidance, ensures I can effectively support students in achieving their language and academic goals.",
+      "skills": "My skills encompass a comprehensive range of language and academic competencies, including academic editing and thesis review, thesis writing development, and ESL/EFL instruction. I am adept at online and in-person teaching, curriculum development, and Arabic-English bidirectional translation. Additionally, my expertise in Microsoft Office Suite, Adobe Photoshop, SPSS Statistical Analysis, and proficiency in Arabic and English (C1 Advanced) positions me well for the responsibilities of this role.",
+      "closing": "I am eager to bring my extensive experience, skills, and passion for language instruction to ENRICHY Academy. I look forward to the opportunity to further contribute to your esteemed institution. Please feel free to schedule an interview at your convenience. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/ENRICHY Academy_English Teacher_20261121.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/ENRICHY Academy_English Teacher_20261121.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-21T13:21:35.358936+00:00"
+  },
+  {
+    "title": "7-12 Teacher (English Language Arts) at National Heritage Online Academy \u2013 North Carolina",
+    "company": "National Heritage Academies",
+    "url": "https://www.linkedin.com/jobs/view/7-12-teacher-english-language-arts-at-national-heritage-online-academy-%E2%80%93-north-carolina-at-national-heritage-academies-4493241126",
+    "location": "Remote \u2014 High Point, NC",
+    "posted": "2026-11-21",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-21T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.285128320277778,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires Arabic-English translation, academic supervision, and ESL teaching, which are all skills mentioned in the CV."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has experience in academic supervision, ESL teaching, and has supervised graduate-level research studies, which aligns well with the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background is in academic services, which is conducive to building a career in translation or academic roles."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, which is compatible with the candidate's preference and skills."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "The job aligns with the candidate's career goals of securing stable remote work in translation or ESL teaching, and building long-term client relationships in academic services."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Strong language skills",
+        "Experience in academic supervision",
+        "Native Arabic speaker"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's background and skills make him a strong fit for the 7-12 Teacher position at National Heritage Online Academy. His experience in academic supervision and native Arabic language skills make him a valuable asset to the team. Given his strong fit, he should be recommended for the role.",
+      "interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach translating legal documents for a diverse audience? 3. What challenges have you faced in maintaining client relationships in academic services, and how did you overcome them?",
+      "one_line_summary": "Waleed Ballag's strong fit for the 7-12 Teacher position aligns with his background in academic supervision and native Arabic language skills, making him a valuable addition to the team."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the 7-12 Teacher position aligns with his background in academic supervision and native Arabic language skills, making him a valuable addition to the team.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Strong language skills",
+      "Experience in academic supervision",
+      "Native Arabic speaker"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's background and skills make him a strong fit for the 7-12 Teacher position at National Heritage Online Academy. His experience in academic supervision and native Arabic language skills make him a valuable asset to the team. Given his strong fit, he should be recommended for the role.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a graduate-level research study? 2. How do you approach translating legal documents for a diverse audience? 3. What challenges have you faced in maintaining client relationships in academic services, and how did you overcome them?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "National Heritage Academies",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-21T13:20:24.711484+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "",
+    "cover_letter_type": "error",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/National Heritage Academies_7-12 Teacher (English Language Arts) at National H_20261121.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-21T13:21:35.358936+00:00"
+  },
+  {
+    "title": "Asynchronous English Language Arts (ELA) Teacher (7th-12th) at PrepNet Virtual Academy",
+    "company": "National Heritage Academies",
+    "url": "https://www.linkedin.com/jobs/view/asynchronous-english-language-arts-ela-teacher-7th-12th-at-prepnet-virtual-academy-at-national-heritage-academies-4493236241",
+    "location": "Remote \u2014 Grand Rapids, MI",
+    "posted": "2026-11-21",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-21T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.285128433055554,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Job requires language skills, writing, and academic work, which aligns with the candidate's experience and certifications."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Candidate has direct experience in ESL teaching, academic supervision, and language translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background is well-suited for a remote, academic role, and the job description emphasizes flexibility and a remote work environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, which the candidate is comfortable with, and the location is worldwide, making it compatible."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "The candidate's career goals align well with the job, including secure stable remote work and building long-term client relationships."
+      },
+      "overall_score": 89,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker with C1 Advanced English proficiency",
+        "Awarded English Language Trainer of the Year",
+        "Supervised 15 graduate-level research studies"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's strong background in language instruction, research supervision, and translation makes him a strong fit for the Asynchronous English Language Arts (ELA) Teacher role at PrepNet Virtual Academy. His ability to work remotely and build long-term client relationships aligns well with the job's requirements.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a graduate-level research study you supervised? 3. How do you approach the translation of legal, academic, and technical documents?",
+      "one_line_summary": "Waleed Ballag's strong qualifications and background make him a strong fit for the Asynchronous English Language Arts (ELA) Teacher role at PrepNet Virtual Academy."
+    },
+    "ai_insight": "Waleed Ballag's strong qualifications and background make him a strong fit for the Asynchronous English Language Arts (ELA) Teacher role at PrepNet Virtual Academy.",
+    "ai_overall_score": 89,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker with C1 Advanced English proficiency",
+      "Awarded English Language Trainer of the Year",
+      "Supervised 15 graduate-level research studies"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong background in language instruction, research supervision, and translation makes him a strong fit for the Asynchronous English Language Arts (ELA) Teacher role at PrepNet Virtual Academy. His ability to work remotely and build long-term client relationships aligns well with the job's requirements.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a graduate-level research study you supervised? 3. How do you approach the translation of legal, academic, and technical documents?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "National Heritage Academies",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-21T13:20:24.711484+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am excited to apply for the Asynchronous English Language Arts (ELA) Teacher (7th-12th) position at PrepNet Virtual Academy at National Heritage Academies, as this opportunity aligns perfectly with my extensive experience and skills.",
+      "experience": "As an ESL Teacher & Secondary Supervisor at Higher Institute of Science and Technology, and ESL Teacher & Partner at Al-Safwa Smart School for Private Education, I have honed my ability to provide comprehensive academic guidance and supervision, ensuring that students achieve academic excellence. My experience at Anwar Al-Hayat School for Private Education has also equipped me with the skill to effectively mentor students and implement curriculum development in a virtual environment.",
+      "skills": "My skills include academic supervision and research guidance, academic editing and thesis review, thesis writing and development, ESL/EFL instruction, online and in-person teaching, curriculum development, Arabic-English bidirectional translation, academic translation, legal translation, Microsoft Office Suite (Expert), Adobe Photoshop, SPSS statistical analysis, and proficiency in both Arabic (Native) and English (C1 Advanced). Additionally, I am well-versed in using APA/MLA/Harvard formatting, demonstrating my commitment to academic integrity, and have extensive experience in cross-cultural communication.",
+      "closing": "I am eager to discuss how my background and skills can contribute to the success of the PrepNet Virtual Academy. Please find me at the LinkedIn workplace filter for the full description. I am available to schedule a meeting or interview at your convenience. Thank you for considering my application. I look forward to the opportunity to contribute to your team and further enhance the students' educational experience."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/National Heritage Academies_Asynchronous English Language Arts (ELA) Teacher (_20261121.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/National Heritage Academies_Asynchronous English Language Arts (ELA) Teacher (_20261121.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-21T13:21:35.358936+00:00"
+  },
+  {
+    "title": "Online English Tutor",
+    "company": "COREnglish",
+    "url": "https://eg.linkedin.com/jobs/view/online-english-tutor-at-corenglish-4492303557",
+    "location": "Remote \u2014 Egypt",
+    "posted": "2026-11-21",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-21T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.285128556666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires language skills, writing, and academic work, which aligns well with the candidate's background and certifications."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and translation, which are all relevant to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background and skills align well with the remote, academic, and flexible nature of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 95,
+        "reason": "The candidate's career goals align closely with the job's requirements for stable, long-term work in translation or ESL teaching."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Language skills",
+        "Remote work"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is well-suited for this role as it combines his expertise in language instruction and academic supervision with the need for remote work and stable, long-term opportunities.",
+      "interview_prep": "1. Can you discuss a time when you supervised a research study? 2. How do you approach translating legal documents? 3. What is your experience with SPSS data analysis?",
+      "one_line_summary": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him a strong fit for the remote, academic role at COREnglish."
+    },
+    "ai_insight": "Waleed Ballag's strong background in ESL teaching and academic supervision makes him a strong fit for the remote, academic role at COREnglish.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Language skills",
+      "Remote work"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is well-suited for this role as it combines his expertise in language instruction and academic supervision with the need for remote work and stable, long-term opportunities.",
+    "ai_interview_prep": "1. Can you discuss a time when you supervised a research study? 2. How do you approach translating legal documents? 3. What is your experience with SPSS data analysis?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 95,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "COREnglish",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-11T12:37:39.758110+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my strong interest in the Online English Tutor position at COREnglish. As an experienced ESL teacher with a Master's degree in Applied Linguistics and a Bachelor's degree in English Language, I am confident in my ability to contribute effectively to your team.",
+      "experience": "In my roles as an ESL teacher and secondary supervisor at Higher Institute of Science and Technology, and as a partner at Al-Safwa Smart School for Private Education, I have honed my skills in academic supervision, thesis writing, and curriculum development. My experience also includes teaching in private schools, where I have adeptly addressed the needs of diverse students.",
+      "skills": "I excel in academic supervision and research guidance, as well as in academic editing and thesis review. My skills in ESL/EFL instruction, online and in-person teaching, curriculum development, and cross-cultural communication make me well-suited for the role of an Online English Tutor at COREnglish.",
+      "closing": "I am excited about the opportunity to contribute my expertise and passion for language teaching to COREnglish. Please consider me for an interview. Thank you for your time and consideration. I look forward to the possibility of discussing this further."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/COREnglish_Online English Tutor_20261121.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/COREnglish_Online English Tutor_20261121.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-21T13:21:35.358936+00:00"
+  },
+  {
+    "title": "English Language Teacher",
+    "company": "I CAN READ Indonesia",
+    "url": "https://id.linkedin.com/jobs/view/english-language-teacher-at-i-can-read-indonesia-4492892237",
+    "location": "Remote \u2014 Kota Tangerang Selatan, Banten, Indonesia",
+    "posted": "2026-11-21",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-21T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 13.285128708055556,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Matches Arabic-English translation, ESL teaching, and academic supervision."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment; aligns with career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job location."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 86,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching experience",
+        "Academic supervision skills",
+        "Legal translation experience"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Strong fit for the position. Aligns well with career goals and offers opportunities for growth.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation? 3. Can you share a specific project you supervised and its outcome?",
+      "one_line_summary": "Strong fit for the position, aligns well with career goals."
+    },
+    "ai_insight": "Strong fit for the position, aligns well with career goals.",
+    "ai_overall_score": 86,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching experience",
+      "Academic supervision skills",
+      "Legal translation experience"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Strong fit for the position. Aligns well with career goals and offers opportunities for growth.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation? 3. Can you share a specific project you supervised and its outcome?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@id.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@id.linkedin.com",
+      "hr@id.linkedin.com",
+      "jobs@id.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "I CAN READ Indonesia",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-10-24T16:29:42.846045+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiasm for the English Language Teacher position at I CAN READ Indonesia. As a highly qualified and experienced English Language Teacher with a strong academic background and a proven track record in ESL/EFL instruction, I am eager to bring my skills and expertise to your esteemed institution. My academic achievements and teaching experience have equipped me with the necessary knowledge and skills to excel in this role.",
+      "experience": "In my previous roles, I have successfully taught English as a Second Language (ESL) and English as a Foreign Language (EFL) in various private educational institutions. I have also been a secondary supervisor at a higher institute of science and technology, contributing to the academic supervision and research guidance of my students. These experiences have honed my ability to create engaging and effective teaching methods.",
+      "skills": "My skills include academic supervision and research guidance, academic editing and thesis review, thesis writing and development, ESL/EFL instruction, online and in-person teaching, curriculum development, and translation skills in Arabic to English. I possess a strong proficiency in Microsoft Office, Adobe Photoshop, SPSS statistical analysis, and Adobe Illustrator. I am also adept at using academic formatting styles such as APA, MLA, and Harvard, ensuring consistency and professionalism in all my work.",
+      "closing": "I am available for an interview and look forward to the opportunity to discuss how my qualifications and experience can contribute to the success of your institution. Please feel free to contact me at waleed.b@gmail.com or [phone number]. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/I CAN READ Indonesia_English Language Teacher_20261121.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/I CAN READ Indonesia_English Language Teacher_20261121.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-21T13:21:35.358936+00:00"
+  },
+  {
     "title": "Teaching Statement Draft Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/research-writing/Teaching-Statement-Draft-Needed",
@@ -8428,6 +8993,225 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-11-21T01:16:08.075120+00:00"
+  },
+  {
+    "title": "Persuasive Product Copywriting",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/seo-writing/Persuasive-Product-Copywriting-40828944.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Sat, 21 Nov 2026 08:03:47 -0500",
+    "description": "I have a lineup of consumer products ready to hit our online store, and what I need now is copy that converts browsing into buying. Every description must do three things at once: spotlight the key features... (Budget: \u20b91500 - \u20b912500 INR, Jobs: Article Writing, Blog Writing, Content Creation, Content Writing, Copywriting, Marketing, Product Descriptions, SEO Writing)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-11-21T08:03:47-05:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title+description)",
+      "content creation (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.22214076249999998,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "The job requires copywriting, which is a skill that can be developed from the candidate's existing experience in ESL teaching and academic supervision."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has relevant experience in ESL teaching, academic supervision, and legal translation, which are all skills directly applicable to the job description."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate aligns well with the remote, flexible, and academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preference for remote work."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align closely with the job's requirements, including building long-term client relationships and contributing to graduate-level research supervision."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's strong background in ESL teaching, academic supervision, and legal translation makes him a strong fit for the job. His ability to adapt to remote work and align with the academic environment will be a significant advantage.",
+      "interview_prep": "1. What are your experiences in academic supervision and research guidance? 2. Can you provide an example of a time when you had to translate legal documents and how it impacted the project? 3. How do you approach the process of developing a marketing copy for a consumer product?",
+      "one_line_summary": "Waleed Ballag's strong background in ESL teaching, academic supervision, and legal translation makes him a strong fit for the job."
+    },
+    "ai_insight": "Waleed Ballag's strong background in ESL teaching, academic supervision, and legal translation makes him a strong fit for the job.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong background in ESL teaching, academic supervision, and legal translation makes him a strong fit for the job. His ability to adapt to remote work and align with the academic environment will be a significant advantage.",
+    "ai_interview_prep": "1. What are your experiences in academic supervision and research guidance? 2. Can you provide an example of a time when you had to translate legal documents and how it impacted the project? 3. How do you approach the process of developing a marketing copy for a consumer product?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am writing to express my enthusiasm for the Persuasive Product Copywriting position at Freelancer.com. The key requirements include creating descriptions that highlight key features and convert browsing into buying actions. With a strong educational background in linguistics and a proven track record as an ESL teacher, I believe I am well-equipped to deliver compelling copy that aligns with your needs.",
+      "experience": "In my experience as an ESL teacher and secondary supervisor, I have honed my skills in academic supervision and research guidance. Additionally, my work as a partner at a school and as an ESL teacher at various institutions has provided valuable insights into the teaching methods and curriculum development.",
+      "skills": "My qualifications in academic supervision, research guidance, and curriculum development make me particularly suited to the position at Freelancer.com. My ability to translate between Arabic and English and my proficiency in using software like Microsoft Office, Adobe Photoshop, and SPSS are also crucial for the role. I am highly skilled in using the latest translation tools and ensuring academic integrity in all my work.",
+      "closing": "I am available at your earliest convenience and eagerly await your call. Please let me know if there is an interview date that suits me. Thank you for considering my application. I look forward to the opportunity to discuss how my skills and experience can contribute to your team."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Persuasive Product Copywriting_20261121.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Persuasive Product Copywriting_20261121.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-21T13:21:35.358936+00:00"
+  },
+  {
+    "title": "Proofread Word Doc & PDF",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/word-processing/Proofread-Word-Doc-PDF",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-21T11:38:15+00:00",
+    "description": "I have a single English-only Word file that just needs a meticulous sweep for spelling, grammar, punctuation, and overall consistency while following US English conventions. No rewriting or layout tinkering\u2014simply correct the errors, preserve the existing formatting, and then export the polished document to PDF. Once finished, I need two clear deliverables: \u2022 A clean, error-free PDF generated from the corrected Word file \u2022 A separate Word document that lists every change you made (pulled from Track Changes or a comparable tool) Accuracy comes first, yet a prompt turnaround is appreciated.",
+    "salary": "30.0-250.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-21T11:38:15+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 1.647634098611111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires meticulous proofreading of English documents, which aligns with the candidate's experience in ESL teaching and academic supervision."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has extensive experience in ESL teaching, academic supervision, and proofreading, which are all relevant skills for the job."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background in academic services and proofreading aligns well with the remote, flexible, and academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, worldwide, and the candidate is available for remote work, which is compatible with the candidate's preference."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirements for stable remote work and academic services, building towards a senior translator or academic coordinator role."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Extensive experience in ESL teaching and academic supervision",
+        "Meticulous proofreading skills"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is highly qualified for the Proofread Word Doc & PDF job. His background in ESL teaching and academic supervision, combined with his meticulous proofreading skills, make him an excellent fit for this remote role.",
+      "interview_prep": "1. Can you describe a time when you had to proofread a document with a tight deadline? 2. How do you ensure accuracy in your proofreading process? 3. Can you share an example of a complex document you proofread and how you approached it?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Proofread Word Doc & PDF job due to his extensive experience in ESL teaching and academic supervision, combined with his meticulous proofreading skills."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Proofread Word Doc & PDF job due to his extensive experience in ESL teaching and academic supervision, combined with his meticulous proofreading skills.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Extensive experience in ESL teaching and academic supervision",
+      "Meticulous proofreading skills"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is highly qualified for the Proofread Word Doc & PDF job. His background in ESL teaching and academic supervision, combined with his meticulous proofreading skills, make him an excellent fit for this remote role.",
+    "ai_interview_prep": "1. Can you describe a time when you had to proofread a document with a tight deadline? 2. How do you ensure accuracy in your proofreading process? 3. Can you share an example of a complex document you proofread and how you approached it?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "ai_cover_letter_content": {
+      "opening": "I am thrilled to apply for the Proofread Word Doc & PDF position at Freelancer.com. With a strong background in academic editing and experience as an ESL teacher, I bring a meticulous attention to detail and a deep understanding of US English conventions to this role.",
+      "experience": "My primary experience as an ESL teacher has provided me with the skills necessary to ensure the quality of the text I edit. I have a proven track record of helping students in higher education and private schools achieve their academic goals by improving their writing skills.",
+      "skills": "My skills in academic editing, thesis review, and teaching English as a second language (ESL/EFL) have made me well-equipped to handle the proofreading task. My proficiency in using Microsoft Office, Adobe Photoshop, SPSS, and a strong command of English and Arabic (C1 Advanced) position me as a reliable proofreader.",
+      "closing": "I am eager to contribute my skills and experience to the Freelancer.com community and look forward to discussing how I can assist in creating clean, error-free documents for your clients. Please feel free to schedule a time for an interview. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Proofread Word Doc & PDF_20261121.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Proofread Word Doc & PDF_20261121.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-21T13:21:35.358936+00:00"
   },
   {
     "title": "Social Media Copywriter Needed",
