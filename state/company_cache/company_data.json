@@ -808,5 +808,29 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-20T13:55:07.213636+00:00"
+  },
+  "ENRICHY Academy": {
+    "name": "ENRICHY Academy",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-21T13:20:24.710646+00:00"
+  },
+  "National Heritage Academies": {
+    "name": "National Heritage Academies",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-21T13:20:24.711484+00:00"
   }
 }
