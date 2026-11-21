@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-10-18T22:24:40.137652+00:00",
-    "matched_count": 2,
-    "all_count": 4559,
-    "jobs": [
-      {
-        "title": "Proofread Short English Text",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/microsoft-word/Proofread-Short-English-Text",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Sr. Content Sub-Editor & Proofreader",
-        "company": "Symmetry Group",
-        "url": "https://pk.linkedin.com/jobs/view/sr-content-sub-editor-proofreader-at-symmetry-group-4478221907",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-19T10:38:39.379255+00:00",
     "matched_count": 5,
     "all_count": 4563,
@@ -3108,6 +3085,69 @@
         "score": 82,
         "category": "Editing",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-21T13:21:48.359327+00:00",
+    "matched_count": 7,
+    "all_count": 4398,
+    "jobs": [
+      {
+        "title": "Persuasive Product Copywriting",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/seo-writing/Persuasive-Product-Copywriting-40828944.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Proofread Word Doc & PDF",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/word-processing/Proofread-Word-Doc-PDF",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Teacher",
+        "company": "ENRICHY Academy",
+        "url": "https://eg.linkedin.com/jobs/view/english-teacher-at-enrichy-academy-4492313315",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "7-12 Teacher (English Language Arts) at National Heritage Online Academy \u2013 North Carolina",
+        "company": "National Heritage Academies",
+        "url": "https://www.linkedin.com/jobs/view/7-12-teacher-english-language-arts-at-national-heritage-online-academy-%E2%80%93-north-carolina-at-national-heritage-academies-4493241126",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Asynchronous English Language Arts (ELA) Teacher (7th-12th) at PrepNet Virtual Academy",
+        "company": "National Heritage Academies",
+        "url": "https://www.linkedin.com/jobs/view/asynchronous-english-language-arts-ela-teacher-7th-12th-at-prepnet-virtual-academy-at-national-heritage-academies-4493236241",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Online English Tutor",
+        "company": "COREnglish",
+        "url": "https://eg.linkedin.com/jobs/view/online-english-tutor-at-corenglish-4492303557",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Language Teacher",
+        "company": "I CAN READ Indonesia",
+        "url": "https://id.linkedin.com/jobs/view/english-language-teacher-at-i-can-read-indonesia-4492892237",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
       }
     ]
   }
