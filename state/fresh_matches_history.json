@@ -3777,6 +3777,120 @@
     "scan_date": "2026-11-21T13:21:35.358936+00:00"
   },
   {
+    "title": "Proofreader",
+    "company": "ninety9cents",
+    "url": "https://za.linkedin.com/jobs/view/proofreader-at-ninety9cents-4493230792",
+    "location": "Remote \u2014 Cape Town, Western Cape, South Africa",
+    "posted": "2026-11-21",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-11-21T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 20.00054987388889,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 85,
+        "reason": "Matches translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 80,
+        "reason": "Related experience in language services and academic supervision"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, academic environment, and compatible with career goals"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with career goals"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Awarded English Language Trainer of the Year"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Waleed Ballag is highly aligned with the Proofreader role and has the potential to grow into a senior translator or academic coordinator role. He can contribute to graduate-level research supervision and secure stable remote work in translation or ESL teaching.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation? 3. Can you discuss your experience in curriculum development?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Proofreader role with a proven academic background and experience in translation and supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Proofreader role with a proven academic background and experience in translation and supervision.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Awarded English Language Trainer of the Year"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Waleed Ballag is highly aligned with the Proofreader role and has the potential to grow into a senior translator or academic coordinator role. He can contribute to graduate-level research supervision and secure stable remote work in translation or ESL teaching.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation and bidirectional translation? 3. Can you discuss your experience in curriculum development?",
+    "ai_technical_skills": 85,
+    "ai_experience_match": 80,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@za.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@za.linkedin.com",
+      "hr@za.linkedin.com",
+      "jobs@za.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "ninety9cents",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-21T20:01:14.670619+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "ai_cover_letter_content": {
+      "opening": "I am excited to apply for the Proofreader position at ninety9cents, as I am keen to contribute to a company that values quality and accuracy in their documentation.",
+      "experience": "In my past roles as an ESL teacher at higher education institutes, I have honed my skills in academic supervision, curriculum development, and in-person teaching. These experiences have equipped me with the ability to provide accurate proofreading and editing services.",
+      "skills": "My skills as an ESL/EFL instructor, combined with my experience in academic research guidance, academic editing, and thesis review, make me a suitable candidate for the Proofreader role at ninety9cents. I possess a strong understanding of academic integrity compliance, APA/MLA/Harvard formatting, and cross-cultural communication, which are essential for the job.",
+      "closing": "I am available to discuss my qualifications further and look forward to the possibility of contributing to the excellence in ninety9cents. Please feel free to schedule an interview at your convenience. Thank you for considering my application."
+    },
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/ninety9cents_Proofreader_20261121.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": true,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/ninety9cents_Proofreader_20261121.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-21T20:01:24.192637+00:00"
+  },
+  {
     "title": "Teaching Statement Draft Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/research-writing/Teaching-Statement-Draft-Needed",
