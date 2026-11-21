@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-10-18T16:28:07.549345+00:00",
-    "matched_count": 5,
-    "all_count": 4552,
-    "jobs": [
-      {
-        "title": "PDF Data Entry & Conversion",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/typing/PDF-Data-Entry-Conversion.html",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Content Rewriting for Clarity",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/editing/Content-Rewriting-for-Clarity.html",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "English to Burmese (Myanmar) Linguist & Copy Editor for Product, Marketing & UI Content",
-        "company": "Welo Global",
-        "url": "https://jobicy.com/jobs/155708-english-to-burmese-myanmar-linguist-copy-editor-for-product-marketing-ui-content",
-        "score": 100,
-        "category": "Editing",
-        "source": "jobicy"
-      },
-      {
-        "title": "Consultant Neurologist (Arabic Speaker) - Jeddah",
-        "company": "Allocation Assist Middle East",
-        "url": "https://ae.linkedin.com/jobs/view/consultant-neurologist-arabic-speaker-jeddah-at-allocation-assist-middle-east-4478227439",
-        "score": 100,
-        "category": "Arabic Translation",
-        "source": "linkedin"
-      },
-      {
-        "title": "English Language Instructor",
-        "company": "American Egyptian Academy",
-        "url": "https://eg.linkedin.com/jobs/view/english-language-instructor-at-american-egyptian-academy-4480887361",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-18T22:24:40.137652+00:00",
     "matched_count": 2,
     "all_count": 4559,
@@ -3126,5 +3079,36 @@
     "matched_count": 0,
     "all_count": 4414,
     "jobs": []
+  },
+  {
+    "date": "2026-11-21T01:16:25.303513+00:00",
+    "matched_count": 3,
+    "all_count": 4411,
+    "jobs": [
+      {
+        "title": "Penulisan Artikel Edukatif Blog",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/blog-writing/Penulisan-Artikel-Edukatif-Blog.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "YouTube Thumbnail & Title Makeover",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/branding/YouTube-Thumbnail-Title-Makeover.html",
+        "score": 82,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "V\u00eddeos IA para Redes Sociais",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/ai-video-editing/deos-para-Redes-Sociais.html",
+        "score": 82,
+        "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
