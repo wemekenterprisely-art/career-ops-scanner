@@ -832,5 +832,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-21T13:20:24.711484+00:00"
+  },
+  "ninety9cents": {
+    "name": "ninety9cents",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-21T20:01:14.670619+00:00"
   }
 }
