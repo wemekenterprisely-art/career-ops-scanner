@@ -844,5 +844,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-21T20:01:14.670619+00:00"
+  },
+  "Ysleta Independent School District": {
+    "name": "Ysleta Independent School District",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-22T00:13:36.231590+00:00"
   }
 }
