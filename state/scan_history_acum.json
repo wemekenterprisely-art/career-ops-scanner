@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-10-20T09:53:43.160224+00:00",
-    "matched_count": 0,
-    "all_count": 4492,
-    "jobs": []
-  },
-  {
     "date": "2026-10-20T17:54:01.514691+00:00",
     "matched_count": 4,
     "all_count": 4509,
@@ -3115,6 +3109,21 @@
         "url": "https://il.linkedin.com/jobs/view/arabic-content-intelligence-analyst-at-shabak-israeli-security-agency-career-4492352408",
         "score": 100,
         "category": "Arabic Translation",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-22T20:15:40.919136+00:00",
+    "matched_count": 1,
+    "all_count": 4387,
+    "jobs": [
+      {
+        "title": "English Instructor- (CELTA Holder)",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/english-instructor-celta-holder-at-4level1-4493363571",
+        "score": 100,
+        "category": "ESL",
         "source": "linkedin"
       }
     ]
