@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-10-20T17:54:01.514691+00:00",
-    "matched_count": 4,
-    "all_count": 4509,
-    "jobs": [
-      {
-        "title": "Data-Focused Executive Assistant Needed",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/data-analysis/Data-Focused-Executive-Assistant-Needed",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "APA Dissertation Editing & Proofreading",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/academic-writing/APA-Dissertation-Editing-Proofreading",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "26-27 SY Teaching Jobs: ESL/ENL/ELL",
-        "company": "Kreyco",
-        "url": "https://www.linkedin.com/jobs/view/26-27-sy-teaching-jobs-esl-enl-ell-at-kreyco-4481240984",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Executive Assistant",
-        "company": "IsDB - Islamic Development Bank",
-        "url": "https://www.impactpool.org/jobs/1242651",
-        "score": 100,
-        "category": "Admin",
-        "source": "impactpool"
-      }
-    ]
-  },
-  {
     "date": "2026-10-20T23:06:38.305668+00:00",
     "matched_count": 2,
     "all_count": 4501,
@@ -3127,5 +3088,11 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-11-23T00:41:54.641917+00:00",
+    "matched_count": 0,
+    "all_count": 4424,
+    "jobs": []
   }
 ]
