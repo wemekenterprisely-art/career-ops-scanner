@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-10-20T23:06:38.305668+00:00",
-    "matched_count": 2,
-    "all_count": 4501,
-    "jobs": [
-      {
-        "title": "Commercial Finishes Specification writer",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/technical-documentation/Commercial-Finishes-Specification-writer.html",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Virtual High School English Teacher",
-        "company": "ACCEL Schools",
-        "url": "https://www.linkedin.com/jobs/view/virtual-high-school-english-teacher-at-accel-schools-4481791020",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-21T09:59:22.006581+00:00",
     "matched_count": 3,
     "all_count": 4495,
@@ -3094,5 +3071,36 @@
     "matched_count": 0,
     "all_count": 4424,
     "jobs": []
+  },
+  {
+    "date": "2026-11-23T15:44:43.990936+00:00",
+    "matched_count": 3,
+    "all_count": 4296,
+    "jobs": [
+      {
+        "title": "SEO Trend Blog Article Writer for digital marketing",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/blog-writing/SEO-Trend-Blog-Article-Writer.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Direct Response Copywriter - Vollzeit (m/w/d)",
+        "company": "resonads GmbH",
+        "url": "https://himalayas.app/companies/resonads-gmbh/jobs/direct-response-copywriter-vollzeit-m-w-d-3709758426?utm_source=api",
+        "score": 100,
+        "category": "Editing",
+        "source": "himalayas"
+      },
+      {
+        "title": "Tech & Business Blog Articles",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/blog-writing/Tech-Business-Blog-Articles.html",
+        "score": 82,
+        "category": "Editing",
+        "source": "freelancer"
+      }
+    ]
   }
 ]
