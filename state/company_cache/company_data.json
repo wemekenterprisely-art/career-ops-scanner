@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "I CAN READ Indonesia": {
-    "name": "I CAN READ Indonesia",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-24T16:29:42.846045+00:00"
-  },
   "LeadInTop": {
     "name": "LeadInTop",
     "legitimacy_score": 60,
@@ -817,5 +805,30 @@
     "red_flags": [],
     "positive_signals": [],
     "last_updated": "2026-11-23T15:44:28.093765+00:00"
+  },
+  "Beacon Hill": {
+    "name": "Beacon Hill",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-24T00:41:56.248219+00:00"
+  },
+  "Are Media Pty Ltd": {
+    "name": "Are Media Pty Ltd",
+    "legitimacy_score": 65,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board",
+      "Appears to be registered business"
+    ],
+    "last_updated": "2026-11-24T00:41:56.248957+00:00"
   }
 }
