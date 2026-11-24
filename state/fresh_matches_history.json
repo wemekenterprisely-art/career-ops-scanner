@@ -4705,6 +4705,222 @@
     "scan_date": "2026-11-24T15:41:28.496039+00:00"
   },
   {
+    "title": "Explore English teaching jobs around the world",
+    "company": "eFLT Go",
+    "url": "https://www.linkedin.com/jobs/view/explore-english-teaching-jobs-around-the-world-at-eflt-go-4494190625",
+    "location": "Remote \u2014 English, IN",
+    "posted": "2026-11-24",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-24T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 22.962300685000002,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires Arabic-English translation, ESL teaching, and academic supervision, which aligns with the candidate's skills and experience."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation is directly applicable to the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work and academic environment align well with the candidate's skills and career goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote, and the candidate can work worldwide, which is compatible with their preference."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The job aligns with the candidate's career goals of secure remote work, long-term client relationships, and senior translator/academic coordinator roles."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate is highly qualified for the job and will be a valuable asset to the team. They have a strong background in language instruction and academic supervision, which are crucial for the job requirements. The candidate's skills and experience make them a strong fit for the role.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a research study you supervised? 3. How do you approach legal translation and ensuring accuracy?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the job due to his extensive experience in ESL teaching, academic supervision, and legal translation, which aligns perfectly with the job requirements."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the job due to his extensive experience in ESL teaching, academic supervision, and legal translation, which aligns perfectly with the job requirements.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate is highly qualified for the job and will be a valuable asset to the team. They have a strong background in language instruction and academic supervision, which are crucial for the job requirements. The candidate's skills and experience make them a strong fit for the role.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. Can you share an example of a research study you supervised? 3. How do you approach legal translation and ensuring accuracy?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@linkedin.com",
+      "hr@linkedin.com",
+      "jobs@linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "eFLT Go",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-24T23:02:45.725274+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/eFLT Go_Explore English teaching jobs around the world_20261125.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/eFLT Go_Explore English teaching jobs around the world_20261125.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-24T23:04:01.124635+00:00"
+  },
+  {
+    "title": "English Teacher",
+    "company": "OneSchool Global",
+    "url": "https://uk.linkedin.com/jobs/view/english-teacher-at-oneschool-global-4494176693",
+    "location": "Remote \u2014 Northampton, England, United Kingdom",
+    "posted": "2026-11-24",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-24T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 22.962300820833335,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires ESL teaching, academic supervision, and translation skills."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote work environment, academic focus, and career alignment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Translation skills"
+      ],
+      "gaps": [
+        "None identified"
+      ],
+      "recommendation": "Strong fit for the job. Consider expanding the scope of academic supervision to include more graduate-level research studies to better align with the job requirements.",
+      "interview_prep": "1. Can you provide examples of how you have supervised graduate-level research studies? 2. How do you approach legal translation in the context of academic research? 3. Can you discuss your experience in developing and implementing a curriculum for ESL teaching?",
+      "one_line_summary": "Strong fit for the job, with strong alignment with career goals and experience in ESL teaching and academic supervision."
+    },
+    "ai_insight": "Strong fit for the job, with strong alignment with career goals and experience in ESL teaching and academic supervision.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Translation skills"
+    ],
+    "ai_gaps": [
+      "None identified"
+    ],
+    "ai_recommendation": "Strong fit for the job. Consider expanding the scope of academic supervision to include more graduate-level research studies to better align with the job requirements.",
+    "ai_interview_prep": "1. Can you provide examples of how you have supervised graduate-level research studies? 2. How do you approach legal translation in the context of academic research? 3. Can you discuss your experience in developing and implementing a curriculum for ESL teaching?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@uk.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@uk.linkedin.com",
+      "hr@uk.linkedin.com",
+      "jobs@uk.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "OneSchool Global",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-19T21:20:18.802392+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/OneSchool Global_English Teacher_20261125.pdf",
+    "cover_letter_type": "teaching",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/OneSchool Global_English Teacher_20261125.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-24T23:04:01.124635+00:00"
+  },
+  {
     "title": "Teaching Statement Draft Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/research-writing/Teaching-Statement-Draft-Needed",
@@ -10507,6 +10723,110 @@
     "scan_date": "2026-11-24T00:42:56.483519+00:00"
   },
   {
+    "title": "Proofread Wellness Article (US)",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-writing/Proofread-Wellness-Article",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-24T18:27:39+00:00",
+    "description": "I have a science-backed wellness article written for health and fitness professionals that now needs a final polish. The content itself is complete; what I need is a careful proofread focused strictly on spelling, punctuation, and grammar in US English. Please do not alter the tone, structure, or underlying claims\u2014just ensure the text reads flawlessly for a professional audience.",
+    "salary": "15.0-25.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-24T18:27:39+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 4.5014846069444445,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires proofreading of a science-backed wellness article, which aligns with the candidate's skills in academic writing and proofreading."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Candidate has experience in academic supervision, proofreading, and editing, which are all relevant skills for the job."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate has experience in remote work and flexible scheduling, which aligns with the job's remote nature."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which the candidate is comfortable with."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the job's requirements for academic services and research supervision."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Academic Writing & Proposal Development",
+        "Survey & Instrument Design",
+        "Plagiarism Checking & Originality"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "The candidate is well-suited for the role as they have relevant skills and experience in academic writing, proofreading, and survey design. They can contribute to the academic services and research supervision of the wellness article.",
+      "interview_prep": "1. Can you describe a time when you proofread a complex document and how it improved the clarity of the content? 2. How do you ensure the tone and structure of the wellness article remain consistent while ensuring it reads flawlessly for a professional audience? 3. What strategies do you use to ensure the accuracy of the data and information presented in the wellness article?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Proofread Wellness Article role with his expertise in academic writing, proofreading, and survey design, and his ability to ensure the tone and structure remain consistent while ensuring flawless professional presentation."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Proofread Wellness Article role with his expertise in academic writing, proofreading, and survey design, and his ability to ensure the tone and structure remain consistent while ensuring flawless professional presentation.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Academic Writing & Proposal Development",
+      "Survey & Instrument Design",
+      "Plagiarism Checking & Originality"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "The candidate is well-suited for the role as they have relevant skills and experience in academic writing, proofreading, and survey design. They can contribute to the academic services and research supervision of the wellness article.",
+    "ai_interview_prep": "1. Can you describe a time when you proofread a complex document and how it improved the clarity of the content? 2. How do you ensure the tone and structure of the wellness article remain consistent while ensuring it reads flawlessly for a professional audience? 3. What strategies do you use to ensure the accuracy of the data and information presented in the wellness article?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Proofread Wellness Article (US)_20261125.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Proofread Wellness Article (US)_20261125.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-24T23:04:01.124635+00:00"
+  },
+  {
     "title": "Social Media Copywriter Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/social-media-marketing/Social-Media-Copywriter-Needed-40815640",
@@ -10821,6 +11141,216 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-11-16T22:54:57.674733+00:00"
+  },
+  {
+    "title": "Personal Brand Content Writer Needed",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/blog-writing/Personal-Brand-Content-Writer-Needed",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-24T22:15:12+00:00",
+    "description": "I\u2019m building a stronger personal brand and need a writer-editor who can turn my ideas into engaging social media posts and occasional blog articles. The focus is squarely on writing or editing content that feels authentic, reflects my hardworking and creative nature, and sparks conversation with the audience I\u2019m growing. Here\u2019s what success looks like for me: \u2022 Social media or blog content that sounds like me, yet is polished and purposeful \u2022 Clear storytelling that positions me as someone always eager to learn new skills \u2022 Consistent tone across platforms so every caption, thread, or long-form piece reinforces the same personal brand message I\u2019ll share raw notes, voice memos, or rough drafts; you shape them into scroll-stopping posts and well-structured articles. Experience with copy that builds a personal brand\u2014rather than overtly selling a product\u2014is essential. If you\u2019re comfortable collaborating over a shared doc, suggesting headlines, hashtags, or subtle SEO tweaks, that\u2019s even better. Send a short sample of similar work or point me to live links that show you can capture someone else\u2019s voice. Let\u2019s craft content that puts my personality front and center.",
+    "salary": "1500.0-12500.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-11-24T22:15:12+00:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.7089898408333333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "The job requires language skills, writing, and academic work, which aligns with the candidate's background and experience."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "The candidate has direct experience in translation, ESL teaching, and academic supervision, which matches the job requirements."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "The candidate's background and skills align well with the remote, academic environment of the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which the candidate is comfortable with."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "The candidate's career goals align with the role, focusing on translation, teaching, and academic services."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Experienced in academic supervision",
+        "Versatile skills in language teaching"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Personal Brand Content Writer role. He can contribute effectively to the company's goals and align with the candidate's career aspirations.",
+      "interview_prep": "1. Can you discuss your experience in academic supervision and how it relates to the job requirements? 2. How do you approach writing content that reflects your personal brand? 3. Can you share an example of a project you were involved in that required you to develop a personal brand message?",
+      "one_line_summary": "Waleed Ballag's background and skills make him a strong fit for the Personal Brand Content Writer role."
+    },
+    "ai_insight": "Waleed Ballag's background and skills make him a strong fit for the Personal Brand Content Writer role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Experienced in academic supervision",
+      "Versatile skills in language teaching"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience make him a strong fit for the Personal Brand Content Writer role. He can contribute effectively to the company's goals and align with the candidate's career aspirations.",
+    "ai_interview_prep": "1. Can you discuss your experience in academic supervision and how it relates to the job requirements? 2. How do you approach writing content that reflects your personal brand? 3. Can you share an example of a project you were involved in that required you to develop a personal brand message?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Content needs, scaling blog/docs",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Personal Brand Content Writer Needed_20261125.pdf",
+    "cover_letter_type": "writing",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Personal Brand Content Writer Needed_20261125.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-24T23:04:01.124635+00:00"
+  },
+  {
+    "title": "English Content Writer for Ongoing Projects",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/content-writing/English-Content-Writer-for-Ongoing",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-24T15:55:10+00:00",
+    "description": "This project revolves around producing crisp, culturally aware copy as well as accurate, idiomatic translations between Malayalam and English. Assignments come in regularly\u2014think 500- to 800-word blog posts, short website sections, and the occasional",
+    "salary": "250.0-750.0 USD",
+    "source": "freelancer",
+    "postedISO": "2026-11-24T15:55:10+00:00",
+    "score": 87,
+    "category": "Editing",
+    "why": [
+      "content writer copywriter copywriting blog writer article writer content editor content creator (title)"
+    ],
+    "is_fresh": true,
+    "age_hours": 7.042876683333333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Legal translation"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is highly qualified for the job and aligns well with the company's needs. He can contribute effectively to the ongoing projects and build long-term client relationships in academic services.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation in your work?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the English Content Writer role with extensive experience in ESL teaching, academic supervision, and legal translation."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the English Content Writer role with extensive experience in ESL teaching, academic supervision, and legal translation.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Legal translation"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is highly qualified for the job and aligns well with the company's needs. He can contribute effectively to the ongoing projects and build long-term client relationships in academic services.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation in your work?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Content needs, scaling blog/docs",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 27,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_English Content Writer for Ongoing Projects_20261125.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_English Content Writer for Ongoing Projects_20261125.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-24T23:04:01.124635+00:00"
   },
   {
     "title": "3D Data Annotation Specialist",
