@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-10-21T23:08:40.524752+00:00",
-    "matched_count": 1,
-    "all_count": 4506,
-    "jobs": [
-      {
-        "title": "Virtual Assistant for Daily Job Submissions",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Daily-Job",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-22T09:56:09.000440+00:00",
     "matched_count": 2,
     "all_count": 4497,
@@ -3093,5 +3078,20 @@
     "matched_count": 0,
     "all_count": 4330,
     "jobs": []
+  },
+  {
+    "date": "2026-11-24T15:41:44.344572+00:00",
+    "matched_count": 1,
+    "all_count": 4299,
+    "jobs": [
+      {
+        "title": "Online Evening English Instructor",
+        "company": "Speak Up Egypt",
+        "url": "https://eg.linkedin.com/jobs/view/online-evening-english-instructor-at-speak-up-egypt-4494106838",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
   }
 ]
