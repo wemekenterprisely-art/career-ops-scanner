@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-10-22T09:56:09.000440+00:00",
-    "matched_count": 2,
-    "all_count": 4497,
-    "jobs": [
-      {
-        "title": "Arabic Ecommerce Translation & Copywriting",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/ecommerce/Arabic-Ecommerce-Translation-Copywriting",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "English-Arabic Legal Translation Certification",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/legal-translation/English-Arabic-Legal-Translation-40780507",
-        "score": 97,
-        "category": "Arabic Translation",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-22T17:58:02.698673+00:00",
     "matched_count": 2,
     "all_count": 4506,
@@ -3088,6 +3065,53 @@
         "title": "Online Evening English Instructor",
         "company": "Speak Up Egypt",
         "url": "https://eg.linkedin.com/jobs/view/online-evening-english-instructor-at-speak-up-egypt-4494106838",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-24T23:04:24.507049+00:00",
+    "matched_count": 5,
+    "all_count": 4409,
+    "jobs": [
+      {
+        "title": "Proofread Wellness Article (US)",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Proofread-Wellness-Article",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Personal Brand Content Writer Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/blog-writing/Personal-Brand-Content-Writer-Needed",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Content Writer for Ongoing Projects",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/English-Content-Writer-for-Ongoing",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Explore English teaching jobs around the world",
+        "company": "eFLT Go",
+        "url": "https://www.linkedin.com/jobs/view/explore-english-teaching-jobs-around-the-world-at-eflt-go-4494190625",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "English Teacher",
+        "company": "OneSchool Global",
+        "url": "https://uk.linkedin.com/jobs/view/english-teacher-at-oneschool-global-4494176693",
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
