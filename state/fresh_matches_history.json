@@ -4597,6 +4597,114 @@
     "scan_date": "2026-11-24T00:42:56.483519+00:00"
   },
   {
+    "title": "Online Evening English Instructor",
+    "company": "Speak Up Egypt",
+    "url": "https://eg.linkedin.com/jobs/view/online-evening-english-instructor-at-speak-up-egypt-4494106838",
+    "location": "Remote \u2014 Egypt",
+    "posted": "2026-11-24",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-24T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 15.599538025833333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires ESL/EFL instruction, academic supervision, and translation skills."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and translation."
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment, and compatible with the job."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the job."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL instruction",
+        "Academic supervision",
+        "Translation skills"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Strong fit for the Online Evening English Instructor role. Focus on building long-term client relationships and contributing to graduate-level research supervision.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure accuracy in academic editing and thesis review? 3. Can you provide an example of a legal translation you performed?",
+      "one_line_summary": "Strong fit for the Online Evening English Instructor role with strong alignment towards academic and translation career goals."
+    },
+    "ai_insight": "Strong fit for the Online Evening English Instructor role with strong alignment towards academic and translation career goals.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL instruction",
+      "Academic supervision",
+      "Translation skills"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Strong fit for the Online Evening English Instructor role. Focus on building long-term client relationships and contributing to graduate-level research supervision.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you ensure accuracy in academic editing and thesis review? 3. Can you provide an example of a legal translation you performed?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@eg.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@eg.linkedin.com",
+      "hr@eg.linkedin.com",
+      "jobs@eg.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Speak Up Egypt",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-24T15:41:13.370671+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Speak Up Egypt_Online Evening English Instructor_20261124.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Speak Up Egypt_Online Evening English Instructor_20261124.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-24T15:41:28.496039+00:00"
+  },
+  {
     "title": "Teaching Statement Draft Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/research-writing/Teaching-Statement-Draft-Needed",
