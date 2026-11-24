@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-10-21T18:03:45.280959+00:00",
-    "matched_count": 2,
-    "all_count": 4417,
-    "jobs": [
-      {
-        "title": "English Learning App Content Creator",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/english-tutoring/English-Learning-App-Content-Creator",
-        "score": 87,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Online english Teacher",
-        "company": "Speak Up Egypt",
-        "url": "https://eg.linkedin.com/jobs/view/online-english-teacher-at-speak-up-egypt-4482090158",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-21T23:08:40.524752+00:00",
     "matched_count": 1,
     "all_count": 4506,
@@ -3110,5 +3087,11 @@
         "source": "linkedin"
       }
     ]
+  },
+  {
+    "date": "2026-11-24T04:42:44.063180+00:00",
+    "matched_count": 0,
+    "all_count": 4330,
+    "jobs": []
   }
 ]
