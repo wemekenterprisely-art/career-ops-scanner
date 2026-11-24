@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "LeadInTop": {
-    "name": "LeadInTop",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-25T17:05:02.103183+00:00"
-  },
   "Signal Theory Inc.": {
     "name": "Signal Theory Inc.",
     "legitimacy_score": 65,
@@ -842,5 +830,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-24T15:41:13.370671+00:00"
+  },
+  "eFLT Go": {
+    "name": "eFLT Go",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-24T23:02:45.725274+00:00"
   }
 }
