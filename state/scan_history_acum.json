@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-10-21T09:59:22.006581+00:00",
-    "matched_count": 3,
-    "all_count": 4495,
-    "jobs": [
-      {
-        "title": "Nursery English Tutor Twice Weekly",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/education-tutoring/Nursery-English-Tutor-Twice-Weekly",
-        "score": 97,
-        "category": "ESL",
-        "source": "freelancer"
-      },
-      {
-        "title": "Online English teacher",
-        "company": "Upedia Academy",
-        "url": "https://eg.linkedin.com/jobs/view/online-english-teacher-at-upedia-academy-4482051407",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Mathematics & English Tutor",
-        "company": "Doon Digital Learning",
-        "url": "https://in.linkedin.com/jobs/view/mathematics-english-tutor-at-doon-digital-learning-4480772973",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-21T18:03:45.280959+00:00",
     "matched_count": 2,
     "all_count": 4417,
@@ -3100,6 +3069,45 @@
         "score": 82,
         "category": "Editing",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-24T00:43:12.303235+00:00",
+    "matched_count": 4,
+    "all_count": 4345,
+    "jobs": [
+      {
+        "title": "Romanian Virtual Assistant Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/research/Romanian-Virtual-Assistant-Needed",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Neat English Notebook Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/copywriting/Neat-English-Notebook-Transcription",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Arabic Linguist",
+        "company": "Beacon Hill",
+        "url": "https://www.linkedin.com/jobs/view/arabic-linguist-at-beacon-hill-4494070417",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Copy Editor",
+        "company": "Are Media Pty Ltd",
+        "url": "https://au.linkedin.com/jobs/view/copy-editor-at-are-media-pty-ltd-4493933233",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
       }
     ]
   }
