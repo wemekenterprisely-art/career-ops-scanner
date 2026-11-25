@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-10-22T17:58:02.698673+00:00",
-    "matched_count": 2,
-    "all_count": 4506,
-    "jobs": [
-      {
-        "title": "Pakistan Female Virtual Assistant Needed [FRESHERS ONLY]",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/google-sheets/Pakistan-Female-Virtual-Assistant-Needed",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Urgent English Proofreading Needed",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/microsoft-word/Urgent-English-Proofreading-Needed",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-22T23:08:29.604605+00:00",
     "matched_count": 2,
     "all_count": 4461,
@@ -3115,6 +3092,29 @@
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-25T03:30:07.412988+00:00",
+    "matched_count": 2,
+    "all_count": 4410,
+    "jobs": [
+      {
+        "title": "Quality Assurance Specialist (Proofreader)- Marketing and Advertising",
+        "company": "UHS",
+        "url": "https://www.linkedin.com/jobs/view/quality-assurance-specialist-proofreader-marketing-and-advertising-at-uhs-4494448947",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      },
+      {
+        "title": "Real Estate Executive Assistant 21370",
+        "company": "Wing Assistant",
+        "url": "https://remoteOK.com/remote-jobs/remote-real-estate-executive-assistant-21370-wing-assistant-1138078",
+        "score": 100,
+        "category": "Admin",
+        "source": "remoteok"
       }
     ]
   }
