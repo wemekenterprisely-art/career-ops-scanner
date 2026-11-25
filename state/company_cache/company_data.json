@@ -2,19 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Signal Theory Inc.": {
-    "name": "Signal Theory Inc.",
-    "legitimacy_score": 65,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board",
-      "Appears to be registered business"
-    ],
-    "last_updated": "2026-10-26T10:52:46.403486+00:00"
-  },
   "Time to Study": {
     "name": "Time to Study",
     "legitimacy_score": 60,
