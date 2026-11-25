@@ -851,5 +851,17 @@
     "red_flags": [],
     "positive_signals": [],
     "last_updated": "2026-11-25T03:29:29.098768+00:00"
+  },
+  "CERP | Evidence Matters": {
+    "name": "CERP | Evidence Matters",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-25T22:13:40.225165+00:00"
   }
 }
