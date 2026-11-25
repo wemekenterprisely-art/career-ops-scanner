@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-10-23T09:52:26.002091+00:00",
-    "matched_count": 3,
-    "all_count": 4499,
-    "jobs": [
-      {
-        "title": "ESL Tutor",
-        "company": "Next Gen Academy",
-        "url": "https://za.linkedin.com/jobs/view/esl-tutor-at-next-gen-academy-4480647130",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "IME Report Proofreader",
-        "company": "Seaview Orthopaedic & Medical Associates",
-        "url": "https://www.linkedin.com/jobs/view/ime-report-proofreader-at-seaview-orthopaedic-medical-associates-4482778043",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      },
-      {
-        "title": "English Article Translation to Arabic -- 2",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/english-translation/English-Article-Translation-Arabic",
-        "score": 97,
-        "category": "Arabic Translation",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-23T17:48:48.198905+00:00",
     "matched_count": 3,
     "all_count": 4532,
@@ -3130,6 +3099,45 @@
         "url": "https://bz.linkedin.com/jobs/view/online-english-teacher-at-corenglish-4493409279",
         "score": 100,
         "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-25T22:14:37.691638+00:00",
+    "matched_count": 4,
+    "all_count": 4381,
+    "jobs": [
+      {
+        "title": "Argentina Developer for Virtual Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/typescript/Argentina-Developer-for-Virtual",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Virtual Assistant for Scheduling",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/time-management/Virtual-Assistant-for-Scheduling",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Teachers - CELTA Holders",
+        "company": "Private Business",
+        "url": "https://eg.linkedin.com/jobs/view/english-teachers-celta-holders-at-private-business-4494637483",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Senior Content Editor",
+        "company": "CERP | Evidence Matters",
+        "url": "https://pk.linkedin.com/jobs/view/senior-content-editor-at-cerp-evidence-matters-4494774698",
+        "score": 100,
+        "category": "Editing",
         "source": "linkedin"
       }
     ]
