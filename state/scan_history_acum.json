@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-10-22T23:08:29.604605+00:00",
-    "matched_count": 2,
-    "all_count": 4461,
-    "jobs": [
-      {
-        "title": "Bilingual U.S. Insurance Virtual Assistant",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/insurance/Bilingual-Insurance-Virtual-Assistant",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Proofreader (Mathematics & Science)",
-        "company": "Cure Organics",
-        "url": "https://in.linkedin.com/jobs/view/proofreader-mathematics-science-at-cure-organics-4481605021",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-23T09:52:26.002091+00:00",
     "matched_count": 3,
     "all_count": 4499,
@@ -3115,6 +3092,45 @@
         "score": 100,
         "category": "Admin",
         "source": "remoteok"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-25T15:23:17.821980+00:00",
+    "matched_count": 4,
+    "all_count": 4378,
+    "jobs": [
+      {
+        "title": "Customer Data Entry to Sheets",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-cleansing/Customer-Data-Entry-Sheets",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Product Promotion Content Writer",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/blog-writing/Product-Promotion-Content-Writer",
+        "score": 87,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Second Language Instructor",
+        "company": "4level1",
+        "url": "https://eg.linkedin.com/jobs/view/english-second-language-instructor-at-4level1-4493408693",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Online English Teacher",
+        "company": "COREnglish",
+        "url": "https://bz.linkedin.com/jobs/view/online-english-teacher-at-corenglish-4493409279",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
       }
     ]
   }
