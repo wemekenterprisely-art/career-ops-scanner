@@ -842,5 +842,27 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-24T23:02:45.725274+00:00"
+  },
+  "UHS": {
+    "name": "UHS",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-25T03:29:29.097824+00:00"
+  },
+  "Wing Assistant": {
+    "name": "Wing Assistant",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-11-25T03:29:29.098768+00:00"
   }
 }
