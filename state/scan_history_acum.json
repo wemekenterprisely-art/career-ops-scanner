@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-10-23T17:48:48.198905+00:00",
-    "matched_count": 3,
-    "all_count": 4532,
-    "jobs": [
-      {
-        "title": "Inventory Data Entry in Sheets -- 2",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/google-sheets/Inventory-Data-Entry-Sheets-40783120",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      },
-      {
-        "title": "Proofreader (Science)",
-        "company": "Cure Organics",
-        "url": "https://in.linkedin.com/jobs/view/proofreader-science-at-cure-organics-4481920524",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      },
-      {
-        "title": "Senior Content Writer Proofreader | Fact Checker - US News Team",
-        "company": "iOPEX Technologies Philippines Inc.",
-        "url": "https://ph.linkedin.com/jobs/view/senior-content-writer-proofreader-fact-checker-us-news-team-at-iopex-technologies-philippines-inc-4481688119",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-23T23:03:19.797411+00:00",
     "matched_count": 2,
     "all_count": 4511,
@@ -3139,6 +3108,29 @@
         "score": 100,
         "category": "Editing",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-26T02:47:08.259630+00:00",
+    "matched_count": 2,
+    "all_count": 4402,
+    "jobs": [
+      {
+        "title": "\u20b910/Page PDF Notes Typing",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/google-docs/Page-PDF-Notes-Typing-40836201.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Polished Word Document Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-word/Polished-Word-Document-Transcription",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
       }
     ]
   }
