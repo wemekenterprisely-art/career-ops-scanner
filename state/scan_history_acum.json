@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-10-23T23:03:19.797411+00:00",
-    "matched_count": 2,
-    "all_count": 4511,
-    "jobs": [
-      {
-        "title": "Precise Document Proofreading & Entry",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/data-entry/Precise-Document-Proofreading-Entry",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Proofreader",
-        "company": "Ogilvy Canada",
-        "url": "https://ca.linkedin.com/jobs/view/proofreader-at-ogilvy-canada-4480696247",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-24T09:23:32.316428+00:00",
     "matched_count": 1,
     "all_count": 4574,
@@ -3131,6 +3108,77 @@
         "score": 97,
         "category": "Admin",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-26T14:56:36.629092+00:00",
+    "matched_count": 8,
+    "all_count": 4412,
+    "jobs": [
+      {
+        "title": "Email, Calendar & Data Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/google-sheets/Email-Calendar-Data-Assistant.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Transcribe Scans into Word Tables",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/microsoft-word/Transcribe-Scans-into-Word-Tables.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Dependable Virtual Assistant Needed",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/administrative-support/Dependable-Virtual-Assistant-Needed-40836730",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Support Calling Virtual Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-entry/Support-Calling-Virtual-Assistant",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Kurdish/Arabic Translators",
+        "company": "Leidos",
+        "url": "https://www.linkedin.com/jobs/view/kurdish-arabic-translators-at-leidos-4493487514",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "Labelling Operations / Proofreader - Surrey",
+        "company": "Atrium (EMEA)",
+        "url": "https://uk.linkedin.com/jobs/view/labelling-operations-proofreader-surrey-at-atrium-emea-4495510106",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      },
+      {
+        "title": "Proofreading Coordinator",
+        "company": "Edwards Lifesciences",
+        "url": "https://www.linkedin.com/jobs/view/proofreading-coordinator-at-edwards-lifesciences-4493459910",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
+      },
+      {
+        "title": "Pharmaceutical Labelling Proofreader",
+        "company": "Hyper Recruitment Solutions",
+        "url": "https://uk.linkedin.com/jobs/view/pharmaceutical-labelling-proofreader-at-hyper-recruitment-solutions-4493823568",
+        "score": 100,
+        "category": "Editing",
+        "source": "linkedin"
       }
     ]
   }
