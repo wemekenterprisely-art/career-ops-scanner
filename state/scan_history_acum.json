@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-10-24T09:23:32.316428+00:00",
-    "matched_count": 1,
-    "all_count": 4574,
-    "jobs": [
-      {
-        "title": "Senior Content Editor - Academic Writing",
-        "company": "Kanan.co",
-        "url": "https://in.linkedin.com/jobs/view/senior-content-editor-academic-writing-at-kanan-co-4481024983",
-        "score": 100,
-        "category": "Editing",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-24T16:30:14.170439+00:00",
     "matched_count": 1,
     "all_count": 4505,
@@ -3179,6 +3164,45 @@
         "score": 100,
         "category": "Editing",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-26T22:14:43.125902+00:00",
+    "matched_count": 4,
+    "all_count": 4418,
+    "jobs": [
+      {
+        "title": "Remote Data Entry Assistant",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/google-sheets/Remote-Data-Entry-Assistant-40837686.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Buy Your Unpublished Fiction Manuscript",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/content-writing/Buy-Your-Unpublished-Fiction-Manuscript.html",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "English Language Coach | Lima, Peru",
+        "company": "You Speak Pro",
+        "url": "https://pe.linkedin.com/jobs/view/english-language-coach-lima-peru-at-you-speak-pro-4493852116",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
+      },
+      {
+        "title": "Field Interpreter (Arabic), P3 (Temporary Job Opening)",
+        "company": "UN OHCHR - Office of the High Commissioner for Human Rights",
+        "url": "https://www.impactpool.org/jobs/1249944",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "impactpool"
       }
     ]
   }
