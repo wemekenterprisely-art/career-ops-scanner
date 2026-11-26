@@ -1,21 +1,12 @@
 {
-  "total_scans": 261,
-  "total_matches": 869,
-  "streak_days": 83,
-  "last_scan_date": "2026-11-26",
-  "total_jobs_scanned": 1188647,
+  "total_scans": 262,
+  "total_matches": 873,
+  "streak_days": 84,
+  "last_scan_date": "2026-11-27",
+  "total_jobs_scanned": 1193065,
   "best_day_matches": 12,
   "best_day_date": "2026-09-09",
   "daily_history": [
-    {
-      "date": "2026-10-27",
-      "total_fetched": 4564,
-      "matches": 4,
-      "old_verified": 2,
-      "near_misses": 0,
-      "sources": 20,
-      "fresh_count": 1289
-    },
     {
       "date": "2026-10-28",
       "total_fetched": 4553,
@@ -816,30 +807,39 @@
       "near_misses": 0,
       "sources": 18,
       "fresh_count": 1165
+    },
+    {
+      "date": "2026-11-27",
+      "total_fetched": 4418,
+      "matches": 4,
+      "old_verified": 2,
+      "near_misses": 0,
+      "sources": 18,
+      "fresh_count": 1147
     }
   ],
   "category_trends": {
     "Arabic Translation": {
-      "count": 106,
-      "last_seen": "2026-11-26"
+      "count": 107,
+      "last_seen": "2026-11-27"
     },
     "Editing": {
-      "count": 309,
-      "last_seen": "2026-11-26"
+      "count": 310,
+      "last_seen": "2026-11-27"
     },
     "ESL": {
-      "count": 226,
-      "last_seen": "2026-11-26"
+      "count": 227,
+      "last_seen": "2026-11-27"
     },
     "Admin": {
-      "count": 226,
-      "last_seen": "2026-11-26"
+      "count": 227,
+      "last_seen": "2026-11-27"
     }
   },
   "source_trends": {
     "freelancer": {
-      "matches": 482,
-      "last_seen": "2026-11-26"
+      "matches": 484,
+      "last_seen": "2026-11-27"
     },
     "gotranscript": {
       "matches": 2,
@@ -886,12 +886,12 @@
       "last_seen": "2026-09-06"
     },
     "linkedin": {
-      "matches": 324,
-      "last_seen": "2026-11-26"
+      "matches": 325,
+      "last_seen": "2026-11-27"
     },
     "impactpool": {
-      "matches": 10,
-      "last_seen": "2026-11-19"
+      "matches": 11,
+      "last_seen": "2026-11-27"
     },
     "greenhouse": {
       "matches": 1,
