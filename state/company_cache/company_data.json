@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Welocalize": {
-    "name": "Welocalize",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-27T18:39:46.661111+00:00"
-  },
   "Freelance Latin America": {
     "name": "Freelance Latin America",
     "legitimacy_score": 50,
@@ -899,5 +887,27 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-26T14:54:13.627735+00:00"
+  },
+  "You Speak Pro": {
+    "name": "You Speak Pro",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-26T22:13:31.106270+00:00"
+  },
+  "UN OHCHR - Office of the High Commissioner for Human Rights": {
+    "name": "UN OHCHR - Office of the High Commissioner for Human Rights",
+    "legitimacy_score": 50,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [],
+    "last_updated": "2026-11-26T22:13:31.107350+00:00"
   }
 }
