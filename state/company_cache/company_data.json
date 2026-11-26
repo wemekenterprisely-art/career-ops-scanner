@@ -2,18 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Time to Study": {
-    "name": "Time to Study",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-27T10:17:11.111206+00:00"
-  },
   "Welocalize": {
     "name": "Welocalize",
     "legitimacy_score": 60,
@@ -863,5 +851,53 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-25T22:13:40.225165+00:00"
+  },
+  "Leidos": {
+    "name": "Leidos",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-26T14:54:13.624722+00:00"
+  },
+  "Atrium (EMEA)": {
+    "name": "Atrium (EMEA)",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-26T14:54:13.625880+00:00"
+  },
+  "Edwards Lifesciences": {
+    "name": "Edwards Lifesciences",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-26T14:54:13.626827+00:00"
+  },
+  "Hyper Recruitment Solutions": {
+    "name": "Hyper Recruitment Solutions",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-26T14:54:13.627735+00:00"
   }
 }
