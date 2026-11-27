@@ -921,5 +921,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-27T02:44:15.470666+00:00"
+  },
+  "Proclinical Staffing": {
+    "name": "Proclinical Staffing",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-27T14:52:02.840012+00:00"
   }
 }
