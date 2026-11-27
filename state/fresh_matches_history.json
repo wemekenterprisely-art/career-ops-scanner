@@ -13657,6 +13657,112 @@
     "scan_date": "2026-11-27T14:52:48.119262+00:00"
   },
   {
+    "title": "US-Based Virtual Assistant Needed for Daily Client Communication",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/english-tutoring/Based-Virtual-Assistant-Needed-for.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Fri, 27 Nov 2026 16:41:35 -0500",
+    "description": "We are looking for a reliable and friendly US-based virtual assistant to help our team communicate effectively with our US clients. Our team has strong technical skills, but we sometimes experience communication difficulties because English is not our first language... (Budget: $15 - $25 USD, Jobs: Administrative Support, Customer Service, English (UK) Translator, English (US) Translator, English Tutoring, Research Writing, Time Management, Virtual Assistant)",
+    "salary": "$15",
+    "source": "freelancer",
+    "postedISO": "2026-11-27T16:41:35-05:00",
+    "score": 97,
+    "category": "ESL",
+    "why": [
+      "english teacher tutor instructor language training teaching (description)",
+      "esl english tutoring (description)",
+      "remote-friendly"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.16742280333333331,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Direct experience in translation, ESL teaching, and academic supervision"
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Related experience in language services and education"
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, or compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL/EFL Instruction",
+        "Academic Supervision",
+        "Legal Translation"
+      ],
+      "gaps": [
+        "No direct experience in engineering or development"
+      ],
+      "recommendation": "Waleed Ballag's skills and experience align well with the job requirements. He can contribute effectively to the team's communication and academic supervision roles.",
+      "interview_prep": "1. Can you describe a challenging academic supervision scenario and how you handled it? 2. How do you ensure clear communication with clients who are not native English speakers?",
+      "one_line_summary": "Waleed Ballag's skills and experience make him a strong fit for the US-based virtual assistant role."
+    },
+    "ai_insight": "Waleed Ballag's skills and experience make him a strong fit for the US-based virtual assistant role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL/EFL Instruction",
+      "Academic Supervision",
+      "Legal Translation"
+    ],
+    "ai_gaps": [
+      "No direct experience in engineering or development"
+    ],
+    "ai_recommendation": "Waleed Ballag's skills and experience align well with the job requirements. He can contribute effectively to the team's communication and academic supervision roles.",
+    "ai_interview_prep": "1. Can you describe a challenging academic supervision scenario and how you handled it? 2. How do you ensure clear communication with clients who are not native English speakers?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_US-Based Virtual Assistant Needed for Daily Client_20261127.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_US-Based Virtual Assistant Needed for Daily Client_20261127.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-27T21:55:35.554664+00:00"
+  },
+  {
     "title": "Social Media Copywriter Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/social-media-marketing/Social-Media-Copywriter-Needed-40815640",
