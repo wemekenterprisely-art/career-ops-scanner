@@ -6363,6 +6363,114 @@
     "scan_date": "2026-11-27T02:44:25.443843+00:00"
   },
   {
+    "title": "Labelling Operations Proofreader",
+    "company": "Proclinical Staffing",
+    "url": "https://uk.linkedin.com/jobs/view/labelling-operations-proofreader-at-proclinical-staffing-4495585847",
+    "location": "Remote \u2014 Preston, England, United Kingdom",
+    "posted": "2026-11-27",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "proofreader editor",
+    "postedISO": "2026-11-27T00:00:00",
+    "score": 100,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 14.782561495833333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires Arabic-English translation, ESL teaching, and academic supervision."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work, flexible schedule, and academic environment."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's location."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career."
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Arabic-English translation",
+        "ESL/EFL instruction",
+        "Academic supervision"
+      ],
+      "gaps": [
+        "No significant mismatch found"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Labelling Operations Proofreader role. His background in ESL teaching, academic supervision, and legal translation align well with the job requirements.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and editing in the legal field? 3. Can you discuss a time when you had to adapt to a remote work environment?",
+      "one_line_summary": "Waleed Ballag's strong fit for the Labelling Operations Proofreader role aligns with his expertise in ESL/EFL instruction, academic supervision, and legal translation."
+    },
+    "ai_insight": "Waleed Ballag's strong fit for the Labelling Operations Proofreader role aligns with his expertise in ESL/EFL instruction, academic supervision, and legal translation.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Arabic-English translation",
+      "ESL/EFL instruction",
+      "Academic supervision"
+    ],
+    "ai_gaps": [
+      "No significant mismatch found"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Labelling Operations Proofreader role. His background in ESL teaching, academic supervision, and legal translation align well with the job requirements.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach translation and editing in the legal field? 3. Can you discuss a time when you had to adapt to a remote work environment?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": true,
+    "hiring_email": "careers@uk.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@uk.linkedin.com",
+      "hr@uk.linkedin.com",
+      "jobs@uk.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Proclinical Staffing",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-27T14:52:02.840012+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Proclinical Staffing_Labelling Operations Proofreader_20261127.pdf",
+    "cover_letter_type": "proofreading",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Proclinical Staffing_Labelling Operations Proofreader_20261127.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-27T14:52:48.119262+00:00"
+  },
+  {
     "title": "Teaching Statement Draft Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/research-writing/Teaching-Statement-Draft-Needed",
@@ -13390,6 +13498,163 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-11-26T22:14:25.697655+00:00"
+  },
+  {
+    "title": "Data Entry: 500 Records from PDF/Scans into Excel Sheet",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/google-sheets/Data-Entry-Records-from-PDF.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Fri, 27 Nov 2026 09:21:39 -0500",
+    "description": "Need a reliable data entry person for a straightforward, well-defined task. SCOPE OF WORK: - Source: 500 scanned pages / PDF files (handwritten + printed mix) - Target: clean Excel sheet (columns already... (Budget: \u20b912500 - \u20b937500 INR, Jobs: Data Annotation, Data Entry, Data Management, Data Processing, Excel, Google Sheets, Typing, Web Search)",
+    "salary": "",
+    "source": "freelancer",
+    "postedISO": "2026-11-27T09:21:39-05:00",
+    "score": 97,
+    "category": "Admin",
+    "why": [
+      "data entry (title+description)",
+      "data annotation data labeling data labeler data entry specialist clerk operator agent (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.42181794666666667,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Job requires language skills, writing, and academic work, matching the candidate's qualifications."
+      },
+      "experience_match": {
+        "score": 85,
+        "reason": "Candidate has experience in ESL teaching, academic supervision, and research guidance, which are relevant skills for the job."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote work and flexible environment align well with the candidate's skills and goals."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "The job is remote and worldwide, which is compatible with the candidate's preferences."
+      },
+      "career_alignment": {
+        "score": 85,
+        "reason": "The candidate's career goals align with the job, focusing on translation, teaching, and academic roles."
+      },
+      "overall_score": 84,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Language skills",
+        "Academic experience",
+        "Remote work compatibility"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag's strong fit for the Data Entry job aligns well with his qualifications and career aspirations. His experience in ESL teaching and academic supervision, combined with his language skills and remote work flexibility, make him a strong candidate for this role.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach translating legal documents? 3. Can you walk us through your process for editing a thesis in APA format?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Data Entry job due to his language skills, academic experience, and remote work compatibility."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Data Entry job due to his language skills, academic experience, and remote work compatibility.",
+    "ai_overall_score": 84,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Language skills",
+      "Academic experience",
+      "Remote work compatibility"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag's strong fit for the Data Entry job aligns well with his qualifications and career aspirations. His experience in ESL teaching and academic supervision, combined with his language skills and remote work flexibility, make him a strong candidate for this role.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach translating legal documents? 3. Can you walk us through your process for editing a thesis in APA format?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 85,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 85,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Data Entry- 500 Records from PDF-Scans into Excel _20261127.pdf",
+    "cover_letter_type": "data_entry",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Data Entry- 500 Records from PDF-Scans into Excel _20261127.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-27T14:52:48.119262+00:00"
+  },
+  {
+    "title": "Word-PDF Conversion Proofreading",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/word-processing/Word-PDF-Conversion-Proofreading",
+    "location": "Remote (Worldwide)",
+    "posted": "2026-11-27T07:28:41+00:00",
+    "description": "I\u2019m ready to publish a Word document as a PDF and want absolute confidence that every word reads perfectly. Your main focus is the text itself\u2014spelling, punctuation, and overall flow\u2014checked against standard UK English conventions. Page layout and images are already in place, but if the proofreading reveals a layout glitch, please flag it. Here\u2019s how I\u2019d like the process to run: \u2022 Work in the original Word file, using Track Changes so I can review every edit. \u2022 Apply UK spelling and punctuation consistently throughout. \u2022 Once I\u2019ve approved the changes, generate a clean, error-free PDF. You\u2019ll deliver the marked-up Word file, the final clean Word version, and the matching PDF. A fast, careful turnaround will let me release the document without second thoughts.",
+    "salary": "750.0-1250.0 INR",
+    "source": "freelancer",
+    "postedISO": "2026-11-27T07:28:41+00:00",
+    "score": 97,
+    "category": "Editing",
+    "why": [
+      "proofreader proofreading proofread (title+description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 7.304537794444445,
+    "ai_insight": "Waleed Ballag's ESL teaching experience and academic supervision skills make this job a perfect fit. His expertise in language and pedagogy will ensure that the Word document is proofread with the utmost attention to detail, aligning perfectly with the need for absolute confidence in the text's qual",
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "General hiring need",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Word-PDF Conversion Proofreading_20261127.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Word-PDF Conversion Proofreading_20261127.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-27T14:52:48.119262+00:00"
   },
   {
     "title": "Social Media Copywriter Needed",
