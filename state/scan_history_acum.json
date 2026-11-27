@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-10-25T09:45:04.775467+00:00",
-    "matched_count": 5,
-    "all_count": 4566,
-    "jobs": [
-      {
-        "title": "Social Content Creator for Parenting Brand",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/social-media-management/Social-Content-Creator-for-Parenting",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Content Creator | Instagram, YouTube , Facebook",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/content-creation/Content-Creator-Instagram-YouTube",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Translation into English and Arabic",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/article-rewriting/Translation-into-English-Arabic",
-        "score": 97,
-        "category": "Arabic Translation",
-        "source": "freelancer"
-      },
-      {
-        "title": "Educational Content Copywriter Wanted",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/content-writing/Educational-Content-Copywriter-Wanted",
-        "score": 97,
-        "category": "Editing",
-        "source": "freelancer"
-      },
-      {
-        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
-        "company": "English 1",
-        "url": "https://ca.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4483338554",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-25T17:06:21.481612+00:00",
     "matched_count": 4,
     "all_count": 4575,
@@ -3219,6 +3172,21 @@
         "score": 100,
         "category": "Editing",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-27T21:55:59.369610+00:00",
+    "matched_count": 1,
+    "all_count": 4507,
+    "jobs": [
+      {
+        "title": "US-Based Virtual Assistant Needed for Daily Client Communication",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/english-tutoring/Based-Virtual-Assistant-Needed-for.html",
+        "score": 97,
+        "category": "ESL",
+        "source": "freelancer"
       }
     ]
   }
