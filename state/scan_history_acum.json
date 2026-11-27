@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-10-24T22:23:48.702867+00:00",
-    "matched_count": 1,
-    "all_count": 4577,
-    "jobs": [
-      {
-        "title": "Virtual Assistant for Online Business (long term)",
-        "company": "Freelancer.com",
-        "url": "https://www.freelancer.com/projects/sales/Virtual-Assistant-for-Online-Business-40785096",
-        "score": 97,
-        "category": "Admin",
-        "source": "freelancer"
-      }
-    ]
-  },
-  {
     "date": "2026-10-25T09:45:04.775467+00:00",
     "matched_count": 5,
     "all_count": 4566,
@@ -3202,6 +3187,37 @@
         "url": "https://in.linkedin.com/jobs/view/experienced-o-level-english-tutor-for-grade-9-gcse-at-tutoria-learning-academy-4494993057",
         "score": 100,
         "category": "ESL",
+        "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-27T14:53:11.562248+00:00",
+    "matched_count": 3,
+    "all_count": 4402,
+    "jobs": [
+      {
+        "title": "Data Entry: 500 Records from PDF/Scans into Excel Sheet",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/google-sheets/Data-Entry-Records-from-PDF.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Word-PDF Conversion Proofreading",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/word-processing/Word-PDF-Conversion-Proofreading",
+        "score": 97,
+        "category": "Editing",
+        "source": "freelancer"
+      },
+      {
+        "title": "Labelling Operations Proofreader",
+        "company": "Proclinical Staffing",
+        "url": "https://uk.linkedin.com/jobs/view/labelling-operations-proofreader-at-proclinical-staffing-4495585847",
+        "score": 100,
+        "category": "Editing",
         "source": "linkedin"
       }
     ]
