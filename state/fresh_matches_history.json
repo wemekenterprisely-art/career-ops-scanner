@@ -6471,6 +6471,114 @@
     "scan_date": "2026-11-27T14:52:48.119262+00:00"
   },
   {
+    "title": "Access to Higher Education (HE) Online Tutor",
+    "company": "Activate Learning",
+    "url": "https://uk.linkedin.com/jobs/view/access-to-higher-education-he-online-tutor-at-activate-learning-4495327335",
+    "location": "Remote \u2014 The Home, United Kingdom",
+    "posted": "2026-11-27",
+    "description": "Remote (LinkedIn workplace filter). Open the posting for the full description.",
+    "salary": "",
+    "source": "linkedin",
+    "matched_query": "esl teacher online",
+    "postedISO": "2026-11-27T00:00:00",
+    "score": 100,
+    "category": "ESL",
+    "why": [
+      "online remote language teacher tutor instructor (title)",
+      "remote-friendly"
+    ],
+    "is_fresh": false,
+    "age_hours": 26.56681744833333,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 80,
+        "reason": "Requires language skills, writing, and academic work, but not engineering or development."
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and legal translation."
+      },
+      "behavioral_fit": {
+        "score": 85,
+        "reason": "Remote, flexible, academic environment, but some friction with senior leadership roles."
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible with the candidate's background."
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career, aligns well with the candidate's goals."
+      },
+      "overall_score": 85,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "Native Arabic speaker",
+        "C1 Advanced English proficiency",
+        "Experience in ESL teaching and academic supervision"
+      ],
+      "gaps": [
+        "No experience in engineering or development"
+      ],
+      "recommendation": "Waleed Ballag's background in ESL teaching, academic supervision, and legal translation aligns well with the job requirements of Access to Higher Education (HE) Online Tutor. The candidate's strong language skills and academic experience make them a strong fit for the role, especially considering their ability to contribute to graduate-level research supervision and build long-term client relationships in academic services.",
+      "interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation in your work? 3. Can you describe a time when you had to translate a complex document and explain the process?",
+      "one_line_summary": "Waleed Ballag's strong language skills and academic background make them a strong fit for the Access to Higher Education (HE) Online Tutor role."
+    },
+    "ai_insight": "Waleed Ballag's strong language skills and academic background make them a strong fit for the Access to Higher Education (HE) Online Tutor role.",
+    "ai_overall_score": 85,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "Native Arabic speaker",
+      "C1 Advanced English proficiency",
+      "Experience in ESL teaching and academic supervision"
+    ],
+    "ai_gaps": [
+      "No experience in engineering or development"
+    ],
+    "ai_recommendation": "Waleed Ballag's background in ESL teaching, academic supervision, and legal translation aligns well with the job requirements of Access to Higher Education (HE) Online Tutor. The candidate's strong language skills and academic experience make them a strong fit for the role, especially considering their ability to contribute to graduate-level research supervision and build long-term client relationships in academic services.",
+    "ai_interview_prep": "1. What is your experience in academic supervision and research guidance? 2. How do you approach legal translation in your work? 3. Can you describe a time when you had to translate a complex document and explain the process?",
+    "ai_technical_skills": 80,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 85,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "is_old_verified": true,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs ESL teacher, likely understaffed",
+    "email_guessed": true,
+    "hiring_email": "careers@uk.linkedin.com",
+    "email_verified": false,
+    "all_emails": [
+      "careers@uk.linkedin.com",
+      "hr@uk.linkedin.com",
+      "jobs@uk.linkedin.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Activate Learning",
+      "legitimacy_score": 60,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [],
+      "positive_signals": [
+        "Listed on major job board"
+      ],
+      "last_updated": "2026-11-28T02:36:01.714857+00:00"
+    },
+    "company_legitimacy": 60,
+    "company_summary": "1 positive signals",
+    "score_adjustment": 2,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Activate Learning_Access to Higher Education (HE) Online Tutor_20261128.pdf",
+    "cover_letter_type": "general",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Activate Learning_Access to Higher Education (HE) Online Tutor_20261128.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-28T02:36:31.859520+00:00"
+  },
+  {
     "title": "Teaching Statement Draft Needed",
     "company": "Freelancer.com",
     "url": "https://www.freelancer.com/projects/research-writing/Teaching-Statement-Draft-Needed",
@@ -13761,6 +13869,111 @@
     "interview_prep_generated": true,
     "interview_question_count": 12,
     "scan_date": "2026-11-27T21:55:35.554664+00:00"
+  },
+  {
+    "title": "Human Translation Across Key Languages",
+    "company": "Freelancer.com",
+    "url": "https://www.freelancer.com/projects/kurdish-translator/Human-Translation-Across-Key-Languages.html",
+    "location": "Remote (Worldwide)",
+    "posted": "Fri, 27 Nov 2026 21:07:10 -0500",
+    "description": "I frequently need personal, academic, and other general-purpose texts moved seamlessly between Kurdish (Sorani), Persian (Farsi), Turkish, Arabic, and English. Everything you deliver should read as if... (Budget: $250 - $750 USD, Jobs: Arabic Translator, Editing, English (US) Translator, Kurdish Translator, Language Tutoring, Proofreading, Translation, Turkish Translator)",
+    "salary": "$250",
+    "source": "freelancer",
+    "postedISO": "2026-11-27T21:07:10-05:00",
+    "score": 97,
+    "category": "Arabic Translation",
+    "why": [
+      "arabic translator translation interpreter linguist editor proofreader content writer qa tester localis (description)",
+      "translator translation specialist staff translator freelance translator (description)"
+    ],
+    "is_fresh": true,
+    "age_hours": 0.4474774536111111,
+    "ai_scoring": {
+      "technical_skills": {
+        "score": 90,
+        "reason": "Requires Arabic-English translation, ESL teaching, and academic supervision skills"
+      },
+      "experience_match": {
+        "score": 90,
+        "reason": "Direct experience in ESL teaching, academic supervision, and language instruction"
+      },
+      "behavioral_fit": {
+        "score": 90,
+        "reason": "Remote, flexible, academic environment"
+      },
+      "location_logistics": {
+        "verdict": "PASS",
+        "reason": "Remote, worldwide, and compatible"
+      },
+      "career_alignment": {
+        "score": 90,
+        "reason": "Builds toward translation/teaching/academic career"
+      },
+      "overall_score": 88,
+      "verdict": "Strong Fit",
+      "strengths": [
+        "ESL teaching",
+        "Academic supervision",
+        "Language instruction"
+      ],
+      "gaps": [
+        "None"
+      ],
+      "recommendation": "Waleed Ballag is a strong fit for the Human Translation Across Key Languages job at Freelancer.com. His background in ESL and academic supervision makes him well-suited for the translation and academic roles.",
+      "interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach translating legal documents? 3. What is your experience with academic editing and thesis review?",
+      "one_line_summary": "Waleed Ballag is a strong fit for the Human Translation Across Key Languages job at Freelancer.com due to his extensive experience in ESL and academic supervision."
+    },
+    "ai_insight": "Waleed Ballag is a strong fit for the Human Translation Across Key Languages job at Freelancer.com due to his extensive experience in ESL and academic supervision.",
+    "ai_overall_score": 88,
+    "ai_verdict": "Strong Fit",
+    "ai_strengths": [
+      "ESL teaching",
+      "Academic supervision",
+      "Language instruction"
+    ],
+    "ai_gaps": [
+      "None"
+    ],
+    "ai_recommendation": "Waleed Ballag is a strong fit for the Human Translation Across Key Languages job at Freelancer.com. His background in ESL and academic supervision makes him well-suited for the translation and academic roles.",
+    "ai_interview_prep": "1. Can you describe a time when you supervised a research study? 2. How do you approach translating legal documents? 3. What is your experience with academic editing and thesis review?",
+    "ai_technical_skills": 90,
+    "ai_experience_match": 90,
+    "ai_behavioral_fit": 90,
+    "ai_location_verdict": "PASS",
+    "ai_career_alignment": 90,
+    "urgency_score": 0,
+    "desperation_index": 0,
+    "pain_points": "Needs native Arabic speaker (rare); Translation backlog / scaling",
+    "email_guessed": false,
+    "hiring_email": "support@freelancer.com",
+    "email_verified": false,
+    "all_emails": [
+      "support@freelancer.com",
+      "press@freelancer.com"
+    ],
+    "opportunity_score": 30,
+    "company_research": {
+      "name": "Freelancer.com",
+      "legitimacy_score": 40,
+      "remote_friendly": true,
+      "size_estimate": "unknown",
+      "industry": "unknown",
+      "red_flags": [
+        "Freelance platform (may not be full-time)"
+      ],
+      "positive_signals": [],
+      "last_updated": "2026-11-06T00:57:14.324933+00:00"
+    },
+    "company_legitimacy": 40,
+    "company_summary": "1 red flags",
+    "score_adjustment": -3,
+    "cover_letter_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/cover_letters/Freelancer.com_Human Translation Across Key Languages_20261128.pdf",
+    "cover_letter_type": "translation",
+    "cover_letter_ai": false,
+    "interview_prep_path": "/home/runner/work/career-ops-scanner/career-ops-scanner/output/interview_prep/Freelancer.com_Human Translation Across Key Languages_20261128.json",
+    "interview_prep_generated": true,
+    "interview_question_count": 12,
+    "scan_date": "2026-11-28T02:36:31.859520+00:00"
   },
   {
     "title": "Social Media Copywriter Needed",
