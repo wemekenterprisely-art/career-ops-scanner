@@ -923,5 +923,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-28T02:36:01.714857+00:00"
+  },
+  "SMA Negeri 1 Pati": {
+    "name": "SMA Negeri 1 Pati",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-28T14:01:38.358094+00:00"
   }
 }
