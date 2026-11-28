@@ -2,28 +2,6 @@
   "Test": {
     "legitimacy_score": 60
   },
-  "Freelance Latin America": {
-    "name": "Freelance Latin America",
-    "legitimacy_score": 50,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [],
-    "last_updated": "2026-10-29T00:01:03.699324+00:00"
-  },
-  "EnglishReady": {
-    "name": "EnglishReady",
-    "legitimacy_score": 60,
-    "remote_friendly": true,
-    "size_estimate": "unknown",
-    "industry": "unknown",
-    "red_flags": [],
-    "positive_signals": [
-      "Listed on major job board"
-    ],
-    "last_updated": "2026-10-29T00:01:03.700578+00:00"
-  },
   "Private Business": {
     "name": "Private Business",
     "legitimacy_score": 60,
@@ -933,5 +911,17 @@
       "Listed on major job board"
     ],
     "last_updated": "2026-11-27T14:52:02.840012+00:00"
+  },
+  "Activate Learning": {
+    "name": "Activate Learning",
+    "legitimacy_score": 60,
+    "remote_friendly": true,
+    "size_estimate": "unknown",
+    "industry": "unknown",
+    "red_flags": [],
+    "positive_signals": [
+      "Listed on major job board"
+    ],
+    "last_updated": "2026-11-28T02:36:01.714857+00:00"
   }
 }
