@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-10-25T22:25:48.717207+00:00",
-    "matched_count": 0,
-    "all_count": 4575,
-    "jobs": []
-  },
-  {
     "date": "2026-10-26T10:53:26.240911+00:00",
     "matched_count": 1,
     "all_count": 4567,
@@ -3171,6 +3165,45 @@
         "score": 100,
         "category": "ESL",
         "source": "linkedin"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-28T14:02:59.394779+00:00",
+    "matched_count": 4,
+    "all_count": 4495,
+    "jobs": [
+      {
+        "title": "Accurate English Handwriting Transcription",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-entry/Accurate-English-Handwriting",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Rs.10 Per Page Typing",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/data-entry/Per-Page-Typing-40840097.html",
+        "score": 97,
+        "category": "Admin",
+        "source": "freelancer"
+      },
+      {
+        "title": "Arabic Linguist",
+        "company": "SMA Negeri 1 Pati",
+        "url": "https://id.linkedin.com/jobs/view/arabic-linguist-at-sma-negeri-1-pati-4495309226",
+        "score": 100,
+        "category": "Arabic Translation",
+        "source": "linkedin"
+      },
+      {
+        "title": "01 - Native Arabic Linguistic QA Reviewer \u2013 AI Evaluation Project (Remote, December 2026)",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/proofreading/Native-Arabic-Linguistic-Reviewer",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
       }
     ]
   }
