@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-10-25T17:06:21.481612+00:00",
-    "matched_count": 4,
-    "all_count": 4575,
-    "jobs": [
-      {
-        "title": "Full-Time Online English Instructor",
-        "company": "LeadInTop",
-        "url": "https://eg.linkedin.com/jobs/view/full-time-online-english-instructor-at-leadintop-4482687457",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "English Teachers (Part-Time / Full-Time)",
-        "company": "4level1",
-        "url": "https://eg.linkedin.com/jobs/view/english-teachers-part-time-full-time-at-4level1-4483371725",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
-        "company": "English 1",
-        "url": "https://ie.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4483380521",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      },
-      {
-        "title": "Hiring Now! Entry-Level English Teacher (ESL) | No Experience Needed",
-        "company": "English 1",
-        "url": "https://ie.linkedin.com/jobs/view/hiring-now%21-entry-level-english-teacher-esl-no-experience-needed-at-english-1-4483376631",
-        "score": 100,
-        "category": "ESL",
-        "source": "linkedin"
-      }
-    ]
-  },
-  {
     "date": "2026-10-25T22:25:48.717207+00:00",
     "matched_count": 0,
     "all_count": 4575,
@@ -3187,6 +3148,29 @@
         "score": 97,
         "category": "ESL",
         "source": "freelancer"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-28T02:36:48.109886+00:00",
+    "matched_count": 2,
+    "all_count": 4482,
+    "jobs": [
+      {
+        "title": "Human Translation Across Key Languages",
+        "company": "Freelancer.com",
+        "url": "https://www.freelancer.com/projects/kurdish-translator/Human-Translation-Across-Key-Languages.html",
+        "score": 97,
+        "category": "Arabic Translation",
+        "source": "freelancer"
+      },
+      {
+        "title": "Access to Higher Education (HE) Online Tutor",
+        "company": "Activate Learning",
+        "url": "https://uk.linkedin.com/jobs/view/access-to-higher-education-he-online-tutor-at-activate-learning-4495327335",
+        "score": 100,
+        "category": "ESL",
+        "source": "linkedin"
       }
     ]
   }
